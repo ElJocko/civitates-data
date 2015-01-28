@@ -8,7 +8,7 @@ print("civitates-data loader starting")
 # TBD: Read the data locations from a file
 base_path = "../data"
 
-output_filename = "city.json"
+output_filename = "City.json"
 geonames_filename = "cities1000.txt"
 
 city_base_filenames = ["Italy/CityBase.txt", "Greece/CityBase.txt"]
@@ -83,9 +83,9 @@ if len(duplicate_cities) > 1:
     for duplicate in duplicate_cities:
         print("  ", duplicate)
 
-def find_geonames_city(name):
+def find_geonames_city(name, country_code):
     for city in geonames_city_list:
-        if city.name == name:
+        if city.ascii_name == name and city.country_code == country_code:
             return city
     return None
 
@@ -112,7 +112,7 @@ def get_city_periods(city_id):
 # Write the cities to the JSON output file
 city_list = []
 for city_base in city_base_list:
-    geonames_city = find_geonames_city(city_base.geonames_name)
+    geonames_city = find_geonames_city(city_base.geonames_name, city_base.geonames_cc)
     if geonames_city is None:
         geonames_city = find_city_extra(city_base.id)
 
@@ -131,8 +131,9 @@ for city_base in city_base_list:
              'altNames': alt_names }
     city_list.append(city)
 
+output_object = { 'cities': city_list }
 output_path = os.path.join(base_path, output_filename)
 with open(output_path, 'w') as file:
-    json.dump(city_list, file, indent=4, separators=(',', ': ') )
+    json.dump(output_object, file, indent=4, separators=(',', ': ') )
 
 print("Wrote", len(city_list), "cities to", output_filename)
