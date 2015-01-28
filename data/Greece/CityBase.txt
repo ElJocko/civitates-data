@@ -1,0 +1,3 @@
+Athens	Athens	GR	modern
+Sparta	Sparta	GR	modern
+Therapnes	Therapnes	GR	modern

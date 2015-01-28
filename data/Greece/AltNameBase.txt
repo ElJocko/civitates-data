@@ -1,0 +1,10 @@
+Athens	Athens	English
+Athens	Athína	ModernGreek
+Athens	Athēnai	Greek
+Sparta	Sparta	English
+Sparta	Spártē	Greek
+Sparta	Lacedaemon	Greek
+Sparta	Lakedaímōn	Greek
+Sparta	Sparti	ModernGreek
+Therapnes	Therapnes	ModernGreek
+Therapnes	Therapne	Greek
