@@ -3,3 +3,9 @@ Sparta	Sparti	GR	modern
 Therapnes	Therapnes	GR	modern
 Mycenae	Mycenae	GR	ancient
 Istanbul	Istanbul	TR	modern
+Tiryns	Tiryns	GR	ancient
+Iolkos	Iolkos	GR	ancient
+Gla	Gla	GR	ancient
+Thebes	Thivai	GR	modern
+Orchomenos	Orchomenos	GR	modern
+Pylos	Pylos	GR	ancient
