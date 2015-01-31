@@ -1,3 +1,10 @@
-Athens	-1400	-2100	Athens	0	6
+Athens	-1400	-1101	Athens	1	6
+Athens	-1100	-701	Athens	2	6
+Athens	-700	323	Athens	0	6
+Athens	324	2100	Athens	1	6
 Sparta	-800	2100	Sparta	1	6
-Therapnes	-1300	-1000	Therapne	2	6
+Therapnes	-1300	-1101	Therapne	2	6
+Mycenae	-1400	1101	Mycenae	0	6
+Istanbul	-657	323	Byzantium	2	6
+Istanbul	324	1452	Constantinople	0	6
+Istanbul	1453	2100	Istanbul	1	6
