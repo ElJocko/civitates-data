@@ -9,3 +9,6 @@ Gla	Gla	GR	ancient
 Thebes	Thivai	GR	modern
 Orchomenos	Orchomenos	GR	modern
 Pylos	Pylos	GR	ancient
+Argos	Argos	GR	modern
+Megara	Megara	GR	modern
+Corinth	Korinthos	GR	ancient

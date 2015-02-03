@@ -21,3 +21,12 @@ Orchomenos	-1400	-1101	Orchomenos	2	4
 Orchomenos	-1100	-86	Orchomenos	3	4
 Orchomenos	-85	2100	Orchomenos	4	4
 Pylos	-1400	-1101	Pylos	2	4
+Argos	-1400	-1101	Argos	2	4
+Argos	-700	-300	Argos	2	4
+Argos	-299	2100	Argos	3	4
+Megara	-700	-300	Megara	2	4
+Megara	-299	700	Megara	3	4
+Megara	701	2100	Megara	4	4
+Corinth	-700	-146	Corinth	2	4
+Corinth	-44	1147	Corinth	3	4
+Corinth	1148	1858	Corinth	4	4

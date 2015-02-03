@@ -25,3 +25,7 @@ Thebes	Thíva	ModernGreek
 Thebes	İstefe	Turkish
 Orchomenos	Orchomenos	Greek
 Pylos	Pylos	Greek
+Argos	Argos	Greek
+Megara	Megara	Greek
+Corinth	Corinth	English
+Corinth	Kórinthos	Greek
