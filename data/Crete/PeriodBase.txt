@@ -1,0 +1,3 @@
+Knossos	-1900	-1501	Knossos	1	6
+Knossos	-1500	-1100	Knossos	2	6
+Phaistos	-1900	-1400	Phaistos	2	1

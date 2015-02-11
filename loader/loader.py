@@ -11,10 +11,7 @@ base_path = "../data"
 output_filename = "City.json"
 geonames_filename = "cities1000.txt"
 
-city_base_filenames = ["Italy/CityBase.txt", "Greece/CityBase.txt"]
-period_base_filenames = ["Italy/PeriodBase.txt", "Greece/PeriodBase.txt"]
-alt_name_base_filenames = ["Italy/AltNameBase.txt", "Greece/AltNameBase.txt"]
-city_extra_filenames = ["Italy/CityExtra.txt", "Greece/CityExtra.txt"]
+folders = ["Italy", "Greece", "Crete"]
 
 # Read geonames file
 GeonamesCity = namedtuple("GeonamesCity", "city_id name ascii_name alternate_names latitude longitude feature_class feature_code country_code cc2 admin_code1 admin_code2 admin_code3 admin_code4 population elevation dem time_zone modification_date")
@@ -26,10 +23,11 @@ with open(geonames_path, encoding="utf8") as file:
 print("Read", len(geonames_city_list), "rows from", geonames_filename)
 
 # Read CityBase files
+file_name = "CityBase.txt"
 CityBase = namedtuple("CityBase", "id geonames_name geonames_cc prefix")
 city_base_list = []
-for filename in city_base_filenames:
-    file_path = os.path.join(base_path, filename)
+for folder in folders:
+    file_path = os.path.join(base_path, folder, file_name)
     with open(file_path, encoding="utf8") as file:
         reader = csv.reader(file, delimiter='\t', quoting=csv.QUOTE_NONE)
         city_base_list.extend([CityBase._make(x) for x in reader])
@@ -46,8 +44,9 @@ def count_id(id, list):
 # Read PeriodBase.txt
 PeriodBase = namedtuple("PeriodBase", "id start_date end_date preferredName size tag_position")
 period_base_list = []
-for filename in period_base_filenames:
-    file_path = os.path.join(base_path, filename)
+file_name = "PeriodBase.txt"
+for folder in folders:
+    file_path = os.path.join(base_path, folder, file_name)
     with open(file_path, encoding="utf8") as file:
         reader = csv.reader(file, delimiter='\t', quoting=csv.QUOTE_NONE)
         period_base_list.extend([PeriodBase._make(x) for x in reader])
@@ -57,8 +56,9 @@ print("Read", len(period_base_list), "rows from PeriodBase.txt")
 # Read AltNameBase.txt
 AltNameBase = namedtuple("AltNameBase", "id alt_name language")
 alt_name_base_list = []
-for filename in alt_name_base_filenames:
-    file_path = os.path.join(base_path, filename)
+file_name = "AltNameBase.txt"
+for folder in folders:
+    file_path = os.path.join(base_path, folder, file_name)
     with open(file_path, encoding="utf8") as file:
         reader = csv.reader(file, delimiter='\t', quoting=csv.QUOTE_NONE)
         alt_name_base_list.extend([AltNameBase._make(x) for x in reader])
@@ -68,8 +68,9 @@ print("Read", len(alt_name_base_list), "rows from AltNamedBase.txt")
 # Read CityExtra.txt
 CityExtra = namedtuple("CityExtra", "id latitude longitude elevation")
 city_extra_list = []
-for filename in city_extra_filenames:
-    file_path = os.path.join(base_path, filename)
+file_name = "CityExtra.txt"
+for folder in folders:
+    file_path = os.path.join(base_path, folder, file_name)
     with open(file_path, encoding="utf8") as file:
         reader = csv.reader(file, delimiter='\t', quoting=csv.QUOTE_NONE)
         city_extra_list.extend([CityExtra._make(x) for x in reader])

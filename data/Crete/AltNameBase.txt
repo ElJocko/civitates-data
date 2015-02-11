@@ -1,0 +1,6 @@
+Knossos	Knossos	Greek
+Knossos	Knossus	Greek
+Phaistos	Phaistos	Greek
+Phaistos	Phaestos	Greek
+Phaistos	Festos	Greek
+Phaistos	Phaestus	Latin
