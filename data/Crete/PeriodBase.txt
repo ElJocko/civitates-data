@@ -1,3 +1,16 @@
 Knossos	-1900	-1501	Knossos	1	6
 Knossos	-1500	-1100	Knossos	2	6
-Phaistos	-1900	-1400	Phaistos	2	1
+Phaistos	-1900	-1400	Phaistos	3	1
+Heraklion	-1900	-1400	Heraklion	3	1
+Lyktos	-1900	-1400	Lyktos	3	1
+Olous	-1900	-1400	Olous	3	1
+Hierapytna	-1900	-1400	Hierapytna	3	1
+Praisos	-1900	-1400	Praisos	3	1
+Gortyn	-1900	-1400	Gortyn	3	1
+Rhithymna	-1900	-1400	Rhithymna	3	1
+Lappa	-1900	-1400	Lappa	3	1
+Kydonia	-1900	-1400	Kydonia	3	1
+Polyrrenia	-1900	-1400	Polyrrenia	3	1
+Phalasarna	-1900	-1400	Phalasarna	3	1
+Arkades	-1900	-1400	Arkades	3	1
+Itanos	-1900	-1400	Itanos	3	1

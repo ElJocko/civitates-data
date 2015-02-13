@@ -4,3 +4,17 @@ Phaistos	Phaistos	Greek
 Phaistos	Phaestos	Greek
 Phaistos	Festos	Greek
 Phaistos	Phaestus	Latin
+Heraklion	Heraklion	Greek
+Heraklion	Iraklion	Greek
+Lyktos	Lyktos	Greek
+Olous	Olous	Greek
+Hierapytna	Hierapytna	Greek
+Praisos	Praisos	Greek
+Gortyn	Gortyn	Greek
+Rhithymna	Rhithymna	Greek
+Lappa	Lappa	Greek
+Kydonia	Kydonia	Greek
+Polyrrenia	Polyrrenia	Greek
+Phalasarna	Phalasarna	Greek
+Arkades	Arkades	Greek
+Itanos	Itanos	Greek
