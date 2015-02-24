@@ -18,3 +18,8 @@ Polyrrenia	Polyrrenia	Greek
 Phalasarna	Phalasarna	Greek
 Arkades	Arkades	Greek
 Itanos	Itanos	Greek
+Agia Triada	Agia Triada	ModernGreek
+Agia Triada	Hagia Triada	ModernGreek
+Agia Triada	Ayia Triada	ModernGreek
+Malia	Malia	ModernGreek
+Galatas	Galatas	

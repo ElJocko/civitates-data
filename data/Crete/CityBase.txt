@@ -13,3 +13,7 @@ Polyrrenia	Polyrrenia	GR	ancient
 Phalasarna	Phalasarna	GR	ancient
 Arkades	Arkades	GR	ancient
 Itanos	Itanos	GR	ancient
+Malia	Malia	GR	ancient
+Kato Zakros	Kato Zakros	GR	ancient
+Galatas	Galatas	GR	ancient
+Agia Triada	Agia Triada	GR	ancient
