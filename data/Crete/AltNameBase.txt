@@ -22,4 +22,4 @@ Agia Triada	Agia Triada	ModernGreek
 Agia Triada	Hagia Triada	ModernGreek
 Agia Triada	Ayia Triada	ModernGreek
 Malia	Malia	ModernGreek
-Galatas	Galatas	
+Galatas	Galatas	ModernGreek

@@ -7,13 +7,11 @@ Kato Zakros	-1900	-1400	Kato Zakros	2	0
 Galatas	-1900	-1400	Galatas	2	0
 Agia Triada	-1900	-1400	Agia Triada	3	0
 Agia Triada	-1399	-150	Agia Triada	4	0
-Gournia
-Pyrgos
-Vasiliki
-Fournu Korfi
-Pseira
-
-
+Gournia	-1900	-1400	Gournia	4	0
+Pyrgos	-1900	-1400	Pyrgos	4	0
+Vasiliki	-1900	-1400	Vasiliki	4	0
+Fournu Korfi	-1900	-1400	Fournu Korfi	4	0
+Pseira	-1900	-1400	Pseira	4	0
 Heraklion	-1900	-1400	Heraklion	3	1
 Lyktos	-1900	-1400	Lyktos	3	1
 Olous	-1900	-1400	Olous	3	1

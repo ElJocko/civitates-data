@@ -10,6 +10,7 @@ base_path = "../data"
 
 output_filename = "City.json"
 geonames_filename = "cities1000.txt"
+pleiades_filename = "pleiades-places.csv"
 
 folders = ["Italy", "Greece", "Crete"]
 
@@ -21,6 +22,25 @@ with open(geonames_path, encoding="utf8") as file:
     geonames_city_list = [GeonamesCity._make(x) for x in reader]
 
 print("Read", len(geonames_city_list), "rows from", geonames_filename)
+
+# Read Pleiades Places file
+PleiadesPlace = namedtuple("PleiadesPlace", "authors bbox connects_with created creators current_version description extent feature_types geo_context has_connections_with id location_precision max_date min_date modified path repr_lat repr_lat_long repr_long tags time_periods time_periods_keys time_periods_range title uid")
+pleiades_path = os.path.join(base_path, pleiades_filename)
+with open(pleiades_path, encoding="utf8") as file:
+    reader = csv.reader(file, delimiter=',')
+    next(reader) # skip the header row
+    pleiades_place_list = [PleiadesPlace._make(x) for x in reader]
+
+print("Read", len(pleiades_place_list), "rows from", pleiades_filename)
+
+PleiadesSettlement = namedtuple("PleiadesSettlement", "title latitude longitude elevation")
+pleiades_settlement_list = []
+for place in pleiades_place_list:
+    if "settlement" in place.feature_types:
+        settlement = PleiadesSettlement(place.title, place.repr_lat, place.repr_long, 0)
+        pleiades_settlement_list.append(settlement)
+
+print("Found", len(pleiades_settlement_list), "settlements")
 
 # Read CityBase files
 file_name = "CityBase.txt"
@@ -90,6 +110,13 @@ def find_geonames_city(name, country_code):
             return city
     return None
 
+def find_pleiades_settlement(title):
+    for settlement in pleiades_settlement_list:
+        if settlement.title == title:
+            print("  found", title, "in pleiades settlements")
+            return settlement
+    return None
+
 def find_city_extra(city_id):
     for city in city_extra_list:
         if city.id == city_id:
@@ -113,20 +140,26 @@ def get_city_periods(city_id):
 # Write the cities to the JSON output file
 city_list = []
 for city_base in city_base_list:
-    geonames_city = find_geonames_city(city_base.geonames_name, city_base.geonames_cc)
-    if geonames_city is None:
-        geonames_city = find_city_extra(city_base.id)
+    city_lookup = None
+    if city_base.geonames_cc == "P":
+        city_lookup = find_pleiades_settlement(city_base.geonames_name)
 
-    if geonames_city is None:
+    if city_lookup is None:
+        city_lookup = find_geonames_city(city_base.geonames_name, city_base.geonames_cc)
+
+    if city_lookup is None:
+        city_lookup = find_city_extra(city_base.id)
+
+    if city_lookup is None:
         print("No geo information found for ", city_base.id)
         continue
 
     alt_names = get_alt_names(city_base.id)
     periods = get_city_periods(city_base.id)
     city = { 'identifier':city_base.id,
-             'latitude':geonames_city.latitude,
-             'longitude':geonames_city.longitude,
-             'elevation':geonames_city.elevation,
+             'latitude':city_lookup.latitude,
+             'longitude':city_lookup.longitude,
+             'elevation':city_lookup.elevation,
              'prefix':city_base.prefix,
              'periods': periods,
              'altNames': alt_names }

@@ -1,19 +1,24 @@
-Knossos	Knossos	GR	ancient
-Phaistos	Phaistos	GR	ancient
-Heraklion	Irakleion	GR	modern
-Lyktos	Lyktos	GR	ancient
-Olous	Olous	GR	ancient
-Hierapytna	Hierapytna	GR	ancient
-Praisos	Praisos	GR	ancient
-Gortyn	Gortyn	GR	ancient
-Rhithymna	Rhithymna	GR	ancient
-Lappa	Lappa	GR	ancient
-Kydonia	Kydonia	GR	ancient
-Polyrrenia	Polyrrenia	GR	ancient
-Phalasarna	Phalasarna	GR	ancient
-Arkades	Arkades	GR	ancient
-Itanos	Itanos	GR	ancient
-Malia	Malia	GR	ancient
-Kato Zakros	Kato Zakros	GR	ancient
-Galatas	Galatas	GR	ancient
-Agia Triada	Agia Triada	GR	ancient
+Knossos	Knossos	P	ancient
+Phaistos	Phaistos	P	ancient
+Heraklion	Irakleion	P	modern
+Lyktos	Lyktos	P	ancient
+Olous	Olous	P	ancient
+Hierapytna	Hierapytna	P	ancient
+Praisos	Praisos	P	ancient
+Gortyn	Gortyn	P	ancient
+Rhithymna	Rhithymna	P	ancient
+Lappa	Lappa	P	ancient
+Kydonia	Kydonia	P	ancient
+Polyrrenia	Polyrrenia	P	ancient
+Phalasarna	Phalasarna	P	ancient
+Arkades	Arkades	P	ancient
+Itanos	Itanos	P	ancient
+Malia	Malia	P	ancient
+Kato Zakros	Kato Zakros	P	ancient
+Galatas	Galatas	P	ancient
+Agia Triada	Agia Triada	P	ancient
+Gournia	Gournia	P	ancient
+Pyrgos	Pyrgos	P	ancient
+Vasiliki	Vasiliki	P	ancient
+Fournu Korfi	Fournu Korfi	P	ancient
+Pseira	Pseira	P	ancient
