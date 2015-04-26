@@ -1,10 +1,30 @@
 Knossos	-1900	-1420	Knossos	1	6
 Knossos	-1419	-1100	Knossos	2	6
+Knossos	-1099	250	Knossos	3	6
 Phaistos	-1900	-1400	Phaistos	2	1
 Phaistos	-800	250	Phaistos	4	1
-Malia	-1900	-1400	Malia	2	0
-Kato Zakros	-1900	-1400	Kato Zakros	2	0
-Galatas	-1900	-1400	Galatas	2	0
+Malia	-1900	-1400	Malia	3	0
+Zakros	-1900	-1400	Zakros	3	0
+Galatas	-1900	-1400	Galatas	3	0
+Petras	-1900	-1400	Petras	3	0
+Monastiraki	-1900	-1400	Monastiraki	3	0
+Gortyn	-1400	-600	Gortyn	3	1
+Gortyn	-599	828	Gortyn	2	1
+Chania	-1400	-600	Kydonia	3	1
+Chania	-599	960	Kydonia	2	1
+Chania	961	2100	Chania	3	1
+Lyktos	-1400	-69	Lyktos	3	1
+Lyktos	-68	250	Lyktos	4	1
+Ierapetra	-1400	-67	Hierapytna	3	1
+Ierapetra	-66	1204	Hierapytna	4	1
+Ierapetra	1205	2100	Ierapetra	3	1
+Heraklion	824	961	rabḍ al-ḫandaq	3	1
+Heraklion	962	1204	Chandax	3	1
+Heraklion	1205	1669	Candia	2	1
+Heraklion	1669	1898	Kandiye	3	1
+Heraklion	1899	2100	Heraklion	3	1
+Rethymno	-600	1204	Rhithymna	4	1
+Rethymno	1205	2100	Rethymno	3	1
 Agia Triada	-1900	-1400	Agia Triada	3	0
 Agia Triada	-1399	-150	Agia Triada	4	0
 Gournia	-1900	-1400	Gournia	4	0
@@ -12,15 +32,9 @@ Pyrgos	-1900	-1400	Pyrgos	4	0
 Vasiliki	-1900	-1400	Vasiliki	4	0
 Fournu Korfi	-1900	-1400	Fournu Korfi	4	0
 Pseira	-1900	-1400	Pseira	4	0
-Heraklion	-1900	-1400	Heraklion	3	1
-Lyktos	-1900	-1400	Lyktos	3	1
 Olous	-1900	-1400	Olous	3	1
-Hierapytna	-1900	-1400	Hierapytna	3	1
 Praisos	-1900	-1400	Praisos	3	1
-Gortyn	-1900	-1400	Gortyn	3	1
-Rhithymna	-1900	-1400	Rhithymna	3	1
 Lappa	-1900	-1400	Lappa	3	1
-Kydonia	-1900	-1400	Kydonia	3	1
 Polyrrenia	-1900	-1400	Polyrrenia	3	1
 Phalasarna	-1900	-1400	Phalasarna	3	1
 Arkades	-1900	-1400	Arkades	3	1

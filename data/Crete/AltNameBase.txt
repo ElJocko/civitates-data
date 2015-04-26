@@ -1,19 +1,42 @@
 Knossos	Knossos	Greek
 Knossos	Knossus	Greek
+Knossos	Cnossus	Greek
+Knossos	Cnossos	Greek
 Phaistos	Phaistos	Greek
 Phaistos	Phaestos	Greek
 Phaistos	Festos	Greek
 Phaistos	Phaestus	Latin
-Heraklion	Heraklion	Greek
-Heraklion	Iraklion	Greek
-Lyktos	Lyktos	Greek
-Olous	Olous	Greek
-Hierapytna	Hierapytna	Greek
-Praisos	Praisos	Greek
+Malia	Malia	ModernGreek
+Zakros	Kato Zakros	Greek
+Zakros	Zakros	Greek
+Galatas	Galatas	ModernGreek
+Petras	Petras	ModernGreek
+Monastiraki	Monastiraki	ModernGreek
 Gortyn	Gortyn	Greek
-Rhithymna	Rhithymna	Greek
+Gortyn	Gortys	Greek
+Gortyn	Gortyna	Greek
+Chania	Kydonia	Greek
+Chania	Cydonia	Greek
+Chania	Chania	ModernGreek
+Lyktos	Lyktos	Greek
+Lyktos	Lyctos	Greek
+Lyktos	Lyttos	Greek
+Ierapetra	Hierapytna	Greek
+Ierapetra	Ierapytna	Greek
+Ierapetra	Ierapetra	ModernGreek
+Heraklion	Heraklion	ModernGreek
+Heraklion	rabḍ al-ḫandaq	Arabic
+Heraklion	Iraklion	ModernGreek
+Heraklion	Candia	Italian
+Heraklion	Kandiye	Turkish
+Heraklion	Chandax	ModernGreek
+Rethymno	Rhithymna	Greek
+Rethymno	Rhithymnia	Greek
+Rethymno	Rithymna	Greek
+Rethymno	Rethymno	ModernGreek
+Olous	Olous	Greek
+Praisos	Praisos	Greek
 Lappa	Lappa	Greek
-Kydonia	Kydonia	Greek
 Polyrrenia	Polyrrenia	Greek
 Phalasarna	Phalasarna	Greek
 Arkades	Arkades	Greek
@@ -21,5 +44,3 @@ Itanos	Itanos	Greek
 Agia Triada	Agia Triada	ModernGreek
 Agia Triada	Hagia Triada	ModernGreek
 Agia Triada	Ayia Triada	ModernGreek
-Malia	Malia	ModernGreek
-Galatas	Galatas	ModernGreek
