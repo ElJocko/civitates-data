@@ -12,7 +12,7 @@ output_filename = "City.json"
 geonames_filename = "cities1000.txt"
 pleiades_filename = "pleiades-places.csv"
 
-folders = ["Italy", "Greece", "Crete"]
+folders = ["Italy", "Greece", "Crete", "Cyprus"]
 
 # Read geonames file
 GeonamesCity = namedtuple("GeonamesCity", "city_id name ascii_name alternate_names latitude longitude feature_class feature_code country_code cc2 admin_code1 admin_code2 admin_code3 admin_code4 population elevation dem time_zone modification_date")

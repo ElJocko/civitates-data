@@ -2,7 +2,7 @@ Knossos	Knossos	P	ancient
 Phaistos	Phaistos	P	ancient
 Malia	Malia	GR	ancient
 Zakros	Zakros	P	ancient
-Galatas	Galatas	GR	ancient
+Galatas	Galatas	P	ancient
 Petras	Petras	GR	ancient
 Monastiraki	Monastiraki	GR	ancient
 Gortyn	Gortyn	GR	ancient

@@ -1,0 +1,8 @@
+Nicosia	Nicosia	ModernGreek
+Nicosia	Leukousia	Greek
+Salamis	Salamis	Greek
+Famagusta	Famagusta	ModernGreek
+Famagusta	Arsinoe	Greek
+Famagusta	Ammochostos	Greek
+Famagusta	Gazimağusa	Turkish
+Paphos	Paphos	Greek
