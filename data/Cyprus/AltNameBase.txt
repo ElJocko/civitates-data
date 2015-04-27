@@ -1,6 +1,7 @@
 Nicosia	Nicosia	ModernGreek
 Nicosia	Leukousia	Greek
 Salamis	Salamis	Greek
+Salamis	Constantia	ModernGreek
 Famagusta	Famagusta	ModernGreek
 Famagusta	Arsinoe	Greek
 Famagusta	Ammochostos	Greek

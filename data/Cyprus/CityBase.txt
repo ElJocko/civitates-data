@@ -1,4 +1,4 @@
 Nicosia	Nicosia	CY	modern
-Salamis	Salamis	P	ancient
+Salamis	Salamis	CY	ancient
 Famagusta	Famagusta	CY	modern
 Paphos	Paphos	P	ancient
