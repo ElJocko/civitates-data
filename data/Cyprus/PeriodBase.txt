@@ -2,7 +2,7 @@ Nicosia	300	965	Leukousia	3	5
 Nicosia	966	2100	Nicosia	2	5
 Salamis	-1050	340	Salamis	2	0
 Salamis	341	670	Constantia	3	0
-Famagusta	-300	1192	Arsinoe	4	0
-Famagusta	1193	2100	Famagusta	3	0
+Famagusta	-300	1192	Arsinoe	4	1
+Famagusta	1193	2100	Famagusta	3	1
 Paphos	-400	300	Paphos	2	0
 Paphos	301	2100	Paphos	4	0
