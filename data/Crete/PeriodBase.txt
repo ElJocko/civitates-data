@@ -3,11 +3,11 @@ Knossos	-1419	-1100	Knossos	2	4
 Knossos	-1099	250	Knossos	3	4
 Phaistos	-1900	-1400	Phaistos	2	3
 Phaistos	-800	250	Phaistos	4	3
-Malia	-1900	-1400	Malia	3	5
+Malia	-1900	-1400	Malia	3	6
 Zakros	-1900	-1400	Zakros	3	1
 Galatas	-1900	-1400	Galatas	3	1
-Petras	-1900	-1400	Petras	3	0
-Monastiraki	-1900	-1400	Monastiraki	3	3
+Petras	-1900	-1400	Petras	3	6
+Monastiraki	-1900	-1400	Monastiraki	3	7
 Gortyn	-1400	-600	Gortyn	3	1
 Gortyn	-599	828	Gortyn	2	1
 Chania	-1400	-600	Kydonia	3	1
@@ -34,8 +34,8 @@ Fournu Korfi	-1900	-1400	Fournu Korfi	4	0
 Pseira	-1900	-1400	Pseira	4	0
 Olous	-1900	-1400	Olous	4	1
 Praisos	-1900	-1400	Praisos	4	1
-Lappa	-1900	-1400	Lappa	4	1
+Lappa	-1900	-1400	Lappa	4	4
 Polyrrenia	-1900	-1400	Polyrrenia	4	1
-Phalasarna	-1900	-1400	Phalasarna	4	1
+Phalasarna	-1900	-1400	Phalasarna	4	0
 Arkades	-1900	-1400	Arkades	4	1
 Itanos	-1900	-1400	Itanos	4	1
