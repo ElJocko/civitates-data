@@ -29,7 +29,7 @@ Agia Triada	-1900	-1400	Agia Triada	4	0
 Agia Triada	-1399	-150	Agia Triada	4	0
 Gournia	-1900	-1400	Gournia	4	0
 Pyrgos	-1900	-1400	Pyrgos	4	0
-Vasiliki	-1900	-1400	Vasiliki	4	0
+Vasiliki	-1900	-1400	Vasiliki	4	1
 Fournu Korfi	-1900	-1400	Fournu Korfi	4	0
 Pseira	-1900	-1400	Pseira	4	0
 Olous	-1900	-1400	Olous	4	1

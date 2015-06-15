@@ -12,3 +12,6 @@ Pylos	Pylos	GR	ancient
 Argos	Argos	GR	modern
 Megara	Megara	GR	modern
 Corinth	Korinthos	GR	ancient
+Thessaloniki	Thessalonica	P	ancient
+Serres	Sirra	P	ancient
+Naupactus	Naupactus	P	ancient

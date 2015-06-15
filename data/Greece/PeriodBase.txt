@@ -30,3 +30,8 @@ Megara	701	2100	Megara	4	4
 Corinth	-700	-146	Corinth	2	4
 Corinth	-44	1147	Corinth	3	4
 Corinth	1148	1858	Corinth	4	4
+Thessaloniki	-315	2100	Thessaloniki	2	4
+Serres	-168	315	Sirra	3	4
+Serres	316	1383	Serres	3	4
+Serres	1384	2100	Serres	4	4
+Naupactus	-700	2100	Naupactus	3	4

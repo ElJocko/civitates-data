@@ -29,3 +29,8 @@ Argos	Argos	Greek
 Megara	Megara	Greek
 Corinth	Corinth	English
 Corinth	Kórinthos	Greek
+Thessaloniki	Thessaloniki	Greek
+Thessaloniki	Thessalonica	English
+Serres	Serres	Greek
+Serres	Sirra	Greek
+Naupactus	Naupactus	Greek

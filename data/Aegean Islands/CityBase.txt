@@ -1,0 +1,7 @@
+Rhodes	Rhodos	P	ancient
+Lindos	Lindos	P	ancient
+Ialysos	Ialysos	P	ancient
+Kamiros	Kamiros	P	ancient
+Samos	Samos	P	ancient
+Chios	Chios	P	ancient
+Mytilene	Mytilene	P	ancient
