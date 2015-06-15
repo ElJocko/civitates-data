@@ -1,5 +1,6 @@
-Rhodes	Rhodes	English
+﻿Rhodes	Rhodes	English
 Rhodes	Ródos	Greek
+Rhodes	Rhodos	Greek
 Lindos	Lindos	Greek
 Ialysos	Ialysos	Greek
 Kamiros	Kamiros	Greek
