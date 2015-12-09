@@ -35,3 +35,15 @@ Serres	-168	315	Sirra	3	4
 Serres	316	1383	Serres	3	4
 Serres	1384	2100	Serres	4	4
 Naupactus	-700	2100	Naupactus	3	4
+Koroni	700	2100	Koroni	4	6
+Andravida	1200	1460	Andravida	2	4
+Andravida	1461	2100	Andravida	4	4
+Edirne	120	813	Adrianople	2	4
+Edirne	814	1361	Adrianople	3	4
+Edirne	1362	1453	Edirne	2	4
+Edirne	1454	2100	Edirne	3	4
+Pella	-500	-168	Pella	2	4
+Pella	-167	100	Pella	3	4
+Pella	101	2100	Pella	4	4
+Philippi	-356	619	Philippi	3	6
+Philippi	620	1400	Philippi	4	6

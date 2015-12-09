@@ -34,3 +34,12 @@ Thessaloniki	Thessalonica	English
 Serres	Serres	Greek
 Serres	Sirra	Greek
 Naupactus	Naupactus	Greek
+Koroni	Koroni	Greek
+Koroni	Corone	Italian
+Andravida	Andravida	Greek
+Edirne	Hadrianoplis	Greek
+Edirne	Adrianoplis	English
+Edirne	Edirne	Turkish
+Pella	Pella	Greek
+Philippi	Philippi	Greek
+Philippi	Philippoi	Greek

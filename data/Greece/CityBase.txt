@@ -15,3 +15,8 @@ Corinth	Korinthos	GR	ancient
 Thessaloniki	Thessalonica	P	ancient
 Serres	Sirra	P	ancient
 Naupactus	Naupactus	P	ancient
+Koroni	Koroni	GR	modern
+Andravida	Andravida	GR	modern
+Edirne	Edirne	TR	modern
+Pella	Pella	GR	modern
+Philippi	Philippi	GR	ancient
