@@ -20,3 +20,4 @@ Andravida	Andravida	GR	modern
 Edirne	Edirne	TR	modern
 Pella	Pella	GR	modern
 Philippi	Philippi	GR	ancient
+Messene	Messene	P	ancient

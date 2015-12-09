@@ -43,3 +43,5 @@ Edirne	Edirne	Turkish
 Pella	Pella	Greek
 Philippi	Philippi	Greek
 Philippi	Philippoi	Greek
+Messene	Messene	Greek
+Messene	Messenia	Greek
