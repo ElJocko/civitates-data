@@ -1,0 +1,17 @@
+İznik	-315	-301	Antagoneia	2	5
+İznik	-300	-72	Nicaea	2	5
+İznik	-71	368	Nicaea	1	5
+İznik	369	1331	Nicaea	2	5
+İznik	1332	2100	İznik	3	5
+Konya	-750	1084	Iconium	3	0
+Konya	1085	2100	Konya	2	0
+Pergamon	-350	620	Pergamon	2	1
+Pergamon	621	1400	Pergamon	3	1
+Ephesus	-950	-650	Ephesos	3	1
+Ephesus	-649	650	Ephesos	2	1
+Ephesus	651	1400	Ephesos	4	1
+Colophon	-750	-250	Colophon	3	1
+Colophon	-249	500	Colophon	4	1
+Miletus	-1450	-499	Miletus	1	1
+Miletus	-498	1300	Miletus	2	1
+Miletus	1301	1400	Miletus	4	1

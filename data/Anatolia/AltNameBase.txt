@@ -1,0 +1,14 @@
+İznik	Nicaea	Greek
+İznik	İznik	Turkish
+Konya	Konya	Turkish
+Konya	Ikónion	Greek
+Konya	Iconium	Latin
+Pergamon	Pergamon	Greek
+Pergamon	Pergamum	Greek
+Ephesus	Ephesos	Greek
+Ephesus	Ephesus	English
+Ephesus	Efes	Turkish
+Colophon	Colophon	Greek
+Miletus	Miletus	Latin
+Miletus	Milētos	Greek
+Miletus	Milet	Turkish
