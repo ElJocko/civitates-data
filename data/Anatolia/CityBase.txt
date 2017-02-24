@@ -4,3 +4,15 @@ Pergamon	Pergamon	TR	ancient
 Ephesus	Ephesus	TR	ancient
 Colophon	Colophon	TR	ancient
 Miletus	Miletus	TR	ancient
+Smyrna	Smyrna	TR	ancient
+Laodicea	Laodicea	TR	ancient
+Philadelphia	Alasehir	TR	modern
+Sardis	Sardis	TR	ancient
+Thyatira	Akhisar	TR	modern
+Abydos	Abydos	TR	ancient
+Dardanus	Dardanus	TR	ancient
+Rhoiteion	Rhoiteion	TR	ancient
+Elaeus	Elaeus	TR	ancient
+Sestos	Sestos	TR	ancient
+Gelibolu	Gelibolu	TR	modern
+Troy	Troy	TR	ancient
