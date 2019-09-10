@@ -2,6 +2,12 @@ import csv
 import json
 import os
 from collections import namedtuple
+from dataclasses import dataclass
+import labelCalc
+import geonames
+import pleiades
+import civitates_data
+from city import City
 
 print("civitates-data loader starting")
 
@@ -13,46 +19,58 @@ geonames_filename = "cities1000.txt"
 pleiades_filename = "pleiades-places.csv"
 
 folders = ["Italy", "Greece", "Crete", "Cyprus", "Aegean Islands", "Anatolia"]
+def make_path_list_from_folders(file_name):
+    path_list = []
+    for folder in folders:
+        file_path = os.path.join(base_path, folder, file_name)
+        path_list.append(file_path)
+    return path_list
 
 # Read geonames file
-GeonamesCity = namedtuple("GeonamesCity", "city_id name ascii_name alternate_names latitude longitude feature_class feature_code country_code cc2 admin_code1 admin_code2 admin_code3 admin_code4 population elevation dem time_zone modification_date")
 geonames_path = os.path.join(base_path, geonames_filename)
-with open(geonames_path, encoding="utf8") as file:
-    reader = csv.reader(file, delimiter='\t', quoting=csv.QUOTE_NONE)
-    geonames_city_list = [GeonamesCity._make(x) for x in reader]
+geonames_city_list = geonames.read_geonames_city_file(geonames_path)
 
 print("Read", len(geonames_city_list), "rows from", geonames_filename)
 
 # Read Pleiades Places file
-PleiadesPlace = namedtuple("PleiadesPlace", "authors bbox connects_with created creators current_version description extent feature_types geo_context has_connections_with id location_precision max_date min_date modified path repr_lat repr_lat_long repr_long tags time_periods time_periods_keys time_periods_range title uid")
 pleiades_path = os.path.join(base_path, pleiades_filename)
-with open(pleiades_path, encoding="utf8") as file:
-    reader = csv.reader(file, delimiter=',')
-    next(reader) # skip the header row
-    pleiades_place_list = [PleiadesPlace._make(x) for x in reader]
+pleiades_place_list = pleiades.read_pleiades_place_file(pleiades_path)
 
 print("Read", len(pleiades_place_list), "rows from", pleiades_filename)
 
+# Filter for settlements and convert to common form
 PleiadesSettlement = namedtuple("PleiadesSettlement", "title latitude longitude elevation")
 pleiades_settlement_list = []
 for place in pleiades_place_list:
     if "settlement" in place.feature_types:
-        settlement = PleiadesSettlement(place.title, place.repr_lat, place.repr_long, 0)
+        settlement = PleiadesSettlement(place.title, place.repr_lat, place.repr_long, "0")
         pleiades_settlement_list.append(settlement)
 
 print("Found", len(pleiades_settlement_list), "settlements")
 
 # Read CityBase files
-file_name = "CityBase.txt"
-CityBase = namedtuple("CityBase", "id geonames_name geonames_cc prefix")
-city_base_list = []
-for folder in folders:
-    file_path = os.path.join(base_path, folder, file_name)
-    with open(file_path, encoding="utf8") as file:
-        reader = csv.reader(file, delimiter='\t', quoting=csv.QUOTE_NONE)
-        city_base_list.extend([CityBase._make(x) for x in reader])
+path_list = make_path_list_from_folders("CityBase.txt")
+city_base_list = civitates_data.read_city_base_files(path_list)
 
 print("Read", len(city_base_list), "rows from CityBase.txt")
+
+# Read PeriodBase.txt
+path_list = make_path_list_from_folders("PeriodBase.txt")
+period_base_list = civitates_data.read_period_base_files(path_list)
+
+print("Read", len(period_base_list), "rows from PeriodBase.txt")
+
+# Read AltNameBase.txt
+path_list = make_path_list_from_folders("AltNameBase.txt")
+alt_name_base_list = civitates_data.read_alt_name_base_files(path_list)
+
+print("Read", len(alt_name_base_list), "rows from AltNamedBase.txt")
+
+# Read CityExtra.txt
+path_list = make_path_list_from_folders("CityExtra.txt")
+city_extra_list = civitates_data.read_city_extra_files(path_list)
+
+print("Read", len(city_extra_list), "rows from CityExtra.txt")
 
 def count_id(id, list):
     count = 0
@@ -60,42 +78,6 @@ def count_id(id, list):
         if x.id == id:
             count += 1
     return count
-
-# Read PeriodBase.txt
-PeriodBase = namedtuple("PeriodBase", "id start_date end_date preferredName size tag_position")
-period_base_list = []
-file_name = "PeriodBase.txt"
-for folder in folders:
-    file_path = os.path.join(base_path, folder, file_name)
-    with open(file_path, encoding="utf8") as file:
-        reader = csv.reader(file, delimiter='\t', quoting=csv.QUOTE_NONE)
-        period_base_list.extend([PeriodBase._make(x) for x in reader])
-
-print("Read", len(period_base_list), "rows from PeriodBase.txt")
-
-# Read AltNameBase.txt
-AltNameBase = namedtuple("AltNameBase", "id alt_name language")
-alt_name_base_list = []
-file_name = "AltNameBase.txt"
-for folder in folders:
-    file_path = os.path.join(base_path, folder, file_name)
-    with open(file_path, encoding="utf8") as file:
-        reader = csv.reader(file, delimiter='\t', quoting=csv.QUOTE_NONE)
-        alt_name_base_list.extend([AltNameBase._make(x) for x in reader])
-
-print("Read", len(alt_name_base_list), "rows from AltNamedBase.txt")
-
-# Read CityExtra.txt
-CityExtra = namedtuple("CityExtra", "id latitude longitude elevation")
-city_extra_list = []
-file_name = "CityExtra.txt"
-for folder in folders:
-    file_path = os.path.join(base_path, folder, file_name)
-    with open(file_path, encoding="utf8") as file:
-        reader = csv.reader(file, delimiter='\t', quoting=csv.QUOTE_NONE)
-        city_extra_list.extend([CityExtra._make(x) for x in reader])
-
-print("Read", len(city_extra_list), "rows from CityExtra.txt")
 
 # Look for duplicates in CityBase
 duplicate_cities = set([x.id for x in city_base_list if count_id(x.id, city_base_list) > 1])
@@ -134,7 +116,7 @@ def get_city_periods(city_id):
     city_periods = []
     for period in period_base_list:
         if period.id == city_id:
-            city_periods.append({ 'startDate':period.start_date, 'endDate':period.end_date, 'preferredName':period.preferredName, 'size':period.size, 'tagPosition':period.tag_position })
+            city_periods.append({ 'startDate':period.start_date, 'endDate':period.end_date, 'preferredName':period.preferredName, 'size':period.size, 'tagPosition':period.tag_position, 'calcTagPosition':0 })
     return city_periods
 
 # Write the cities to the JSON output file
@@ -156,14 +138,103 @@ for city_base in city_base_list:
 
     alt_names = get_alt_names(city_base.id)
     periods = get_city_periods(city_base.id)
-    city = { 'identifier':city_base.id,
+    map_point = labelCalc.map_point_for_coordinate(labelCalc.Coordinate(city_lookup.latitude, city_lookup.longitude))
+
+    #city = City(city_base.id)
+
+    city_dict = { 'identifier':city_base.id,
              'latitude':city_lookup.latitude,
              'longitude':city_lookup.longitude,
              'elevation':city_lookup.elevation,
              'prefix':city_base.prefix,
              'periods': periods,
-             'altNames': alt_names }
-    city_list.append(city)
+             'altNames': alt_names,
+             'mapPoint': map_point }
+    city_list.append(city_dict)
+
+@dataclass
+class CityPeriodCalc:
+    id: str
+    start_date: int
+    end_date: int
+    marker_rect: labelCalc.ScreenRect
+    tag_rect: labelCalc.ScreenRect
+    city_period: dict
+
+@dataclass
+class CityCalc:
+    id: str
+    max_size: int
+    size_duration: int
+    periods: list
+
+
+def build_city_period_screen_locs(zoom_level, year):
+    # Screen locations for each city size
+    screen_locs = [ [], [], [], [], [] ]
+
+    for city in city_list:
+        for period in city["periods"]:
+            start_date = int(period["startDate"])
+            end_date = int(period["endDate"])
+            if (start_date <= year and end_date >= year):
+                # Period overlaps target year
+                marker_rect = labelCalc.marker_screen_rect_for_map_point(city["mapPoint"], zoom_level)
+                tag_rect = labelCalc.tag_screen_rect_for_map_point(city["mapPoint"], period["calcTagPosition"], zoom_level)
+                city_period = CityPeriodCalc(city["identifier"], period["startDate"], period["endDate"], marker_rect, tag_rect, period)
+                screen_locs[int(period["size"])].append(city_period)
+
+    return screen_locs
+
+def check_cities_overlap(cities0, cities1):
+    overlap_found = False
+    for city0 in cities0:
+        for city1 in cities1:
+            if city0.id != city1.id:
+                if labelCalc.screen_rects_overlap(city0.marker_rect, city1.tag_rect):
+                    print("    ** overlap ** ", city0.id, " with ", city1.id)
+                    if city1.city_period["calcTagPosition"] < 7:
+                        city1.city_period["calcTagPosition"] += 1
+                    else:
+                        print("Unable to find position for ", city1.id, " tag")
+                    overlap_found = True
+    return overlap_found
+
+
+def min_size_for_zoom_level(zoom_level):
+    zoom_threshholds = [0.0, 5.0, 6.0, 7.0, 8.0]
+    min_size = -1
+    for threshold in zoom_threshholds:
+        if zoom_level >= threshold:
+            min_size = min_size + 1
+
+    return min_size
+
+
+for year in [-500, -250, -100, 100, 250, 500, 1000]:
+    print("Checking year ", year)
+    for zoom_level in [2.5, 5.5, 6.5, 7.5, 8.5]:
+        screen_locs = build_city_period_screen_locs(zoom_level, year)
+        print("Checking overlap for zoom level ", zoom_level)
+        min_size = min_size_for_zoom_level(zoom_level)
+        for i in range(0, min_size + 1):
+            for j in range(i, min_size + 1):
+                print("Checking size ", i, " and ", j)
+                overlap_found = False
+                while overlap_found:
+                    overlap_found = check_cities_overlap(screen_locs[i], screen_locs[j])
+                    if overlap_found:
+                        print("Recalculating screen locs")
+                        screen_locs = build_city_period_screen_locs(zoom_level, year)
+
+
+#check_cities_overlap(screen_locs[0], screen_locs[0])
+#check_cities_overlap(screen_locs[0], screen_locs[1])
+#check_cities_overlap(cities[0], cities[2])
+#check_cities_overlap(cities[0], cities[3])
+#check_cities_overlap(cities[1], cities[2])
+#check_cities_overlap(cities[1], cities[3])
+#check_cities_overlap(cities[2], cities[3])
 
 output_object = { 'cities': city_list }
 output_path = os.path.join(base_path, output_filename)

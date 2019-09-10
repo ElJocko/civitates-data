@@ -10,7 +10,7 @@ Philadelphia	Alasehir	TR	modern
 Sardis	Sardis	TR	ancient
 Thyatira	Akhisar	TR	modern
 Abydos	Abydos	TR	ancient
-Dardanus	Dardanus	TR	ancient
+Dardanus	Dardanos	P	ancient
 Rhoiteion	Rhoiteion	TR	ancient
 Elaeus	Elaeus	TR	ancient
 Sestos	Sestos	TR	ancient

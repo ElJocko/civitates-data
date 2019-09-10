@@ -6,3 +6,12 @@ Famagusta	-300	1192	Arsinoe	4	1
 Famagusta	1193	2100	Famagusta	3	1
 Paphos	-400	300	Paphos	2	0
 Paphos	301	2100	Paphos	4	0
+Kition	-1250	342	Kition	3	0
+Tremithous	-400	500	Tremithous	4	0
+Golgoi	-400	400	Golgoi	4	0
+Idalion	-1250	-300	Idalion	3	0
+Idalion	-299	400	Idalion	4	0
+Tamassos	-400	1000	Tamassos	4	0
+Amathous	-750	1000	Amathous	4	0
+Kourion	-1000	370	Kourion	3	0
+Kourion	371	649	Kourion	4	0

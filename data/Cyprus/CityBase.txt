@@ -2,3 +2,17 @@ Nicosia	Nicosia	CY	modern
 Salamis	Salamis	CY	ancient
 Famagusta	Famagusta	CY	modern
 Paphos	Paphos	P	ancient
+Kition	Kition	P	ancient
+Tremithous	Tremithous	P	ancient
+Golgoi	Golgoi	P	ancient
+Idalion	Idalion	P	ancient
+Tamassos	Tamassos	P	ancient
+Amathous	Amathous	P	ancient
+Kourion	Kourion	P	ancient
+Arsinoe	Arsinoe	P	ancient
+Marion	Marion	P	ancient
+Soloi	Soloi	P	ancient
+Lapethos	Lapethos	P	ancient
+Kerynia	Kerynia	P	ancient
+Chytroi	Chytroi	P	ancient
+Karpasia	Karpasia	P	ancient

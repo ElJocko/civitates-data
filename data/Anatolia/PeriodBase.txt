@@ -32,10 +32,10 @@ Abydos	-700	1456	Abydos	4	1
 Dardanus	-700	800	Dardanus	4	1
 Rhoiteion	-500	50	Rhoiteion	4	1
 Elaeus	-500	200	Elaeus	4	1
-Sestos	-500	-300	4	1
+Sestos	-500	-300	Sestos	4	1
 Gelibolu	-450	1354	Callipolis	4	1
 Gelibolu	1355	2100	Gelibolu	4	1
-Troy	-2000	1400	Troy	2	1
-Troy	1399	-1184	Troy	1	1
+Troy	-2000	-1400	Troy	2	1
+Troy	-1399	-1184	Troy	1	1
 Troy	-1183	-85	Ilion	3	1
 Troy	-84	500	Ilium	4	1
