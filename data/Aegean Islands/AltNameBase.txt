@@ -1,9 +1,9 @@
-﻿Rhodes	Rhodes	English
-Rhodes	Ródos	Greek
-Rhodes	Rhodos	Greek
-Lindos	Lindos	Greek
+﻿Chios	Chios	Greek
 Ialysos	Ialysos	Greek
 Kamiros	Kamiros	Greek
-Samos	Samos	Greek
-Chios	Chios	Greek
+Lindos	Lindos	Greek
 Mytilene	Mytilene	Greek
+Rhodes	Rhodes	English
+Rhodes	Rhodos	Greek
+Rhodes	Ródos	Greek
+Samos	Samos	Greek

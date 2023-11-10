@@ -1,46 +1,46 @@
+Agia Triada	Agia Triada	ModernGreek
+Agia Triada	Ayia Triada	ModernGreek
+Agia Triada	Hagia Triada	ModernGreek
+Arkades	Arkades	Greek
+Chania	Chania	ModernGreek
+Chania	Cydonia	Greek
+Chania	Kydonia	Greek
+Galatas	Galatas	ModernGreek
+Gortyn	Gortyn	Greek
+Gortyn	Gortyna	Greek
+Gortyn	Gortys	Greek
+Heraklion	Candia	Italian
+Heraklion	Chandax	ModernGreek
+Heraklion	Heraklion	ModernGreek
+Heraklion	Iraklion	ModernGreek
+Heraklion	Kandiye	Turkish
+Heraklion	rabḍ al-ḫandaq	Arabic
+Ierapetra	Hierapytna	Greek
+Ierapetra	Ierapetra	ModernGreek
+Ierapetra	Ierapytna	Greek
+Itanos	Itanos	Greek
+Knossos	Cnossos	Greek
+Knossos	Cnossus	Greek
 Knossos	Knossos	Greek
 Knossos	Knossus	Greek
-Knossos	Cnossus	Greek
-Knossos	Cnossos	Greek
-Phaistos	Phaistos	Greek
-Phaistos	Phaestos	Greek
-Phaistos	Festos	Greek
-Phaistos	Phaestus	Latin
-Malia	Malia	ModernGreek
-Zakros	Kato Zakros	Greek
-Zakros	Zakros	Greek
-Galatas	Galatas	ModernGreek
-Petras	Petras	ModernGreek
-Monastiraki	Monastiraki	ModernGreek
-Gortyn	Gortyn	Greek
-Gortyn	Gortys	Greek
-Gortyn	Gortyna	Greek
-Chania	Kydonia	Greek
-Chania	Cydonia	Greek
-Chania	Chania	ModernGreek
-Lyktos	Lyktos	Greek
+Lappa	Lappa	Greek
 Lyktos	Lyctos	Greek
+Lyktos	Lyktos	Greek
 Lyktos	Lyttos	Greek
-Ierapetra	Hierapytna	Greek
-Ierapetra	Ierapytna	Greek
-Ierapetra	Ierapetra	ModernGreek
-Heraklion	Heraklion	ModernGreek
-Heraklion	rabḍ al-ḫandaq	Arabic
-Heraklion	Iraklion	ModernGreek
-Heraklion	Candia	Italian
-Heraklion	Kandiye	Turkish
-Heraklion	Chandax	ModernGreek
+Malia	Malia	ModernGreek
+Monastiraki	Monastiraki	ModernGreek
+Olous	Olous	Greek
+Petras	Petras	ModernGreek
+Phaistos	Festos	Greek
+Phaistos	Phaestos	Greek
+Phaistos	Phaestus	Latin
+Phaistos	Phaistos	Greek
+Phalasarna	Phalasarna	Greek
+Polyrrenia	Polyrrenia	Greek
+Praisos	Praisos	Greek
+Rethymno	Rethymno	ModernGreek
 Rethymno	Rhithymna	Greek
 Rethymno	Rhithymnia	Greek
 Rethymno	Rithymna	Greek
-Rethymno	Rethymno	ModernGreek
-Olous	Olous	Greek
-Praisos	Praisos	Greek
-Lappa	Lappa	Greek
-Polyrrenia	Polyrrenia	Greek
-Phalasarna	Phalasarna	Greek
-Arkades	Arkades	Greek
-Itanos	Itanos	Greek
-Agia Triada	Agia Triada	ModernGreek
-Agia Triada	Hagia Triada	ModernGreek
-Agia Triada	Ayia Triada	ModernGreek
+Zakros	Kato Zakros	Greek
+Zakros	Zakros	Greek
