@@ -1,8 +1,15 @@
+Chalcis	-1400	-501	Chalcis	2	0
+Chalcis	-500	2100	Chalcis	3	0
 Chios	-700	2100	Chios	3	3
+Eretria	-1400	-825	Eretria	3	1
+Eretria	-824	-701	Eretria	2	1
+Eretria	-700	-87	Eretria	4	0
 Ialysos	-600	-409	Ialysos	3	3
 Ialysos	-408	2100	Ialysos	4	3
 Kamiros	-600	-409	Kamiros	3	0
 Kamiros	-408	-142	Kamiros	4	0
+Lefkandi	-1400	-825	Lefkandi	2	2
+Lefkandi	-824	-701	Lefkandi	4	2
 Lindos	-600	-409	Lindos	3	0
 Lindos	-408	2100	Lindos	4	0
 Mytilene	-700	2100	Mytilene	3	3

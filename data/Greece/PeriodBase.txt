@@ -3,10 +3,10 @@ Andravida	1461	2100	Andravida	4	4
 Argos	-1400	-1101	Argos	2	4
 Argos	-700	-300	Argos	2	4
 Argos	-299	2100	Argos	3	4
-Athens	-1400	-1101	Athens	1	6
-Athens	-1100	-701	Athens	2	6
-Athens	-700	323	Athens	0	6
-Athens	324	2100	Athens	1	6
+Athens	-1400	-1101	Athens	1	0
+Athens	-1100	-701	Athens	2	0
+Athens	-700	323	Athens	0	0
+Athens	324	2100	Athens	1	0
 Corinth	-700	-146	Corinth	2	4
 Corinth	-44	1147	Corinth	3	4
 Corinth	1148	1858	Corinth	4	4
@@ -20,6 +20,7 @@ Istanbul	-657	323	Byzantium	2	4
 Istanbul	324	1452	Constantinople	0	4
 Istanbul	1453	2100	Istanbul	1	4
 Koroni	700	2100	Koroni	4	6
+Larissa	-600	2100	Larissa	3	4
 Megara	-700	-300	Megara	2	4
 Megara	-299	700	Megara	3	4
 Megara	701	2100	Megara	4	4
@@ -27,12 +28,15 @@ Messene	-371	200	Messene	4	4
 Mycenae	-1400	-1101	Mycenae	0	4
 Mycenae	-1100	-475	Mycenae	4	4
 Naupactus	-700	2100	Naupactus	3	4
+Nicopolis	-29	787	Nicopolis	3	4
 Orchomenos	-1400	-1101	Orchomenos	2	4
 Orchomenos	-1100	-86	Orchomenos	3	4
 Orchomenos	-85	2100	Orchomenos	4	4
 Pella	-500	-168	Pella	2	4
 Pella	-167	100	Pella	3	4
 Pella	101	2100	Pella	4	4
+Perinthus	-599	350	Perinthus	3	4
+Perinthus	351	700	Heraclea	3	4
 Philippi	-356	619	Philippi	3	6
 Philippi	620	1400	Philippi	4	6
 Pylos	-1400	-1101	Pylos	2	4
@@ -48,3 +52,4 @@ Therapnes	-1300	-1101	Therapne	2	4
 Thessaloniki	-315	2100	Thessaloniki	2	4
 Tiryns	-1400	-1101	Tiryns	2	6
 Tiryns	-1100	-475	Tiryns	4	6
+Traianopolis	100	1350	Traianopolis	3	4

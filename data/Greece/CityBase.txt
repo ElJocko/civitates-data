@@ -7,12 +7,15 @@ Gla	Gla	GR	ancient
 Iolkos	Iolkos	GR	ancient
 Istanbul	Istanbul	TR	modern
 Koroni	Koroni	GR	modern
+Larissa	Larisa	GR	modern
 Megara	Megara	GR	modern
 Messene	Messene	P	ancient
 Mycenae	Mycenae	GR	ancient
 Naupactus	Naupactus	P	ancient
+Nicopolis	Nicopolis	GR	ancient
 Orchomenos	Orchomenos	GR	modern
 Pella	Pella	GR	modern
+Perinthus	Perinthus/Heraclea	P	ancient
 Philippi	Philippi	GR	ancient
 Pylos	Pylos	GR	ancient
 Serres	Sirra	P	ancient
@@ -21,3 +24,4 @@ Thebes	Thivai	GR	modern
 Therapnes	Therapnes	GR	modern
 Thessaloniki	Thessalonica	P	ancient
 Tiryns	Tiryns	GR	ancient
+Traianopolis	Traianoupolis	GR	ancient

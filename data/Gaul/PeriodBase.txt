@@ -1,0 +1,17 @@
+Arles	-123	299	Arelate	2	0
+Arles	300	734	Arelate	1	0
+Arles	735	932	Arles	2	0
+Arles	933	2100	Arles	3	0
+Geneva	-121	-59	Geneva	4	0
+Geneva	-58	2100	Geneva	3	0
+Marseille	-600	-401	Massalia	3	0
+Marseille	-400	-50	Massalia	2	0
+Marseille	-49	738	Massilia	2	0
+Marseille	739	1449	Marseille	3	0
+Marseille	1450	2100	Marseille	2	0
+Narbonne	-118	719	Narbo	2	0
+Narbonne	720	758	Narbo	3	0
+Narbonne	759	2100	Narbonne	3	0
+Toulouse	-150	-51	Tolosa	4	0
+Toulouse	-50	780	Tolosa	3	0
+Toulouse	781	2100	Toulouse	3	0

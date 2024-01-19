@@ -18,14 +18,20 @@ Istanbul	Konstantinoúpolis	ModernGreek
 Istanbul	İstanbul	Turkish
 Koroni	Corone	Italian
 Koroni	Koroni	Greek
+Larissa	Larissa	Greek
+Larissa	Lárisa	ModernGreek
 Megara	Megara	Greek
 Messene	Messene	Greek
 Messene	Messenia	Greek
 Mycenae	Mukanai	Greek
 Mycenae	Mycenae	Greek
 Naupactus	Naupactus	Greek
+Nicopolis	Nicopolis	Greek
 Orchomenos	Orchomenos	Greek
 Pella	Pella	Greek
+Perinthus	Perinthus	Greek
+Perinthus	Heraclea	Greek
+Perinthus	Heraclea Thraciae	Greek
 Philippi	Philippi	Greek
 Philippi	Philippoi	Greek
 Pylos	Pylos	Greek
@@ -45,3 +51,7 @@ Therapnes	Therapnes	ModernGreek
 Thessaloniki	Thessalonica	English
 Thessaloniki	Thessaloniki	Greek
 Tiryns	Tiryns	Greek
+Traianopolis	Traianopolis	Greek
+Traianopolis	Trajanopolis	Greek
+Traianopolis	Traianoupolis	Greek
+Traianopolis	Traianoupoli	ModernGreek

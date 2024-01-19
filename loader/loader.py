@@ -18,7 +18,7 @@ output_filename = "City.json"
 geonames_filename = "cities1000.txt"
 pleiades_filename = "pleiades-places.csv"
 
-folders = ["Italy", "Greece", "Crete", "Cyprus", "Aegean Islands", "Anatolia"]
+folders = ["Italy", "Greece", "Crete", "Cyprus", "Aegean Islands", "Anatolia", "Balkans", "Gaul"]
 def make_path_list_from_folders(file_name):
     path_list = []
     for folder in folders:
@@ -133,7 +133,7 @@ for city_base in city_base_list:
         city_lookup = find_city_extra(city_base.id)
 
     if city_lookup is None:
-        print("No geo information found for ", city_base.id)
+        print("No geo information found for", city_base.id)
         continue
 
     alt_names = get_alt_names(city_base.id)
@@ -142,14 +142,22 @@ for city_base in city_base_list:
 
     #city = City(city_base.id)
 
-    city_dict = { 'identifier':city_base.id,
-             'latitude':city_lookup.latitude,
-             'longitude':city_lookup.longitude,
-             'elevation':city_lookup.elevation,
-             'prefix':city_base.prefix,
-             'periods': periods,
-             'altNames': alt_names,
-             'mapPoint': map_point }
+    city_dict = {
+        'type': 'Feature',
+        'geometry': {
+            'type': 'Point',
+            'coordinates': [ city_lookup.longitude, city_lookup.latitude]
+        },
+        'properties': {
+            'identifier': city_base.id,
+            'latitude': city_lookup.latitude,
+            'longitude': city_lookup.longitude,
+            'elevation': city_lookup.elevation,
+            'prefix': city_base.prefix,
+            'periods': periods,
+            'altNames': alt_names,
+            'mapPoint': map_point
+        }}
     city_list.append(city_dict)
 
 @dataclass
@@ -174,14 +182,14 @@ def build_city_period_screen_locs(zoom_level, year):
     screen_locs = [ [], [], [], [], [] ]
 
     for city in city_list:
-        for period in city["periods"]:
+        for period in city["properties"]["periods"]:
             start_date = int(period["startDate"])
             end_date = int(period["endDate"])
             if (start_date <= year and end_date >= year):
                 # Period overlaps target year
-                marker_rect = labelCalc.marker_screen_rect_for_map_point(city["mapPoint"], zoom_level)
-                tag_rect = labelCalc.tag_screen_rect_for_map_point(city["mapPoint"], period["calcTagPosition"], zoom_level)
-                city_period = CityPeriodCalc(city["identifier"], period["startDate"], period["endDate"], marker_rect, tag_rect, period)
+                marker_rect = labelCalc.marker_screen_rect_for_map_point(city["properties"]["mapPoint"], zoom_level)
+                tag_rect = labelCalc.tag_screen_rect_for_map_point(city["properties"]["mapPoint"], period["calcTagPosition"], zoom_level)
+                city_period = CityPeriodCalc(city["properties"]["identifier"], period["startDate"], period["endDate"], marker_rect, tag_rect, period)
                 screen_locs[int(period["size"])].append(city_period)
 
     return screen_locs
@@ -215,16 +223,16 @@ for year in [-500, -250, -100, 100, 250, 500, 1000]:
     print("Checking year ", year)
     for zoom_level in [2.5, 5.5, 6.5, 7.5, 8.5]:
         screen_locs = build_city_period_screen_locs(zoom_level, year)
-        print("Checking overlap for zoom level ", zoom_level)
+        # print("Checking overlap for zoom level ", zoom_level)
         min_size = min_size_for_zoom_level(zoom_level)
         for i in range(0, min_size + 1):
             for j in range(i, min_size + 1):
-                print("Checking size ", i, " and ", j)
+                # print("Checking size ", i, " and ", j)
                 overlap_found = False
                 while overlap_found:
                     overlap_found = check_cities_overlap(screen_locs[i], screen_locs[j])
                     if overlap_found:
-                        print("Recalculating screen locs")
+                        # print("Recalculating screen locs")
                         screen_locs = build_city_period_screen_locs(zoom_level, year)
 
 
@@ -236,7 +244,7 @@ for year in [-500, -250, -100, 100, 250, 500, 1000]:
 #check_cities_overlap(cities[1], cities[3])
 #check_cities_overlap(cities[2], cities[3])
 
-output_object = { 'cities': city_list }
+output_object = { 'type': 'FeatureCollection', 'crs': { 'type': 'name', 'properties': { 'name': 'EPSG:4326' }}, 'features': city_list }
 output_path = os.path.join(base_path, output_filename)
 with open(output_path, 'w') as file:
     json.dump(output_object, file, indent=4, separators=(',', ': ') )

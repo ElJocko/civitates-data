@@ -5,7 +5,7 @@ Famagusta	Famagusta	CY	modern
 Golgoi	Golgoi	P	ancient
 Idalion	Idalion	P	ancient
 Karpasia	Karpasia	P	ancient
-Kerynia	Kerynia	P	ancient
+Kyrenia	Kyrenia	CY	modern
 Kition	Kition	P	ancient
 Kourion	Kourion	P	ancient
 Lapethos	Lapethos	P	ancient

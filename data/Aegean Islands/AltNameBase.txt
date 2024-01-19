@@ -1,6 +1,14 @@
-﻿Chios	Chios	Greek
+﻿Chalcis	Chalcis	Greek
+Chalcis	Chalkis	English
+Chalcis	Chalkida	ModernGreek
+Chalcis	Halkida	ModernGreek
+Chalcis	Negroponte	Italian
+Chios	Chios	Greek
+Eretria	Eretria	English
+Eretria	Erétria	Greek
 Ialysos	Ialysos	Greek
 Kamiros	Kamiros	Greek
+Lefkandi	Lefkandi	ModernGreek
 Lindos	Lindos	Greek
 Mytilene	Mytilene	Greek
 Rhodes	Rhodes	English

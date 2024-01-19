@@ -227,9 +227,9 @@ Taranto	-706	-273	Taras	3	0
 Taranto	-272	685	Tarentum	2	2
 Taranto	686	2100	Taranto	2	2
 Tarquinia	-700	-200	Tarchna	2	3
-Tarquinia	-199	600	Tarquinii	2	0
-Tarquinia	601	1250	Tarquinia	3	0
-Tarquinia	1251	1922	Corneto	4	0
+Tarquinia	-199	600	Tarquinii	2	3
+Tarquinia	601	1250	Tarquinia	3	3
+Tarquinia	1251	1922	Corneto	4	3
 Terracina	-700	600	Tarracina	3	0
 Terracina	601	2100	Terracina	3	0
 Thurii	-443	-204	Thurii	2	0

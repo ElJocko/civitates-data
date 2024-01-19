@@ -9,7 +9,9 @@ Famagusta	Gazimağusa	Turkish
 Golgoi	Golgoi	Greek
 Idalion	Idalion	Greek
 Karpasia	Karpasia	Greek
-Kerynia	Kerynia	Greek
+Kyrenia	Kyrenia	Greek
+Kyrenia	Kerýneia	ModernGreek
+Kyrenia	Girne	Turkish
 Kition	Citium	Latin
 Kition	Kition	Greek
 Kourion	Kourion	Greek

@@ -1,0 +1,5 @@
+Arles	Arelate	P	ancient
+Geneva	Geneve	CH	modern
+Marseille	Marseille	FR	modern
+Narbonne	Narbonne	FR	modern
+Toulouse	Toulouse	FR	modern
