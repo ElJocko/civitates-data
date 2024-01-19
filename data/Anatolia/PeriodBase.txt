@@ -1,6 +1,8 @@
 Abydos	-700	1456	Abydos	4	1
 Adana	-1600	620	Adana	3	1
 Adana	758	2100	Adana	3	1
+Ankara	-1000	1073	Ánkyra	2	1
+Ankara	1074	2100	Ankara	2	1
 Colophon	-750	-250	Colophon	3	1
 Colophon	-249	500	Colophon	4	1
 Dardanus	-700	800	Dardanus	4	1
@@ -10,7 +12,7 @@ Ephesus	-649	650	Ephesos	2	1
 Ephesus	651	1400	Ephesos	4	1
 Gelibolu	-450	1354	Callipolis	4	1
 Gelibolu	1355	2100	Gelibolu	4	1
-Hattusa	-2000	-1200	Hattusa	2	1
+Hattusa	-2000	-1200	Hattusa	1	1
 İznik	-315	-301	Antagoneia	2	5
 İznik	-300	-72	Nicaea	2	5
 İznik	-71	368	Nicaea	1	5
@@ -39,6 +41,13 @@ Sis	450	1149	Sis	4	1
 Sis	1150	1375	Sis	2	1
 Sis	1376	1515	Sis	4	1
 Sis	1516	2100	Kozan	3	1
+Sinop	-600	-184	Sinope	3	1
+Sinop	-183	-69	Sinope	2	1
+Sinop	-70	1213	Sinope	3	1
+Sinop	1214	2100	Sinop	3	1
+Sivas	-64	-11	Megalopolis	3	1
+Sivas	-10	1073	Sebasteia	3	1
+Sivas	1074	2100	Sivas	2	1
 Smyrna	-688	-317	Smyrna	3	1
 Smyrna	-316	330	Smyrna	2	1
 Smyrna	331	1330	Smyrna	3	1
@@ -49,6 +58,10 @@ Tarsus	787	2100	Tarsus	2	1
 Thyatira	-550	-290	Pelopia	3	1
 Thyatira	-289	1307	Thyatira	3	1
 Thyatira	1308	2100	Akhisar	3	1
+Trabzon	-500	-26	Trapezous	4	1
+Trabzon	-25	1203	Trapezus	3	1
+Trabzon	1204	1460	Trebizond	2	1
+Trabzon	1461	2100	Trabzon	3	1
 Troy	-2000	-1400	Troy	2	1
 Troy	-1399	-1184	Troy	1	1
 Troy	-1183	-85	Ilion	3	1
