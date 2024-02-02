@@ -1,0 +1,15 @@
+Ani	Ani	Armenian
+Batumi	Batumi	Georgian
+Gori	Gori	Georgian
+Kars	Kars	Armenian
+Kutaisi	Kutaisi	Georgian
+Sukhumi	Sukhumi	English
+Sukhumi	Sokhumi	Georgian
+Sukhumi	Tskhumi	Georgian
+Sukhumi	Dioscurias	Greek
+Sukhumi	Sebastopolis	Latin
+Tbilisi	Tbilisi	Georgian
+Tbilisi	Tiflis	English
+Van	Van	Armenian
+Van	Tushpa	Akkadian
+Van	Tosp	Armenian
