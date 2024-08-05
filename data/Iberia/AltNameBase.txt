@@ -1,0 +1,51 @@
+Astorga	Astorga	Spanish
+Astorga	Asturica	Latin
+Astorga	Estorga	Leonese
+Baelo Claudia	Baelo Claudia	Latin
+Cáceres	Cáceres	Spanish
+Cáceres	Norba Caesarina	Latin
+Cádiz	Cádiz	Spanish
+Cádiz	Gades	Latin
+Cádiz	Gadir	Phoenician
+Cádiz	Qādis	Arabic
+Cartagena	Cartagena	Spanish
+Cartagena	Mastia	Tartessian
+Cartagena	Qart Hadasht	Punic
+Cartagena	Carthago Nova	Latin
+Cartagena	Cartago Spartaria	Latin
+Cartagena	Qartayannat-al-Halfa	Arabic
+Carteia	K'rt	Punic
+Carteia	Carteia	Latin
+Carteia	Qartayanna	Arabic
+Córdoba	Córdoba	Spanish
+Córdoba	Corduba	Latin
+Córdoba	Colonia Patricia	Latin
+Córdoba	Qurṭubah	Arabic
+Écija	Écija	Spanish
+Écija	Astigi	Latin
+Écija	Istiǧǧa	Arabic
+Lugo	Lugo	Spanish
+Lugo	Lucus	Latin
+Málaga	Málaga	Spanish
+Málaga	Malaca	Latin
+Málaga	Malake	Punic
+Málaga	Mālaqah	Arabic
+Mérida	Mérida	Spanish
+Mérida	Augusta Emerita	Latin
+Pamplona	Pamplona	Spanish
+Pamplona	Pompaelo	Latin
+Sagunto	Sagunto	Spanish
+Sagunto	Saguntum	Latin
+Salamanca	Salamanca	Spanish
+Salamanca	Salamantica	Latin
+Seville	Sevilla	Spanish
+Seville	Seville	English
+Seville	Hispalis	Latin
+Tarragona	Tarragona	Spanish
+Tarragona	Tarraco	Latin
+Toledo	Toledo	Spanish
+Toledo	Toletum	Latin
+Valencia	Valencia	Spanish
+Valencia	Valentia	Latin
+Zaragoza	Zaragoza	Spanish
+Zaragoza	Caesaraugusta	Latin

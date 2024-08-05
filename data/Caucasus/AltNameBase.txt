@@ -1,5 +1,8 @@
 Ani	Ani	Armenian
+Artashat	Artashat	Armenian
+Artashat	Artaxata	Armenian
 Batumi	Batumi	Georgian
+Dvin	Dvin	Armenian
 Gori	Gori	Georgian
 Kars	Kars	Armenian
 Kutaisi	Kutaisi	Georgian
@@ -10,6 +13,11 @@ Sukhumi	Dioscurias	Greek
 Sukhumi	Sebastopolis	Latin
 Tbilisi	Tbilisi	Georgian
 Tbilisi	Tiflis	English
+Tigranakert	Tigranakert	Armenian
+Vagharshapat	Vagharshapat	Armenian
+Vagharshapat	Vardgesavan	Armenian
+Vagharshapat	Ejmiatsin	Armenian
+Vagharshapat	Kuarlini	Urartian
 Van	Van	Armenian
-Van	Tushpa	Akkadian
+Van	Tushpa	Urartian
 Van	Tosp	Armenian

@@ -1,0 +1,53 @@
+Astorga	-14	500	Asturica	2	1
+Astorga	501	750	Asturica	3	1
+Astorga	751	850	Asturica	4	1
+Astorga	851	1000	Asturica	3	1
+Astorga	1001	2100	Astorga	3	1
+Baelo Claudia	-100	150	Baelo Claudia	2	6
+Baelo Claudia	151	600	Baelo Claudia	4	6
+Cáceres	-75	500	Norba Caesarina	2	1
+Cáceres	501	700	Norba Caesarina	3	1
+Cáceres	701	1250	Norba Caesarina	2	1
+Cáceres	1251	2100	Cáceres	2	1
+Cádiz	-800	-500	Gadir	2	1
+Cádiz	-499	-246	Gadir	4	1
+Cádiz	-245	-206	Gadir	3	1
+Cádiz	-205	500	Gades	2	1
+Cádiz	501	710	Gades	3	1
+Cádiz	711	1262	Qādis	2	1
+Cádiz	1263	2100	Cádiz	2	1
+Cartagena	-228	-210	Qart Hadasht	2	1
+Cartagena	-209	400	Carthago Nova	2	1
+Cartagena	400	713	Carthago Nova	3	1
+Cartagena	714	1244	Qartayannat-al-Halfa	3	1
+Cartagena	1245	2100	Cartagena	3	1
+Carteia	-500	-191	K'rt	3	1
+Carteia	-190	409	Carteia	2	1
+Carteia	491	700	Carteia	3	1
+Carteia	701	1000	Qartayanna	4	1
+Córdoba	-300	-46	Corduba	3	1
+Córdoba	-45	711	Colonia Patricia	2	1
+Córdoba	712	1235	Qurṭubah	2	1
+Córdoba	1236	2100	Córdoba	2	1
+Écija	-200	-46	Astigi	3	1
+Écija	-45	710	Astigi	2	1
+Écija	711	1239	Istiǧǧa	3	1
+Écija	1240	2100	Écija	3	1
+Lugo	-300	600	Lucus	3	1
+Lugo	601	1800	Lugo	4	1
+Málaga	-600	-150	Malake	3	1
+Málaga	-149	711	Malaca	3	1
+Málaga	712	1486	Mālaqah	3	1
+Málaga	1487	2100	Málaga	3	1
+Mérida	-25	712	Augusta Emerita	3	1
+Mérida	713	900	Mérida	3	1
+Mérida	901	1229	Mérida	4	1
+Mérida	1230	2100	Mérida	3	1
+Pamplona	-300	600	Pompaelo	3	1
+Sagunto	-300	600	Saguntum	3	1
+Salamanca	-300	600	Salamantica	3	1
+Seville	-300	600	Hispalis	3	1
+Tarragona	-300	600	Tarraco	3	1
+Toledo	-300	600	Toletum	3	1
+Valencia	-300	600	Valentia	3	1
+Zaragoza	-300	600	Caesaraugusta	3	1

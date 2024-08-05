@@ -2,7 +2,11 @@ Ani	500	960	Ani	4	3
 Ani	961	1063	Ani	2	3
 Ani	1064	1236	Ani	3	3
 Ani	1237	1735	Ani	4	3
+Artashat	-176	120	Artashat	2	1
+Artashat	121	600	Artashat	3	1
 Batumi	780	2100	Batumi	3	3
+Dvin	335	428	Dvin	2	0
+Dvin	429	1236	Dvin	3	0
 Gori	1000	2100	Gori	3	3
 Kars	800	927	Kars	4	3
 Kars	928	963	Kars	2	3
@@ -15,5 +19,11 @@ Sukhumi	50	564	Sebastopolis	4	3
 Sukhumi	565	736	Sebastopolis	3	3
 Sukhumi	737	2100	Tskhumi	3	3
 Tbilisi	458	2100	Tbilisi	2	3
+Tigranakert	-100	-69	Tigranakert	2	3
+Tigranakert	-68	700	Tigranakert	3	3
+Vagharshapat	-700	-571	Kuarlini	3	2
+Vagharshapat	-570	99	Vardgesavan	3	2
+Vagharshapat	100	451	Vagharshapat	2	2
+Vagharshapat	452	2100	Vagharshapat	3	2
 Van	-900	-100	Tushpa	3	3
 Van	-99	2100	Van	3	3

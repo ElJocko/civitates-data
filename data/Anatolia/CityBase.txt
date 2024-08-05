@@ -6,7 +6,9 @@ Dardanus	Dardanos	P	ancient
 Elaeus	Elaeus	TR	ancient
 Ephesus	Ephesus	TR	ancient
 Gelibolu	Gelibolu	TR	modern
+Gordion	Gordion/Vindia?	P	ancient
 Hattusa	Hattusa	P	ancient
+Heraclea Pontica	Heraclea	P	ancient
 İznik	Iznik	TR	modern
 Konya	Konya	TR	modern
 Laodicea	Laodicea	TR	ancient

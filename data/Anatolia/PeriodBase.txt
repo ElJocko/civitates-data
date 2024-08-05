@@ -12,7 +12,14 @@ Ephesus	-649	650	Ephesos	2	1
 Ephesus	651	1400	Ephesos	4	1
 Gelibolu	-450	1354	Callipolis	4	1
 Gelibolu	1355	2100	Gelibolu	4	1
+Gordion	-900	-751	Gordion	3	3
+Gordion	-750	-547	Gordion	2	3
+Gordion	-546	300	Gordion	3	3
+Gordion	301	2100	Gordion	4	3
 Hattusa	-2000	-1200	Hattusa	1	1
+Heraclea Pontica	-560	-64	Heraclea Pontica	2	2
+Heraclea Pontica	-63	1260	Heraclea Pontica	3	2
+Heraclea Pontica	1261	1500	Heraclea Pontica	4	2
 İznik	-315	-301	Antagoneia	2	5
 İznik	-300	-72	Nicaea	2	5
 İznik	-71	368	Nicaea	1	5

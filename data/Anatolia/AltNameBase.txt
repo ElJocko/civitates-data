@@ -12,7 +12,12 @@ Ephesus	Ephesos	Greek
 Ephesus	Ephesus	English
 Gelibolu	Callipolis	Greek
 Gelibolu	Gelibolu	Turkish
+Gordion	Gordion	English
+Gordion	Gordium	Latin
+Gordion	Gordum	Phrygian
 Hattusa	Hattusa	Hittite
+Heraclea Pontica	Heraclea Pontica	Greek
+Heraclea Pontica	Pontoheraclea	Greek
 İznik	Nicaea	Greek
 İznik	İznik	Turkish
 Konya	Iconium	Latin
