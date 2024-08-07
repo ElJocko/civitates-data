@@ -1,7 +1,14 @@
+Almería	Almería	Spanish
+Almería	Madīnat al-Mariyya	Arabic
+Antequera	Antequera	Spanish
+Antequera	Anticaria	Latin
+Antequera	Antaquira	Arabic
 Astorga	Astorga	Spanish
 Astorga	Asturica	Latin
 Astorga	Estorga	Leonese
 Baelo Claudia	Baelo Claudia	Latin
+Barcelona	Barcelona	Spanish
+Barcelona	Barcino	Latin
 Cáceres	Cáceres	Spanish
 Cáceres	Norba Caesarina	Latin
 Cádiz	Cádiz	Spanish
@@ -24,28 +31,45 @@ Córdoba	Qurṭubah	Arabic
 Écija	Écija	Spanish
 Écija	Astigi	Latin
 Écija	Istiǧǧa	Arabic
+Gibraltar	Gibraltar	English
+Granada	Granada	Spanish
+Granada	Ġarnāṭa	Arabic
+Jaén	Jaén	Spanish
+Jaén	Aurgi	Punic
+Jaén	Ŷaīyyān	Arabic
 Lugo	Lugo	Spanish
 Lugo	Lucus	Latin
+Madrid	Majrīṭ	Arabic
+Madrid	Madrid	Spanish
 Málaga	Málaga	Spanish
 Málaga	Malaca	Latin
 Málaga	Malake	Punic
 Málaga	Mālaqah	Arabic
 Mérida	Mérida	Spanish
 Mérida	Augusta Emerita	Latin
+Murcia	Murcia	Spanish
+Murcia	Mursiyah	Arabic
 Pamplona	Pamplona	Spanish
-Pamplona	Pompaelo	Latin
+Pamplona	Pompelo	Latin
+Pamplona	Iruña	Vascone
 Sagunto	Sagunto	Spanish
 Sagunto	Saguntum	Latin
+Sagunto	Morvedre	Arabic
 Salamanca	Salamanca	Spanish
 Salamanca	Salamantica	Latin
 Seville	Sevilla	Spanish
 Seville	Seville	English
 Seville	Hispalis	Latin
+Seville	Hisbaal	Punic
+Seville	Ishbiliyah	Arabic
 Tarragona	Tarragona	Spanish
 Tarragona	Tarraco	Latin
 Toledo	Toledo	Spanish
 Toledo	Toletum	Latin
+Toledo	Ṭulayṭulah	Arabic
 Valencia	Valencia	Spanish
 Valencia	Valentia	Latin
+Valencia	Balansiya	Arabic
 Zaragoza	Zaragoza	Spanish
 Zaragoza	Caesaraugusta	Latin
+Zaragoza	Saraqusta	Arabic
