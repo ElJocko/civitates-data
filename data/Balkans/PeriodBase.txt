@@ -35,6 +35,7 @@ Preslav	894	970	Preslav	2	0
 Preslav	971	2100	Preslav	3	0
 Ratiaria	-75	250	Ratiaria	4	0
 Ratiaria	251	586	Ratiaria	3	0
+Salona	-50	625	Salona	2	0
 Scupi	-150	518	Scupi	3	0
 Silistra	150	679	Durostorum	3	0
 Silistra	680	1400	Drastar	3	0
@@ -48,10 +49,10 @@ Sofia	-50	447	Serdica	2	0
 Sofia	550	809	Serdica	3	0
 Sofia	810	1385	Sredets	2	0
 Sofia	1386	2100	Sofia	2	0
-Split	-200	304	Aspálathos	3	0
-Split	305	649	Aspalatum	3	0
-Split	650	925	Aspalatum	2	0
-Split	926	2100	Split	2	0
+Split	-200	304	Aspálathos	3	3
+Split	305	649	Aspalatum	3	3
+Split	650	925	Aspalatum	2	3
+Split	926	2100	Split	2	3
 Stobi	-200	600	Stobi	3	0
 Tarnovo	680	1185	Tarnovo	3	0
 Tarnovo	1186	1393	Tarnovo	2	0

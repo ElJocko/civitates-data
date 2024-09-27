@@ -24,6 +24,7 @@ Brescia	Brescia	IT	modern
 Brindisi	Brindisi	IT	modern
 Buonalbergo	Buonalbergo	IT	modern
 Butera	Butera	IT	modern
+Cagliari	Cagliari	IT	modern
 Camerino	Camerino	IT	modern
 Capua	Capua	IT	modern
 Casale Monferrato	Casale Monferrato	IT	modern
@@ -130,6 +131,7 @@ Taormina	Taormina	IT	modern
 Taranto	Taranto	IT	modern
 Tarquinia	Tarquinia	IT	modern
 Terracina	Terracina	IT	modern
+Tharros	Tharros	P	ancient
 Thurii	Thurii	IT	ancient
 Tivoli	Tivoli	IT	modern
 Todi	Todi	IT	modern

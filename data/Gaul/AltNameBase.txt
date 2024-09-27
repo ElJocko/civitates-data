@@ -11,5 +11,8 @@ Narbonne	Narbonne	French
 Narbonne	Colonia Narbo Martius	Latin
 Narbonne	Narbo	Latin
 Narbonne	Narbona	Latin
+Nice	Nice	French
+Nice	Níkaia	Greek
+Nice	Nicaea	Latin
 Toulouse	Toulouse	French
 Toulouse	Tolosa	Latin

@@ -1,3 +1,4 @@
+Acci	Acci	Greek
 Almería	Almería	Spanish
 Almería	Madīnat al-Mariyya	Arabic
 Antequera	Antequera	Spanish
@@ -6,9 +7,14 @@ Antequera	Antaquira	Arabic
 Astorga	Astorga	Spanish
 Astorga	Asturica	Latin
 Astorga	Estorga	Leonese
+Badajoz	Badajoz	Spanish
+Badajoz	Baṭalyaws	Arabic
 Baelo Claudia	Baelo Claudia	Latin
 Barcelona	Barcelona	Spanish
 Barcelona	Barcino	Latin
+Braga	Braga	Portuguese
+Braga	Bracara Augusta	Latin
+Burgos	Burgos	Spanish
 Cáceres	Cáceres	Spanish
 Cáceres	Norba Caesarina	Latin
 Cádiz	Cádiz	Spanish
@@ -24,19 +30,40 @@ Cartagena	Qartayannat-al-Halfa	Arabic
 Carteia	K'rt	Punic
 Carteia	Carteia	Latin
 Carteia	Qartayanna	Arabic
-Córdoba	Córdoba	Spanish
+Caspe	Caspe	Spanish
+Coimbra	Aeminium	Latin
+Coimbra	Coimbra	Spanish
+Coimbra	Conimbriga	Latin
 Córdoba	Corduba	Latin
 Córdoba	Colonia Patricia	Latin
 Córdoba	Qurṭubah	Arabic
+Dénia	Dianium	Latin
+Dénia	Dāniyya	Arabic
+Dénia	Dénia	Spanish
 Écija	Écija	Spanish
 Écija	Astigi	Latin
 Écija	Istiǧǧa	Arabic
+Emporiae	Empúries	Greek
+Emporiae	Emporiae	Latin
 Gibraltar	Gibraltar	English
 Granada	Granada	Spanish
 Granada	Ġarnāṭa	Arabic
+Huesca	Huesca	Spanish
+Huesca	Osca	Latin
+Huesca	Washqah	Arabic
+Iria Flavia	Iria Flavia	Latin
+Iria Flavia	Padrón	Spanish
 Jaén	Jaén	Spanish
 Jaén	Aurgi	Punic
 Jaén	Ŷaīyyān	Arabic
+León	León	Spanish
+León	Legio	Latin
+Lisbon	Lisbon	Portuguese
+Lisbon	Ulyssippo	Latin
+Lisbon	Olissipo	Latin
+Lleida	Lleida	Catalan
+Lleida	Lérida	Spanish
+Lleida	Llerda	Latin
 Lugo	Lugo	Spanish
 Lugo	Lucus	Latin
 Madrid	Majrīṭ	Arabic
@@ -49,24 +76,42 @@ Mérida	Mérida	Spanish
 Mérida	Augusta Emerita	Latin
 Murcia	Murcia	Spanish
 Murcia	Mursiyah	Arabic
+Oviedo	Oviedo	Spanish
+Palma	Palma	Spanish
+Palma	Medina Mayurqa	Arabic
+Palma	Palma	Spanish
+Palma	Palma	Spanish
 Pamplona	Pamplona	Spanish
 Pamplona	Pompelo	Latin
 Pamplona	Iruña	Vascone
+Porto	Porto	Portuguese
+Porto	Oporto	Portuguese
+Porto	Portus Cale	Latin
 Sagunto	Sagunto	Spanish
 Sagunto	Saguntum	Latin
 Sagunto	Morvedre	Arabic
 Salamanca	Salamanca	Spanish
 Salamanca	Salamantica	Latin
+Santarém	Santarém	Spanish
+Santarém	Scalabis	Latin
+Santarém	Shantarin	Arabic
+Santiago de Compostela	Santiago de Compostela	Spanish
+Santiago de Compostela	Compostela	Spanish
 Seville	Sevilla	Spanish
 Seville	Seville	English
 Seville	Hispalis	Latin
 Seville	Hisbaal	Punic
 Seville	Ishbiliyah	Arabic
+Tarazona	Tarazona	Spanish
 Tarragona	Tarragona	Spanish
 Tarragona	Tarraco	Latin
 Toledo	Toledo	Spanish
 Toledo	Toletum	Latin
 Toledo	Ṭulayṭulah	Arabic
+Tortosa	Tortosa	Spanish
+Tortosa	Dertosa	Latin
+Tui	Tude	Latin
+Tui	Tui	Spanish
 Valencia	Valencia	Spanish
 Valencia	Valentia	Latin
 Valencia	Balansiya	Arabic

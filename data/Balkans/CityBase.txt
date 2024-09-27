@@ -12,6 +12,7 @@ Pliska	Pliska	BG	ancient
 Plovdiv	Plovdiv	BG	ancient
 Preslav	Veliki Preslav	BG	ancient
 Ratiaria	Ratiaria	P	ancient
+Salona	Salona	P	ancient
 Scupi	Scupi	P	ancient
 Silistra	Silistra	BG	modern
 Sirmium	Sirmium	P	ancient

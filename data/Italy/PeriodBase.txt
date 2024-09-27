@@ -46,6 +46,9 @@ Brescia	1440	2100	Brescia	4	0
 Brindisi	-600	-268	Brentesion	4	0
 Brindisi	-267	674	Brundisium	1	0
 Brindisi	675	2100	Brindisi	4	0
+Cagliari	-700	-238	Karely	3	0
+Cagliari	-237	1019	Caralis	3	0
+Cagliari	1020	2100	Cagliari	3	0
 Camerino	-300	600	Camerinum	4	0
 Camerino	601	2100	Camerino	4	0
 Capua	-700	-424	Capeva	2	4
@@ -232,6 +235,8 @@ Tarquinia	601	1250	Tarquinia	3	3
 Tarquinia	1251	1922	Corneto	4	3
 Terracina	-700	600	Tarracina	3	0
 Terracina	601	2100	Terracina	3	0
+Tharros	-700	-238	Tharros	3	0
+Tharros	-237	1070	Tarras	3	0
 Thurii	-443	-204	Thurii	2	0
 Thurii	-203	600	Thurii	3	0
 Tivoli	-700	-338	Tibur	3	0

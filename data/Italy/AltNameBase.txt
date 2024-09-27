@@ -41,6 +41,9 @@ Brescia	Brixia	Latin
 Brindisi	Brindisi	Italian
 Brindisi	Brundisium	Latin
 Brindisi	Brentesion	Greek
+Cagliari	Cagliari	Italian
+Cagliari	Karely	Punic
+Cagliari	Caralis	Latin
 Camerino	Camerino	Italian
 Camerino	Camerinum	Latin
 Capua	Capeva	Etruscan
@@ -212,6 +215,8 @@ Tarquinia	Corneto	Italian
 Terracina	Anxur	Volscian
 Terracina	Tarracina	Latin
 Terracina	Terracina	Italian
+Tharros	Tharros	Greek
+Tharros	Tarrhas	Latin
 Thurii	Thurii	Greek
 Thurii	Thurium	Latin
 Thurii	Copia	Latin

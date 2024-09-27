@@ -12,6 +12,9 @@ Marseille	1450	2100	Marseille	2	0
 Narbonne	-118	719	Narbo	2	0
 Narbonne	720	758	Narbo	3	0
 Narbonne	759	2100	Narbonne	3	0
+Nice	-350	62	Níkaia	3	0
+Nice	63	640	Nicaea	3	0
+Nice	641	2100	Nice	3	0
 Toulouse	-150	-51	Tolosa	4	0
 Toulouse	-50	780	Tolosa	3	0
 Toulouse	781	2100	Toulouse	3	0

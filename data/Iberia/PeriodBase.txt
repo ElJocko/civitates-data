@@ -1,3 +1,5 @@
+Acci	-10	300	Acci	3	1
+Acci	301	600	Acci	4	1
 Almería	850	1488	Almería	2	1
 Almería	1489	2100	Almería	3	1
 Antequera	-201	715	Anticaria	3	1
@@ -8,12 +10,19 @@ Astorga	501	750	Asturica	3	1
 Astorga	751	850	Asturica	4	1
 Astorga	851	1000	Asturica	3	1
 Astorga	1001	2100	Astorga	3	1
+Badajoz	750	1200	Baṭalyaws	3	1
+Badajoz	1201	2100	Badajoz	3	1
 Baelo Claudia	-100	150	Baelo Claudia	2	6
 Baelo Claudia	151	600	Baelo Claudia	4	6
 Barcelona	-250	-16	Barcino	3	1
 Barcelona	-15	449	Barcino	3	1
 Barcelona	450	720	Barcino	2	1
 Barcelona	721	2100	Barcelona	3	1
+Braga	-16	200	Bracara Augusta	3	1
+Braga	201	700	Bracara Augusta	2	1
+Braga	701	2100	Braga	3	1
+Burgos	884	1500	Burgos	2	1
+Burgos	1501	2100	Burgos	3	1
 Cáceres	-75	500	Norba Caesarina	3	1
 Cáceres	501	700	Norba Caesarina	3	1
 Cáceres	701	1250	Norba Caesarina	3	1
@@ -34,21 +43,44 @@ Carteia	-500	-191	K'rt	3	1
 Carteia	-190	409	Carteia	2	1
 Carteia	491	700	Carteia	3	1
 Carteia	701	1000	Qartayanna	4	1
-Córdoba	-300	-46	Corduba	3	1
-Córdoba	-45	711	Colonia Patricia	2	1
-Córdoba	712	1235	Qurṭubah	2	1
-Córdoba	1236	2100	Córdoba	2	1
+Caspe	701	2100	Caspe	4	1
+Coimbra	-50	464	Aeminium	3	1
+Coimbra	465	1063	Conimbriga	3	1
+Coimbra	1064	2100	Coimbra	3	1
+Córdoba	-300	-46	Corduba	3	0
+Córdoba	-45	711	Colonia Patricia	2	0
+Córdoba	712	1235	Qurṭubah	2	0
+Córdoba	1236	2100	Córdoba	2	0
+Dénia	-350	719	Dianium	3	1
+Dénia	720	1243	Dāniyya	3	1
+Dénia	1244	2100	Dénia	4	1
 Écija	-200	-46	Astigi	3	1
 Écija	-45	710	Astigi	2	1
 Écija	711	1239	Istiǧǧa	3	1
 Écija	1240	2100	Écija	3	1
+Emporiae	-575	-218	Empúries	3	1
+Emporiae	-217	400	Emporiae	3	1
 Gibraltar	1160	2100	Gibraltar	3	1
 Granada	711	1491	Ġarnāṭa	2	1
 Granada	1492	2100	Granada	2	1
+Huesca	-500	-300	Bolskan	3	1
+Huesca	-299	790	Osca	3	1
+Huesca	791	1095	Washqah	3	1
+Huesca	1096	1187	Huesca	2	1
+Huesca	1188	2100	Huesca	3	1
+Iria Flavia	69	1150	Iria Flavia	3	1
+Iria Flavia	1151	2100	Padrón	4	1
 Jaén	-300	-208	Aurgi	3	1
 Jaén	-207	720	Aurgi	3	1
 Jaén	721	1245	Ŷaīyyān	3	1
 Jaén	1246	2100	Jaén	3	1
+León	74	855	Legio	3	1
+León	856	1500	León	2	1
+León	1501	2100	León	3	1
+Lleida	-200	700	Llerda	3	1
+Lleida	701	2100	Lérida	3	1
+Lisbon	-150	1146	Olissipo	3	1
+Lisbon	1147	2100	Lisbon	2	1
 Lugo	-13	700	Lucus	3	1
 Lugo	701	2100	Lugo	4	1
 Madrid	850	1082	Majrīṭ	3	1
@@ -64,20 +96,32 @@ Mérida	901	1229	Mérida	4	1
 Mérida	1230	2100	Mérida	3	1
 Murcia	825	1242	Mursiyah	3	1
 Murcia	1243	2100	Murcia	3	1
+Oviedo	761	2100	Oviedo	2	1
+Palma	-123	2100	Palma	3	1
+Palma	902	1229	Medina Mayurqa	3	1
+Palma	1230	2100	Palma	3	1
 Pamplona	-200	-75	Iruña	3	1
 Pamplona	-74	900	Pompelo	3	1
 Pamplona	901	2100	Pamplona	3	1
+Porto	-400	1092	Portus Cale	3	1
+Porto	1093	2100	Porto	2	1
 Sagunto	-300	720	Saguntum	2	1
 Sagunto	721	1237	Morvedre	3	1
 Sagunto	1238	2100	Sagunto	3	1
 Salamanca	-300	754	Salamantica	3	1
 Salamanca	755	938	Salamantica	4	1
 Salamanca	939	2100	Salamanca	3	1
+Santarém	-138	750	Scalabis	3	1
+Santarém	751	1146	Shantarin	3	1
+Santarém	1147	2100	Santarém	3	1
+Santiago de Compostela	865	1150	Compostela	3	2
+Santiago de Compostela	1151	2100	Santiago de Compostela	2	2
 Seville	-400	-150	Hisbaal	3	1
 Seville	-149	711	Hispalis	3	1
 Seville	712	1023	Ishbiliyah	3	1
 Seville	1024	1247	Ishbiliyah	2	1
 Seville	1248	2100	Sevilla	2	1
+Tarazona	100	2100	Tarazona	4	1
 Tarragona	-200	-25	Tarraco	3	1
 Tarragona	-24	200	Tarraco	2	1
 Tarragona	201	1116	Tarraco	3	1
@@ -87,6 +131,11 @@ Toledo	301	540	Toletum	2	1
 Toledo	541	710	Toletum	1	1
 Toledo	711	1084	Ṭulayṭulah	2	1
 Toledo	1085	2100	Toledo	2	1
+Tortosa	-200	713	Dertosa	3	1
+Tortosa	714	2100	Tortosa	3	1
+Tui	-50	740	Tude	3	1
+Tui	741	860	Tude	4	1
+Tui	861	2100	Tui	4	1
 Valencia	-138	713	Valentia	3	1
 Valencia	714	1237	Balansiya	3	1
 Valencia	1238	2100	Valencia	3	1
