@@ -8,6 +8,7 @@ Iolkos	Iolkos	GR	ancient
 Istanbul	Istanbul	TR	modern
 Koroni	Koroni	GR	modern
 Larissa	Larisa	GR	modern
+Kardia	Kardia/Lysimacheia	P	ancient
 Megara	Megara	GR	modern
 Messene	Messene	P	ancient
 Mycenae	Mycenae	GR	ancient

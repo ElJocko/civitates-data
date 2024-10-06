@@ -3,9 +3,17 @@ Abydos	Abydus	Greek
 Adana	Adana	Hittite
 Ankara	Ankara	Turkish
 Ankara	Ánkyra	Greek
+Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	Latin
+Apollonia ad Rhyndacum	Apollonia	Latin
+Chalcedon	Kadıköy	Turkish
+Chalcedon	Chalcedon	Greek
 Colophon	Colophon	Greek
+Cyzicus	Cyzicus	Greek
 Dardanus	Dardania	Greek
 Dardanus	Dardanus	Greek
+Dascylium	Dascylium	Greek
+Dascylium	Daskyleion	Greek
+Dascylium	Dascylus	Latin
 Elaeus	Elaeus	Greek
 Ephesus	Efes	Turkish
 Ephesus	Ephesos	Greek
@@ -16,13 +24,22 @@ Gordion	Gordion	English
 Gordion	Gordium	Latin
 Gordion	Gordum	Phrygian
 Hattusa	Hattusa	Hittite
+Helenopolis	Helenopolis	Greek
+Helenopolis	Drepanon	Latin
 Heraclea Pontica	Heraclea Pontica	Greek
 Heraclea Pontica	Pontoheraclea	Greek
+İzmit	İzmit	Turkish
+İzmit	Nicomedia	Greek
+İzmit	Ólbia	Greek
 İznik	Nicaea	Greek
 İznik	İznik	Turkish
+Karatepe	Karatepe	Turkish
+Karatepe	Azatiwataya	Hittite
 Konya	Iconium	Latin
 Konya	Ikónion	Greek
 Konya	Konya	Turkish
+Lampsacus	Lampsacus	Greek
+Lampsacus	Pityoussa	Greek
 Laodicea	Diospolis	Greek
 Laodicea	Laodicea	Greek
 Laodicea	Rhodas	Greek
@@ -39,6 +56,8 @@ Philadelphia	Alaşehir	Greek
 Philadelphia	Philadelphia	Greek
 Rhoiteion	Rhoeteum	Latin
 Rhoiteion	Rhoiteion	Greek
+Samʾal	Samʾal	Assyrian
+Samʾal	Zincirli	Turkish
 Sapinuwa	Sapinuwa	Hittite
 Sardis	Sardeis	Greek
 Sardis	Sardis	Greek

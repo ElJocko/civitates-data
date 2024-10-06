@@ -21,6 +21,8 @@ Istanbul	324	1452	Constantinople	0	4
 Istanbul	1453	2100	Istanbul	1	4
 Koroni	700	2100	Koroni	4	6
 Larissa	-600	2100	Larissa	3	4
+Kardia	-600	-310	Kardia	3	1
+Kardia	-309	-197	Lysimacheia	2	1
 Megara	-700	-300	Megara	2	4
 Megara	-299	700	Megara	3	4
 Megara	701	2100	Megara	4	4

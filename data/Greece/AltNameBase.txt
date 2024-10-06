@@ -20,6 +20,8 @@ Koroni	Corone	Italian
 Koroni	Koroni	Greek
 Larissa	Larissa	Greek
 Larissa	Lárisa	ModernGreek
+Kardia	Kardia	Greek
+Kardia	Lysimacheia	Greek
 Megara	Megara	Greek
 Messene	Messene	Greek
 Messene	Messenia	Greek

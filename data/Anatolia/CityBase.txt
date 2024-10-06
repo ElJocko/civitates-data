@@ -1,16 +1,24 @@
 Abydos	Abydos	TR	ancient
 Adana	Adana	TR	modern
 Ankara	Ankara	TR	modern
+Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	P	ancient
+Chalcedon	Chalcedon	P	ancient
 Colophon	Colophon	TR	ancient
+Cyzicus	Cyzicus	P	ancient
 Dardanus	Dardanos	P	ancient
+Dascylium	Daskyleion	P	ancient
 Elaeus	Elaeus	TR	ancient
 Ephesus	Ephesus	TR	ancient
 Gelibolu	Gelibolu	TR	modern
 Gordion	Gordion/Vindia?	P	ancient
 Hattusa	Hattusa	P	ancient
+Helenopolis	Drepanon/Helenopolis	P	ancient
 Heraclea Pontica	Heraclea	P	ancient
+İzmit	Izmit	TR	modern
 İznik	Iznik	TR	modern
+Karatepe	Karatepe	P	ancient
 Konya	Konya	TR	modern
+Lampsacus	Pityoussa/Lampsacus	P	ancient
 Laodicea	Laodicea	TR	ancient
 Miletus	Miletus	TR	ancient
 Mersin	Mercin	TR	modern
@@ -18,6 +26,7 @@ Nerik	Nerik	TR	ancient
 Pergamon	Pergamon	TR	ancient
 Philadelphia	Alasehir	TR	modern
 Rhoiteion	Rhoiteion	TR	ancient
+Samʾal	Samʾal	P	ancient
 Sapinuwa	Sapinuwa	P	ancient
 Sardis	Sardis	TR	ancient
 Sestos	Sestos	TR	ancient

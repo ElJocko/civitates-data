@@ -18,7 +18,7 @@ output_filename = "City.json"
 geonames_filename = "cities1000.txt"
 pleiades_filename = "pleiades-places.csv"
 
-folders = ["Italy", "Greece", "Crete", "Cyprus", "Aegean Islands", "Anatolia", "Balkans", "Gaul", "Caucasus", "Iberia"]
+folders = ["Italy", "Greece", "Crete", "Cyprus", "Aegean Islands", "Anatolia", "Balkans", "Gaul", "Caucasus", "Iberia", "Syria", "Mesopotamia"]
 def make_path_list_from_folders(file_name):
     path_list = []
     for folder in folders:
