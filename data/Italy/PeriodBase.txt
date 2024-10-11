@@ -60,8 +60,8 @@ Catania	-730	-264	Katane	4	0
 Catania	-263	535	Catana	3	0
 Catania	536	2100	Catania	4	0
 Cerveteri	-700	-200	Caisra	3	2
-Cerveteri	-199	600	Caere	3	0
-Cerveteri	601	2100	Cerveteri	4	0
+Cerveteri	-199	600	Caere	3	2
+Cerveteri	601	2100	Cerveteri	4	2
 Chieti	-300	600	Teate	4	0
 Chieti	601	1129	Chieti	4	0
 Chieti	1130	1400	Chieti	3	0

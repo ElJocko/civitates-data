@@ -3,10 +3,13 @@ Adana	-1600	620	Adana	3	1
 Adana	758	2100	Adana	3	1
 Ankara	-1000	1073	Ánkyra	2	1
 Ankara	1074	2100	Ankara	2	1
+Apamea Myrlea	-400	-203	Myrlea	3	1
+Apamea Myrlea	-202	1084	Apamea	3	1
 Apollonia ad Rhyndacum	-200	1084	Apollonia	4	1
 Chalcedon	-685	1202	Chalcedon	3	1
 Chalcedon	1203	1350	Chalcedon	4	1
 Chalcedon	1351	2100	Kadıköy	4	1
+Cius	-600	1084	Cius	3	0
 Colophon	-750	-250	Colophon	3	1
 Colophon	-249	500	Colophon	4	1
 Cyzicus	-600	-431	Cyzicus	3	1
@@ -26,7 +29,7 @@ Gordion	-750	-547	Gordion	2	3
 Gordion	-546	300	Gordion	3	3
 Gordion	301	2100	Gordion	4	3
 Hattusa	-2000	-1200	Hattusa	1	1
-Helenopolis	-600	1084	Helenopolis	4	1
+Helenopolis	-600	1084	Helenopolis	4	3
 Heraclea Pontica	-560	-64	Heraclea Pontica	2	2
 Heraclea Pontica	-63	1260	Heraclea Pontica	3	2
 Heraclea Pontica	1261	1500	Heraclea Pontica	4	2

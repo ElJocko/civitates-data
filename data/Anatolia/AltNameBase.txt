@@ -3,10 +3,13 @@ Abydos	Abydus	Greek
 Adana	Adana	Hittite
 Ankara	Ankara	Turkish
 Ankara	Ánkyra	Greek
+Apamea Myrlea	Apamea Myrlea	Greek
 Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	Latin
 Apollonia ad Rhyndacum	Apollonia	Latin
 Chalcedon	Kadıköy	Turkish
 Chalcedon	Chalcedon	Greek
+Cius	Cius	Greek
+Cius	Prusias ad Mare	Latin
 Colophon	Colophon	Greek
 Cyzicus	Cyzicus	Greek
 Dardanus	Dardania	Greek

@@ -1,8 +1,10 @@
 Abydos	Abydos	TR	ancient
 Adana	Adana	TR	modern
 Ankara	Ankara	TR	modern
+Apamea Myrlea	Brylleion/Myrleia/Apamea/Col. Iulia Concordia	P	ancient
 Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	P	ancient
 Chalcedon	Chalcedon	P	ancient
+Cius	Cius	P	ancient
 Colophon	Colophon	TR	ancient
 Cyzicus	Cyzicus	P	ancient
 Dardanus	Dardanos	P	ancient
