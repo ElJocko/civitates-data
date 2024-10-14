@@ -3,6 +3,7 @@ import json
 import os
 from collections import namedtuple
 from dataclasses import dataclass
+from operator import attrgetter
 import labelCalc
 import geonames
 import pleiades
@@ -95,7 +96,7 @@ def find_geonames_city(name, country_code):
 def find_pleiades_settlement(title):
     for settlement in pleiades_settlement_list:
         if settlement.title == title:
-            print("  found", title, "in pleiades settlements")
+            # print("  found", title, "in pleiades settlements")
             return settlement
     return None
 
@@ -160,6 +161,7 @@ for city_base in city_base_list:
         }}
     city_list.append(city_dict)
 
+
 @dataclass
 class CityPeriodCalc:
     id: str
@@ -209,6 +211,23 @@ def check_cities_overlap(cities0, cities1):
     return overlap_found
 
 
+def count_cities_by_size(cities):
+    count = [0, 0, 0, 0, 0]
+    for city in cities:
+        city_periods = city["properties"]["periods"]
+
+        if len(city_periods) == 0:
+            print("  no periods entered for ", city["properties"]["identifier"])
+        else:
+            min_period = min(city_periods, key=lambda x: x["size"])
+            city_size = int(min_period["size"])
+            count[city_size] = count[city_size] + 1
+
+    print("City sizes:")
+    for size in range(0, 5):
+        print("  size ", size, ": ", count[size])
+
+
 def min_size_for_zoom_level(zoom_level):
     zoom_threshholds = [0.0, 5.0, 6.0, 7.0, 8.0]
     min_size = -1
@@ -243,6 +262,8 @@ for year in [-500, -250, -100, 100, 250, 500, 1000]:
 #check_cities_overlap(cities[1], cities[2])
 #check_cities_overlap(cities[1], cities[3])
 #check_cities_overlap(cities[2], cities[3])
+
+count_cities_by_size(city_list)
 
 output_object = { 'type': 'FeatureCollection', 'crs': { 'type': 'name', 'properties': { 'name': 'EPSG:4326' }}, 'features': city_list }
 output_path = os.path.join(base_path, output_filename)

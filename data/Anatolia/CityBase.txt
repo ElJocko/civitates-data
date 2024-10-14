@@ -1,8 +1,10 @@
 Abydos	Abydos	TR	ancient
 Adana	Adana	TR	modern
+Amasra	Amasra	TR	modern
 Ankara	Ankara	TR	modern
 Apamea Myrlea	Brylleion/Myrleia/Apamea/Col. Iulia Concordia	P	ancient
 Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	P	ancient
+Çankırı	Khanjarah	TR	modern
 Chalcedon	Chalcedon	P	ancient
 Cius	Cius	P	ancient
 Colophon	Colophon	TR	ancient
@@ -27,8 +29,10 @@ Mersin	Mercin	TR	modern
 Nerik	Nerik	TR	ancient
 Pergamon	Pergamon	TR	ancient
 Philadelphia	Alasehir	TR	modern
+Pompeiopolis	Pompeiopolis/Sebaste	P	ancient
 Rhoiteion	Rhoiteion	TR	ancient
 Samʾal	Samʾal	P	ancient
+Samsun	Samsun	TR	modern
 Sapinuwa	Sapinuwa	P	ancient
 Sardis	Sardis	TR	ancient
 Sestos	Sestos	TR	ancient

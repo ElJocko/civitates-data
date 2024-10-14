@@ -1,11 +1,17 @@
 Abydos	-700	1456	Abydos	4	1
 Adana	-1600	620	Adana	3	1
 Adana	758	2100	Adana	3	1
+Amasra	-600	830	Amastris	3	1
+Amasra	831	2100	Amasra	4	1
 Ankara	-1000	1073	Ánkyra	2	1
 Ankara	1074	2100	Ankara	2	1
 Apamea Myrlea	-400	-203	Myrlea	3	1
 Apamea Myrlea	-202	1084	Apamea	3	1
 Apollonia ad Rhyndacum	-200	1084	Apollonia	4	1
+Çankırı	-400	-50	Gangra	2	1
+Çankırı	-49	600	Germanicopolis	3	1
+Çankırı	601	1350	Germanicopolis	4	1
+Çankırı	1351	2100	Çankırı	4	1
 Chalcedon	-685	1202	Chalcedon	3	1
 Chalcedon	1203	1350	Chalcedon	4	1
 Chalcedon	1351	2100	Kadıköy	4	1
@@ -60,11 +66,16 @@ Pergamon	-350	620	Pergamon	2	1
 Pergamon	621	1400	Pergamon	3	1
 Philadelphia	-189	1390	Philadelphia	3	1
 Philadelphia	1391	2100	Alaşehir	4	1
+Pompeiopolis	-64	450	Pompeiopolis	3	1
+Pompeiopolis	451	1250	Pompeiopolis	4	1
+Pompeiopolis	1251	1400	Taşköprü	4	1
 Rhoiteion	-500	50	Rhoiteion	4	1
 Samʾal	-1900	-1610	Samʾal	3	1
 Samʾal	-1609	-921	Samʾal	4	1
 Samʾal	-920	-718	Samʾal	2	1
 Samʾal	-717	-600	Samʾal	3	1
+Samsun	-760	1349	Amisos	3	1
+Samsun	1350	2100	Samsun	3	1
 Sapinuwa	-2000	-1200	Sapinuwa	3	1
 Sardis	-650	1071	Sardis	2	1
 Sardis	1072	1402	Sardis	3	1

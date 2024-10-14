@@ -1,11 +1,17 @@
 Abydos	Abydos	Greek
 Abydos	Abydus	Greek
 Adana	Adana	Hittite
+Amasra	Amasra	Greek
+Amasra	Amastris	Greek
 Ankara	Ankara	Turkish
 Ankara	Ánkyra	Greek
 Apamea Myrlea	Apamea Myrlea	Greek
 Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	Latin
 Apollonia ad Rhyndacum	Apollonia	Latin
+Çankırı	Çankırı	Turkish
+Çankırı	Gangra	Greek
+Çankırı	Germanicopolis	Greek
+Çankırı	Khanjarah	Turkish
 Chalcedon	Kadıköy	Turkish
 Chalcedon	Chalcedon	Greek
 Cius	Cius	Greek
@@ -57,10 +63,16 @@ Pergamon	Pergamon	Greek
 Pergamon	Pergamum	Greek
 Philadelphia	Alaşehir	Greek
 Philadelphia	Philadelphia	Greek
+Pompeiopolis	Pompeiopolis	Greek
+Pompeiopolis	Taşköprü	Turkish
 Rhoiteion	Rhoeteum	Latin
 Rhoiteion	Rhoiteion	Greek
 Samʾal	Samʾal	Assyrian
 Samʾal	Zincirli	Turkish
+Samsun	Samsun	Turkish
+Samsun	Amisos	Greek
+Samsun	Sampsounta	ModernGreek
+Samsun	Simisso	Italian
 Sapinuwa	Sapinuwa	Hittite
 Sardis	Sardeis	Greek
 Sardis	Sardis	Greek

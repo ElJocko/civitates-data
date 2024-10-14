@@ -14,6 +14,7 @@ Amalfi	1138	2100	Amalfi	4	1
 Ancona	-387	97	Ancona	4	0
 Ancona	98	840	Ancona	3	0
 Ancona	841	2100	Ancona	4	0
+Andria	1000	2100	Andria	4	3
 Anzio	-700	235	Antium	3	0
 Anzio	236	600	Antium	4	0
 Aquileia	-180	-91	Aquileia	3	0
@@ -29,11 +30,13 @@ Arezzo	-310	600	Arretium	3	0
 Arezzo	601	2100	Arezzo	2	0
 Assisi	-295	545	Asisium	4	0
 Assisi	546	2100	Assisi	4	0
+Aversa	1030	2100	Aversa	4	2
 Bari	-300	600	Barium	3	0
 Bari	601	2100	Bari	3	0
 Benevento	-700	-268	Maloenton	4	0
 Benevento	-267	600	Beneventum	3	0
 Benevento	601	2100	Benevento	1	0
+Bisignano	1054	2100	Bisignano	4	0
 Bologna	-700	-200	Felsina	3	0
 Bologna	-199	600	Bononia	3	0
 Bologna	601	2100	Bologna	2	0

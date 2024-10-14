@@ -10,6 +10,7 @@ Agrigento	Girgenti	Arabic
 Alessandria	Alessandria	Italian
 Amalfi	Amalfi	Italian
 Ancona	Ancona	Greek
+Andria	Andria	Italian
 Anzio	Anzio	Italian
 Anzio	Antium	Latin
 Aquileia	Aquileia	Latin
@@ -22,6 +23,7 @@ Arpi	Argyripa	Greek
 Arpi	Argos Hippium	Greek
 Assisi	Asisium	Latin
 Assisi	Assisi	Italian
+Aversa	Aversa	Italian
 Bari	Bari	Italian
 Bari	Barium	Latin
 Benevento	Benevento	Italian
@@ -29,6 +31,7 @@ Benevento	Beneventum	Latin
 Benevento	Maleventum	Latin
 Benevento	Maloenton	Greek
 Benevento	Malies	Oscan
+Bisignano	Bisignano	Italian
 Bologna	Felsina	Etruscan
 Bologna	Bona	Gaulish
 Bologna	Bononia	Latin
