@@ -1,48 +1,48 @@
-Acci	Acci	P	ancient
-Almería	Almeria	ES	modern
-Antequera	Antequera	ES	modern
-Astorga	Astorga	ES	modern
-Badajoz	Badajoz	ES	modern
-Baelo Claudia	B(a)elo	P	ancient
-Barcelona	Barcelona	ES	modern
-Braga	Braga	PT	modern
-Burgos	Burgos	ES	modern
-Cáceres	Caceres	ES	modern
-Cádiz	Cadiz	ES	modern
-Cartagena	Cartagena	ES	modern
-Carteia	Carteia/Calpe/Karpessos	P	ancient
-Caspe	Caspe	ES	modern
-Coimbra	Coimbra	PT	modern
-Córdoba	Cordoba	ES	modern
-Dénia	Denia	ES	modern
-Écija	Ecija	ES	modern
-Emporiae	Emporiae	P	ancient
-Gibraltar	Gibraltar	GI	modern
-Granada	Granada	ES	modern
-Huesca	Huesca	ES	modern
-Iria Flavia	Iria Flavia	P	ancient
-Jaén	Jaen	ES	modern
-León	Leon	ES	modern
-Lisbon	Lisbon	PT	modern
-Lleida	Lleida	ES	modern
-Lugo	Lugo	ES	modern
-Madrid	Madrid	ES	modern
-Málaga	Malaga	ES	modern
-Mérida	Merida	ES	modern
-Murcia	Murcia	ES	modern
-Oviedo	Oviedo	ES	modern
-Palma	Palma	ES	modern
-Pamplona	Pamplona	ES	modern
-Porto	Porto	PT	modern
-Sagunto	Sagunto	ES	modern
-Salamanca	Salamanca	ES	modern
-Santarém	Santarem	PT	modern
-Santiago de Compostela	Santiago de Compostela	ES	modern
-Seville	Sevilla	ES	modern
-Tarazona	Tarazona	ES	modern
-Tarragona	Tarragona	ES	modern
-Toledo	Toledo	ES	modern
-Tortosa	Tortosa	ES	modern
-Tui	Tui	ES	modern
-Valencia	Valencia	ES	modern
-Zaragoza	Zaragoza	ES	modern
+Acci	Acci	P	ancient	Acci
+Almería	Almeria	ES	modern	Almería
+Antequera	Antequera	ES	modern	Antequera
+Astorga	Astorga	ES	modern	Astorga,_Spain
+Badajoz	Badajoz	ES	modern	Badajoz
+Baelo Claudia	B(a)elo	P	ancient	Baelo Claudia
+Barcelona	Barcelona	ES	modern	Barcelona
+Braga	Braga	PT	modern	Braga
+Burgos	Burgos	ES	modern	Burgos
+Cáceres	Caceres	ES	modern	Cáceres,_Spain
+Cádiz	Cadiz	ES	modern	Cádiz
+Cartagena	Cartagena	ES	modern	Cartagena,_Spain
+Carteia	Carteia/Calpe/Karpessos	P	ancient	Carteia
+Caspe	Caspe	ES	modern	Caspe
+Coimbra	Coimbra	PT	modern	Coimbra
+Córdoba	Cordoba	ES	modern	Córdoba,_Spain
+Dénia	Denia	ES	modern	Dénia
+Écija	Ecija	ES	modern	Écija
+Emporiae	Emporiae	P	ancient	Emporiae
+Gibraltar	Gibraltar	GI	modern	Gibraltar
+Granada	Granada	ES	modern	Granada
+Huesca	Huesca	ES	modern	Huesca
+Iria Flavia	Iria Flavia	P	ancient	Iria Flavia
+Jaén	Jaen	ES	modern	Jaén,_Spain
+León	Leon	ES	modern	León,_Spain
+Lisbon	Lisbon	PT	modern	Lisbon
+Lleida	Lleida	ES	modern	Lleida
+Lugo	Lugo	ES	modern	Lugo
+Madrid	Madrid	ES	modern	Madrid
+Málaga	Malaga	ES	modern	Málaga
+Mérida	Merida	ES	modern	Mérida,_Spain
+Murcia	Murcia	ES	modern	Murcia
+Oviedo	Oviedo	ES	modern	Oviedo
+Palma	Palma	ES	modern	Palma_de_Mallorca
+Pamplona	Pamplona	ES	modern	Pamplona
+Porto	Porto	PT	modern	Porto
+Sagunto	Sagunto	ES	modern	Sagunto
+Salamanca	Salamanca	ES	modern	Salamanca
+Santarém	Santarem	PT	modern	Santarém,_Portugal
+Santiago de Compostela	Santiago de Compostela	ES	modern	Santiago de Compostela
+Seville	Sevilla	ES	modern	Seville
+Tarazona	Tarazona	ES	modern	Tarazona
+Tarragona	Tarragona	ES	modern	Tarragona
+Toledo	Toledo	ES	modern	Toledo,_Spain
+Tortosa	Tortosa	ES	modern	Tortosa
+Tui	Tui	ES	modern	Tui,_Pontevedra
+Valencia	Valencia	ES	modern	Valencia
+Zaragoza	Zaragoza	ES	modern	Zaragoza

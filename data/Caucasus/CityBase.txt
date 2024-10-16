@@ -1,12 +1,13 @@
-Ani	Ani	P	ancient
-Artashat	Artashat	P	ancient
-Batumi	Batumi	GE	modern
-Dvin	Doubios	P	ancient
-Gori	Gori	GE	modern
-Kars	Kars	TR	modern
-Kutaisi	K'ut'aisi	GE	modern
-Sukhumi	Sokhumi	GE	modern
-Tbilisi	Tbilisi	GE	modern
-Tigranakert	Tigranakert	P	ancient
-Vagharshapat	Ejmiatsin	AM	modern
-Van	Van	TR	modern
+Ani	Ani	P	ancient	Ani
+Artashat	Artashat	P	ancient	Artashat
+Batumi	Batumi	GE	modern	Batumi
+Dvin	Doubios	P	ancient	Dvin
+Gori	Gori	GE	modern	Gori,_Georgia
+Kars	Kars	TR	modern	Kars
+Kutaisi	K'ut'aisi	GE	modern	Kutaisi
+Phasis	Phasis	P	ancient	Phasis_(town)
+Sukhumi	Sokhumi	GE	modern	Sukhumi
+Tbilisi	Tbilisi	GE	modern	Tbilisi
+Tigranakert	Tigranakert	P	ancient	Tigranakert_of_Artsakh
+Vagharshapat	Ejmiatsin	AM	modern	Vagharshapat
+Van	Van	TR	modern	Van,_Turkey

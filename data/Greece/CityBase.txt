@@ -1,28 +1,28 @@
-Andravida	Andravida	GR	modern
-Argos	Argos	GR	modern
-Athens	Athens	GR	modern
-Corinth	Korinthos	GR	ancient
-Edirne	Edirne	TR	modern
-Gla	Gla	GR	ancient
-Iolkos	Iolkos	GR	ancient
-Istanbul	Istanbul	TR	modern
-Koroni	Koroni	GR	modern
-Larissa	Larisa	GR	modern
-Kardia	Kardia/Lysimacheia	P	ancient
-Megara	Megara	GR	modern
-Messene	Messene	P	ancient
-Mycenae	Mycenae	GR	ancient
-Naupactus	Naupactus	P	ancient
-Nicopolis	Nicopolis	GR	ancient
-Orchomenos	Orchomenos	GR	modern
-Pella	Pella	GR	modern
-Perinthus	Perinthus/Heraclea	P	ancient
-Philippi	Philippi	GR	ancient
-Pylos	Pylos	GR	ancient
-Serres	Sirra	P	ancient
-Sparta	Sparti	GR	modern
-Thebes	Thivai	GR	modern
-Therapnes	Therapnes	GR	modern
-Thessaloniki	Thessalonica	P	ancient
-Tiryns	Tiryns	GR	ancient
-Traianopolis	Traianoupolis	GR	ancient
+Andravida	Andravida	GR	modern	Andravida
+Argos	Argos	GR	modern	Argos,_Peloponnese
+Athens	Athens	GR	modern	Athens
+Corinth	Korinthos	GR	ancient	Corinth
+Edirne	Edirne	TR	modern	Edirne
+Gla	Gla	GR	ancient	Gla
+Iolkos	Iolkos	GR	ancient	Iolkos
+Istanbul	Istanbul	TR	modern	Istanbul
+Koroni	Koroni	GR	modern	Koroni
+Larissa	Larisa	GR	modern	Larissa
+Kardia	Kardia/Lysimacheia	P	ancient	Kardia
+Megara	Megara	GR	modern	Megara
+Messene	Messene	P	ancient	Messene
+Mycenae	Mycenae	GR	ancient	Mycenae
+Naupactus	Naupactus	P	ancient	Naupactus
+Nicopolis	Nicopolis	GR	ancient	Nicopolis
+Orchomenos	Orchomenos	GR	modern	Orchomenus_(Boeotia)
+Pella	Pella	GR	modern	Pella
+Perinthus	Perinthus/Heraclea	P	ancient	Perinthus
+Philippi	Philippi	GR	ancient	Philippi
+Pylos	Pylos	GR	ancient	Pylos
+Serres	Sirra	P	ancient	Serres
+Sparta	Sparti	GR	modern	Sparta
+Thebes	Thivai	GR	modern	Thebes,_Greece
+Therapnes	Therapnes	GR	modern	Therapnes
+Thessaloniki	Thessalonica	P	ancient	Thessaloniki
+Tiryns	Tiryns	GR	ancient	Tiryns
+Traianopolis	Traianoupolis	GR	ancient	Traianopolis

@@ -29,3 +29,4 @@ Salamis	Salamis	Greek
 Soloi	Soloi	Greek
 Tamassos	Tamassos	Greek
 Tremithous	Tremithous	Greek
+Tremithous	Tremetousia	Greek

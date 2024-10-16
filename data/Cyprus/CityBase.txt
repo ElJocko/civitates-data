@@ -1,18 +1,18 @@
-Amathous	Amathous	P	ancient
-Arsinoe	Arsinoe	P	ancient
-Chytroi	Chytroi	P	ancient
-Famagusta	Famagusta	CY	modern
-Golgoi	Golgoi	P	ancient
-Idalion	Idalion	P	ancient
-Karpasia	Karpasia	P	ancient
-Kyrenia	Kyrenia	CY	modern
-Kition	Kition	P	ancient
-Kourion	Kourion	P	ancient
-Lapethos	Lapethos	P	ancient
-Marion	Marion	P	ancient
-Nicosia	Nicosia	CY	modern
-Paphos	Paphos	P	ancient
-Salamis	Salamis	CY	ancient
-Soloi	Soloi	P	ancient
-Tamassos	Tamassos	P	ancient
-Tremithous	Tremithous	P	ancient
+Amathous	Amathous	P	ancient	Amathous
+Arsinoe	Arsinoe	P	ancient	Arsinoe
+Chytroi	Chytroi	P	ancient	Chytroi
+Famagusta	Famagusta	CY	modern	Famagusta
+Golgoi	Golgoi	P	ancient	Golgoi
+Idalion	Idalion	P	ancient	Idalion
+Karpasia	Karpasia	P	ancient	Karpasia
+Kyrenia	Kyrenia	CY	modern	Kyrenia
+Kition	Kition	P	ancient	Kition
+Kourion	Kourion	P	ancient	Kourion
+Lapethos	Lapethos	P	ancient	Lapethos
+Marion	Marion	P	ancient	Marion
+Nicosia	Nicosia	CY	modern	Nicosia
+Paphos	Paphos	P	ancient	Paphos
+Salamis	Salamis	CY	ancient	Salamis,_Cyprus
+Soloi	Soloi	P	ancient	Soloi
+Tamassos	Tamassos	P	ancient	Tamassos
+Tremithous	Tremithous	P	ancient	Tremetousia

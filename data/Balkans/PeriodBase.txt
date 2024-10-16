@@ -7,10 +7,10 @@ Devnya	447	615	Marcianopolis	3	3
 Devnya	650	2100	Devina	4	3
 Doclea	41	350	Doclea	3	0
 Doclea	351	700	Doclea	4	0
-Dyrrhachium	-627	-230	Epidamnos	3	0
-Dyrrhachium	-229	299	Dyrrachium	3	0
-Dyrrhachium	300	999	Dyrrachium	2	0
-Dyrrhachium	1000	2100	Dyrrachium	3	0
+Durrës	-627	-230	Epidamnos	3	0
+Durrës	-229	299	Dyrrachium	3	0
+Durrës	300	999	Dyrrachium	2	0
+Durrës	1000	2100	Durrës	3	0
 Faros	-384	699	Faros	3	0
 Faros	700	1277	Hvar	3	0
 Faros	1278	1540	Stari Grad	3	0

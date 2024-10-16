@@ -6,6 +6,7 @@ Dvin	Dvin	Armenian
 Gori	Gori	Georgian
 Kars	Kars	Armenian
 Kutaisi	Kutaisi	Georgian
+Phasis	Phasis	Greek
 Sukhumi	Sukhumi	English
 Sukhumi	Sokhumi	Georgian
 Sukhumi	Tskhumi	Georgian

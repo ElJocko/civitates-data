@@ -1,8 +1,12 @@
 Abydos	Abydos	Greek
 Abydos	Abydus	Greek
 Adana	Adana	Hittite
+Alaşehir	Alaşehir	Greek
+Alaşehir	Philadelphia	Greek
 Amasra	Amasra	Greek
 Amasra	Amastris	Greek
+Amasya	Amasya	Turkish
+Amasya	Amaseia	Greek
 Ankara	Ankara	Turkish
 Ankara	Ánkyra	Greek
 Apamea Myrlea	Apamea Myrlea	Greek
@@ -17,12 +21,18 @@ Chalcedon	Chalcedon	Greek
 Cius	Cius	Greek
 Cius	Prusias ad Mare	Latin
 Colophon	Colophon	Greek
+Komana Pontika	Komana Pontika	Greek
+Komana Pontika	Comana Pontica	Latin
+Komana Pontika	Hierocaesarea	Latin
 Cyzicus	Cyzicus	Greek
 Dardanus	Dardania	Greek
 Dardanus	Dardanus	Greek
 Dascylium	Dascylium	Greek
 Dascylium	Daskyleion	Greek
 Dascylium	Dascylus	Latin
+Dorylaeum	Dorylaeum	Greek
+Dorylaeum	Dorylaion	Greek
+Dorylaeum	Şarhöyük	Turkish
 Elaeus	Elaeus	Greek
 Ephesus	Efes	Turkish
 Ephesus	Ephesos	Greek
@@ -59,10 +69,12 @@ Miletus	Milet	Turkish
 Miletus	Miletus	Latin
 Miletus	Milētos	Greek
 Nerik	Nerik	Hittite
+Nicopolis (Armenia)	Nicopolis	Greek
+Ordu	Ordu	Turkish
+Ordu	Kotyora	Pontic
 Pergamon	Pergamon	Greek
 Pergamon	Pergamum	Greek
-Philadelphia	Alaşehir	Greek
-Philadelphia	Philadelphia	Greek
+Pessinus	Pessinus	Greek
 Pompeiopolis	Pompeiopolis	Greek
 Pompeiopolis	Taşköprü	Turkish
 Rhoiteion	Rhoeteum	Latin
@@ -77,6 +89,10 @@ Sapinuwa	Sapinuwa	Hittite
 Sardis	Sardeis	Greek
 Sardis	Sardis	Greek
 Sardis	Sart	Turkish
+Satala	Satala	Greek
+Şebinkarahisar	Şebinkarahisar	Turkish
+Şebinkarahisar	Colonia	Latin
+Şebinkarahisar	Şapkarahisar	Turkish
 Sestos	Sestos	Greek
 Sinop	Sinop	Turkish
 Sinop	Sinope	Greek
@@ -102,3 +118,6 @@ Troy	Ilium	Latin
 Troy	Troia	Greek
 Troy	Troy	English
 Troy	Wilusha	Hittite
+Zile	Zile	Turkish
+Zile	Zela	Greek
+Zile	Zelitis	Greek

@@ -1,26 +1,26 @@
-Agia Triada	Agia Triada	P	ancient
-Arkades	Arkades	P	ancient
-Chania	Kydonia	P	ancient
-Fournu Korfi	Fournu Korfi	P	ancient
-Galatas	Galatas	P	ancient
-Gortyn	Gortyn	GR	ancient
-Gournia	Gournia	P	ancient
-Heraklion	Heraklion	P	modern
-Ierapetra	Hierapytna	P	modern
-Itanos	Itanos	P	ancient
-Knossos	Knossos	P	ancient
-Lappa	Lappa	P	ancient
-Lyktos	Lyktos	P	ancient
-Malia	Malia	GR	ancient
-Monastiraki	Monastiraki	GR	ancient
-Olous	Olous	P	ancient
-Petras	Petras	GR	ancient
-Phaistos	Phaistos	P	ancient
-Phalasarna	Phalasarna	P	ancient
-Polyrrenia	Polyrrenia	P	ancient
-Praisos	Praisos	P	ancient
-Pseira	Pseira	P	ancient
-Pyrgos	Pyrgos	P	ancient
-Rethymno	Rethymno	GR	modern
-Vasiliki	Vasiliki	P	ancient
-Zakros	Zakros	P	ancient
+Agia Triada	Agia Triada	P	ancient	Agia Triada
+Arkades	Arkades	P	ancient	Arcades_(Crete)
+Chania	Kydonia	P	ancient	Chania
+Fournu Korfi	Fournu Korfi	P	ancient	Fournu Korfi
+Galatas	Galatas	P	ancient	Galatas_Palace
+Gortyn	Gortyn	GR	ancient	Gortyn
+Gournia	Gournia	P	ancient	Gournia
+Heraklion	Heraklion	P	modern	Heraklion
+Ierapetra	Hierapytna	P	modern	Ierapetra
+Itanos	Itanos	P	ancient	Itanos
+Knossos	Knossos	P	ancient	Knossos
+Lappa	Lappa	P	ancient	Lappa_(Crete)
+Lyktos	Lyktos	P	ancient	Lyktos
+Malia	Malia	GR	ancient	Malia,_Crete
+Monastiraki	Monastiraki	GR	ancient	Monastiraki,_Crete
+Olous	Olous	P	ancient	Olous
+Petras	Petras	GR	ancient	Petras
+Phaistos	Phaistos	P	ancient	Phaistos
+Phalasarna	Phalasarna	P	ancient	Phalasarna
+Polyrrenia	Polyrrenia	P	ancient	Polyrrenia
+Praisos	Praisos	P	ancient	Praisos
+Pseira	Pseira	P	ancient	Pseira
+Pyrgos	Pyrgos	P	ancient	Pyrgos
+Rethymno	Rethymno	GR	modern	Rethymno
+Vasiliki	Vasiliki	P	ancient	Vasiliki,_Lasithi
+Zakros	Zakros	P	ancient	Zakros

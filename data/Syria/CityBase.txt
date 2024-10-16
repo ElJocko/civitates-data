@@ -1,11 +1,11 @@
-Alalakh	Alalakh	P	ancient
-Aleppo	Aleppo	SY	modern
-Arwad	Arwad	SY	modern
-Byblos	Jbail	LB	modern
-Ebla	Ebla	P	ancient
-Kadesh	Kadesh	P	ancient
-Palmyra	Palmyra	P	ancient
-Qatna	Qatna	P	ancient
-Sidon	Sidon	LB	modern
-Tyre	Tyre	LB	modern
-Ugarit	Ugarit	P	ancient
+Alalakh	Alalakh	P	ancient	Alalakh
+Aleppo	Aleppo	SY	modern	Aleppo
+Arwad	Arwad	SY	modern	Arwad
+Byblos	Jbail	LB	modern	Byblos
+Ebla	Ebla	P	ancient	Ebla
+Kadesh	Kadesh	P	ancient	Kadesh_(Syria)
+Palmyra	Palmyra	P	ancient	Palmyra
+Qatna	Qatna	P	ancient	Qatna
+Sidon	Sidon	LB	modern	Sidon
+Tyre	Tyre	LB	modern	Tyre,_Lebanon
+Ugarit	Ugarit	P	ancient	Ugarit

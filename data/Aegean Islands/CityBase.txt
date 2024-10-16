@@ -1,10 +1,10 @@
-Chalcis	Chalcis	P	ancient
-Chios	Chios	P	ancient
-Eretria	Eretria	GR	ancient
-Ialysos	Ialysos	P	ancient
-Kamiros	Kamiros	P	ancient
-Lefkandi	Lefkandi	P	modern
-Lindos	Lindos	P	ancient
-Mytilene	Mytilene	P	ancient
-Rhodes	Rhodos	P	ancient
-Samos	Samos	P	ancient
+Chalcis	Chalcis	P	ancient	Chalcis
+Chios	Chios	P	ancient	Chios
+Eretria	Eretria	GR	ancient	Eretria
+Ialysos	Ialysos	P	ancient	Ialysos
+Kamiros	Kamiros	P	ancient	Kamiros
+Lefkandi	Lefkandi	P	modern	Lefkandi
+Lindos	Lindos	P	ancient	Lindos
+Mytilene	Mytilene	P	ancient	Mytilene
+Rhodes	Rhodos	P	ancient	Rhodes
+Samos	Samos	P	ancient	Samos

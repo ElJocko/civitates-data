@@ -1,46 +1,55 @@
-Abydos	Abydos	TR	ancient
-Adana	Adana	TR	modern
-Amasra	Amasra	TR	modern
-Ankara	Ankara	TR	modern
-Apamea Myrlea	Brylleion/Myrleia/Apamea/Col. Iulia Concordia	P	ancient
-Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	P	ancient
-Çankırı	Khanjarah	TR	modern
-Chalcedon	Chalcedon	P	ancient
-Cius	Cius	P	ancient
-Colophon	Colophon	TR	ancient
-Cyzicus	Cyzicus	P	ancient
-Dardanus	Dardanos	P	ancient
-Dascylium	Daskyleion	P	ancient
-Elaeus	Elaeus	TR	ancient
-Ephesus	Ephesus	TR	ancient
-Gelibolu	Gelibolu	TR	modern
-Gordion	Gordion/Vindia?	P	ancient
-Hattusa	Hattusa	P	ancient
-Helenopolis	Drepanon/Helenopolis	P	ancient
-Heraclea Pontica	Heraclea	P	ancient
-İzmit	Izmit	TR	modern
-İznik	Iznik	TR	modern
-Karatepe	Karatepe	P	ancient
-Konya	Konya	TR	modern
-Lampsacus	Pityoussa/Lampsacus	P	ancient
-Laodicea	Laodicea	TR	ancient
-Miletus	Miletus	TR	ancient
-Mersin	Mercin	TR	modern
-Nerik	Nerik	TR	ancient
-Pergamon	Pergamon	TR	ancient
-Philadelphia	Alasehir	TR	modern
-Pompeiopolis	Pompeiopolis/Sebaste	P	ancient
-Rhoiteion	Rhoiteion	TR	ancient
-Samʾal	Samʾal	P	ancient
-Samsun	Samsun	TR	modern
-Sapinuwa	Sapinuwa	P	ancient
-Sardis	Sardis	TR	ancient
-Sestos	Sestos	TR	ancient
-Sinop	Sinop	TR	modern
-Sis	Kozan	TR	modern
-Sivas	Sivas	TR	modern
-Smyrna	Smyrna	TR	ancient
-Tarsus	Tarsus	TR	modern
-Thyatira	Akhisar	TR	modern
-Trabzon	Trabzon	TR	modern
-Troy	Troy	TR	ancient
+Abydos	Abydos	TR	ancient	Abydos_(Hellespont)
+Adana	Adana	TR	modern	Adana
+Alaşehir	Alasehir	TR	modern	Alaşehir
+Amasra	Amasra	TR	modern	Amasra
+Amasya	Amasya	TR	modern	Amasya
+Ankara	Ankara	TR	modern	Ankara
+Apamea Myrlea	Brylleion/Myrleia/Apamea/Col. Iulia Concordia	P	ancient	Apamea Myrlea
+Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	P	ancient	Apollonia ad Rhyndacum
+Çankırı	Khanjarah	TR	modern	Çankırı
+Chalcedon	Chalcedon	P	ancient	Chalcedon
+Cius	Cius	P	ancient	Cius
+Colophon	Colophon	TR	ancient	Colophon_(city)
+Cyzicus	Cyzicus	P	ancient	Cyzicus
+Dardanus	Dardanos	P	ancient	Dardanus_(city)
+Dascylium	Daskyleion	P	ancient	Dascylium
+Dorylaeum	Dorylaion	P	ancient	Dorylaeum
+Elaeus	Elaeus	TR	ancient	Elaeus
+Ephesus	Ephesus	TR	ancient	Ephesus
+Gelibolu	Gelibolu	TR	modern	Gelibolu
+Gordion	Gordion/Vindia?	P	ancient	Gordion
+Hattusa	Hattusa	P	ancient	Hattusa
+Helenopolis	Drepanon/Helenopolis	P	ancient	Helenopolis_(Bithynia)
+Heraclea Pontica	Heraclea	P	ancient	Heraclea Pontica
+İzmit	Izmit	TR	modern	İzmit
+İznik	Iznik	TR	modern	İznik
+Karatepe	Karatepe	P	ancient	Karatepe
+Komana Pontika	Comana Pontica/Hierocaesarea	P	ancient	Comana_Pontica
+Konya	Konya	TR	modern	Konya
+Lampsacus	Pityoussa/Lampsacus	P	ancient	Lampsacus
+Laodicea	Laodicea	TR	ancient	Laodicea_on_the_Lycus
+Miletus	Miletus	TR	ancient	Miletus
+Mersin	Mercin	TR	modern	Mersin
+Nerik	Nerik	TR	ancient	Nerik
+Nicopolis (Armenia)	Nicopolis	X	ancient	Nicopolis_(Armenia)
+Ordu	Ordu	TR	modern	Ordu
+Pergamon	Pergamon	TR	ancient	Pergamon
+Pessinus	Pessinous/Iustinianoupolis	P	ancient	Pessinus
+Pompeiopolis	Pompeiopolis/Sebaste	P	ancient	Pompeiopolis
+Rhoiteion	Rhoiteion	TR	ancient	Rhoiteion
+Samʾal	Samʾal	P	ancient	Samʾal
+Samsun	Samsun	TR	modern	Samsun
+Sapinuwa	Sapinuwa	P	ancient	Sapinuwa
+Sardis	Sardis	TR	ancient	Sardis
+Satala	Satala	X	ancient	Satala
+Şebinkarahisar	Sebinkarahisar	TR	modern	Şebinkarahisar
+Sestos	Sestos	TR	ancient	Sestos
+Sinop	Sinop	TR	modern	Sinop,_Turkey
+Sis	Kozan	TR	modern	Sis
+Sivas	Sivas	TR	modern	Sivas
+Smyrna	Smyrna	TR	ancient	Smyrna
+Tarsus	Tarsus	TR	modern	Tarsus,_Mersin
+Thyatira	Akhisar	TR	modern	Thyatira
+Trabzon	Trabzon	TR	modern	Trabzon
+Troy	Troy	TR	ancient	Troy
+Zile	Zile	TR	modern	Zile

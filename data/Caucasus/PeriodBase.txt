@@ -14,6 +14,7 @@ Kars	964	1387	Kars	3	3
 Kars	1388	2100	Kars	4	3
 Kutaisi	780	1122	Kutaisi	2	3
 Kutaisi	1123	2100	Kutaisi	3	3
+Phasis	-600	1000	Phasis	4	3
 Sukhumi	-500	49	Dioscurias	3	3
 Sukhumi	50	564	Sebastopolis	4	3
 Sukhumi	565	736	Sebastopolis	3	3

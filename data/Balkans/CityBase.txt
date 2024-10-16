@@ -1,27 +1,27 @@
-Amantia	Amantia	P	ancient
-Constanța	Constanta	RO	modern
-Devnya	Devnya	BG	modern
-Doclea	Doclea	P	ancient
-Dyrrhachium	Durres	AL	modern
-Faros	Pharus	P	ancient
-Lezhë	Lezhe	AL	modern
-Niš	Nis	RS	ancient
-Oricum	Oricum	P	ancient
-Phoenice	Phoinike 2	P	ancient
-Pliska	Pliska	BG	ancient
-Plovdiv	Plovdiv	BG	ancient
-Preslav	Veliki Preslav	BG	ancient
-Ratiaria	Ratiaria	P	ancient
-Salona	Salona	P	ancient
-Scupi	Scupi	P	ancient
-Silistra	Silistra	BG	modern
-Sirmium	Sirmium	P	ancient
-Skopje	Skopje	MK	modern
-Sofia	Sofia	BG	modern
-Split	Split	HR	modern
-Stobi	Stobi	P	ancient
-Tarnovo	Veliko Turnovo	BG	modern
-Varna	Varna	BG	modern
-Vidin	Vidin	BG	modern
-Viminacium	Viminacium	P	ancient
-Vis	Vis	HR	modern
+Amantia	Amantia	P	ancient	Amantia
+Constanța	Constanta	RO	modern	Constanța
+Devnya	Devnya	BG	modern	Devnya
+Doclea	Doclea	P	ancient	Doclea_(Illyria)
+Durrës	Durres	AL	modern	Durrës
+Faros	Pharus	P	ancient	Faros
+Lezhë	Lezhe	AL	modern	Lezhë
+Niš	Nis	RS	ancient	Niš
+Oricum	Oricum	P	ancient	Oricum
+Phoenice	Phoinike 2	P	ancient	Phoenice
+Pliska	Pliska	BG	ancient	Pliska
+Plovdiv	Plovdiv	BG	ancient	Plovdiv
+Preslav	Veliki Preslav	BG	ancient	Preslav
+Ratiaria	Ratiaria	P	ancient	Ratiaria
+Salona	Salona	P	ancient	Salona
+Scupi	Scupi	P	ancient	Scupi
+Silistra	Silistra	BG	modern	Silistra
+Sirmium	Sirmium	P	ancient	Sirmium
+Skopje	Skopje	MK	modern	Skopje
+Sofia	Sofia	BG	modern	Sofia
+Split	Split	HR	modern	Split,_Croatia
+Stobi	Stobi	P	ancient	Stobi
+Tarnovo	Veliko Turnovo	BG	modern	Tarnovo
+Varna	Varna	BG	modern	Varna,_Bulgaria
+Vidin	Vidin	BG	modern	Vidin
+Viminacium	Viminacium	P	ancient	Viminacium
+Vis	Vis	HR	modern	Vis_(town)

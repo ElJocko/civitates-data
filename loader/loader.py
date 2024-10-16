@@ -19,14 +19,6 @@ output_filename = "City.json"
 geonames_filename = "cities1000.txt"
 pleiades_filename = "pleiades-places.csv"
 
-folders = ["Italy", "Greece", "Crete", "Cyprus", "Aegean Islands", "Anatolia", "Balkans", "Gaul", "Caucasus", "Iberia", "Syria", "Mesopotamia"]
-def make_path_list_from_folders(file_name):
-    path_list = []
-    for folder in folders:
-        file_path = os.path.join(base_path, folder, file_name)
-        path_list.append(file_path)
-    return path_list
-
 # Read geonames file
 geonames_path = os.path.join(base_path, geonames_filename)
 geonames_city_list = geonames.read_geonames_city_file(geonames_path)
@@ -50,25 +42,25 @@ for place in pleiades_place_list:
 print("Found", len(pleiades_settlement_list), "settlements")
 
 # Read CityBase files
-path_list = make_path_list_from_folders("CityBase.txt")
+path_list = civitates_data.make_path_list_from_folders(base_path, "CityBase.txt")
 city_base_list = civitates_data.read_city_base_files(path_list)
 
 print("Read", len(city_base_list), "rows from CityBase.txt")
 
 # Read PeriodBase.txt
-path_list = make_path_list_from_folders("PeriodBase.txt")
+path_list = civitates_data.make_path_list_from_folders(base_path, "PeriodBase.txt")
 period_base_list = civitates_data.read_period_base_files(path_list)
 
 print("Read", len(period_base_list), "rows from PeriodBase.txt")
 
 # Read AltNameBase.txt
-path_list = make_path_list_from_folders("AltNameBase.txt")
+path_list = civitates_data.make_path_list_from_folders(base_path, "AltNameBase.txt")
 alt_name_base_list = civitates_data.read_alt_name_base_files(path_list)
 
 print("Read", len(alt_name_base_list), "rows from AltNamedBase.txt")
 
 # Read CityExtra.txt
-path_list = make_path_list_from_folders("CityExtra.txt")
+path_list = civitates_data.make_path_list_from_folders(base_path, "CityExtra.txt")
 city_extra_list = civitates_data.read_city_extra_files(path_list)
 
 print("Read", len(city_extra_list), "rows from CityExtra.txt")
@@ -126,6 +118,8 @@ for city_base in city_base_list:
     city_lookup = None
     if city_base.geonames_cc == "P":
         city_lookup = find_pleiades_settlement(city_base.geonames_name)
+    elif city_base.geonames_cc == "X":
+        city_lookup = find_city_extra(city_base.id)
 
     if city_lookup is None:
         city_lookup = find_geonames_city(city_base.geonames_name, city_base.geonames_cc)
@@ -157,7 +151,8 @@ for city_base in city_base_list:
             'prefix': city_base.prefix,
             'periods': periods,
             'altNames': alt_names,
-            'mapPoint': map_point
+            'mapPoint': map_point,
+            'wikipediaArticleName': city_base.wikipedia_article_name
         }}
     city_list.append(city_dict)
 

@@ -8,10 +8,10 @@ Devnya	Marcianopolis	Greek
 Devnya	Devina	Slavic
 Devnya	Parthenopolis	Greek
 Doclea	Doclea	Illyrian
-Dyrrhachium	Epidamnos	Greek
-Dyrrhachium	Dyrrhachium	Latin
-Dyrrhachium	Durrës	Albanian
-Dyrrhachium	Durazzo	Italian
+Durrës	Epidamnos	Greek
+Durrës	Dyrrhachium	Latin
+Durrës	Durrës	Albanian
+Durrës	Durazzo	Italian
 Faros	Stari Grad	Slavic
 Faros	Faros	Greek
 Faros	Pharos	Greek

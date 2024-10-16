@@ -1,153 +1,153 @@
-Aceranza	Aceranza	IT	modern
-Acquarossa	Acquarossa	IT	ancient
-Alessandria	Alessandria	IT	modern
-Anzio	Anzio	IT	modern
-Ardea	Ardea	IT	modern
-Adria	Adria	IT	modern
-Agrigento	Agrigento	IT	modern
-Amalfi	Amalfi	IT	modern
-Ancona	Ancona	IT	modern
-Andria	Andria	IT	modern
-Aquileia	Aquileia	IT	modern
-Ariano	Ariano	IT	modern
-Arezzo	Arezzo	IT	modern
-Arpi	Arpi	IT	ancient
-Assisi	Assisi	IT	modern
-Aversa	Aversa	IT	modern
-Bari	Bari	IT	modern
-Benevento	Benevento	IT	modern
-Bisignano	Bisignano	IT	modern
-Bojano	Bojano	IT	modern
-Bologna	Bologna	IT	modern
-Bolsena	Bolsena	IT	modern
-Brescia	Brescia	IT	modern
-Brindisi	Brindisi	IT	modern
-Buonalbergo	Buonalbergo	IT	modern
-Butera	Butera	IT	modern
-Cagliari	Cagliari	IT	modern
-Camerino	Camerino	IT	modern
-Capua	Capua	IT	modern
-Casale Monferrato	Casale Monferrato	IT	modern
-Cassino	Cassino	IT	modern
-Castelseprio	Castelseprio	IT	medieval
-Catania	Catania	IT	modern
-Cefalu	Cefalu	IT	modern
-Cerveteri	Cerveteri	IT	modern
-Chieti	Chieti	IT	modern
-Chiusi	Chiusi	IT	modern
-Cividale del Friuli	Cividale del Friuli	IT	modern
-Como	Como	IT	modern
-Cortona	Cortona	IT	modern
-Cosenza	Cosenza	IT	modern
-Cremona	Cremona	IT	modern
-Crotone	Crotone	IT	modern
-Cumae	Cumae	IT	ancient
-Enna	Enna	IT	modern
-Falerii	Civita Castellana	IT	modern
-Ferrara	Ferrara	IT	modern
-Florence	Firenze	IT	modern
-Foggia	Foggia	IT	modern
-Gabii	Gabii	IT	ancient
-Gaeta	Gaeta	IT	modern
-Galeria	Galeria	IT	modern
-Gallipoli	Gallipoli	IT	modern
-Genoa	Genoa	IT	modern
-Gerace	Gerace	IT	modern
-Giardini-Naxos	Giardini-Naxos	IT	modern
-Grado	Grado	IT	modern
-Heraclea	Heraclea	IT	ancient
-Ivrea	Ivrea	IT	modern
-L'Aquila	L'Aquila	IT	modern
-Larino	Larino	IT	modern
-Lavello	Lavello	IT	modern
-Lavinium	Lavinium	IT	ancient
-Lecce	Lecce	IT	modern
-Loreto	Loreto	IT	modern
-Lucca	Lucca	IT	modern
-Luni	Luni	IT	ancient
-Mantua	Mantova	IT	modern
-Marsala	Marsala	IT	modern
-Matera	Matera	IT	modern
-Mazara	Mazara	IT	modern
-Melfi	Melfi	IT	modern
-Messina	Messina	IT	modern
-Milan	Milano	IT	modern
-Milazzo	Milazzo	IT	modern
-Mileto	Mileto	IT	modern
-Modena	Modena	IT	modern
-Monopoli	Monopoli	IT	modern
-Montepeloso	Montepeloso	IT	modern
-Montescaglioso	Montescaglioso	IT	modern
-Murlo	Murlo	IT	modern
-Naples	Napoli	IT	modern
-Nardo	Nardo	IT	modern
-Nicastro	Nicastro	IT	modern
-Nola	Nola	IT	modern
-Noto	Noto	IT	modern
-Oria	Oria	IT	modern
-Orvieto	Orvieto	IT	modern
-Ostia	Ostia	IT	ancient
-Otranto	Otranto	IT	modern
-Palestrina	Palestrina	IT	modern
-Palermo	Palermo	IT	modern
-Parma	Parma	IT	modern
-Padua	Padova	IT	modern
-Paterno	Paterno	IT	modern
-Pavia	Pavia	IT	modern
-Perugia	Perugia	IT	modern
-Piacenza	Piacenza	IT	modern
-Pisa	Pisa	IT	modern
-Policastro	Policastro	IT	modern
-Polignano	Polignano	IT	modern
-Pompeii	Pompeii	IT	ancient
-Pontecorvo	Pontecorvo	IT	modern
-Populonia	Populonia	IT	ancient
-Potenza	Potenza	IT	modern
-Ragusa	Ragusa	IT	modern
-Ravenna	Ravenna	IT	modern
-Reggio Calabria	Reggio Calabria	IT	modern
-Rimini	Rimini	IT	modern
-Rome	Rome	IT	modern
-Rossano	Rossano	IT	modern
-Rusellae	Rusellae	IT	ancient
-Salerno	Salerno	IT	modern
-Saluzzo	Saluzzo	IT	modern
-Circeii	San Felice Circeo	IT	ancient
-San Marco	San Marco	IT	modern
-San Marino	San Marino	SM	modern
-Santa Severina	Santa Severina	IT	modern
-Savona	Savona	IT	modern
-Scalea	Scalea	IT	modern
-Scribla	Scribla	IT	modern
-Siena	Siena	IT	modern
-Sipontum	Sipontum	IT	ancient
-Sorrento	Sorrento	IT	modern
-Spina	Spina	IT	ancient
-Spoleto	Spoleto	IT	modern
-Squillace	Squillace	IT	modern
-Sybaris	Sybaris	IT	ancient
-Syracuse	Siracusa	IT	modern
-Taormina	Taormina	IT	modern
-Taranto	Taranto	IT	modern
-Tarquinia	Tarquinia	IT	modern
-Terracina	Terracina	IT	modern
-Tharros	Tharros	P	ancient
-Thurii	Thurii	IT	ancient
-Tivoli	Tivoli	IT	modern
-Todi	Todi	IT	modern
-Trani	Trani	IT	modern
-Trapani	Trapani	IT	modern
-Trento	Trento	IT	modern
-Treviso	Treviso	IT	modern
-Tricarico	Tricarico	IT	modern
-Tropea	Tropea	IT	modern
-Troina	Troina	IT	modern
-Turin	Turin	IT	modern
-Veii	Veii	IT	ancient
-Velia	Velia	IT	ancient
-Venice	Venezia	IT	modern
-Venosa	Venosa	IT	modern
-Verona	Verona	IT	modern
-Vetulonia	Vetulonia	IT	modern
-Volterra	Volterra	IT	modern
-Vulci	Vulci	IT	ancient
+Aceranza	Aceranza	IT	modern	Aceranza
+Acquarossa	Acquarossa	IT	ancient	Acquarossa
+Alessandria	Alessandria	IT	modern	Alessandria
+Anzio	Anzio	IT	modern	Anzio
+Ardea	Ardea	IT	modern	Ardea,_Lazio
+Adria	Adria	IT	modern	Adria
+Agrigento	Agrigento	IT	modern	Agrigento
+Amalfi	Amalfi	IT	modern	Amalfi
+Ancona	Ancona	IT	modern	Ancona
+Andria	Andria	IT	modern	Andria
+Aquileia	Aquileia	IT	modern	Aquileia
+Ariano	Ariano	IT	modern	Ariano
+Arezzo	Arezzo	IT	modern	Arezzo
+Arpi	Arpi	IT	ancient	Arpi
+Assisi	Assisi	IT	modern	Assisi
+Aversa	Aversa	IT	modern	Aversa
+Bari	Bari	IT	modern	Bari
+Benevento	Benevento	IT	modern	Benevento
+Bisignano	Bisignano	IT	modern	Bisignano
+Bojano	Bojano	IT	modern	Bojano
+Bologna	Bologna	IT	modern	Bologna
+Bolsena	Bolsena	IT	modern	Bolsena
+Brescia	Brescia	IT	modern	Brescia
+Brindisi	Brindisi	IT	modern	Brindisi
+Buonalbergo	Buonalbergo	IT	modern	Buonalbergo
+Butera	Butera	IT	modern	Butera
+Cagliari	Cagliari	IT	modern	Cagliari
+Camerino	Camerino	IT	modern	Camerino
+Capua	Capua	IT	modern	Capua
+Casale Monferrato	Casale Monferrato	IT	modern	Casale Monferrato
+Cassino	Cassino	IT	modern	Cassino
+Castelseprio	Castelseprio	IT	medieval	Castelseprio
+Catania	Catania	IT	modern	Catania
+Cefalu	Cefalu	IT	modern	Cefalu
+Cerveteri	Cerveteri	IT	modern	Cerveteri
+Chieti	Chieti	IT	modern	Chieti
+Chiusi	Chiusi	IT	modern	Chiusi
+Cividale del Friuli	Cividale del Friuli	IT	modern	Cividale del Friuli
+Como	Como	IT	modern	Como
+Cortona	Cortona	IT	modern	Cortona
+Cosenza	Cosenza	IT	modern	Cosenza
+Cremona	Cremona	IT	modern	Cremona
+Crotone	Crotone	IT	modern	Crotone
+Cumae	Cumae	IT	ancient	Cumae
+Enna	Enna	IT	modern	Enna
+Falerii	Civita Castellana	IT	modern	Falerii
+Ferrara	Ferrara	IT	modern	Ferrara
+Florence	Firenze	IT	modern	Florence
+Foggia	Foggia	IT	modern	Foggia
+Gabii	Gabii	IT	ancient	Gabii
+Gaeta	Gaeta	IT	modern	Gaeta
+Galeria	Galeria	IT	modern	Galeria
+Gallipoli	Gallipoli	IT	modern	Gallipoli
+Genoa	Genoa	IT	modern	Genoa
+Gerace	Gerace	IT	modern	Gerace
+Giardini-Naxos	Giardini-Naxos	IT	modern	Giardini-Naxos
+Grado	Grado	IT	modern	Grado,_Friuli_Venezia_Giulia
+Heraclea	Heraclea	IT	ancient	Heraclea
+Ivrea	Ivrea	IT	modern	Ivrea
+L'Aquila	L'Aquila	IT	modern	L'Aquila
+Larino	Larino	IT	modern	Larino
+Lavello	Lavello	IT	modern	Lavello
+Lavinium	Lavinium	IT	ancient	Lavinium
+Lecce	Lecce	IT	modern	Lecce
+Loreto	Loreto	IT	modern	Loreto
+Lucca	Lucca	IT	modern	Lucca
+Luni	Luni	IT	ancient	Luni
+Mantua	Mantova	IT	modern	Mantua
+Marsala	Marsala	IT	modern	Marsala
+Matera	Matera	IT	modern	Matera
+Mazara	Mazara	IT	modern	Mazara
+Melfi	Melfi	IT	modern	Melfi
+Messina	Messina	IT	modern	Messina
+Milan	Milano	IT	modern	Milan
+Milazzo	Milazzo	IT	modern	Milazzo
+Mileto	Mileto	IT	modern	Mileto
+Modena	Modena	IT	modern	Modena
+Monopoli	Monopoli	IT	modern	Monopoli
+Montepeloso	Montepeloso	IT	modern	Montepeloso
+Montescaglioso	Montescaglioso	IT	modern	Montescaglioso
+Murlo	Murlo	IT	modern	Murlo
+Naples	Napoli	IT	modern	Naples
+Nardo	Nardo	IT	modern	Nardo
+Nicastro	Nicastro	IT	modern	Nicastro
+Nola	Nola	IT	modern	Nola
+Noto	Noto	IT	modern	Noto
+Oria	Oria	IT	modern	Oria
+Orvieto	Orvieto	IT	modern	Orvieto
+Ostia	Ostia	IT	ancient	Ostia
+Otranto	Otranto	IT	modern	Otranto
+Palestrina	Palestrina	IT	modern	Palestrina
+Palermo	Palermo	IT	modern	Palermo
+Parma	Parma	IT	modern	Parma
+Padua	Padova	IT	modern	Padua
+Paterno	Paterno	IT	modern	Paterno
+Pavia	Pavia	IT	modern	Pavia
+Perugia	Perugia	IT	modern	Perugia
+Piacenza	Piacenza	IT	modern	Piacenza
+Pisa	Pisa	IT	modern	Pisa
+Policastro	Policastro	IT	modern	Policastro
+Polignano	Polignano	IT	modern	Polignano
+Pompeii	Pompeii	IT	ancient	Pompeii
+Pontecorvo	Pontecorvo	IT	modern	Pontecorvo
+Populonia	Populonia	IT	ancient	Populonia
+Potenza	Potenza	IT	modern	Potenza
+Ragusa	Ragusa	IT	modern	Ragusa,_Sicily
+Ravenna	Ravenna	IT	modern	Ravenna
+Reggio Calabria	Reggio Calabria	IT	modern	Reggio Calabria
+Rimini	Rimini	IT	modern	Rimini
+Rome	Rome	IT	modern	Rome
+Rossano	Rossano	IT	modern	Rossano
+Rusellae	Rusellae	IT	ancient	Rusellae
+Salerno	Salerno	IT	modern	Salerno
+Saluzzo	Saluzzo	IT	modern	Saluzzo
+Circeii	San Felice Circeo	IT	ancient	Circeii
+San Marco	San Marco	IT	modern	San Marco
+San Marino	San Marino	SM	modern	San Marino
+Santa Severina	Santa Severina	IT	modern	Santa Severina
+Savona	Savona	IT	modern	Savona
+Scalea	Scalea	IT	modern	Scalea
+Scribla	Scribla	IT	modern	Scribla
+Siena	Siena	IT	modern	Siena
+Sipontum	Sipontum	IT	ancient	Sipontum
+Sorrento	Sorrento	IT	modern	Sorrento
+Spina	Spina	IT	ancient	Spina
+Spoleto	Spoleto	IT	modern	Spoleto
+Squillace	Squillace	IT	modern	Squillace
+Sybaris	Sybaris	IT	ancient	Sybaris
+Syracuse	Siracusa	IT	modern	Syracuse,_Sicily
+Taormina	Taormina	IT	modern	Taormina
+Taranto	Taranto	IT	modern	Taranto
+Tarquinia	Tarquinia	IT	modern	Tarquinia
+Terracina	Terracina	IT	modern	Terracina
+Tharros	Tharros	P	ancient	Tharros
+Thurii	Thurii	IT	ancient	Thurii
+Tivoli	Tivoli	IT	modern	Tivoli,_Lazio
+Todi	Todi	IT	modern	Todi
+Trani	Trani	IT	modern	Trani
+Trapani	Trapani	IT	modern	Trapani
+Trento	Trento	IT	modern	Trento
+Treviso	Treviso	IT	modern	Treviso
+Tricarico	Tricarico	IT	modern	Tricarico
+Tropea	Tropea	IT	modern	Tropea
+Troina	Troina	IT	modern	Troina
+Turin	Turin	IT	modern	Turin
+Veii	Veii	IT	ancient	Veii
+Velia	Velia	IT	ancient	Velia
+Venice	Venezia	IT	modern	Venice
+Venosa	Venosa	IT	modern	Venosa
+Verona	Verona	IT	modern	Verona
+Vetulonia	Vetulonia	IT	modern	Vetulonia
+Volterra	Volterra	IT	modern	Volterra
+Vulci	Vulci	IT	ancient	Vulci

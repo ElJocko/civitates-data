@@ -1,6 +1,6 @@
-Arles	Arles	P	modern
-Geneva	Geneve	CH	modern
-Marseille	Marseille	FR	modern
-Narbonne	Narbonne	FR	modern
-Nice	Nice	FR	modern
-Toulouse	Toulouse	FR	modern
+Arles	Arles	P	modern	Arles
+Geneva	Geneve	CH	modern	Geneva
+Marseille	Marseille	FR	modern	Marseille
+Narbonne	Narbonne	FR	modern	Narbonne
+Nice	Nice	FR	modern	Nice
+Toulouse	Toulouse	FR	modern	Toulouse

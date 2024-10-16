@@ -79,8 +79,7 @@ Murcia	Mursiyah	Arabic
 Oviedo	Oviedo	Spanish
 Palma	Palma	Spanish
 Palma	Medina Mayurqa	Arabic
-Palma	Palma	Spanish
-Palma	Palma	Spanish
+Palma	Palma de Mallorca	Spanish
 Pamplona	Pamplona	Spanish
 Pamplona	Pompelo	Latin
 Pamplona	Iruña	Vascone
