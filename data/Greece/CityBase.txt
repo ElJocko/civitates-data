@@ -25,4 +25,4 @@ Thebes	Thivai	GR	modern	Thebes,_Greece
 Therapnes	Therapnes	GR	modern	Therapnes
 Thessaloniki	Thessalonica	P	ancient	Thessaloniki
 Tiryns	Tiryns	GR	ancient	Tiryns
-Traianopolis	Traianoupolis	GR	ancient	Traianopolis
+Traianopolis	Traianoupolis	GR	ancient	Traianoupoli

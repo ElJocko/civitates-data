@@ -24,10 +24,13 @@ Heraclea Pontica	Heraclea	P	ancient	Heraclea Pontica
 İzmit	Izmit	TR	modern	İzmit
 İznik	Iznik	TR	modern	İznik
 Karatepe	Karatepe	P	ancient	Karatepe
+Kayseri	Kayseri	TR	modern	Kayseri
 Komana Pontika	Comana Pontica/Hierocaesarea	P	ancient	Comana_Pontica
 Konya	Konya	TR	modern	Konya
 Lampsacus	Pityoussa/Lampsacus	P	ancient	Lampsacus
 Laodicea	Laodicea	TR	ancient	Laodicea_on_the_Lycus
+Malatya	Melitene	P	modern	Malatya
+Mazaka	Mazaka/Eusebeia/Caesarea	P	ancient	Caesarea_(Mazaca)
 Miletus	Miletus	TR	ancient	Miletus
 Mersin	Mercin	TR	modern	Mersin
 Nerik	Nerik	TR	ancient	Nerik
@@ -52,4 +55,5 @@ Tarsus	Tarsus	TR	modern	Tarsus,_Mersin
 Thyatira	Akhisar	TR	modern	Thyatira
 Trabzon	Trabzon	TR	modern	Trabzon
 Troy	Troy	TR	ancient	Troy
+Tyana	Tyana/Col. Aurelia Antoniniana	P	ancient	Tyana
 Zile	Zile	TR	modern	Zile

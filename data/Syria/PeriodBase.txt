@@ -3,6 +3,10 @@ Aleppo	-1900	-1525	Halab	2	1
 Aleppo	-1524	-334	Halab	3	1
 Aleppo	-333	300	Beroea	2	1
 Aleppo	331	2100	Aleppo	1	1
+Antioch	-301	-241	Antioch	2	2
+Antioch	-240	539	Antioch	1	2
+Antioch	540	1268	Antioch	2	2
+Antioch	1269	2100	Antakya	3	2
 Arwad	-1900	-1550	Arwad	2	2
 Arwad	-1549	-300	Arwad	1	2
 Arwad	-299	2100	Arwad	2	2

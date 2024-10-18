@@ -54,6 +54,7 @@ Heraclea Pontica	Pontoheraclea	Greek
 İznik	İznik	Turkish
 Karatepe	Karatepe	Turkish
 Karatepe	Azatiwataya	Hittite
+Kayseri	Kayseri	Turkish
 Konya	Iconium	Latin
 Konya	Ikónion	Greek
 Konya	Konya	Turkish
@@ -62,6 +63,11 @@ Lampsacus	Pityoussa	Greek
 Laodicea	Diospolis	Greek
 Laodicea	Laodicea	Greek
 Laodicea	Rhodas	Greek
+Malatya	Malatya	Turkish
+Malatya	Malidiya	Hittite
+Malatya	Melitene	Greek
+Mazaka	Mazaka	Greek
+Mazaka	Caesarea	Latin
 Mersin	Mersin	Turkish
 Mersin	Zephyrion	Greek
 Mersin	Zephyrium	Latin
@@ -118,6 +124,10 @@ Troy	Ilium	Latin
 Troy	Troia	Greek
 Troy	Troy	English
 Troy	Wilusha	Hittite
+Tyana	Tyana	Latin
+Tyana	Tūwanuwa	Hittite
+Tyana	Tuwana	Luwian
+Tyana	Tuana	Greek
 Zile	Zile	Turkish
 Zile	Zela	Greek
 Zile	Zelitis	Greek
