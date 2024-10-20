@@ -7,6 +7,11 @@ Amasra	Amasra	Greek
 Amasra	Amastris	Greek
 Amasya	Amasya	Turkish
 Amasya	Amaseia	Greek
+Anazarbus	Anazarbus	Greek
+Anazarbus	Ain Zarba	Greek
+Anazarbus	Anavarza	Arabic
+Anazarbus	Caesarea ad Anazarbum	Latin
+Anazarbus	Justinopolis	Latin
 Ankara	Ankara	Turkish
 Ankara	Ánkyra	Greek
 Apamea Myrlea	Apamea Myrlea	Greek
@@ -37,6 +42,8 @@ Elaeus	Elaeus	Greek
 Ephesus	Efes	Turkish
 Ephesus	Ephesos	Greek
 Ephesus	Ephesus	English
+Ereğli	Ereğli	Turkish
+Ereğli	Heraclea Cybistra	Latin
 Gelibolu	Callipolis	Greek
 Gelibolu	Gelibolu	Turkish
 Gordion	Gordion	English
@@ -100,6 +107,8 @@ Satala	Satala	Greek
 Şebinkarahisar	Colonia	Latin
 Şebinkarahisar	Şapkarahisar	Turkish
 Sestos	Sestos	Greek
+Silifke	Silifke	Turkish
+Silifke	Seleucia	Greek
 Sinop	Sinop	Turkish
 Sinop	Sinope	Greek
 Sis	Sis	Hittite

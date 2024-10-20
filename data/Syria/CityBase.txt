@@ -1,6 +1,6 @@
 Alalakh	Alalakh	P	ancient	Alalakh
 Aleppo	Aleppo	SY	modern	Aleppo
-Antioch	Antiochia/Theoupolis	P	modern	Antioch
+Antakya	Antiochia/Theoupolis	P	modern	Antioch
 Arwad	Arwad	SY	modern	Arwad
 Byblos	Jbail	LB	modern	Byblos
 Ebla	Ebla	P	ancient	Ebla

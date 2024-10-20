@@ -3,6 +3,7 @@ Adana	Adana	TR	modern	Adana
 Alaşehir	Alasehir	TR	modern	Alaşehir
 Amasra	Amasra	TR	modern	Amasra
 Amasya	Amasya	TR	modern	Amasya
+Anazarbus	Anazarbos/Caesarea/Ioustin(ian)oupolis	P	ancient	Anazarbus
 Ankara	Ankara	TR	modern	Ankara
 Apamea Myrlea	Brylleion/Myrleia/Apamea/Col. Iulia Concordia	P	ancient	Apamea Myrlea
 Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	P	ancient	Apollonia ad Rhyndacum
@@ -16,6 +17,7 @@ Dascylium	Daskyleion	P	ancient	Dascylium
 Dorylaeum	Dorylaion	P	ancient	Dorylaeum
 Elaeus	Elaeus	TR	ancient	Elaeus
 Ephesus	Ephesus	TR	ancient	Ephesus
+Ereğli	Eregli	TR	modern	Ereğli
 Gelibolu	Gelibolu	TR	modern	Gelibolu
 Gordion	Gordion/Vindia?	P	ancient	Gordion
 Hattusa	Hattusa	P	ancient	Hattusa
@@ -47,8 +49,9 @@ Sardis	Sardis	TR	ancient	Sardis
 Satala	Satala	X	ancient	Satala
 Şebinkarahisar	Sebinkarahisar	TR	modern	Şebinkarahisar
 Sestos	Sestos	TR	ancient	Sestos
+Silifke	Silifke	TR	modern	Silifke
 Sinop	Sinop	TR	modern	Sinop,_Turkey
-Sis	Kozan	TR	modern	Sis
+Sis	Kozan	TR	modern	Sis_(ancient_city)
 Sivas	Sivas	TR	modern	Sivas
 Smyrna	Smyrna	TR	ancient	Smyrna
 Tarsus	Tarsus	TR	modern	Tarsus,_Mersin

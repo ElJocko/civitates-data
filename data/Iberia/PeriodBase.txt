@@ -139,6 +139,6 @@ Tui	861	2100	Tui	4	1
 Valencia	-138	713	Valentia	3	1
 Valencia	714	1237	Balansiya	3	1
 Valencia	1238	2100	Valencia	3	1
-Zaragoza	-25	713	Caesaraugusta	3	1
+Zaragoza	-25	713	Caesar Augusta	3	1
 Zaragoza	714	1117	Saraqusta	3	1
 Zaragoza	1118	2100	Zaragoza	3	1

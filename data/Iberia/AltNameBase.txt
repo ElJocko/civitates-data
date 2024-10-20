@@ -115,5 +115,5 @@ Valencia	Valencia	Spanish
 Valencia	Valentia	Latin
 Valencia	Balansiya	Arabic
 Zaragoza	Zaragoza	Spanish
-Zaragoza	Caesaraugusta	Latin
+Zaragoza	Caesar Augusta	Latin
 Zaragoza	Saraqusta	Arabic

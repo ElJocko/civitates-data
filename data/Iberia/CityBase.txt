@@ -45,4 +45,4 @@ Toledo	Toledo	ES	modern	Toledo,_Spain
 Tortosa	Tortosa	ES	modern	Tortosa
 Tui	Tui	ES	modern	Tui,_Pontevedra
 Valencia	Valencia	ES	modern	Valencia
-Zaragoza	Zaragoza	ES	modern	Zaragoza
+Zaragoza	Zaragoza	ES	modern	Caesaraugusta

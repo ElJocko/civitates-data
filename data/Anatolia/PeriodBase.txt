@@ -9,6 +9,7 @@ Amasya	-600	-300	Amaseia	3	1
 Amasya	-299	400	Amaseia	2	1
 Amasya	401	1074	Amaseia	3	1
 Amasya	1075	2100	Amasya	3	1
+Anazarbus	-100	1374	Anazarbus	3	1
 Ankara	-1000	1073	Ánkyra	2	1
 Ankara	1074	2100	Ankara	2	1
 Apamea Myrlea	-400	-203	Myrlea	3	1
@@ -36,6 +37,8 @@ Elaeus	-500	200	Elaeus	4	2
 Ephesus	-950	-650	Ephesos	3	1
 Ephesus	-649	650	Ephesos	2	1
 Ephesus	651	1400	Ephesos	4	1
+Ereğli	500	1249	Heraclea Cybistra	3	1
+Ereğli	1250	2100	Ereğli	3	1
 Gelibolu	-450	1354	Callipolis	4	2
 Gelibolu	1355	2100	Gelibolu	4	2
 Gordion	-900	-751	Gordion	3	3
@@ -103,14 +106,16 @@ Satala	100	608	Satala	4	1
 Şebinkarahisar	-65	1199	Colonia	4	0
 Şebinkarahisar	1200	2100	Şapkarahisar	4	0
 Sestos	-500	-300	Sestos	4	2
-Sis	450	1149	Sis	4	1
-Sis	1150	1375	Sis	2	1
-Sis	1376	1515	Sis	4	1
-Sis	1516	2100	Kozan	3	1
+Silifke	-290	1350	Seleucia	3	1
+Silifke	1351	2100	Silifke	3	1
 Sinop	-600	-184	Sinope	3	0
 Sinop	-183	-69	Sinope	2	0
 Sinop	-70	1213	Sinope	3	0
 Sinop	1214	2100	Sinop	3	0
+Sis	450	1149	Sis	4	1
+Sis	1150	1375	Sis	2	1
+Sis	1376	1515	Sis	4	1
+Sis	1516	2100	Kozan	3	1
 Sivas	-64	-11	Megalopolis	3	1
 Sivas	-10	1073	Sebasteia	3	1
 Sivas	1074	2100	Sivas	2	1

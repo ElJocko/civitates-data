@@ -1,4 +1,7 @@
 Ani	Ani	Armenian
+Apsaros	Apsaros	Greek
+Apsaros	Gonio	Georgian
+Apsaros	Apsyrtus	Greek
 Artashat	Artashat	Armenian
 Artashat	Artaxata	Armenian
 Batumi	Batumi	Georgian
@@ -6,7 +9,15 @@ Dvin	Dvin	Armenian
 Gori	Gori	Georgian
 Kars	Kars	Armenian
 Kutaisi	Kutaisi	Georgian
+Kutaisi	Aia	Georgian
+Mtskheta	Mtskheta	Georgian
+Mtskheta	Meschistha	Georgian
 Phasis	Phasis	Greek
+Pitsunda	Pitsunda	Greek
+Pitsunda	Pityus	Greek
+Pitsunda	Bichvint'a	Georgian
+Rize	Rize	Turkish
+Rize	Rhizos	Greek
 Sukhumi	Sukhumi	English
 Sukhumi	Sokhumi	Georgian
 Sukhumi	Tskhumi	Georgian
@@ -15,6 +26,7 @@ Sukhumi	Sebastopolis	Latin
 Tbilisi	Tbilisi	Georgian
 Tbilisi	Tiflis	English
 Tigranakert	Tigranakert	Armenian
+Uplistsikhe	Uplistsikhe	Georgian
 Vagharshapat	Vagharshapat	Armenian
 Vagharshapat	Vardgesavan	Armenian
 Vagharshapat	Ejmiatsin	Armenian

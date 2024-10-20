@@ -2,8 +2,9 @@ Alalakh	Alalakh	Semitic
 Aleppo	Aleppo	English
 Aleppo	Beroea	Greek
 Aleppo	Ḥalab	Arabic
-Antioch	Antioch	Greek
-Antioch	Theoupolis	Latin
+Antakya	Antioch	Greek
+Antakya	Theoupolis	Latin
+Antakya	Antakya	Turkish
 Arwad	Arwad	Phoenician
 Arwad	Árados	Greek
 Byblos	Byblos	Greek
