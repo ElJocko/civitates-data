@@ -1,1 +1,11 @@
+Carchemish	Europos	P	ancient	Carchemish
 Emar	Emar	P	ancient	Emar
+Europos	D(o)ura/Europos	P	ancient	Dura-Europos
+Harran	Carrhae	P	ancient	Harran
+Manbij	Manbij	SY	modern	Manbij
+Mari	Mari	P	ancient	Mari,_Syria
+Samsat	Samosata	P	modern	Samsat
+Terqa	Terqa	P	ancient	Terqa
+Tuttal	Tuttal	P	ancient	Tuttal
+Urfa	Sanliurfa	TR	modern	Edessa
+Zeugma	Zeugma	P	ancient	Zeugma_(Commagene)

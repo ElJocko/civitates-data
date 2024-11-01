@@ -26,9 +26,6 @@ Chalcedon	Chalcedon	Greek
 Cius	Cius	Greek
 Cius	Prusias ad Mare	Latin
 Colophon	Colophon	Greek
-Komana Pontika	Komana Pontika	Greek
-Komana Pontika	Comana Pontica	Latin
-Komana Pontika	Hierocaesarea	Latin
 Cyzicus	Cyzicus	Greek
 Dardanus	Dardania	Greek
 Dardanus	Dardanus	Greek
@@ -44,11 +41,16 @@ Ephesus	Ephesos	Greek
 Ephesus	Ephesus	English
 Ereğli	Ereğli	Turkish
 Ereğli	Heraclea Cybistra	Latin
+Fethiye	Fethiye	Turkish
+Fethiye	Telmessos	Greek
+Fethiye	Anastasiopolis	Greek
+Fethiye	Makri	Greek
 Gelibolu	Callipolis	Greek
 Gelibolu	Gelibolu	Turkish
 Gordion	Gordion	English
 Gordion	Gordium	Latin
 Gordion	Gordum	Phrygian
+Halicarnassus	Halicarnassus	Greek
 Hattusa	Hattusa	Hittite
 Helenopolis	Helenopolis	Greek
 Helenopolis	Drepanon	Latin
@@ -62,13 +64,22 @@ Heraclea Pontica	Pontoheraclea	Greek
 Karatepe	Karatepe	Turkish
 Karatepe	Azatiwataya	Hittite
 Kayseri	Kayseri	Turkish
+Knidos	Knidos	Greek
+Komana Pontika	Komana Pontika	Greek
+Komana Pontika	Comana Pontica	Latin
+Komana Pontika	Hierocaesarea	Latin
 Konya	Iconium	Latin
 Konya	Ikónion	Greek
 Konya	Konya	Turkish
+Kültepe	Kültepe	Turkish
+Kültepe	Kaneš	Unspecified
+Kültepe	Kanesh	Unspecified
+Kültepe	Neša	Unspecified
 Lampsacus	Lampsacus	Greek
 Lampsacus	Pityoussa	Greek
 Laodicea	Diospolis	Greek
 Laodicea	Laodicea	Greek
+Laodicea	Laodicea ad Lycum	Latin
 Laodicea	Rhodas	Greek
 Malatya	Malatya	Turkish
 Malatya	Malidiya	Hittite
@@ -78,6 +89,8 @@ Mazaka	Caesarea	Latin
 Mersin	Mersin	Turkish
 Mersin	Zephyrion	Greek
 Mersin	Zephyrium	Latin
+Milas	Milas	Turkish
+Milas	Mylasa	Greek
 Miletus	Milet	Turkish
 Miletus	Miletus	Latin
 Miletus	Milētos	Greek
@@ -107,6 +120,8 @@ Satala	Satala	Greek
 Şebinkarahisar	Colonia	Latin
 Şebinkarahisar	Şapkarahisar	Turkish
 Sestos	Sestos	Greek
+Side	Side	Greek
+Side	Selimiye	Turkish
 Silifke	Silifke	Turkish
 Silifke	Seleucia	Greek
 Sinop	Sinop	Turkish
@@ -137,6 +152,7 @@ Tyana	Tyana	Latin
 Tyana	Tūwanuwa	Hittite
 Tyana	Tuwana	Luwian
 Tyana	Tuana	Greek
+Xanthos	Xanthos	Greek
 Zile	Zile	Turkish
 Zile	Zela	Greek
 Zile	Zelitis	Greek

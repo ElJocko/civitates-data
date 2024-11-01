@@ -39,12 +39,14 @@ Ephesus	-649	650	Ephesos	2	1
 Ephesus	651	1400	Ephesos	4	1
 Ereğli	500	1249	Heraclea Cybistra	3	1
 Ereğli	1250	2100	Ereğli	3	1
+Fethiye	-600	1000	Telmessos	4	1
 Gelibolu	-450	1354	Callipolis	4	2
 Gelibolu	1355	2100	Gelibolu	4	2
 Gordion	-900	-751	Gordion	3	3
 Gordion	-750	-547	Gordion	2	3
 Gordion	-546	300	Gordion	3	3
 Gordion	301	2100	Gordion	4	3
+Halicarnassus	-600	-250	Halicarnassus	3	1
 Hattusa	-2000	-1200	Hattusa	1	1
 Helenopolis	-600	1084	Helenopolis	4	3
 Heraclea Pontica	-560	-64	Heraclea Pontica	2	2
@@ -63,8 +65,11 @@ Heraclea Pontica	1261	1500	Heraclea Pontica	4	2
 Iznik	1332	2100	İznik	3	5
 Karatepe	-900	-600	Azatiwataya	3	1
 Kayseri	1074	2100	Kayseri	3	1
+Knidos	-400	600	Knidos	3	1
 Konya	-750	1084	Iconium	3	0
 Konya	1085	2100	Konya	2	0
+Kültepe	-2000	-1650	Kaneš	2	0
+Kültepe	-1649	-200	Kaneš	3	0
 Lampsacus	-600	1084	Lampsacus	4	1
 Laodicea	-350	-262	Diospolis	4	1
 Laodicea	-261	1230	Laodicea	3	1
@@ -77,6 +82,8 @@ Mazaka	-95	16	Mazaka	3	1
 Mazaka	17	1073	Caesarea	3	1
 Mersin	-1300	620	Mersin	3	3
 Mersin	787	2100	Mersin	3	3
+Milas	-700	1289	Mylasa	3	1
+Milas	1290	2100	Milas	3	1
 Miletus	-1450	-499	Miletus	1	1
 Miletus	-498	1300	Miletus	2	1
 Miletus	1301	1400	Miletus	4	1
@@ -106,6 +113,7 @@ Satala	100	608	Satala	4	1
 Şebinkarahisar	-65	1199	Colonia	4	0
 Şebinkarahisar	1200	2100	Şapkarahisar	4	0
 Sestos	-500	-300	Sestos	4	2
+Side	-600	850	Side	3	1
 Silifke	-290	1350	Seleucia	3	1
 Silifke	1351	2100	Silifke	3	1
 Sinop	-600	-184	Sinope	3	0
@@ -141,5 +149,6 @@ Tyana	-1500	-1200	Tūwanuwa	3	1
 Tyana	-1199	-600	Tuwana	3	1
 Tyana	-599	-100	Tuana	3	1
 Tyana	-99	950	Tyana	3	1
+Xanthos	-600	650	Xanthos	3	1
 Zile	-600	2100	Zela	3	1
 Zile	1397	2100	Zile	4	1

@@ -9,6 +9,49 @@ import geonames
 import pleiades
 import civitates_data
 from city import City
+import uuid
+
+
+def count_id(city, list):
+    count = 0
+    for x in list:
+        if x.id == city.id and x.region == city.region:
+            count += 1
+    return count
+
+def find_geonames_city(name, country_code):
+    for city in geonames_city_list:
+        if city.ascii_name == name and city.country_code == country_code:
+            return city
+    return None
+
+def find_pleiades_settlement(title):
+    for settlement in pleiades_settlement_list:
+        if settlement.title == title:
+            # print("  found", title, "in pleiades settlements")
+            return settlement
+    return None
+
+def find_city_extra(city_id, region):
+    for city in city_extra_list:
+        if city.id == city_id and city.region == region:
+            return city
+    return None
+
+def get_alt_names(city_id, region):
+    city_alt_names = []
+    for alt_name in alt_name_base_list:
+        if alt_name.id == city_id and alt_name.region == region:
+            city_alt_names.append({ 'name':alt_name.alt_name, 'language':alt_name.language })
+    return city_alt_names
+
+def get_city_periods(city_id, region):
+    city_periods = []
+    for period in period_base_list:
+        if period.id == city_id and period.region == region:
+            city_periods.append({ 'startDate':period.start_date, 'endDate':period.end_date, 'preferredName':period.preferredName, 'size':period.size, 'tagPosition':period.tag_position, 'calcTagPosition':0 })
+    return city_periods
+
 
 print("civitates-data loader starting")
 
@@ -65,52 +108,12 @@ city_extra_list = civitates_data.read_city_extra_files(path_list)
 
 print("Read", len(city_extra_list), "rows from CityExtra.txt")
 
-def count_id(id, list):
-    count = 0
-    for x in list:
-        if x.id == id:
-            count += 1
-    return count
-
 # Look for duplicates in CityBase
-duplicate_cities = set([x.id for x in city_base_list if count_id(x.id, city_base_list) > 1])
-if len(duplicate_cities) > 1:
-    print("Found", len(duplicate_cities), "duplicate cities in CityExtra.txt")
+duplicate_cities = set([x.id for x in city_base_list if count_id(x, city_base_list) > 1])
+if len(duplicate_cities) > 0:
+    print("Found", len(duplicate_cities), "duplicate cities in CityBase.txt")
     for duplicate in duplicate_cities:
         print("  ", duplicate)
-
-def find_geonames_city(name, country_code):
-    for city in geonames_city_list:
-        if city.ascii_name == name and city.country_code == country_code:
-            return city
-    return None
-
-def find_pleiades_settlement(title):
-    for settlement in pleiades_settlement_list:
-        if settlement.title == title:
-            # print("  found", title, "in pleiades settlements")
-            return settlement
-    return None
-
-def find_city_extra(city_id):
-    for city in city_extra_list:
-        if city.id == city_id:
-            return city
-    return None
-
-def get_alt_names(city_id):
-    city_alt_names = []
-    for alt_name in alt_name_base_list:
-        if alt_name.id == city_id:
-            city_alt_names.append({ 'name':alt_name.alt_name, 'language':alt_name.language })
-    return city_alt_names
-
-def get_city_periods(city_id):
-    city_periods = []
-    for period in period_base_list:
-        if period.id == city_id:
-            city_periods.append({ 'startDate':period.start_date, 'endDate':period.end_date, 'preferredName':period.preferredName, 'size':period.size, 'tagPosition':period.tag_position, 'calcTagPosition':0 })
-    return city_periods
 
 # Write the cities to the JSON output file
 city_list = []
@@ -119,20 +122,20 @@ for city_base in city_base_list:
     if city_base.geonames_cc == "P":
         city_lookup = find_pleiades_settlement(city_base.geonames_name)
     elif city_base.geonames_cc == "X":
-        city_lookup = find_city_extra(city_base.id)
+        city_lookup = find_city_extra(city_base.id, city_base.region)
 
     if city_lookup is None:
         city_lookup = find_geonames_city(city_base.geonames_name, city_base.geonames_cc)
 
     if city_lookup is None:
-        city_lookup = find_city_extra(city_base.id)
+        city_lookup = find_city_extra(city_base.id, city_base.region)
 
     if city_lookup is None:
-        print("No geo information found for", city_base.id)
+        print("No geo information found for", city_base.id, " (", city_base.region, ")")
         continue
 
-    alt_names = get_alt_names(city_base.id)
-    periods = get_city_periods(city_base.id)
+    alt_names = get_alt_names(city_base.id, city_base.region)
+    periods = get_city_periods(city_base.id, city_base.region)
     map_point = labelCalc.map_point_for_coordinate(labelCalc.Coordinate(city_lookup.latitude, city_lookup.longitude))
 
     #city = City(city_base.id)
@@ -144,7 +147,8 @@ for city_base in city_base_list:
             'coordinates': [ city_lookup.longitude, city_lookup.latitude]
         },
         'properties': {
-            'identifier': city_base.id,
+            'identifier': str(uuid.uuid4()),
+            'city_base_id': city_base.id,
             'latitude': city_lookup.latitude,
             'longitude': city_lookup.longitude,
             'elevation': city_lookup.elevation,
@@ -155,6 +159,7 @@ for city_base in city_base_list:
             'wikipediaArticleName': city_base.wikipedia_article_name
         }}
     city_list.append(city_dict)
+
 
 
 @dataclass
@@ -212,7 +217,7 @@ def count_cities_by_size(cities):
         city_periods = city["properties"]["periods"]
 
         if len(city_periods) == 0:
-            print("  no periods entered for ", city["properties"]["identifier"])
+            print("  no periods entered for ", city["properties"]["city_base_id"])
         else:
             min_period = min(city_periods, key=lambda x: x["size"])
             city_size = int(min_period["size"])

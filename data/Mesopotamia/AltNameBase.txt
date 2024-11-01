@@ -1,1 +1,28 @@
+Carchemish	Carchemish	Unspecified
+Carchemish	Karkamış	Turkish
 Emar	Emar	Akkadian
+Europos	Europos	Greek
+Europos	Dura	Aramaic
+Europos	Dura-Europos	English
+Harran	Harran	Unknown
+Harran	Huzirina	Assyrian
+Harran	Kárrhai	Greek
+Harran	Carrhae	Latin
+Manbij	Manbij	Arabic
+Manbij	Manbug	Aramean
+Manbij	Hierapolis	Greek
+Manbij	Mabog	Syriac
+Mari	Mari	Unspecified
+Mari	Tell Hariri	Arabic
+Samsat	Samsat	Turkish
+Samsat	Samosata	Greek
+Samsat	Samîsad	Kurdish
+Terqa	Terqa	Unspecified
+Terqa	Tell Ashara	Arabic
+Tuttal	Tuttal	Akkadian
+Tuttal	Tell Bi'a	Arabic
+Urfa	Urfa	Turkish
+Urfa	Edessa	Greek
+Urfa	Şanlıurfa	Turkish
+Zeugma	Zeugma	Greek
+Zeugma	Commagene	Latin

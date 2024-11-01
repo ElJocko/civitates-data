@@ -17,9 +17,11 @@ Dascylium	Daskyleion	P	ancient	Dascylium
 Dorylaeum	Dorylaion	P	ancient	Dorylaeum
 Elaeus	Elaeus	TR	ancient	Elaeus
 Ephesus	Ephesus	TR	ancient	Ephesus
-Ereğli	Eregli	TR	modern	Ereğli
+Ereğli	Eregli	TR	modern	Ereğli,_Konya
+Fethiye	Fethiye	TR	modern	Telmessos
 Gelibolu	Gelibolu	TR	modern	Gelibolu
 Gordion	Gordion/Vindia?	P	ancient	Gordion
+Halicarnassus	Halicarnassus/Halikarnassos	P	ancient	Halicarnassus
 Hattusa	Hattusa	P	ancient	Hattusa
 Helenopolis	Drepanon/Helenopolis	P	ancient	Helenopolis_(Bithynia)
 Heraclea Pontica	Heraclea	P	ancient	Heraclea Pontica
@@ -27,12 +29,15 @@ Heraclea Pontica	Heraclea	P	ancient	Heraclea Pontica
 İznik	Iznik	TR	modern	İznik
 Karatepe	Karatepe	P	ancient	Karatepe
 Kayseri	Kayseri	TR	modern	Kayseri
+Knidos	Cnidus	P	ancient	Knidos
 Komana Pontika	Comana Pontica/Hierocaesarea	P	ancient	Comana_Pontica
 Konya	Konya	TR	modern	Konya
+Kültepe	Kaneš	P	modern	Kültepe
 Lampsacus	Pityoussa/Lampsacus	P	ancient	Lampsacus
 Laodicea	Laodicea	TR	ancient	Laodicea_on_the_Lycus
 Malatya	Melitene	P	modern	Malatya
 Mazaka	Mazaka/Eusebeia/Caesarea	P	ancient	Caesarea_(Mazaca)
+Milas	Milas	TR	modern	Milas
 Miletus	Miletus	TR	ancient	Miletus
 Mersin	Mercin	TR	modern	Mersin
 Nerik	Nerik	TR	ancient	Nerik
@@ -49,6 +54,7 @@ Sardis	Sardis	TR	ancient	Sardis
 Satala	Satala	X	ancient	Satala
 Şebinkarahisar	Sebinkarahisar	TR	modern	Şebinkarahisar
 Sestos	Sestos	TR	ancient	Sestos
+Side	Side	P	ancient	Side,_Turkey
 Silifke	Silifke	TR	modern	Silifke
 Sinop	Sinop	TR	modern	Sinop,_Turkey
 Sis	Kozan	TR	modern	Sis_(ancient_city)
@@ -59,4 +65,5 @@ Thyatira	Akhisar	TR	modern	Thyatira
 Trabzon	Trabzon	TR	modern	Trabzon
 Troy	Troy	TR	ancient	Troy
 Tyana	Tyana/Col. Aurelia Antoniniana	P	ancient	Tyana
+Xanthos	Xanthos	P	ancient	Xanthos
 Zile	Zile	TR	modern	Zile
