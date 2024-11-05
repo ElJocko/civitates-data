@@ -84,6 +84,8 @@ Nardo	Nardo	IT	modern	Nardo
 Nicastro	Nicastro	IT	modern	Nicastro
 Nola	Nola	IT	modern	Nola
 Noto	Noto	IT	modern	Noto
+Nora	Nora	P	ancient	Nora,_Italy
+Olbia	Olbia	IT	modern	Olbia
 Oria	Oria	IT	modern	Oria
 Orvieto	Orvieto	IT	modern	Orvieto
 Ostia	Ostia	IT	ancient	Ostia

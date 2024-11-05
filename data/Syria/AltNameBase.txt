@@ -12,6 +12,15 @@ Arwad	Árados	Greek
 Baalbek	Baalbek	Unspecified
 Baalbek	Heliopolis	Greek
 Baalbek	Baʿlabak	Arabic
+Beirut	Berytus	Latin
+Beirut	Beirut	English
+Beirut	Bayrūt	Arabic
+Beirut	Bēʾrūt	Phoenician
+Beirut	Laodicea in Phoenicia	Greek
+Bosra	Buşrá ash Shām	Arabic
+Bosra	Bosra	English
+Bosra	Buṣrā	Arabic
+Bosra	Bostra	Greek
 Byblos	Byblos	Greek
 Byblos	Gebal	Hebrew
 Byblos	Gubla	Akkadian
@@ -27,6 +36,8 @@ Hama	Epiphaneia	Greek
 Hama	Emath	Greek
 Hazor	Hazor	Unspecified
 Hazor	Tel Hazor	Hebrew
+Jerash	Jerash	Arabic
+Jerash	Gérasa	Greek
 Kadesh	Kadesh	Canaanite
 Kadesh	Qadesh	Canaanite
 Kadesh	Kadeš	Hittite
@@ -39,6 +50,9 @@ Marash	Germanicea	Greek
 Marash	Kahramanmaraş	Turkish
 Palmyra	Palmyra	Greek
 Palmyra	Tadmor	Aramaic
+Petra	Petra	Greek
+Petra	Raqmu	Nabataean
+Petra	Arabia Petraea	Latin
 Qatna	Qatna	Semitic
 Sidon	Sidon	Phoenician
 Sidon	Ṣaydā	Arabic

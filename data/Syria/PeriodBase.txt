@@ -13,6 +13,14 @@ Arwad	-1900	-1550	Arwad	2	2
 Arwad	-1549	-300	Arwad	1	2
 Arwad	-299	2100	Arwad	2	2
 Baalbek	-334	2100	Baalbek	3	1
+Beirut	-1000	-140	Bēʾrūt	3	2
+Beirut	-139	-65	Laodicea in Phoenicia	3	2
+Beirut	-64	551	Berytus	3	2
+Beirut	552	634	Berytus	4	2
+Beirut	635	758	Beirut	4	2
+Beirut	759	2100	Beirut	3	2
+Bosra	-150	633	Bostra	3	1
+Bosra	634	2100	Bosra	3	1
 Byblos	-1900	-1550	Byblos	2	2
 Byblos	-1549	-300	Byblos	1	2
 Byblos	-299	636	Byblos	2	2
@@ -31,6 +39,8 @@ Hama	-169	330	Epiphaneia	3	1
 Hama	331	638	Emath	3	1
 Hama	639	2100	Hama	3	1
 Hazor	-1700	-732	Hazor	4	1
+Jerash	-100	749	Gérasa	3	1
+Jerash	750	1121	Jerash	4	1
 Kadesh	-1750	-1178	Kadesh	3	1
 Latakia	-300	634	Laodicea	3	2
 Latakia	635	2100	Latakia	3	2
@@ -40,6 +50,7 @@ Marash	1208	2100	Marash	3	1
 Palmyra	-1900	-313	Tadmor	3	1
 Palmyra	-312	273	Palmyra	2	1
 Palmyra	274	1400	Palmyra	3	1
+Petra	-150	363	Petra	3	1
 Qatna	-1900	-1340	Qatna	3	1
 Qatna	-750	-550	Qatna	4	1
 Sidon	-1900	-1550	Sidon	2	2

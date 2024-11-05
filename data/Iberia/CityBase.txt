@@ -20,6 +20,7 @@ Emporiae	Emporiae	P	ancient	Emporiae
 Gibraltar	Gibraltar	GI	modern	Gibraltar
 Granada	Granada	ES	modern	Granada
 Huesca	Huesca	ES	modern	Huesca
+Ibiza	Ibiza	ES	modern	Ibiza_(city)
 Iria Flavia	Iria Flavia	P	ancient	Iria Flavia
 Jaén	Jaen	ES	modern	Jaén,_Spain
 León	Leon	ES	modern	León,_Spain

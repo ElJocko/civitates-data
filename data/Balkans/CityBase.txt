@@ -2,6 +2,7 @@ Amantia	Amantia	P	ancient	Amantia
 Constanța	Constanta	RO	modern	Constanța
 Devnya	Devnya	BG	modern	Devnya
 Doclea	Doclea	P	ancient	Doclea_(Illyria)
+Drobeta-Turnu Severin	Drobeta-Turnu Severin	RO	modern	Drobeta-Turnu Severin
 Durrës	Durres	AL	modern	Durrës
 Faros	Pharus	P	ancient	Faros
 Lezhë	Lezhe	AL	modern	Lezhë
@@ -18,6 +19,7 @@ Silistra	Silistra	BG	modern	Silistra
 Sirmium	Sirmium	P	ancient	Sirmium
 Skopje	Skopje	MK	modern	Skopje
 Sofia	Sofia	BG	modern	Sofia
+Sozopol	Sozopol	BG	modern	Sozopol
 Split	Split	HR	modern	Split,_Croatia
 Stobi	Stobi	P	ancient	Stobi
 Tarnovo	Veliko Turnovo	BG	modern	Tarnovo

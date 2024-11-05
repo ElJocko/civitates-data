@@ -9,7 +9,6 @@ import geonames
 import pleiades
 import civitates_data
 from city import City
-import uuid
 
 
 def count_id(city, list):
@@ -147,8 +146,9 @@ for city_base in city_base_list:
             'coordinates': [ city_lookup.longitude, city_lookup.latitude]
         },
         'properties': {
-            'identifier': str(uuid.uuid4()),
+            'identifier': city_base.id + "@" + city_base.region,
             'city_base_id': city_base.id,
+            'region': city_base.region,
             'latitude': city_lookup.latitude,
             'longitude': city_lookup.longitude,
             'elevation': city_lookup.elevation,

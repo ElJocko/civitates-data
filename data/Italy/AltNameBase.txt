@@ -141,6 +141,10 @@ Naples	Napoli	Italian
 Naples	Neapolis	Greek
 Nola	Nuvlana	Etruscan
 Nola	Nola	Latin
+Nora	Nora	Greek
+Olbia	Olbia	Greek
+Olbia	Civita	Latin
+Olbia	Teranova Pausania	Italian
 Orvieto	Orvieto	Italian
 Ostia	Ostia	Latin
 Otranto	Otranto	Italian

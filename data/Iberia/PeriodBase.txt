@@ -68,6 +68,9 @@ Huesca	-299	790	Osca	3	1
 Huesca	791	1095	Washqah	3	1
 Huesca	1096	1187	Huesca	2	1
 Huesca	1188	2100	Huesca	3	1
+Ibiza	-600	-205	Ibossim	4	1
+Ibiza	-204	902	Ebusus	4	1
+Ibiza	903	2100	Ibiza	4	1
 Iria Flavia	69	1150	Iria Flavia	3	1
 Iria Flavia	1151	2100	Padrón	4	1
 Jaén	-300	-208	Aurgi	3	1

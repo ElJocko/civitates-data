@@ -3,4 +3,5 @@ Geneva	Geneve	CH	modern	Geneva
 Marseille	Marseille	FR	modern	Marseille
 Narbonne	Narbonne	FR	modern	Narbonne
 Nice	Nice	FR	modern	Nice
+Nîmes	Nimes	FR	modern	Nîmes
 Toulouse	Toulouse	FR	modern	Toulouse

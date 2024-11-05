@@ -51,6 +51,10 @@ Granada	Ġarnāṭa	Arabic
 Huesca	Huesca	Spanish
 Huesca	Osca	Latin
 Huesca	Washqah	Arabic
+Ibiza	Ibiza	Spanish
+Ibiza	Ebusus	Latin
+Ibiza	Eivissa	Catalan
+Ibiza	Ibossim	Punic
 Iria Flavia	Iria Flavia	Latin
 Iria Flavia	Padrón	Spanish
 Jaén	Jaén	Spanish

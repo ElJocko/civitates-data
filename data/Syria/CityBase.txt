@@ -4,16 +4,20 @@ Antakya	Antiochia/Theoupolis	P	modern	Antioch
 Apamea	Pella/Apamea	P	ancient	Apamea,_Syria
 Arwad	Arwad	SY	modern	Arwad
 Baalbek	Baalbek	LB	modern	Baalbek
+Beirut	Beirut	LB	modern	Beirut
+Bosra	Busra ash Sham	SY	modern	Bosra
 Byblos	Jbail	LB	modern	Byblos
 Cyrrhus	Cyrrus/Hagioupolis	P	ancient	Cyrrhus
 Damascus	Damascus	SY	modern	Damascus
 Ebla	Ebla	P	ancient	Ebla
 Hama	Hama	SY	modern	Hama
 Hazor	Hazor	P	ancient	Tel_Hazor
+Jerash	Jarash	JO	modern	Jerash
 Kadesh	Kadesh	P	ancient	Kadesh_(Syria)
 Latakia	Latakia	SY	modern	Laodicea_in_Syria
 Marash	Kahramanmaras	TR	modern	Kahramanmaraş
 Palmyra	Palmyra	P	ancient	Palmyra
+Petra	Petra	X	ancient	Petra
 Qatna	Qatna	P	ancient	Qatna
 Sidon	Sidon	LB	modern	Sidon
 Tripoli	Tripoli	LB	modern	Tripoli,_Lebanon

@@ -8,6 +8,9 @@ Devnya	Marcianopolis	Greek
 Devnya	Devina	Slavic
 Devnya	Parthenopolis	Greek
 Doclea	Doclea	Illyrian
+Drobeta-Turnu Severin	Drobeta-Turnu Severin	Unspecified
+Drobeta-Turnu Severin	Drobeta	Dacian
+Drobeta-Turnu Severin	Turnu Severin	Unspecified
 Durrës	Epidamnos	Greek
 Durrës	Dyrrhachium	Latin
 Durrës	Durrës	Albanian
@@ -41,6 +44,10 @@ Skopje	Skopje	Slavic
 Sofia	Sofia	Bulgarian
 Sofia	Serdica	Celtic
 Sofia	Sredets	Bulgarian
+Sozopol	Sozopol	Bulgarian
+Sozopol	Apollonia	Greek
+Sozopol	Antheia	Greek
+Sozopol	Sozopolis	Latin
 Split	Split	Croatian
 Split	Aspálathos	Greek
 Split	Aspalatum	Latin

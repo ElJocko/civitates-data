@@ -14,5 +14,7 @@ Narbonne	Narbona	Latin
 Nice	Nice	French
 Nice	Níkaia	Greek
 Nice	Nicaea	Latin
+Nîmes	Nîmes	French
+Nîmes	Nemausus	Celtic
 Toulouse	Toulouse	French
 Toulouse	Tolosa	Latin

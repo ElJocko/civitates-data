@@ -155,6 +155,11 @@ Naples	1443	2100	Naples	1	3
 Nola	-700	-328	Nuvlana	3	0
 Nola	-327	-73	Nola	2	0
 Nola	-72	2100	Nola	3	0
+Nora	-700	700	Nora	4	0
+Olbia	-200	500	Olbia	4	0
+Olbia	501	1500	Civita	4	0
+Olbia	1501	1940	Terranova Pausania	4	0
+Olbia	1941	2100	Olbia	4	0
 Orvieto	900	2100	Orvieto	4	0
 Ostia	-400	849	Ostia	4	2
 Otranto	-191	550	Hydruntum	4	0
