@@ -1,14 +1,11 @@
-import csv
 import json
 import os
 from collections import namedtuple
 from dataclasses import dataclass
-from operator import attrgetter
 import labelCalc
 import geonames
 import pleiades
 import civitates_data
-from city import City
 
 
 def count_id(city, list):

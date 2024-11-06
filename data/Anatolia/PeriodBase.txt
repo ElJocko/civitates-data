@@ -10,6 +10,7 @@ Amasya	-299	400	Amaseia	2	1
 Amasya	401	1074	Amaseia	3	1
 Amasya	1075	2100	Amasya	3	1
 Anazarbus	-100	1374	Anazarbus	3	1
+Anemurium	-200	650	Anemurium	3	1
 Ankara	-1000	1073	Ánkyra	2	1
 Ankara	1074	2100	Ankara	2	1
 Apamea Myrlea	-400	-203	Myrlea	3	1
@@ -52,6 +53,7 @@ Helenopolis	-600	1084	Helenopolis	4	3
 Heraclea Pontica	-560	-64	Heraclea Pontica	2	2
 Heraclea Pontica	-63	1260	Heraclea Pontica	3	2
 Heraclea Pontica	1261	1500	Heraclea Pontica	4	2
+Issus	-350	700	Issus	4	3
 İzmit	-712	-265	Astacus	3	1
 İzmit	-264	-74	Nicomedia	1	1
 İzmit	-73	292	Nicomedia	2	1

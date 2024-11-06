@@ -14,6 +14,10 @@ Manbij	Hierapolis	Greek
 Manbij	Mabog	Syriac
 Mari	Mari	Unspecified
 Mari	Tell Hariri	Arabic
+Nusaybin	Nusaybin	Turkish
+Nusaybin	Naṣibīna	Aramean
+Nusaybin	Antiochia Mygdonia	Greek
+Nusaybin	Nisibis	Latin
 Samsat	Samsat	Turkish
 Samsat	Samosata	Greek
 Samsat	Samîsad	Kurdish
@@ -24,5 +28,7 @@ Tuttal	Tell Bi'a	Arabic
 Urfa	Urfa	Turkish
 Urfa	Edessa	Greek
 Urfa	Şanlıurfa	Turkish
+Zenobia	Zenobia	Latin
+Zenobia	Halabiye	Arabic
 Zeugma	Zeugma	Greek
 Zeugma	Commagene	Latin

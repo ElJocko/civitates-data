@@ -224,6 +224,8 @@ Savona	601	2100	Savona	4	0
 Siena	560	2100	Siena	4	0
 Sipontum	-400	663	Sipontum	4	0
 Sipontum	1034	1250	Siponto	4	0
+Sorrento	-600	660	Sorrentum	3	3
+Sorrento	661	2100	Sorrento	3	3
 Spina	-550	-300	Spina	2	0
 Spoleto	-241	569	Spoletium	4	0
 Spoleto	570	1354	Spoleto	2	0

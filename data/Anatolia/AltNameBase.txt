@@ -12,6 +12,7 @@ Anazarbus	Ain Zarba	Greek
 Anazarbus	Anavarza	Arabic
 Anazarbus	Caesarea ad Anazarbum	Latin
 Anazarbus	Justinopolis	Latin
+Anemurium	Anemurium	Greek
 Ankara	Ankara	Turkish
 Ankara	Ánkyra	Greek
 Apamea Myrlea	Apamea Myrlea	Greek
@@ -56,6 +57,8 @@ Helenopolis	Helenopolis	Greek
 Helenopolis	Drepanon	Latin
 Heraclea Pontica	Heraclea Pontica	Greek
 Heraclea Pontica	Pontoheraclea	Greek
+Issus	Issus	Latin
+Issus	Issos	Greek
 İzmit	İzmit	Turkish
 İzmit	Nicomedia	Greek
 İzmit	Ólbia	Greek

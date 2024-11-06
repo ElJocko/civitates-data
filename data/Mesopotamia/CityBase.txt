@@ -4,8 +4,10 @@ Europos	D(o)ura/Europos	P	ancient	Dura-Europos
 Harran	Carrhae	P	ancient	Harran
 Manbij	Manbij	SY	modern	Manbij
 Mari	Mari	P	ancient	Mari,_Syria
+Nusaybin	Nusaybin	TR	modern	Nusaybin
 Samsat	Samosata	P	modern	Samsat
 Terqa	Terqa	P	ancient	Terqa
 Tuttal	Tuttal	P	ancient	Tuttal
 Urfa	Sanliurfa	TR	modern	Edessa
+Zenobia	Zenobia	P	ancient	Halabiye
 Zeugma	Zeugma	P	ancient	Zeugma_(Commagene)

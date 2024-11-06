@@ -2,11 +2,11 @@ Amathous	-750	1000	Amathous	4	0
 Famagusta	-300	1192	Arsinoe	4	1
 Famagusta	1193	2100	Famagusta	3	1
 Golgoi	-400	400	Golgoi	4	2
-Idalion	-1250	-300	Idalion	3	0
-Idalion	-299	400	Idalion	4	0
+Idalion	-1250	-300	Idalion	3	1
+Idalion	-299	400	Idalion	4	1
 Kition	-1250	342	Kition	3	0
-Kourion	-1000	370	Kourion	3	0
-Kourion	371	649	Kourion	4	0
+Kourion	-1000	370	Kourion	3	1
+Kourion	371	649	Kourion	4	1
 Kyrenia	-350	12	Kyrenia	3	0
 Kyrenia	13	2100	Kyrenia	2	0
 Lapethos	-600	-26	Lapethos	4	4
@@ -19,5 +19,5 @@ Paphos	301	2100	Paphos	4	0
 Salamis	-1050	340	Salamis	2	0
 Salamis	341	670	Constantia	3	0
 Soloi	-600	300	Soloi	4	0
-Tamassos	-400	1000	Tamassos	4	0
+Tamassos	-400	1000	Tamassos	4	3
 Tremithous	-400	500	Tremithous	4	1

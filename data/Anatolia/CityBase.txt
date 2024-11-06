@@ -4,6 +4,7 @@ Alaşehir	Alasehir	TR	modern	Alaşehir
 Amasra	Amasra	TR	modern	Amasra
 Amasya	Amasya	TR	modern	Amasya
 Anazarbus	Anazarbos/Caesarea/Ioustin(ian)oupolis	P	ancient	Anazarbus
+Anemurium	Anemurium	P	ancient	Anemurium
 Ankara	Ankara	TR	modern	Ankara
 Apamea Myrlea	Brylleion/Myrleia/Apamea/Col. Iulia Concordia	P	ancient	Apamea Myrlea
 Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	P	ancient	Apollonia ad Rhyndacum
@@ -25,6 +26,7 @@ Halicarnassus	Halicarnassus/Halikarnassos	P	ancient	Halicarnassus
 Hattusa	Hattusa	P	ancient	Hattusa
 Helenopolis	Drepanon/Helenopolis	P	ancient	Helenopolis_(Bithynia)
 Heraclea Pontica	Heraclea	P	ancient	Heraclea Pontica
+Issus	Issus/Nikopolis	P	ancient	Issus_(Cilicia)
 İzmit	Izmit	TR	modern	İzmit
 İznik	Iznik	TR	modern	İznik
 Karatepe	Karatepe	P	ancient	Karatepe

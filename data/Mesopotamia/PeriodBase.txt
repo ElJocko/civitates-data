@@ -15,6 +15,10 @@ Manbij	-330	350	Hierapolis	3	1
 Manbij	351	800	Hierapolis	4	1
 Manbij	801	1260	Manbij	3	1
 Mari	-2500	-600	Mari	3	0
+Nusaybin	-901	-333	Naṣibīna	3	0
+Nusaybin	-332	-68	Antiochia Mygdonia	3	0
+Nusaybin	-67	1514	Nisibis	3	0
+Nusaybin	1515	2100	Nusaybin	3	0
 Samsat	-245	1515	Samosata	3	0
 Samsat	1516	1988	Samsat	4	0
 Terqa	-2000	-600	Terqa	3	0
@@ -24,5 +28,6 @@ Urfa	-303	1097	Edessa	3	0
 Urfa	1098	1144	Edessa	2	0
 Urfa	1145	1260	Urfa	3	0
 Urfa	1261	1700	Urfa	4	0
+Zenobia	250	630	Zenobia	3	0
 Zeugma	-305	-65	Zeugma	3	0
 Zeugma	-64	650	Commagene	3	0

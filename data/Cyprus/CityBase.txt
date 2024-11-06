@@ -1,5 +1,4 @@
 Amathous	Amathous	P	ancient	Amathous
-Arsinoe	Arsinoe	P	ancient	Arsinoe
 Chytroi	Chytroi	P	ancient	Chytroi
 Famagusta	Famagusta	CY	modern	Famagusta
 Golgoi	Golgoi	P	ancient	Golgoi

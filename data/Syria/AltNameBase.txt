@@ -1,14 +1,37 @@
+Acre	Acre	English
+Acre	Akko	Punic
+Acre	Akka	Arabic
+Acre	Ákē	Greek
+Acre	Ake-Ptolemais	Greek
+Acre	Ptolemais in Phoenicia	Greek
+Acre	Sainct-Jehan-d'Acre	French
 Alalakh	Alalakh	Semitic
 Aleppo	Aleppo	English
 Aleppo	Beroea	Greek
 Aleppo	Ḥalab	Arabic
+Amman	Amman	Arabic
+Amman	Philadelphia	Greek
+Amman	Rabbat Ammon	Ammonite
 Antakya	Antioch	Greek
 Antakya	Theoupolis	Latin
 Antakya	Antakya	Turkish
 Apamea	Apamea	Greek
 Apamea	Afāmiya	Arabic
+Aqaba	Aqaba	English
+Aqaba	al-ʿAqaba	Arabic
+Aqaba	Ayla	Arabic
+Aqaba	Elath	Hebrew
+Aqaba	Ailath	Hebrew
+Aqaba	Elyn	French
 Arwad	Arwad	Phoenician
 Arwad	Árados	Greek
+Ascalon	Ascalon	Latin
+Ascalon	ʿAsqalān	Arabic
+Ascalon	Ashkelon	Hebrew
+Ashdod	Ashdod	English
+Ashdod	ʾašdōḏ	Hebrew
+Ashdod	ʾasdūd	Arabic
+Ashdod	Azotus	Greek
 Baalbek	Baalbek	Unspecified
 Baalbek	Heliopolis	Greek
 Baalbek	Baʿlabak	Arabic
@@ -25,19 +48,45 @@ Byblos	Byblos	Greek
 Byblos	Gebal	Hebrew
 Byblos	Gubla	Akkadian
 Byblos	Jubayl	Arabic
+Caesarea	Caesarea	Latin
+Caesarea	Qaysāriyyah	Arabic
+Caesarea	Qēsāryā	Hebrew
+Caesarea	Caesarea Maratima	Latin
 Cyrrhus	Cyrrhus	Greek
 Cyrrhus	Hagioupolis	Greek
 Damascus	Damascus	Greek
 Damascus	Dimašq	Arabic
 Damascus	Demetrias	Greek
 Ebla	Ebla	Sumerian
+Ekron	Ekron	English
+Ekron	Akkarōn	Greek
+Ekron	ʿEqrōn	Hebrew
+Ekron	Amqarrūna	Assyrian
+Gaza	Gaza	English
+Gaza	ʿAzza	Hebrew
+Gaza	Ghazzah	Arabic
+Gaza	Hāzat	Assyrian
 Hama	Hama	Syriac
 Hama	Epiphaneia	Greek
 Hama	Emath	Greek
 Hazor	Hazor	Unspecified
 Hazor	Tel Hazor	Hebrew
+Homs	Homs	Arabic
+Homs	Emesus	Latin
+Homs	Émesa	Greek
+Jaffa	Jaffa	English
+Jaffa	Ioppe	Greek
+Jaffa	Yapu	Egyptian
+Jaffa	Yāfō	Hebrew
+Jaffa	Joppa	Latin
+Jaffa	Yafah	Arabic
 Jerash	Jerash	Arabic
 Jerash	Gérasa	Greek
+Jerusalem	Jerusalem	English
+Jerusalem	Yerushalayim	Hebrew
+Jerusalem	Al-Quds	Arabic
+Jerusalem	Hierousalēm	Greek
+Jerusalem	Aelia Capitolina	Latin
 Kadesh	Kadesh	Canaanite
 Kadesh	Qadesh	Canaanite
 Kadesh	Kadeš	Hittite
@@ -54,8 +103,13 @@ Petra	Petra	Greek
 Petra	Raqmu	Nabataean
 Petra	Arabia Petraea	Latin
 Qatna	Qatna	Semitic
+Ramla	Ramla	Hebrew
+Ramala	ar-Ramleh	Arabic
 Sidon	Sidon	Phoenician
 Sidon	Ṣaydā	Arabic
+Tiberias	Tiberias	Latin
+Tiberias	Ṭabariyyā	Arabic
+Tiberias	Ṭəḇeryā	Hebrew
 Tripoli	Tripoli	English
 Tripoli	Ṭarābulus	Arabic
 Tripoli	Tripolis	Greek

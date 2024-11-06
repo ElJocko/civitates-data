@@ -202,6 +202,8 @@ Siena	Saena Julia	Latin
 Siena	Siena	Italian
 Sipontum	Siponto	Italian
 Sipontum	Sipontum	Latin
+Sorrento	Sorrento	Italian
+Sorrento	Sorrentum	Latin
 Spina	Spina	Etruscan
 Spina	Spica	Etruscan
 Spoleto	Spoletium	Latin
