@@ -16,10 +16,15 @@ Ankara	1074	2100	Ankara	2	1
 Apamea Myrlea	-400	-203	Myrlea	3	1
 Apamea Myrlea	-202	1084	Apamea	3	1
 Apollonia ad Rhyndacum	-200	1084	Apollonia	4	1
+Arsamosata	-240	-51	Arsamosata	3	1
+Arsamosata	-50	1234	Arsamosata	4	1
 Çankırı	-400	-50	Gangra	2	1
 Çankırı	-49	600	Germanicopolis	3	1
 Çankırı	601	1350	Germanicopolis	4	1
 Çankırı	1351	2100	Çankırı	4	1
+Celaenae	-500	-270	Celaenae	3	1
+Celaenae	-269	400	Apamea	3	1
+Celaenae	401	1200	Apamea	4	1
 Chalcedon	-685	1202	Chalcedon	3	1
 Chalcedon	1203	1350	Chalcedon	4	1
 Chalcedon	1351	2100	Kadıköy	4	1

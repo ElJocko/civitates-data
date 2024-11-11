@@ -1,6 +1,13 @@
+Aššur	Aššur	Assyrian
+Aššur	Ashur	English
 Carchemish	Carchemish	Unspecified
 Carchemish	Karkamış	Turkish
+Dur-Sharrukin	Dur-Sharrukin	English
+Dur-Sharrukin	Dūr Šarru-kīn	Assyrian
 Emar	Emar	Akkadian
+Erbil	Erbil	Turkish
+Erbil	Arbela	Latin
+Erbil	Arbaʾilu	Assyrian
 Europos	Europos	Greek
 Europos	Dura	Aramaic
 Europos	Dura-Europos	English
@@ -8,12 +15,18 @@ Harran	Harran	Unknown
 Harran	Huzirina	Assyrian
 Harran	Kárrhai	Greek
 Harran	Carrhae	Latin
+Kalḫu	Nimrud	English
+Kalḫu	Kalḫu	Assyrian
 Manbij	Manbij	Arabic
 Manbij	Manbug	Aramean
 Manbij	Hierapolis	Greek
 Manbij	Mabog	Syriac
 Mari	Mari	Unspecified
 Mari	Tell Hariri	Arabic
+Mosul	Mosul	Arabic
+Mosul	Mépsila	Greek
+Nineveh	Nineveh	Latin
+Nineveh	Ninua	Akkadian
 Nusaybin	Nusaybin	Turkish
 Nusaybin	Naṣibīna	Aramean
 Nusaybin	Antiochia Mygdonia	Greek

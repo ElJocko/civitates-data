@@ -3,7 +3,7 @@ from collections import namedtuple
 import csv
 from pathlib import PurePath
 
-folders = ["Italy", "Greece", "Crete", "Cyprus", "Aegean Islands", "Anatolia", "Balkans", "Gaul", "Caucasus", "Iberia", "Syria", "Mesopotamia"]
+folders = ["Italy", "Greece", "Crete", "Cyprus", "Aegean Islands", "Anatolia", "Balkans", "Gaul", "Caucasus", "Iberia", "Syria", "Mesopotamia", "Egypt"]
 def make_path_list_from_folders(base_path, file_name):
     path_list = []
     for folder in folders:

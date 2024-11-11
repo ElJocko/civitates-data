@@ -1,0 +1,8 @@
+Alexandria	Alexandria	EG	modern	Alexandria
+Cairo	Cairo	EG	modern	Cairo
+Damietta	Damietta	EG	modern	Damietta
+Fustat	Fustat	X	medieval	Fustat
+Memphis	Memphis	P	ancient	Memphis,_Egypt
+Pelusium	Pelusium	P	ancient	Pelusium
+Sais	Sais	P	ancient	Sais,_Egypt
+Tanis	Tanis	P	ancient	Tanis

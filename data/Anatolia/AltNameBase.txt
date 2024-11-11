@@ -18,10 +18,16 @@ Ankara	Ánkyra	Greek
 Apamea Myrlea	Apamea Myrlea	Greek
 Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	Latin
 Apollonia ad Rhyndacum	Apollonia	Latin
+Arsamosata	Arsamosata	Persian
 Çankırı	Çankırı	Turkish
 Çankırı	Gangra	Greek
 Çankırı	Germanicopolis	Greek
 Çankırı	Khanjarah	Turkish
+Celaenae	Celaenae	Greek
+Celaenae	Kelainai	Greek
+Celaenae	Apamea	Greek
+Celaenae	Apamea Cibotus	Greek
+Celaenae	Apamea ad Maeandrum	Greek
 Chalcedon	Kadıköy	Turkish
 Chalcedon	Chalcedon	Greek
 Cius	Cius	Greek

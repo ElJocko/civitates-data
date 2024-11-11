@@ -35,6 +35,7 @@ Beirut	-64	551	Berytus	3	2
 Beirut	552	634	Berytus	4	2
 Beirut	635	758	Beirut	4	2
 Beirut	759	2100	Beirut	3	2
+Bethlehem	-1400	2100	Bethlehem	4	3
 Bosra	-150	633	Bostra	3	1
 Bosra	634	2100	Bosra	3	1
 Byblos	-1900	-1550	Byblos	2	2
@@ -53,6 +54,7 @@ Ebla	-1900	-1600	Ebla	3	1
 Ebla	-1599	60	Ebla	4	1
 Ekron	-1150	-604	Ekron	3	4
 Gaza	-1600	2100	Gaza	3	2
+Gadara	-300	749	Gadara	3	0
 Hama	-1500	-170	Hama	3	1
 Hama	-169	330	Epiphaneia	3	1
 Hama	331	638	Emath	3	1
@@ -60,6 +62,8 @@ Hama	639	2100	Hama	3	1
 Hazor	-1700	-732	Hazor	4	1
 Homs	-64	636	Emesa	3	1
 Homs	637	2100	Homs	3	1
+Humayma	-90	599	Hawara	4	1
+Humayma	600	1200	Humayma	4	1
 Jaffa	-1440	635	Joppa	3	2
 Jaffa	636	1321	Jaffa	3	2
 Jerash	-100	749	Gérasa	3	1
@@ -76,6 +80,7 @@ Marash	1208	2100	Marash	3	1
 Palmyra	-1900	-313	Tadmor	3	1
 Palmyra	-312	273	Palmyra	2	1
 Palmyra	274	1400	Palmyra	3	1
+Pella	-300	749	Pella	3	1
 Petra	-150	363	Petra	3	1
 Qatna	-1900	-1340	Qatna	3	1
 Qatna	-750	-550	Qatna	4	1

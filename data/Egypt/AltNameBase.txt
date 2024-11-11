@@ -1,0 +1,18 @@
+Alexandria	Alexandria	English
+Alexandria	Alexándreia	Greek
+Cairo	Cairo	English
+Cairo	al-Qāhirah	Arabic
+Damietta	Damietta	Latin
+Damietta	Tamiati	Coptic
+Damietta	Dumyāṭ	Arabic
+Fustat	Fustat	English
+Fustat	l-Fusṭāṭ	Arabic
+Memphis	Memphis	Greek
+Memphis	Menefer	Egyptian
+Pelusium	Pelusium	Latin
+Pelusium	Per-Amun	Egyptian
+Pelusium	Sin	Hebrew
+Sais	Sais	Greek
+Tanis	Tanis	Greek
+Tanis	Ṣān al-Ḥaǧar	Arabic
+Tanis	ḏꜥn.t	Egyptian

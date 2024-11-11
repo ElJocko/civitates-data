@@ -8,7 +8,9 @@ Anemurium	Anemurium	P	ancient	Anemurium
 Ankara	Ankara	TR	modern	Ankara
 Apamea Myrlea	Brylleion/Myrleia/Apamea/Col. Iulia Concordia	P	ancient	Apamea Myrlea
 Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	P	ancient	Apollonia ad Rhyndacum
+Arsamosata	Arsamosata	P	ancient	Arsamosata
 Çankırı	Khanjarah	TR	modern	Çankırı
+Celaenae	Apamea/Kelainai/Kibotos	P	ancient	Celaenae
 Chalcedon	Chalcedon	P	ancient	Chalcedon
 Cius	Cius	P	ancient	Cius
 Colophon	Colophon	TR	ancient	Colophon_(city)

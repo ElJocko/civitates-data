@@ -40,6 +40,8 @@ Beirut	Beirut	English
 Beirut	Bayrūt	Arabic
 Beirut	Bēʾrūt	Phoenician
 Beirut	Laodicea in Phoenicia	Greek
+Bethlehem	Bethlehem	English
+Bethlehem	Bayt Laḥm	Arabic
 Bosra	Buşrá ash Shām	Arabic
 Bosra	Bosra	English
 Bosra	Buṣrā	Arabic
@@ -66,14 +68,19 @@ Gaza	Gaza	English
 Gaza	ʿAzza	Hebrew
 Gaza	Ghazzah	Arabic
 Gaza	Hāzat	Assyrian
+Gadara	Gadara	Greek
 Hama	Hama	Syriac
 Hama	Epiphaneia	Greek
 Hama	Emath	Greek
 Hazor	Hazor	Unspecified
 Hazor	Tel Hazor	Hebrew
 Homs	Homs	Arabic
+Homs	Hims	Arabic
 Homs	Emesus	Latin
 Homs	Émesa	Greek
+Humayma	Humayma	Arabic
+Humayma	Hawara	Arabic
+Humayma	Auara	Greek
 Jaffa	Jaffa	English
 Jaffa	Ioppe	Greek
 Jaffa	Yapu	Egyptian
@@ -99,6 +106,7 @@ Marash	Germanicea	Greek
 Marash	Kahramanmaraş	Turkish
 Palmyra	Palmyra	Greek
 Palmyra	Tadmor	Aramaic
+Pella	Pella	Greek
 Petra	Petra	Greek
 Petra	Raqmu	Nabataean
 Petra	Arabia Petraea	Latin

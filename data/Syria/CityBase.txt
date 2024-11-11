@@ -10,6 +10,7 @@ Ascalon	Ashqelon/Ascalon	P	ancient	Ascalon
 Ashdod	Ashdod/Azotos (Mesogeios)	P	ancient	Ashdod_(ancient_city)
 Baalbek	Baalbek	LB	modern	Baalbek
 Beirut	Beirut	LB	modern	Beirut
+Bethlehem	Bethlehem	PS	modern	Bethlehem
 Bosra	Busra ash Sham	SY	modern	Bosra
 Byblos	Jbail	LB	modern	Byblos
 Caesarea	Stratonos Pyrgos/Caesarea	P	ancient	Caesarea_Maritima
@@ -18,9 +19,11 @@ Damascus	Damascus	SY	modern	Damascus
 Ebla	Ebla	P	ancient	Ebla
 Ekron	Ekron/Akkaron	P	ancient	Ekron
 Gaza	Gaza	P	ancient	History_of_Gaza
+Gadara	Gadara	P	ancient	Gadara
 Hama	Hama	SY	modern	Hama
 Hazor	Hazor	P	ancient	Tel_Hazor
 Homs	Homs	SY	modern	Homs
+Humayma	Auara	P	medieval	Humayma
 Jaffa	Ioppe	P	ancient	Jaffa
 Jerash	Jarash	JO	modern	Jerash
 Jerusalem	Jerusalem	IL	modern	Jerusalem
@@ -28,6 +31,7 @@ Kadesh	Kadesh	P	ancient	Kadesh_(Syria)
 Latakia	Latakia	SY	modern	Laodicea_in_Syria
 Marash	Kahramanmaras	TR	modern	Kahramanmaraş
 Palmyra	Palmyra	P	ancient	Palmyra
+Pella	Pella/Berenice/Philippeia	P	ancient	Pella,_Jordan
 Petra	Petra	X	ancient	Petra
 Ramla	Ramla	IL	modern	Ramla
 Qatna	Qatna	P	ancient	Qatna

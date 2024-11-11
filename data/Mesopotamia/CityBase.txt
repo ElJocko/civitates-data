@@ -1,9 +1,15 @@
+Aššur	Ashur/‘Lamban’?/‘Liba(nai)’?	P	ancient	Assur
 Carchemish	Europos	P	ancient	Carchemish
+Dur-Sharrukin	Dur-Sharrukin	P	ancient	Dur-Sharrukin
 Emar	Emar	P	ancient	Emar
+Erbil	Erbil	IQ	modern	Erbil
 Europos	D(o)ura/Europos	P	ancient	Dura-Europos
 Harran	Carrhae	P	ancient	Harran
+Kalḫu	Kalḫu	X	ancient	Nimrud
 Manbij	Manbij	SY	modern	Manbij
 Mari	Mari	P	ancient	Mari,_Syria
+Mosul	Mosul	IQ	modern	Mosul
+Nineveh	Nineveh/Ninos	P	ancient	Nineveh
 Nusaybin	Nusaybin	TR	modern	Nusaybin
 Samsat	Samosata	P	modern	Samsat
 Terqa	Terqa	P	ancient	Terqa
