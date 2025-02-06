@@ -2,6 +2,7 @@ import json
 import os
 from collections import namedtuple
 from dataclasses import dataclass
+import hashlib
 import labelCalc
 import geonames
 import pleiades
@@ -135,7 +136,15 @@ for city_base in city_base_list:
     map_point = labelCalc.map_point_for_coordinate(labelCalc.Coordinate(city_lookup.latitude, city_lookup.longitude))
 
     #city = City(city_base.id)
+    # The combination of city_base.id and city_base.region should uniquely identify a city.
+    # These two values are also unlikely to change over time, so the resulting hash should provide
+    # a consistent unique identifier for a city.
 
+    # Switching to the hash for the identifier and removing the city_base.region from the output file
+    # means that the region designation (which is intended only for organizing the source data) won't
+    # be visible to the web app.
+    identifier_string = city_base.id + "@" + city_base.region
+    identifier_hash = hashlib.sha1(identifier_string.encode()).hexdigest()
     city_dict = {
         'type': 'Feature',
         'geometry': {
@@ -143,9 +152,9 @@ for city_base in city_base_list:
             'coordinates': [ city_lookup.longitude, city_lookup.latitude]
         },
         'properties': {
-            'identifier': city_base.id + "@" + city_base.region,
+            'identifier': identifier_hash,
             'city_base_id': city_base.id,
-            'region': city_base.region,
+            # 'region': city_base.region,
             'latitude': city_lookup.latitude,
             'longitude': city_lookup.longitude,
             'elevation': city_lookup.elevation,
