@@ -17,9 +17,13 @@ Faros	-384	699	Faros	3	0
 Faros	700	1277	Hvar	3	0
 Faros	1278	1540	Stari Grad	3	0
 Faros	1541	2100	Hvar	4	0
+Histria	-650	650	Histria	3	0
 Lezhë	-300	-26	Lissós	3	0
 Lezhë	-25	589	Lissus	3	0
 Lezhë	590	2100	Lissus	4	0
+Mangalia	-550	650	Callatis	3	0
+Mangalia	651	1500	Pangalia	3	0
+Mangalia	1501	2100	Mangalia	3	0
 Niš	-75	300	Naissus	3	0
 Niš	301	539	Naissus	2	0
 Niš	540	2100	Niš	2	0

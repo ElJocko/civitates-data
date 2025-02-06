@@ -1,8 +1,10 @@
 Andravida	Andravida	GR	modern	Andravida
 Argos	Argos	GR	modern	Argos,_Peloponnese
+Arta	Arta	GR	modern	Ambracia
 Athens	Athens	GR	modern	Athens
 Corinth	Korinthos	GR	ancient	Corinth
 Edirne	Edirne	TR	modern	Edirne
+Elis	Elis	P	ancient	Elis_(city)
 Gla	Gla	GR	ancient	Gla
 Iolkos	Iolkos	GR	ancient	Iolkos
 Istanbul	Istanbul	TR	modern	Istanbul

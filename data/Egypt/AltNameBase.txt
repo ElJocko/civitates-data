@@ -1,3 +1,7 @@
+Abydos	Abydos	Greek
+Abydos	Abedju	Egyptian
+al-Manshah	al-Manshah	Arabic
+al-Manshah	Ptolemais Hermiou	Greek
 Alexandria	Alexandria	English
 Alexandria	Alexándreia	Greek
 Cairo	Cairo	English
@@ -5,14 +9,47 @@ Cairo	al-Qāhirah	Arabic
 Damietta	Damietta	Latin
 Damietta	Tamiati	Coptic
 Damietta	Dumyāṭ	Arabic
+Dongola	Old Dongola	English
+Dongola	Dongola	English
+Dongola	Tungul	Nubian
+Dongola	Dunqulā al-ʿAjūz	Arabic
+Faiyum	Faiyum	Arabic
+Faiyum	al-Fayyum	Arabic
+Faiyum	Shedet	Egyptian
+Faiyum	Crocodilopolis	Latin
+Faiyum	Ptolemais Euergétis	Greek
+Faiyum	Arsinoë	Greek
+Faras	Faras	English
+Faras	Pachoras	Latin
 Fustat	Fustat	English
-Fustat	l-Fusṭāṭ	Arabic
+Fustat	al-Fusṭāṭ	Arabic
+Heliopolis	Heliopolis	Greek
+Heliopolis	Iunu	Greek
+Herakleopolis	Herakleopolis	Greek
+Herakleopolis	Herakleopolis Magna	Greek
+Herakleopolis	Henen-Nesut	Egyptian
+Hermopolis	Hermopolis	Greek
+Hermopolis	Khemenu	Egyptian
+Hierakonpolis	Hierakonpolis	Greek
+Hierakonpolis	Nekhen	Egyptian
 Memphis	Memphis	Greek
 Memphis	Menefer	Egyptian
+Oxyrhynchus	Oxyrhynchus	Latin
+Oxyrhynchus	al-Bahnasa	Arabic
+Oxyrhynchus	Per-Medjed	Egyptian
+Oxyrhynchus	Oxyrrhynchoupolis	Greek
 Pelusium	Pelusium	Latin
 Pelusium	Per-Amun	Egyptian
 Pelusium	Sin	Hebrew
+Qift	Qift	Arabic
+Qift	Coptos	Greek
+Qift	Gebtu	Egyptian
 Sais	Sais	Greek
+Soba	Soba	English
+Soba	Soba East	English
 Tanis	Tanis	Greek
 Tanis	Ṣān al-Ḥaǧar	Arabic
 Tanis	ḏꜥn.t	Egyptian
+Thebes	Thebes	Greek
+Thebes	Waset	Egyptian
+Thebes	Diospolis Magna	Greek

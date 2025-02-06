@@ -1,5 +1,7 @@
 Andravida	Andravida	Greek
 Argos	Argos	Greek
+Arta	Arta	ModernGreek
+Arta	Ambracia	Greek
 Athens	Athens	English
 Athens	Athína	ModernGreek
 Athens	Athēnai	Greek
@@ -8,6 +10,7 @@ Corinth	Kórinthos	Greek
 Edirne	Adrianoplis	English
 Edirne	Edirne	Turkish
 Edirne	Hadrianoplis	Greek
+Elis	Elis	Greek
 Gla	Gla	Greek
 Iolkos	Iolkos	Greek
 Istanbul	Byzantium	Greek

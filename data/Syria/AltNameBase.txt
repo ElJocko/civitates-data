@@ -91,7 +91,7 @@ Jerash	Jerash	Arabic
 Jerash	Gérasa	Greek
 Jerusalem	Jerusalem	English
 Jerusalem	Yerushalayim	Hebrew
-Jerusalem	Al-Quds	Arabic
+Jerusalem	al-Quds	Arabic
 Jerusalem	Hierousalēm	Greek
 Jerusalem	Aelia Capitolina	Latin
 Kadesh	Kadesh	Canaanite
@@ -113,6 +113,8 @@ Petra	Arabia Petraea	Latin
 Qatna	Qatna	Semitic
 Ramla	Ramla	Hebrew
 Ramala	ar-Ramleh	Arabic
+Seleucia Pieria	Seleucia Pieria	Greek
+Seleucia Pieria	Suedia	Greek
 Sidon	Sidon	Phoenician
 Sidon	Ṣaydā	Arabic
 Tiberias	Tiberias	Latin

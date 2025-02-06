@@ -85,6 +85,8 @@ Petra	-150	363	Petra	3	1
 Qatna	-1900	-1340	Qatna	3	1
 Qatna	-750	-550	Qatna	4	1
 Ramla	705	2100	Ramla	3	0
+Seleucia Pieria	-300	-83	Seleucia Pieria	2	3
+Seleucia Pieria	-82	550	Seleucia Pieria	2	3
 Sidon	-1900	-1550	Sidon	2	2
 Sidon	-1549	-300	Sidon	1	2
 Sidon	-299	2100	Sidon	2	2

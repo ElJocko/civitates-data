@@ -101,11 +101,16 @@ Ordu	-750	2100	Kotyora	4	1
 Ordu	1869	2100	Ordu	4	1
 Pergamon	-350	620	Pergamon	2	1
 Pergamon	621	1400	Pergamon	3	1
+Perge	-650	800	Perge	3	3
 Pessinus	-400	715	Pessinus	3	3
 Pessinus	716	1100	Pessinus	4	3
 Pompeiopolis	-64	450	Pompeiopolis	3	1
 Pompeiopolis	451	1250	Pompeiopolis	4	1
 Pompeiopolis	1251	1400	Taşköprü	4	1
+Prusias ad Hypium	-400	-200	Kieros	3	1
+Prusias ad Hypium	-199	-75	Prusias	3	1
+Prusias ad Hypium	-74	2100	Prusias ad Hypium	3	1
+Prusias ad Hypium	1323	2100	Üskübü	3	1
 Rhoiteion	-500	50	Rhoiteion	4	1
 Samʾal	-1900	-1610	Samʾal	3	1
 Samʾal	-1609	-921	Samʾal	4	1
@@ -114,8 +119,8 @@ Samʾal	-717	-600	Samʾal	3	1
 Samsun	-760	1349	Amisos	3	0
 Samsun	1350	2100	Samsun	3	0
 Sapinuwa	-2000	-1200	Sapinuwa	3	1
-Sardis	-650	1071	Sardis	2	1
-Sardis	1072	1402	Sardis	3	1
+Sardis	-650	1071	Sardis	2	5
+Sardis	1072	1402	Sardis	3	5
 Satala	100	608	Satala	4	1
 Şebinkarahisar	-65	1199	Colonia	4	0
 Şebinkarahisar	1200	2100	Şapkarahisar	4	0

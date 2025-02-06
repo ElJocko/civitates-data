@@ -3,6 +3,8 @@ Andravida	1461	2100	Andravida	4	4
 Argos	-1400	-1101	Argos	2	4
 Argos	-700	-300	Argos	2	4
 Argos	-299	2100	Argos	3	4
+Arta	-625	-29	Ambracia	3	2
+Arta	1050	2100	Arta	3	2
 Athens	-1400	-1101	Athens	1	0
 Athens	-1100	-701	Athens	2	0
 Athens	-700	323	Athens	0	0
@@ -14,6 +16,7 @@ Edirne	120	813	Adrianople	2	4
 Edirne	814	1361	Adrianople	3	4
 Edirne	1362	1453	Edirne	2	4
 Edirne	1454	2100	Edirne	3	4
+Elis	-700	500	Elis	3	3
 Gla	-1400	-1101	Gla	2	6
 Iolkos	-1400	-1101	Iolkos	2	6
 Istanbul	-657	323	Byzantium	2	4

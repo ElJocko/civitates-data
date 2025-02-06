@@ -1,8 +1,21 @@
+Abydos	Abydos/Ebot	P	ancient	Abydos,_Egypt
+al-Manshah	Al Manshah	EG	modern	Ptolemais_Hermiou
 Alexandria	Alexandria	EG	modern	Alexandria
 Cairo	Cairo	EG	modern	Cairo
 Damietta	Damietta	EG	modern	Damietta
+Dongola	Dongola	X	ancient	Old_Dongola
+Faiyum	Al Fayyum	EG	modern	Faiyum
+Faras	Pachoras	P	ancient	Faras
 Fustat	Fustat	X	medieval	Fustat
+Heliopolis	Heliopolis	P	ancient	Heliopolis_(ancient_Egypt)
+Herakleopolis	Herakleopolis	P	ancient	Heracleopolis_Magna
+Hermopolis	Enseu	P	ancient	Hermopolis
+Hierakonpolis	Hierakonpolis	X	ancient	Hierakonpolis
 Memphis	Memphis	P	ancient	Memphis,_Egypt
+Oxyrhynchus	Oxyrhynchus/Pemje	P	ancient	Oxyrhynchus
 Pelusium	Pelusium	P	ancient	Pelusium
+Qift	Coptos	P	modern	Qift
 Sais	Sais	P	ancient	Sais,_Egypt
+Soba	Soba	EG	ancient	Soba_(city)
 Tanis	Tanis	P	ancient	Tanis
+Thebes	Diospolis Magna/Thebai	P	ancient	Thebes,_Egypt

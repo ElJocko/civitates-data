@@ -1376,7 +1376,7 @@
                 ],
                 "mapPoint": [
                     143962807.468032,
-                    98493670.99264644
+                    98493670.99264646
                 ],
                 "wikipediaArticleName": "Camerino"
             }
@@ -2650,7 +2650,7 @@
                 "altNames": [],
                 "mapPoint": [
                     140667038.9612089,
-                    99235095.32056522
+                    99235095.32056524
                 ],
                 "wikipediaArticleName": "Galeria"
             }
@@ -3040,7 +3040,7 @@
                 ],
                 "mapPoint": [
                     145342386.75490135,
-                    99842633.68538618
+                    99842633.6853862
                 ],
                 "wikipediaArticleName": "Larino"
             }
@@ -3322,7 +3322,7 @@
                 ],
                 "mapPoint": [
                     142269181.06726402,
-                    96393668.01173083
+                    96393668.01173082
                 ],
                 "wikipediaArticleName": "Mantua"
             }
@@ -5366,7 +5366,7 @@
                 "altNames": [],
                 "mapPoint": [
                     146621608.46392888,
-                    102036381.20301154
+                    102036381.20301156
                 ],
                 "wikipediaArticleName": "Rossano"
             }
@@ -6004,7 +6004,7 @@
                 ],
                 "mapPoint": [
                     143715399.45608532,
-                    98896029.54763114
+                    98896029.54763117
                 ],
                 "wikipediaArticleName": "Spoleto"
             }
@@ -7050,7 +7050,7 @@
                 ],
                 "mapPoint": [
                     139949436.42191646,
-                    96488575.84125547
+                    96488575.84125549
                 ],
                 "wikipediaArticleName": "Turin"
             }
@@ -7634,6 +7634,58 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "20.98528",
+                    "39.16056"
+                ]
+            },
+            "properties": {
+                "identifier": "Arta@Greece",
+                "city_base_id": "Arta",
+                "region": "Greece",
+                "latitude": "39.16056",
+                "longitude": "20.98528",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-625",
+                        "endDate": "-29",
+                        "preferredName": "Ambracia",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1050",
+                        "endDate": "2100",
+                        "preferredName": "Arta",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Arta",
+                        "language": "ModernGreek"
+                    },
+                    {
+                        "name": "Ambracia",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    149865486.90579912,
+                    102436211.85054463
+                ],
+                "wikipediaArticleName": "Ambracia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "23.71622",
                     "37.97945"
                 ]
@@ -7831,6 +7883,46 @@
                     99970897.11518921
                 ],
                 "wikipediaArticleName": "Edirne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "21.4354433333",
+                    "37.827452"
+                ]
+            },
+            "properties": {
+                "identifier": "Elis@Greece",
+                "city_base_id": "Elis",
+                "region": "Greece",
+                "latitude": "37.827452",
+                "longitude": "21.4354433333",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-700",
+                        "endDate": "500",
+                        "preferredName": "Elis",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Elis",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    150201153.01593485,
+                    103706330.80027564
+                ],
+                "wikipediaArticleName": "Elis_(city)"
             }
         },
         {
@@ -9811,7 +9903,7 @@
                 ],
                 "mapPoint": [
                     152720516.08416712,
-                    106280100.85115863
+                    106280100.85115865
                 ],
                 "wikipediaArticleName": "Phaistos"
             }
@@ -9851,7 +9943,7 @@
                 ],
                 "mapPoint": [
                     151796884.11281636,
-                    105864669.25035603
+                    105864669.25035605
                 ],
                 "wikipediaArticleName": "Phalasarna"
             }
@@ -11803,7 +11895,7 @@
                 ],
                 "mapPoint": [
                     155754261.94618598,
-                    101257481.27814944
+                    101257481.27814946
                 ],
                 "wikipediaArticleName": "Apamea Myrlea"
             }
@@ -12295,7 +12387,7 @@
                 ],
                 "mapPoint": [
                     153883920.94287643,
-                    101546418.62935618
+                    101546418.62935619
                 ],
                 "wikipediaArticleName": "Dardanus_(city)"
             }
@@ -13899,7 +13991,7 @@
                 ],
                 "mapPoint": [
                     162428305.76626348,
-                    101331409.46057785
+                    101331409.46057786
                 ],
                 "wikipediaArticleName": "Nicopolis_(Armenia)"
             }
@@ -14013,6 +14105,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "30.854274",
+                    "36.961406"
+                ]
+            },
+            "properties": {
+                "identifier": "Perge@Anatolia",
+                "city_base_id": "Perge",
+                "region": "Anatolia",
+                "latitude": "36.961406",
+                "longitude": "30.854274",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-650",
+                        "endDate": "800",
+                        "preferredName": "Perge",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Perge",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Parha",
+                        "language": "Hittite"
+                    }
+                ],
+                "mapPoint": [
+                    157224342.19649708,
+                    104519175.9033473
+                ],
+                "wikipediaArticleName": "Perga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "31.551393475",
                     "39.381063225"
                 ]
@@ -14114,6 +14250,82 @@
                     100132734.93279266
                 ],
                 "wikipediaArticleName": "Pompeiopolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.148171",
+                    "40.905988"
+                ]
+            },
+            "properties": {
+                "identifier": "Prusias ad Hypium@Anatolia",
+                "city_base_id": "Prusias ad Hypium",
+                "region": "Anatolia",
+                "latitude": "40.905988",
+                "longitude": "31.148171",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-400",
+                        "endDate": "-200",
+                        "preferredName": "Kieros",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-199",
+                        "endDate": "-75",
+                        "preferredName": "Prusias",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-74",
+                        "endDate": "2100",
+                        "preferredName": "Prusias ad Hypium",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1323",
+                        "endDate": "2100",
+                        "preferredName": "\u00dcsk\u00fcb\u00fc",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Prusias ad Hypium",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Kieros",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "\u00dcsk\u00fcb\u00fc",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Konuralp",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    157443487.68319714,
+                    100736256.13462612
+                ],
+                "wikipediaArticleName": "Prusias_ad_Hypium"
             }
         },
         {
@@ -14351,7 +14563,7 @@
                         "endDate": "1071",
                         "preferredName": "Sardis",
                         "size": "2",
-                        "tagPosition": "1",
+                        "tagPosition": "5",
                         "calcTagPosition": 0
                     },
                     {
@@ -14359,7 +14571,7 @@
                         "endDate": "1402",
                         "preferredName": "Sardis",
                         "size": "3",
-                        "tagPosition": "1",
+                        "tagPosition": "5",
                         "calcTagPosition": 0
                     }
                 ],
@@ -15781,6 +15993,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "28.7748",
+                    "44.5476"
+                ]
+            },
+            "properties": {
+                "identifier": "Histria@Balkans",
+                "city_base_id": "Histria",
+                "region": "Balkans",
+                "latitude": "44.5476",
+                "longitude": "28.7748",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-650",
+                        "endDate": "650",
+                        "preferredName": "Histria",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Histria",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Istros",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    155673773.99808002,
+                    97038147.83492555
+                ],
+                "wikipediaArticleName": "Histria_(ancient_city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "19.64361",
                     "41.78361"
                 ]
@@ -15842,6 +16098,70 @@
                     99864567.06663227
                 ],
                 "wikipediaArticleName": "Lezh\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.58333",
+                    "43.8"
+                ]
+            },
+            "properties": {
+                "identifier": "Mangalia@Balkans",
+                "city_base_id": "Mangalia",
+                "region": "Balkans",
+                "latitude": "43.8",
+                "longitude": "28.58333",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-550",
+                        "endDate": "650",
+                        "preferredName": "Callatis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "1500",
+                        "preferredName": "Pangalia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1501",
+                        "endDate": "2100",
+                        "preferredName": "Mangalia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Mangalia",
+                        "language": "Romanian"
+                    },
+                    {
+                        "name": "Callatis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Pangalia",
+                        "language": "Bulgarian"
+                    }
+                ],
+                "mapPoint": [
+                    155531003.61819023,
+                    97815392.10121664
+                ],
+                "wikipediaArticleName": "Mangalia"
             }
         },
         {
@@ -16614,7 +16934,7 @@
                 ],
                 "mapPoint": [
                     154872345.03111112,
-                    99228358.86739993
+                    99228358.86739995
                 ],
                 "wikipediaArticleName": "Sozopol"
             }
@@ -17034,7 +17354,7 @@
                 ],
                 "mapPoint": [
                     146284692.14048713,
-                    98573235.1799377
+                    98573235.17993772
                 ],
                 "wikipediaArticleName": "Vis_(town)"
             }
@@ -17496,6 +17816,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "42.98262",
+                    "41.63901"
+                ]
+            },
+            "properties": {
+                "identifier": "Akhaltsikhe@Caucasus",
+                "city_base_id": "Akhaltsikhe",
+                "region": "Caucasus",
+                "latitude": "41.63901",
+                "longitude": "42.98262",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "650",
+                        "endDate": "2100",
+                        "preferredName": "Akhaltsikhe",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Akhaltsikhe",
+                        "language": "Georgian"
+                    },
+                    {
+                        "name": "Lomsia",
+                        "language": "Georgian"
+                    }
+                ],
+                "mapPoint": [
+                    166267892.44381866,
+                    100009001.97491279
+                ],
+                "wikipediaArticleName": "Akhaltsikhe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "43.570558",
                     "40.506295"
                 ]
@@ -17624,6 +17988,66 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "44.0356031",
+                    "40.0817642"
+                ]
+            },
+            "properties": {
+                "identifier": "Armavir@Caucasus",
+                "city_base_id": "Armavir",
+                "region": "Caucasus",
+                "latitude": "40.0817642",
+                "longitude": "44.0356031",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-350",
+                        "endDate": "-177",
+                        "preferredName": "Armaouira",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-176",
+                        "endDate": "645",
+                        "preferredName": "Armaouira",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "646",
+                        "endDate": "1603",
+                        "preferredName": "Armavir",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Armavir",
+                        "language": "Armenian"
+                    },
+                    {
+                        "name": "Armaouira ",
+                        "language": "Armenian"
+                    }
+                ],
+                "mapPoint": [
+                    167053053.55106533,
+                    101544433.30542445
+                ],
+                "wikipediaArticleName": "Armavir_(ancient_city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "44.550556",
                     "39.953889"
                 ]
@@ -17676,6 +18100,54 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "49.89201",
+                    "40.37767"
+                ]
+            },
+            "properties": {
+                "identifier": "Baku@Caucasus",
+                "city_base_id": "Baku",
+                "region": "Caucasus",
+                "latitude": "40.37767",
+                "longitude": "49.89201",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1120",
+                        "endDate": "1185",
+                        "preferredName": "Baku",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1186",
+                        "endDate": "2100",
+                        "preferredName": "Baku",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Baku",
+                        "language": "English"
+                    }
+                ],
+                "mapPoint": [
+                    171419907.04196268,
+                    101255428.48554735
+                ],
+                "wikipediaArticleName": "Baku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "41.63593",
                     "41.64159"
                 ]
@@ -17709,6 +18181,46 @@
                     100006427.76397061
                 ],
                 "wikipediaArticleName": "Batumi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "48.28987",
+                    "42.0678"
+                ]
+            },
+            "properties": {
+                "identifier": "Derbent@Caucasus",
+                "city_base_id": "Derbent",
+                "region": "Caucasus",
+                "latitude": "42.0678",
+                "longitude": "48.28987",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "2100",
+                        "preferredName": "Derbent",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Derbent",
+                        "language": "English"
+                    }
+                ],
+                "mapPoint": [
+                    170225264.87119645,
+                    99579749.03785452
+                ],
+                "wikipediaArticleName": "Derbent"
             }
         },
         {
@@ -17764,6 +18276,58 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "46.36056",
+                    "40.68278"
+                ]
+            },
+            "properties": {
+                "identifier": "Ganja@Caucasus",
+                "city_base_id": "Ganja",
+                "region": "Caucasus",
+                "latitude": "40.68278",
+                "longitude": "46.36056",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "859",
+                        "endDate": "2100",
+                        "preferredName": "Ganja",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ganja",
+                        "language": "English"
+                    },
+                    {
+                        "name": "G\u0259nc\u0259",
+                        "language": "Azerbaijani"
+                    },
+                    {
+                        "name": "Kirovabad",
+                        "language": "Russian"
+                    },
+                    {
+                        "name": "Yelizavetpol",
+                        "language": "Russian"
+                    }
+                ],
+                "mapPoint": [
+                    168786667.06670934,
+                    100956101.86428851
+                ],
+                "wikipediaArticleName": "Ganja,_Azerbaijan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "44.11578",
                     "41.98422"
                 ]
@@ -17797,6 +18361,54 @@
                     99663645.56530918
                 ],
                 "wikipediaArticleName": "Gori,_Georgia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "45.660031",
+                    "42.002047"
+                ]
+            },
+            "properties": {
+                "identifier": "Gremi@Caucasus",
+                "city_base_id": "Gremi",
+                "region": "Caucasus",
+                "latitude": "42.002047",
+                "longitude": "45.660031",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "1500",
+                        "endDate": "1615",
+                        "preferredName": "Gremi",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1616",
+                        "endDate": "1660",
+                        "preferredName": "Gremi",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gremi",
+                        "language": "Georgian"
+                    }
+                ],
+                "mapPoint": [
+                    168264314.78460872,
+                    99645760.3023027
+                ],
+                "wikipediaArticleName": "Gremi"
             }
         },
         {
@@ -17988,6 +18600,54 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "42.00682",
+                    "41.92442"
+                ]
+            },
+            "properties": {
+                "identifier": "Ozurgeti@Caucasus",
+                "city_base_id": "Ozurgeti",
+                "region": "Caucasus",
+                "latitude": "41.92442",
+                "longitude": "42.00682",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1500",
+                        "endDate": "1800",
+                        "preferredName": "Ozurgeti",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1801",
+                        "endDate": "2100",
+                        "preferredName": "Ozurgeti",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ozurgeti",
+                        "language": "Georgian"
+                    }
+                ],
+                "mapPoint": [
+                    165540283.2272498,
+                    99723604.4632195
+                ],
+                "wikipediaArticleName": "Ozurgeti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "41.6923225",
                     "42.135867"
                 ]
@@ -18003,7 +18663,7 @@
                 "periods": [
                     {
                         "startDate": "-600",
-                        "endDate": "1000",
+                        "endDate": "700",
                         "preferredName": "Phasis",
                         "size": "4",
                         "tagPosition": "3",
@@ -18092,6 +18752,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "41.67197",
+                    "42.14616"
+                ]
+            },
+            "properties": {
+                "identifier": "Poti@Caucasus",
+                "city_base_id": "Poti",
+                "region": "Caucasus",
+                "latitude": "42.14616",
+                "longitude": "41.67197",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "750",
+                        "endDate": "2100",
+                        "preferredName": "Poti",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Poti",
+                        "language": "Georgian"
+                    },
+                    {
+                        "name": "Fa\u015f",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    165290600.97046757,
+                    99500991.89707446
+                ],
+                "wikipediaArticleName": "Poti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "40.52194",
                     "41.02083"
                 ]
@@ -18137,6 +18841,94 @@
                     100622854.97415772
                 ],
                 "wikipediaArticleName": "Rize"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "48.64137",
+                    "40.63141"
+                ]
+            },
+            "properties": {
+                "identifier": "Shamakhi@Caucasus",
+                "city_base_id": "Shamakhi",
+                "region": "Caucasus",
+                "latitude": "40.63141",
+                "longitude": "48.64137",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "700",
+                        "endDate": "2100",
+                        "preferredName": "Shamakhi",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Shamakhi",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "\u015eamax\u0131",
+                        "language": "Azerbaijani"
+                    }
+                ],
+                "mapPoint": [
+                    170487362.26781866,
+                    101006593.71581319
+                ],
+                "wikipediaArticleName": "Shamakhi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "46.0178",
+                    "40.82975"
+                ]
+            },
+            "properties": {
+                "identifier": "Shamkir@Caucasus",
+                "city_base_id": "Shamkir",
+                "region": "Caucasus",
+                "latitude": "40.82975",
+                "longitude": "46.0178",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "450",
+                        "endDate": "2100",
+                        "preferredName": "Shamkir",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Shamkir",
+                        "language": "English"
+                    },
+                    {
+                        "name": "\u015e\u0259mkir",
+                        "language": "Azerbaijani"
+                    }
+                ],
+                "mapPoint": [
+                    168531086.68643555,
+                    100811428.89408441
+                ],
+                "wikipediaArticleName": "Shamkir_(city)"
             }
         },
         {
@@ -18481,6 +19273,54 @@
                     103075748.72602203
                 ],
                 "wikipediaArticleName": "Van,_Turkey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "41.87088",
+                    "42.5088"
+                ]
+            },
+            "properties": {
+                "identifier": "Zugdidi@Caucasus",
+                "city_base_id": "Zugdidi",
+                "region": "Caucasus",
+                "latitude": "42.5088",
+                "longitude": "41.87088",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1475",
+                        "endDate": "1867",
+                        "preferredName": "Zugdidi",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1868",
+                        "endDate": "2100",
+                        "preferredName": "Zugdidi",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Zugdidi",
+                        "language": "Georgian"
+                    }
+                ],
+                "mapPoint": [
+                    165438919.01644802,
+                    99135237.56780112
+                ],
+                "wikipediaArticleName": "Zugdidi"
             }
         },
         {
@@ -20118,7 +20958,7 @@
                 ],
                 "mapPoint": [
                     130064196.36315022,
-                    99042890.60835116
+                    99042890.60835117
                 ],
                 "wikipediaArticleName": "Le\u00f3n,_Spain"
             }
@@ -20706,7 +21546,7 @@
                 ],
                 "mapPoint": [
                     132992446.90454757,
-                    98822851.58069468
+                    98822851.58069469
                 ],
                 "wikipediaArticleName": "Pamplona"
             }
@@ -23284,7 +24124,7 @@
                         "language": "Hebrew"
                     },
                     {
-                        "name": "Al-Quds",
+                        "name": "al-Quds",
                         "language": "Arabic"
                     },
                     {
@@ -23709,6 +24549,58 @@
                     106476746.40570496
                 ],
                 "wikipediaArticleName": "Qatna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.921944",
+                    "36.123889"
+                ]
+            },
+            "properties": {
+                "identifier": "Seleucia Pieria@Syria",
+                "city_base_id": "Seleucia Pieria",
+                "region": "Syria",
+                "latitude": "36.123889",
+                "longitude": "35.921944",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "-83",
+                        "preferredName": "Seleucia Pieria",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-82",
+                        "endDate": "550",
+                        "preferredName": "Seleucia Pieria",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Seleucia Pieria",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Suedia",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    161003070.82790685,
+                    105296495.80704996
+                ],
+                "wikipediaArticleName": "Seleucia_Pieria"
             }
         },
         {
@@ -24622,7 +25514,7 @@
                 ],
                 "mapPoint": [
                     164707521.87733334,
-                    106735711.25401026
+                    106735711.25401025
                 ],
                 "wikipediaArticleName": "Mari,_Syria"
             }
@@ -25148,6 +26040,102 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "31.917622",
+                    "26.185099"
+                ]
+            },
+            "properties": {
+                "identifier": "Abydos@Egypt",
+                "city_base_id": "Abydos",
+                "region": "Egypt",
+                "latitude": "26.185099",
+                "longitude": "31.917622",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-3100",
+                        "endDate": "-350",
+                        "preferredName": "Abydos",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Abydos",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Abedju",
+                        "language": "Egyptian"
+                    }
+                ],
+                "mapPoint": [
+                    158017231.93334898,
+                    113975228.90251218
+                ],
+                "wikipediaArticleName": "Abydos,_Egypt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.8035",
+                    "26.47686"
+                ]
+            },
+            "properties": {
+                "identifier": "al-Manshah@Egypt",
+                "city_base_id": "al-Manshah",
+                "region": "Egypt",
+                "latitude": "26.47686",
+                "longitude": "31.8035",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-312",
+                        "endDate": "200",
+                        "preferredName": "Ptolemais Hermiou",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "700",
+                        "endDate": "2100",
+                        "preferredName": "al-Manshah",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "al-Manshah",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Ptolemais Hermiou",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    157932136.4024889,
+                    113732490.92448263
+                ],
+                "wikipediaArticleName": "Ptolemais_Hermiou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "29.95527",
                     "31.21564"
                 ]
@@ -25300,6 +26288,218 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "30.743889",
+                    "18.223056"
+                ]
+            },
+            "properties": {
+                "identifier": "Dongola@Egypt",
+                "city_base_id": "Dongola",
+                "region": "Egypt",
+                "latitude": "18.223056",
+                "longitude": "30.743889",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "550",
+                        "endDate": "1199",
+                        "preferredName": "Dongola",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1200",
+                        "endDate": "1400",
+                        "preferredName": "Dongola",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1400",
+                        "endDate": "1812",
+                        "preferredName": "Dongola",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Old Dongola",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Dongola",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Tungul",
+                        "language": "Nubian"
+                    },
+                    {
+                        "name": "Dunqul\u0101 al-\u02bfAj\u016bz",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    157142033.17480108,
+                    120394574.09378126
+                ],
+                "wikipediaArticleName": "Old_Dongola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "30.8418",
+                    "29.30995"
+                ]
+            },
+            "properties": {
+                "identifier": "Faiyum@Egypt",
+                "city_base_id": "Faiyum",
+                "region": "Egypt",
+                "latitude": "29.30995",
+                "longitude": "30.8418",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-2200",
+                        "endDate": "-306",
+                        "preferredName": "Shedet",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-305",
+                        "endDate": "-271",
+                        "preferredName": "Ptolemais Euerg\u00e9tis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-270",
+                        "endDate": "618",
+                        "preferredName": "Arsino\u00eb",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "619",
+                        "endDate": "2100",
+                        "preferredName": "Faiyum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Faiyum",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "al-Fayyum",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Shedet",
+                        "language": "Egyptian"
+                    },
+                    {
+                        "name": "Crocodilopolis",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Ptolemais Euerg\u00e9tis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Arsino\u00eb",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    157215040.90794668,
+                    111341911.2230101
+                ],
+                "wikipediaArticleName": "Faiyum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.498587",
+                    "22.204049"
+                ]
+            },
+            "properties": {
+                "identifier": "Faras@Egypt",
+                "city_base_id": "Faras",
+                "region": "Egypt",
+                "latitude": "22.204049",
+                "longitude": "31.498587",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1000",
+                        "endDate": "549",
+                        "preferredName": "Faras",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "550",
+                        "endDate": "1099",
+                        "preferredName": "Faras",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1100",
+                        "endDate": "1400",
+                        "preferredName": "Faras",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Faras",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Pachoras",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    157704776.7908352,
+                    117230500.0805735
+                ],
+                "wikipediaArticleName": "Faras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "31.2375",
                     "30.005"
                 ]
@@ -25344,7 +26544,7 @@
                         "language": "English"
                     },
                     {
-                        "name": "l-Fus\u1e6d\u0101\u1e6d",
+                        "name": "al-Fus\u1e6d\u0101\u1e6d",
                         "language": "Arabic"
                     }
                 ],
@@ -25353,6 +26553,218 @@
                     110745509.98543614
                 ],
                 "wikipediaArticleName": "Fustat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.284786",
+                    "30.131757"
+                ]
+            },
+            "properties": {
+                "identifier": "Heliopolis@Egypt",
+                "city_base_id": "Heliopolis",
+                "region": "Egypt",
+                "latitude": "30.131757",
+                "longitude": "31.284786",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2500",
+                        "endDate": "100",
+                        "preferredName": "Heliopolis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Heliopolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Iunu",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    157545355.21047893,
+                    110636295.93872069
+                ],
+                "wikipediaArticleName": "Heliopolis_(ancient_Egypt)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "30.934549",
+                    "29.08554"
+                ]
+            },
+            "properties": {
+                "identifier": "Herakleopolis@Egypt",
+                "city_base_id": "Herakleopolis",
+                "region": "Egypt",
+                "latitude": "29.08554",
+                "longitude": "30.934549",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2181",
+                        "endDate": "-2055",
+                        "preferredName": "Herakleopolis",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-2054",
+                        "endDate": "200",
+                        "preferredName": "Herakleopolis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Herakleopolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Herakleopolis Magna",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Henen-Nesut",
+                        "language": "Egyptian"
+                    }
+                ],
+                "mapPoint": [
+                    157284199.57491484,
+                    111533599.25771677
+                ],
+                "wikipediaArticleName": "Heracleopolis_Magna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "30.808077",
+                    "27.774567"
+                ]
+            },
+            "properties": {
+                "identifier": "Hermopolis@Egypt",
+                "city_base_id": "Hermopolis",
+                "region": "Egypt",
+                "latitude": "27.774567",
+                "longitude": "30.808077",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-31",
+                        "preferredName": "Hermopolis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-30",
+                        "endDate": "640",
+                        "preferredName": "Hermopolis",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hermopolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Khemenu",
+                        "language": "Egyptian"
+                    }
+                ],
+                "mapPoint": [
+                    157189895.21660587,
+                    112645229.10551992
+                ],
+                "wikipediaArticleName": "Hermopolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.779728",
+                    "25.097743"
+                ]
+            },
+            "properties": {
+                "identifier": "Hierakonpolis@Egypt",
+                "city_base_id": "Hierakonpolis",
+                "region": "Egypt",
+                "latitude": "25.097743",
+                "longitude": "32.779728",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-3200",
+                        "endDate": "-2700",
+                        "preferredName": "Hierakonpolis",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-2699",
+                        "endDate": "-351",
+                        "preferredName": "Hierakonpolis",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-350",
+                        "endDate": "50",
+                        "preferredName": "Hierakonpolis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hierakonpolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Nekhen",
+                        "language": "Egyptian"
+                    }
+                ],
+                "mapPoint": [
+                    158660064.7589888,
+                    114874609.10978629
+                ],
+                "wikipediaArticleName": "Hierakonpolis"
             }
         },
         {
@@ -25428,6 +26840,82 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "30.65172",
+                    "28.542574"
+                ]
+            },
+            "properties": {
+                "identifier": "Oxyrhynchus@Egypt",
+                "city_base_id": "Oxyrhynchus",
+                "region": "Egypt",
+                "latitude": "28.542574",
+                "longitude": "30.65172",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1200",
+                        "endDate": "-333",
+                        "preferredName": "Per-Madjed",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-332",
+                        "endDate": "-31",
+                        "preferredName": "Oxyrrhynchoupolis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-30",
+                        "endDate": "641",
+                        "preferredName": "Oxyrhynchus",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "642",
+                        "endDate": "700",
+                        "preferredName": "al-Bahnasa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Oxyrhynchus",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "al-Bahnasa",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Per-Medjed",
+                        "language": "Egyptian"
+                    },
+                    {
+                        "name": "Oxyrrhynchoupolis",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    157073306.98717868,
+                    111995677.04606241
+                ],
+                "wikipediaArticleName": "Oxyrhynchus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "32.600128",
                     "31.049917"
                 ]
@@ -25469,6 +26957,70 @@
                     109840961.90788877
                 ],
                 "wikipediaArticleName": "Pelusium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.815787",
+                    "25.996402"
+                ]
+            },
+            "properties": {
+                "identifier": "Qift@Egypt",
+                "city_base_id": "Qift",
+                "region": "Egypt",
+                "latitude": "25.996402",
+                "longitude": "32.815787",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1500",
+                        "endDate": "-330",
+                        "preferredName": "Gebta",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-329",
+                        "endDate": "749",
+                        "preferredName": "Coptos",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "750",
+                        "endDate": "2100",
+                        "preferredName": "Qift",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Qift",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Coptos",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Gebtu",
+                        "language": "Egyptian"
+                    }
+                ],
+                "mapPoint": [
+                    158686952.29817742,
+                    114131896.30808751
+                ],
+                "wikipediaArticleName": "Qift"
             }
         },
         {
@@ -25548,6 +27100,58 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "32.680833",
+                    "15.523889"
+                ]
+            },
+            "properties": {
+                "identifier": "Soba@Egypt",
+                "city_base_id": "Soba",
+                "region": "Egypt",
+                "latitude": "15.523889",
+                "longitude": "32.680833",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "550",
+                        "endDate": "1099",
+                        "preferredName": "Soba",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1100",
+                        "endDate": "1400",
+                        "preferredName": "Soba",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Soba",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Soba East",
+                        "language": "English"
+                    }
+                ],
+                "mapPoint": [
+                    158586323.30226347,
+                    122497995.62660219
+                ],
+                "wikipediaArticleName": "Soba_(city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "31.881357",
                     "30.978171"
                 ]
@@ -25613,6 +27217,122 @@
                     109903383.30791965
                 ],
                 "wikipediaArticleName": "Tanis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.6355911",
+                    "25.68502752"
+                ]
+            },
+            "properties": {
+                "identifier": "Thebes@Egypt",
+                "city_base_id": "Thebes",
+                "region": "Egypt",
+                "latitude": "25.68502752",
+                "longitude": "32.6355911",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2160",
+                        "endDate": "-1551",
+                        "preferredName": "Thebes",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1550",
+                        "endDate": "-1121",
+                        "preferredName": "Thebes",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1120",
+                        "endDate": "-664",
+                        "preferredName": "Thebes",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-663",
+                        "endDate": "100",
+                        "preferredName": "Thebes",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Thebes",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Waset",
+                        "language": "Egyptian"
+                    },
+                    {
+                        "name": "Diospolis Magna",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    158552588.4965501,
+                    114389869.27442648
+                ],
+                "wikipediaArticleName": "Thebes,_Egypt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "46.2919",
+                    "38.08"
+                ]
+            },
+            "properties": {
+                "identifier": "Tabriz@Persia",
+                "city_base_id": "Tabriz",
+                "region": "Persia",
+                "latitude": "38.08",
+                "longitude": "46.2919",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-350",
+                        "endDate": "2100",
+                        "preferredName": "Tabriz",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tabriz",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Tavrezh",
+                        "language": "Armenian"
+                    }
+                ],
+                "mapPoint": [
+                    168735470.46001777,
+                    103467507.8065821
+                ],
+                "wikipediaArticleName": "Tabriz"
             }
         }
     ]

@@ -5,7 +5,9 @@ Doclea	Doclea	P	ancient	Doclea_(Illyria)
 Drobeta-Turnu Severin	Drobeta-Turnu Severin	RO	modern	Drobeta-Turnu Severin
 Durrës	Durres	AL	modern	Durrës
 Faros	Pharus	P	ancient	Faros
+Histria	Histria	P	ancient	Histria_(ancient_city)
 Lezhë	Lezhe	AL	modern	Lezhë
+Mangalia	Mangalia	RO	modern	Mangalia
 Niš	Nis	RS	ancient	Niš
 Oricum	Oricum	P	ancient	Oricum
 Phoenice	Phoinike 2	P	ancient	Phoenice

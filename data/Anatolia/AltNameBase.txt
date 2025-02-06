@@ -109,9 +109,15 @@ Ordu	Ordu	Turkish
 Ordu	Kotyora	Pontic
 Pergamon	Pergamon	Greek
 Pergamon	Pergamum	Greek
+Perge	Perge	Greek
+Perge	Parha	Hittite
 Pessinus	Pessinus	Greek
 Pompeiopolis	Pompeiopolis	Greek
 Pompeiopolis	Taşköprü	Turkish
+Prusias ad Hypium	Prusias ad Hypium	Greek
+Prusias ad Hypium	Kieros	Greek
+Prusias ad Hypium	Üskübü	Turkish
+Prusias ad Hypium	Konuralp	Turkish
 Rhoiteion	Rhoeteum	Latin
 Rhoiteion	Rhoiteion	Greek
 Samʾal	Samʾal	Assyrian

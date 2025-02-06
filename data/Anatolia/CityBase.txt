@@ -48,8 +48,10 @@ Nerik	Nerik	TR	ancient	Nerik
 Nicopolis (Armenia)	Nicopolis	X	ancient	Nicopolis_(Armenia)
 Ordu	Ordu	TR	modern	Ordu
 Pergamon	Pergamon	TR	ancient	Pergamon
+Perge	Perge	P	ancient	Perga
 Pessinus	Pessinous/Iustinianoupolis	P	ancient	Pessinus
 Pompeiopolis	Pompeiopolis/Sebaste	P	ancient	Pompeiopolis
+Prusias ad Hypium	Prusias ad Hypium/Kieros	P	ancient	Prusias_ad_Hypium
 Rhoiteion	Rhoiteion	TR	ancient	Rhoiteion
 Samʾal	Samʾal	P	ancient	Samʾal
 Samsun	Samsun	TR	modern	Samsun

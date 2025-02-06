@@ -20,10 +20,15 @@ Faros	Faros	Greek
 Faros	Pharos	Greek
 Faros	Pharus	Greek
 Faros	Hvar	Slavic
+Histria	Histria	Greek
+Histria	Istros	Greek
 Lezhë	Lezhë	Albanian
 Lezhë	Lissós	Greek
 Lezhë	Lissus	Latin
 Lezhë	Alessio	Italian
+Mangalia	Mangalia	Romanian
+Mangalia	Callatis	Greek
+Mangalia	Pangalia	Bulgarian
 Niš	Niš	Serbian
 Niš	Naissus	Latin
 Oricum	Oricum	Latin

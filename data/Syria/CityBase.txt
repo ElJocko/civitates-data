@@ -35,6 +35,7 @@ Pella	Pella/Berenice/Philippeia	P	ancient	Pella,_Jordan
 Petra	Petra	X	ancient	Petra
 Ramla	Ramla	IL	modern	Ramla
 Qatna	Qatna	P	ancient	Qatna
+Seleucia Pieria	Seleucia Pieria	X	ancient	Seleucia_Pieria
 Sidon	Sidon	LB	modern	Sidon
 Tiberias	Tiberias	IL	modern	Tiberias
 Tripoli	Tripoli	LB	modern	Tripoli,_Lebanon
