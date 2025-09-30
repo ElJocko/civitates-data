@@ -1,0 +1,9 @@
+al-Khums	Al Khums	LY	modern	Al-Khums
+Benghazi	Euesperides	P	modern	Benghazi
+Carthage	Carthago	P	ancient	Carthage
+Casablanca	Casablanca	MA	modern	Casablanca
+Cyrene	Cyrene	P	ancient	Cyrene,_Libya
+Leptis Magna	Neapolis/Lepcis Magna	P	ancient	Leptis_Magna
+Sabratha	Sabratah	LY	modern	Sabratha
+Tangier	Tangier	MA	modern	Tangier
+Tripoli	Tripoli	LY	modern	Tripoli,_Libya

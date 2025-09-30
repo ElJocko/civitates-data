@@ -1,31 +1,46 @@
 Amantia	Amantia	P	ancient	Amantia
+Aquincum	Aquincum	P	ancient	Aquincum
+Buda	Buda	X	medieval	Buda
+Budapest	Budapest	HU	modern	Budapest
+Carnuntum	Carnuntum	P	ancient	Carnuntum
 Constanța	Constanta	RO	modern	Constanța
 Devnya	Devnya	BG	modern	Devnya
 Doclea	Doclea	P	ancient	Doclea_(Illyria)
+Drnovo	Neviodunum	P	modern	Drnovo
 Drobeta-Turnu Severin	Drobeta-Turnu Severin	RO	modern	Drobeta-Turnu Severin
 Durrës	Durres	AL	modern	Durrës
 Faros	Pharus	P	ancient	Faros
 Histria	Histria	P	ancient	Histria_(ancient_city)
+Komárom	Brigetio	P	modern	Komárom
 Lezhë	Lezhe	AL	modern	Lezhë
 Mangalia	Mangalia	RO	modern	Mangalia
 Niš	Nis	RS	ancient	Niš
+Óbuda	Óbuda	X	medieval	Óbuda
 Oricum	Oricum	P	ancient	Oricum
+Osijek	Osijek	HR	modern	Osijek
+Pest	Pest	X	medieval	Pest,_Hungary
 Phoenice	Phoinike 2	P	ancient	Phoenice
 Pliska	Pliska	BG	ancient	Pliska
 Plovdiv	Plovdiv	BG	ancient	Plovdiv
 Preslav	Veliki Preslav	BG	ancient	Preslav
+Ptuj	Ptuj	SI	modern	Ptuj
 Ratiaria	Ratiaria	P	ancient	Ratiaria
+Rijeka	Rijeka	HR	modern	Rijeka
 Salona	Salona	P	ancient	Salona
 Scupi	Scupi	P	ancient	Scupi
 Silistra	Silistra	BG	modern	Silistra
 Sirmium	Sirmium	P	ancient	Sirmium
+Sisak	Sisak	HR	modern	Sisak
 Skopje	Skopje	MK	modern	Skopje
 Sofia	Sofia	BG	modern	Sofia
+Sopron	Sopron	HU	modern	Sopron
 Sozopol	Sozopol	BG	modern	Sozopol
 Split	Split	HR	modern	Split,_Croatia
 Stobi	Stobi	P	ancient	Stobi
+Szombathely	Szombathely	HU	modern	Szombathely
 Tarnovo	Veliko Turnovo	BG	modern	Tarnovo
 Varna	Varna	BG	modern	Varna,_Bulgaria
 Vidin	Vidin	BG	modern	Vidin
+Vienna	Vienna	AT	modern	Vienna
 Viminacium	Viminacium	P	ancient	Viminacium
 Vis	Vis	HR	modern	Vis_(town)

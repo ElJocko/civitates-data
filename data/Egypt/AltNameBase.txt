@@ -4,8 +4,13 @@ al-Manshah	al-Manshah	Arabic
 al-Manshah	Ptolemais Hermiou	Greek
 Alexandria	Alexandria	English
 Alexandria	Alexándreia	Greek
+Bilbeis	Bilbeis	Arabic
+Bilbeis	Phelbes	Greek
 Cairo	Cairo	English
 Cairo	al-Qāhirah	Arabic
+Clysma	Clysma	Greek
+Clysma	al-Ḳulzum	Arabic
+Clysma	Kolzum	Arabic
 Damietta	Damietta	Latin
 Damietta	Tamiati	Coptic
 Damietta	Dumyāṭ	Arabic
@@ -34,10 +39,14 @@ Hierakonpolis	Hierakonpolis	Greek
 Hierakonpolis	Nekhen	Egyptian
 Memphis	Memphis	Greek
 Memphis	Menefer	Egyptian
+Naucratis	Naucratis	Greek
 Oxyrhynchus	Oxyrhynchus	Latin
 Oxyrhynchus	al-Bahnasa	Arabic
 Oxyrhynchus	Per-Medjed	Egyptian
 Oxyrhynchus	Oxyrrhynchoupolis	Greek
+Paraetonium	Paraetonium	Latin
+Paraetonium	Ammonia	Greek
+Paraetonium	Baritun	Arabic
 Pelusium	Pelusium	Latin
 Pelusium	Per-Amun	Egyptian
 Pelusium	Sin	Hebrew

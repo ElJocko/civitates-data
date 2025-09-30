@@ -1,11 +1,23 @@
+Abadan	750	2100	Abadan	3	0
 Aššur	-2300	-1800	Aššur	3	0
 Aššur	-1799	-1366	Aššur	2	0
 Aššur	-1365	-1076	Aššur	1	0
 Aššur	-1075	-614	Aššur	2	0
 Aššur	-613	240	Aššur	3	0
+Babylon	-1890	-1791	Babylon	3	3
+Babylon	-1790	-1593	Babylon	1	3
+Babylon	-1592	-611	Babylon	2	3
+Babylon	-610	-540	Babylon	1	3
+Babylon	-539	-332	Babylon	0	3
+Babylon	-331	650	Babylon	2	3
+Baghdad	762	1258	Baghdad	1	0
+Baghdad	1259	2100	Baghdad	2	0
 Carchemish	-1800	-1325	Carchemish	3	1
 Carchemish	-1324	-717	Carchemish	2	1
 Carchemish	-716	-200	Carchemish	3	1
+Ctesiphon	-122	-59	Ctesiphon	3	0
+Ctesiphon	-58	636	Ctesiphon	0	0
+Ctesiphon	637	760	Ctesiphon	3	0
 Dur-Sharrukin	-716	-707	Dur-Sharrukin	3	0
 Dur-Sharrukin	-706	-701	Dur-Sharrukin	2	0
 Dur-Sharrukin	-700	-605	Dur-Sharrukin	3	0
@@ -38,6 +50,11 @@ Nusaybin	-901	-333	Naṣibīna	3	0
 Nusaybin	-332	-68	Antiochia Mygdonia	3	0
 Nusaybin	-67	1514	Nisibis	3	0
 Nusaybin	1515	2100	Nusaybin	3	0
+Raqqa	-320	-221	Nikephorion	3	0
+Raqqa	-220	638	Kallinikos	3	0
+Raqqa	639	795	Raqqa	3	0
+Raqqa	796	809	Raqqa	2	0
+Raqqa	810	2100	Raqqa	3	0
 Samsat	-245	1515	Samosata	3	0
 Samsat	1516	1988	Samsat	4	0
 Terqa	-2000	-600	Terqa	3	0

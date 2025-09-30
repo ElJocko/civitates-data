@@ -99,6 +99,7 @@ Nicopolis (Armenia)	-63	498	Nicopolis	3	7
 Nicopolis (Armenia)	499	1200	Nicopolis	4	7
 Ordu	-750	2100	Kotyora	4	1
 Ordu	1869	2100	Ordu	4	1
+Palu	-700	1918	Palu	4	1
 Pergamon	-350	620	Pergamon	2	1
 Pergamon	621	1400	Pergamon	3	1
 Perge	-650	800	Perge	3	3

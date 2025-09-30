@@ -1,4 +1,12 @@
 Amantia	-450	300	Amantia	3	0
+Aquincum	10	102	Aquincum	3	0
+Aquincum	103	350	Aquincum	2	0
+Buda	1247	1360	Buda	3	3
+Buda	1361	1872	Buda	1	3
+Budapest	1873	2100	Budapest	1	0
+Carnuntum	10	102	Carnuntum	3	1
+Carnuntum	103	375	Carnuntum	2	1
+Carnuntum	376	400	Carnuntum	4	1
 Constanța	-520	319	Tomis	3	0
 Constanța	320	2100	Constanta	3	0
 Devnya	-200	105	Parthenopolis	3	3
@@ -7,6 +15,7 @@ Devnya	447	615	Marcianopolis	3	3
 Devnya	650	2100	Devina	4	3
 Doclea	41	350	Doclea	3	0
 Doclea	351	700	Doclea	4	0
+Drnovo	-50	400	Neviodunum	4	0
 Drobeta-Turnu Severin	103	1076	Drobeta	3	0
 Drobeta-Turnu Severin	1077	2100	Turnu Severin	3	0
 Durrës	-627	-230	Epidamnos	3	0
@@ -18,6 +27,7 @@ Faros	700	1277	Hvar	3	0
 Faros	1278	1540	Stari Grad	3	0
 Faros	1541	2100	Hvar	4	0
 Histria	-650	650	Histria	3	0
+Komárom	86	450	Brigetio	3	0
 Lezhë	-300	-26	Lissós	3	0
 Lezhë	-25	589	Lissus	3	0
 Lezhë	590	2100	Lissus	4	0
@@ -27,9 +37,14 @@ Mangalia	1501	2100	Mangalia	3	0
 Niš	-75	300	Naissus	3	0
 Niš	301	539	Naissus	2	0
 Niš	540	2100	Niš	2	0
+Óbuda	1015	1240	Buda	3	2
+Óbuda	1241	1873	Óbuda	4	2
 Oricum	-350	-230	Orikos	3	3
 Oricum	-229	24	Oricum	3	3
 Oricum	25	1200	Oricum	4	3
+Osijek	-350	550	Mursa	3	0
+Osijek	551	2100	Osijek	3	0
+Pest	1015	1872	Pest	3	0
 Phoenice	-450	-167	Phoenice	2	0
 Phoenice	-166	500	Phoenice	3	0
 Pliska	681	893	Pliska	2	0
@@ -39,6 +54,11 @@ Plovdiv	864	2100	Plovdiv	2	0
 Preslav	800	893	Preslav	3	0
 Preslav	894	970	Preslav	2	0
 Preslav	971	2100	Preslav	3	0
+Ptuj	-35	550	Poetovio	3	0
+Ptuj	551	1920	Pettau	3	0
+Ptuj	1921	2100	Ptuj	3	0
+Rijeka	10	650	Tarsatica	3	3
+Rijeka	651	2100	Rijeka	3	3
 Ratiaria	-75	250	Ratiaria	4	0
 Ratiaria	251	586	Ratiaria	3	0
 Salona	-50	625	Salona	2	0
@@ -49,12 +69,18 @@ Silistra	1401	2100	Silistra	3	0
 Sirmium	-350	9	Sirmium	4	0
 Sirmium	10	102	Sirmium	3	0
 Sirmium	103	582	Sirmium	2	0
+Sisak	-350	-36	Segestica	3	0
+Sisak	-35	400	Siscia	2	0
+Sisak	401	550	Siscia	3	0
+Sisak	551	2100	Sisak	3	0
 Skopje	519	971	Skopje	3	0
 Skopje	972	2100	Skopje	2	0
 Sofia	-50	447	Serdica	2	0
 Sofia	550	809	Serdica	3	0
 Sofia	810	1385	Sredets	2	0
 Sofia	1386	2100	Sofia	2	0
+Sopron	100	450	Scarbantia 	3	0
+Sopron	1100	2100	Sopron	3	0
 Sozopol	-650	-401	Antheia	3	0
 Sozopol	-400	-72	Apollonia	3	0
 Sozopol	-71	399	Apollonia	4	0
@@ -65,6 +91,8 @@ Split	305	649	Aspalatum	3	3
 Split	650	925	Aspalatum	2	3
 Split	926	2100	Split	2	3
 Stobi	-200	600	Stobi	3	0
+Szombathely	45	900	Savaria	3	0
+Szombathely	901	2100	Szombathely	3	0
 Tarnovo	680	1185	Tarnovo	3	0
 Tarnovo	1186	1393	Tarnovo	2	0
 Tarnovo	1394	2100	Tarnovo	3	0
@@ -73,6 +101,10 @@ Varna	15	679	Odessus	3	0
 Varna	680	2100	Varna	3	0
 Vidin	100	809	Bononia	3	0
 Vidin	810	2100	Vidin	3	0
+Vienna	100	430	Vindobona	3	0
+Vienna	1155	1500	Vienna	3	0
+Vienna	1501	1600	Vienna	2	0
+Vienna	1601	2100	Vienna	1	0
 Viminacium	-10	116	Viminacium	4	0
 Viminacium	117	292	Viminacium	3	0
 Viminacium	293	440	Viminacium	2	0

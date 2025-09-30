@@ -56,5 +56,9 @@ Vagharshapat	100	451	Vagharshapat	2	2
 Vagharshapat	452	2100	Vagharshapat	3	2
 Van	-900	-100	Tushpa	3	3
 Van	-99	2100	Van	3	3
+Yerevan	-782	-190	Erebuni	3	0
+Yerevan	-189	599	Erebuni	4	0
+Yerevan	600	1440	Yerevan	4	0
+Yerevan	1441	2100	Yerevan	3	0
 Zugdidi	1475	1867	Zugdidi	3	3
 Zugdidi	1868	2100	Zugdidi	4	3

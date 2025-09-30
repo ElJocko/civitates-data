@@ -52,4 +52,8 @@ Vagharshapat	Kuarlini	Urartian
 Van	Van	Armenian
 Van	Tushpa	Urartian
 Van	Tosp	Armenian
+Yerevan	Yerevan	Armenian
+Yerevan	Iravân	Persian
+Yerevan	Erevan	Russian
+Yerevan	Erebuni	Urartian
 Zugdidi	Zugdidi	Georgian

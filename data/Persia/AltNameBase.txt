@@ -1,2 +1,13 @@
+Isfahan	Isfahan	Arabic
+Isfahan	Ispahan	Persian
+Isfahan	Spahān	Old Persian
+Nishapur	Nishapur	Persian
+Ray	Ray	Persian
+Ray	Ragā	Old Persian
+Ray	Europos	Greek
+Ray	Arsacia	Parthian
+Ray	Rhagae	Latin
+Ray	Shahr-e Rey	Persian
+Susa	Susa	Elamite
 Tabriz	Tabriz	Persian
 Tabriz	Tavrezh	Armenian

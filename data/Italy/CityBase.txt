@@ -1,4 +1,4 @@
-Aceranza	Aceranza	IT	modern	Aceranza
+Acerenza	Acerenza	IT	modern	Acerenza
 Acquarossa	Acquarossa	IT	ancient	Acquarossa
 Alessandria	Alessandria	IT	modern	Alessandria
 Anzio	Anzio	IT	modern	Anzio

@@ -1,0 +1,33 @@
+al-Khums	al-Khums	Arabic
+al-Khums	Khoms	Arabic
+Benghazi	Benghazi	Arabic
+Benghazi	Berenice	Latin
+Benghazi	Euesperides	Greek
+Carthage	Carthage	English
+Carthage	Carthago	Latin
+Casablanca	Casablanca	Spanish
+Casablanca	Anfa	Berber
+Casablanca	Anfur	Latin
+Casablanca	ad-Dār al-Bayḍāʾ	Arabic
+Cyrene	Cyrene	Latin
+Cyrene	Kyrene	Greek
+Leptis Magna	Leptis Magna	Latin
+Leptis Magna	Leptis	Latin
+Leptis Magna	Léptis Megálē 	Greek
+Leptis Magna	Lpqy	Punic
+Leptis Magna	Lepcis Magna	Latin
+Leptis Magna	Neápolis 	Greek
+Sabratha	Sabratha	Greek
+Sabratha	Sabrata	Greek
+Sabratha	Tsabratan	Berber
+Tangier	Tangier	English
+Tangier	Tng	Punic
+Ṭangier	Tingi	Berber
+Tangier	Tingis	Greek
+Tangier	Colonia Julia Tingi	Latin
+Tangier	Ṭanjah	Arabic
+Tripoli	Tripoli	English
+Tripoli	Tripolis	Greek
+Tripoli	Oyat	Berber
+Tripoli	Oea	Greek
+Tripoli	Ṭarābulus al-Gharb	Arabic

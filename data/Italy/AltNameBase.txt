@@ -1,3 +1,5 @@
+Acerenza	Acerenza	Italian
+Acerenza	Acherontia	Latin
 Acquarossa	Acquarossa	Italian
 Adria	Hatria	Greek
 Adria	Atria	Greek
@@ -32,6 +34,9 @@ Benevento	Maleventum	Latin
 Benevento	Maloenton	Greek
 Benevento	Malies	Oscan
 Bisignano	Bisignano	Italian
+Bojano	Bojano	Italian
+Bojano	Bovianum	Latin
+Bojano	Bovianum Undecumanorum	Latin
 Bologna	Felsina	Etruscan
 Bologna	Bona	Gaulish
 Bologna	Bononia	Latin

@@ -107,6 +107,9 @@ Nerik	Nerik	Hittite
 Nicopolis (Armenia)	Nicopolis	Greek
 Ordu	Ordu	Turkish
 Ordu	Kotyora	Pontic
+Palu	Palu	Armenian
+Palu	Romanopolis	Greek
+Palu	Eski Palu	Armenian
 Pergamon	Pergamon	Greek
 Pergamon	Pergamum	Greek
 Perge	Perge	Greek

@@ -270,10 +270,11 @@ for year in [-500, -250, -100, 100, 250, 500, 1000]:
 #check_cities_overlap(cities[2], cities[3])
 
 count_cities_by_size(city_list)
+filtered_city_list = [city for city in city_list if len(city["properties"]["periods"]) > 0]
 
-output_object = { 'type': 'FeatureCollection', 'crs': { 'type': 'name', 'properties': { 'name': 'EPSG:4326' }}, 'features': city_list }
+output_object = { 'type': 'FeatureCollection', 'crs': { 'type': 'name', 'properties': { 'name': 'EPSG:4326' }}, 'features': filtered_city_list }
 output_path = os.path.join(base_path, output_filename)
 with open(output_path, 'w') as file:
     json.dump(output_object, file, indent=4, separators=(',', ': ') )
 
-print("Wrote", len(city_list), "cities to", output_filename)
+print("Wrote", len(filtered_city_list), "cities to", output_filename)

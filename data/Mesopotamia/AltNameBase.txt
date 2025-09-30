@@ -1,7 +1,13 @@
+Abadan	Abadan	Persian
 Aššur	Aššur	Assyrian
 Aššur	Ashur	English
+Babylon	Babylon	Latin
+Babylon	Bābilim	Babylonian
+Baghdad	Baghdad	Arabic
 Carchemish	Carchemish	Unspecified
 Carchemish	Karkamış	Turkish
+Ctesiphon	Ctesiphon	Latin
+Ctesiphon	Tīsfōn	Old Persian
 Dur-Sharrukin	Dur-Sharrukin	English
 Dur-Sharrukin	Dūr Šarru-kīn	Assyrian
 Emar	Emar	Akkadian
@@ -31,6 +37,11 @@ Nusaybin	Nusaybin	Turkish
 Nusaybin	Naṣibīna	Aramean
 Nusaybin	Antiochia Mygdonia	Greek
 Nusaybin	Nisibis	Latin
+Raqqa	Raqqa	Arabic
+Raqqa	Nikephorion	Greek
+Raqqa	Kallinikos	Greek
+Raqqa	Callinicum	Latin
+Raqqa	Leontopolis	Latin
 Samsat	Samsat	Turkish
 Samsat	Samosata	Greek
 Samsat	Samîsad	Kurdish

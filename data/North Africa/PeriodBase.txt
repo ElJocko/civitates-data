@@ -1,0 +1,23 @@
+al-Khums	646	2100	al-Khums	3	0
+Benghazi	-600	-247	Euesperides	3	0
+Benghazi	-246	642	Berenice	3	0
+Benghazi	643	1910	 Benghazi	4	0
+Benghazi	1911	2100	Benghazi	3	0
+Carthage	-800	-351	Carthage	3	0
+Carthage	-350	-146	Carthage	1	0
+Carthage	-44	700	Carthage	2	0
+Casablanca	-15	743	Anfus	4	2
+Casablanca	744	1769	Anfa	4	2
+Casablanca	1770	1906	ad-Dār al-Bayḍāʾ	3	2
+Casablanca	1907	2100	Casablanca	3	2
+Cyrene	-631	-97	Kyrene	3	0
+Cyrene	-96	643	Cyrene	3	0
+Leptis Magna	-650	-147	Leptis	3	0
+Leptis Magna	-146	600	Leptis Magna	3	0
+Sabratha	-500	-146	Tsabratan	3	3
+Sabratha	-145	650	Sabrata	3	3
+Tangier	-450	1470	Tingis	3	2
+Tangier	1471	2100	Tangier	3	2
+Tripoli	-650	-146	Oyat	3	0
+Tripoli	-145	849	Oea	3	0
+Tripoli	850	2100	Tripoli	3	0

@@ -1,3 +1,5 @@
+Acerenza	-318	600	Acherontia	4	0
+Acerenza	601	2100	Acerenza	4	0
 Acquarossa	-700	-500	Acquarossa	3	6
 Adria	-530	-200	Atria	2	0
 Adria	-199	600	Atria	3	0
@@ -37,6 +39,8 @@ Benevento	-700	-268	Maloenton	4	0
 Benevento	-267	600	Beneventum	3	0
 Benevento	601	2100	Benevento	1	0
 Bisignano	1054	2100	Bisignano	4	0
+Bojano	-650	600	Bovianum	3	0
+Bojano	601	2100	Bojano	4	0
 Bologna	-700	-200	Felsina	3	0
 Bologna	-199	600	Bononia	3	0
 Bologna	601	2100	Bologna	2	0

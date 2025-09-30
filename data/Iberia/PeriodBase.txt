@@ -10,8 +10,8 @@ Astorga	501	750	Asturica	3	1
 Astorga	751	850	Asturica	4	1
 Astorga	851	1000	Asturica	3	1
 Astorga	1001	2100	Astorga	3	1
-Badajoz	750	1200	Baṭalyaws	3	1
-Badajoz	1201	2100	Badajoz	3	1
+Badajoz	750	1200	Baṭalyaws	3	7
+Badajoz	1201	2100	Badajoz	3	7
 Baelo Claudia	-100	150	Baelo Claudia	2	6
 Baelo Claudia	151	600	Baelo Claudia	4	6
 Barcelona	-250	-16	Barcino	3	1

@@ -1,4 +1,10 @@
 Amantia	Amantia	Greek
+Aquincum	Aquincum	Latin
+Buda	Buda	Hungarian
+Buda	Várhegy	Hungarian
+Buda	Ofen	German
+Budapest	Budapest	Hungarian
+Carnuntum	Carnuntum	Latin
 Constanța	Constanța	Romanian
 Constanța	Tomis	Greek
 Constanța	Constanta	Latin
@@ -8,6 +14,8 @@ Devnya	Marcianopolis	Greek
 Devnya	Devina	Slavic
 Devnya	Parthenopolis	Greek
 Doclea	Doclea	Illyrian
+Drnovo	Drnovo	Slavic
+Drnovo	Neviodunum	Latin
 Drobeta-Turnu Severin	Drobeta-Turnu Severin	Unspecified
 Drobeta-Turnu Severin	Drobeta	Dacian
 Drobeta-Turnu Severin	Turnu Severin	Unspecified
@@ -22,6 +30,8 @@ Faros	Pharus	Greek
 Faros	Hvar	Slavic
 Histria	Histria	Greek
 Histria	Istros	Greek
+Komárom	Komárom	Hungarian
+Komárom	Brigetio	Latin
 Lezhë	Lezhë	Albanian
 Lezhë	Lissós	Greek
 Lezhë	Lissus	Latin
@@ -31,24 +41,45 @@ Mangalia	Callatis	Greek
 Mangalia	Pangalia	Bulgarian
 Niš	Niš	Serbian
 Niš	Naissus	Latin
+Óbuda	Óbuda	Hungarian
+Óbuda	Buda	Hungarian
 Oricum	Oricum	Latin
 Oricum	Orikos	Greek
+Osijek	Osijek	Croatian
+Osijek	Mursa	Latin
+Pest	Pest	Hungarian
+Pest	Pession	Latin
 Phoenice	Phoenice	Greek
 Phoenice	Phoinike	Greek
 Pliska	Pliska	Bulgarian
 Plovdiv	Plovdiv	Bulgarian
 Plovdiv	Philippopolis	Greek
 Preslav	Preslav	Bulgarian
+Ptuj	Ptuj	Slovene
+Ptuj	Poetovium	Latin
+Ptuj	Poetovio	Latin
+Ptuj	Pettau	German
 Ratiaria	Ratiaria	Greek
+Rijeka	Rijeka	Croatian
+Rijeka	Fiume	Italian
+Rijeka	Tarsatica	Latin
+Rijeka	Trsat	Croatian
 Scupi	Scupi	Greek
 Silistra	Durostorum	Latin
 Silistra	Drastar	Bulgarian
 Silistra	Silistra	Turkish
 Sirmium	Sirmium	Latin
+Sisak	Sisak	Croatian
+Sisak	Siscia	Latin
+Sisak	Siskia	Greek
+Sisak	Segestica	Illyrian
 Skopje	Skopje	Slavic
 Sofia	Sofia	Bulgarian
 Sofia	Serdica	Celtic
 Sofia	Sredets	Bulgarian
+Sopron	Sopron	Hungarian
+Sopron	Ödenburg	German
+Sopron	Scarbantia	Latin
 Sozopol	Sozopol	Bulgarian
 Sozopol	Apollonia	Greek
 Sozopol	Antheia	Greek
@@ -57,6 +88,8 @@ Split	Split	Croatian
 Split	Aspálathos	Greek
 Split	Aspalatum	Latin
 Stobi	Stobi	Paeonian
+Szombathely	Szombathely	Hungarian
+Szombathely	Savaria	Latin
 Tarnovo	Tarnovo	Bulgarian
 Tarnovo	Veliko Tarnovo	Bulgarian
 Tarnovo	Tarnovgrad	Bulgarian
@@ -68,6 +101,9 @@ Vidin	Vidin	Bulgarian
 Vidin	Bononia	Latin
 Vidin	Bodony	Hungarian
 Vidin	Dunonia	Celtic
+Vienna	Vienna	English
+Vienna	Wein	German
+Vienna	Vindobona	Latin
 Viminacium	Viminacium	Latin
 Vis	Vis	Slavic
 Vis	Issa	Greek

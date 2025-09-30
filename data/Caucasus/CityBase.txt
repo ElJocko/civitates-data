@@ -26,4 +26,5 @@ Tigranakert	Tigranakert	P	ancient	Tigranakert_of_Artsakh
 Uplistsikhe	Uplistsikhe	P	ancient	Uplistsikhe
 Vagharshapat	Ejmiatsin	AM	modern	Vagharshapat
 Van	Van	TR	modern	Van,_Turkey
+Yerevan	Yerevan	AM	modern	Yerevan
 Zugdidi	Zugdidi	GE	modern	Zugdidi
