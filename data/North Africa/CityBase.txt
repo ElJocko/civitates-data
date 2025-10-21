@@ -1,9 +1,20 @@
 al-Khums	Al Khums	LY	modern	Al-Khums
+Algiers	Algiers	DZ	modern	Algiers
+Annaba	Hippo Regius	P	modern	Annaba
 Benghazi	Euesperides	P	modern	Benghazi
+Cartennae	Cartenna	P	ancient	Cartennae
 Carthage	Carthago	P	ancient	Carthage
 Casablanca	Casablanca	MA	modern	Casablanca
 Cyrene	Cyrene	P	ancient	Cyrene,_Libya
+Fez	Fes	MA	modern	Fez,_Morocco
+Ghadames	Ghadamis	LY	modern	Ghadames
+Icosium	Icosium	P	ancient	Icosium
 Leptis Magna	Neapolis/Lepcis Magna	P	ancient	Leptis_Magna
+Lixus	Lixus	P	ancient	Lixus_(ancient_city)
+Rabat	Rabat	MA	modern	Rabat
 Sabratha	Sabratah	LY	modern	Sabratha
+Sala	Sala	P	ancient	Chellah
+Salé	Sale	MA	modern	Salé
 Tangier	Tangier	MA	modern	Tangier
 Tripoli	Tripoli	LY	modern	Tripoli,_Libya
+Volubilis	Volubilis	P	ancient	Volubilis

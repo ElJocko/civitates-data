@@ -24,8 +24,8 @@ def find_geonames_city(name, country_code):
 
 def find_pleiades_settlement(title):
     for settlement in pleiades_settlement_list:
-        if settlement.title == title:
-            # print("  found", title, "in pleiades settlements")
+        if settlement.title == title and settlement.latitude and settlement.longitude:
+            #print("  found", title, "in pleiades settlements")
             return settlement
     return None
 
@@ -72,11 +72,11 @@ pleiades_place_list = pleiades.read_pleiades_place_file(pleiades_path)
 print("Read", len(pleiades_place_list), "rows from", pleiades_filename)
 
 # Filter for settlements and convert to common form
-PleiadesSettlement = namedtuple("PleiadesSettlement", "title latitude longitude elevation")
+PleiadesSettlement = namedtuple("PleiadesSettlement", "title latitude longitude elevation pleiades_id")
 pleiades_settlement_list = []
 for place in pleiades_place_list:
     if "settlement" in place.feature_types:
-        settlement = PleiadesSettlement(place.title, place.repr_lat, place.repr_long, "0")
+        settlement = PleiadesSettlement(place.title, place.repr_lat, place.repr_long, "0", place.id)
         pleiades_settlement_list.append(settlement)
 
 print("Found", len(pleiades_settlement_list), "settlements")
