@@ -8162,6 +8162,61 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "24.7929945581",
+                    "35.059257121"
+                ]
+            },
+            "properties": {
+                "identifier": "0e1482fba57a9d50a77eb1c4d781a40ac2b58f96",
+                "city_base_id": "Agia Triada",
+                "latitude": "35.059257121",
+                "longitude": "24.7929945581",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1900",
+                        "endDate": "-1400",
+                        "preferredName": "Agia Triada",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1050",
+                        "endDate": "-150",
+                        "preferredName": "Agia Triada",
+                        "size": "4",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Agia Triada",
+                        "language": "ModernGreek"
+                    },
+                    {
+                        "name": "Ayia Triada",
+                        "language": "ModernGreek"
+                    },
+                    {
+                        "name": "Hagia Triada",
+                        "language": "ModernGreek"
+                    }
+                ],
+                "mapPoint": [
+                    152704724.66613635,
+                    106272742.11111124
+                ],
+                "wikipediaArticleName": "Hagia_Triada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "25.282439",
                     "35.080331"
                 ]
@@ -8257,6 +8312,40 @@
                     105855712.29834363
                 ],
                 "wikipediaArticleName": "Chania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "25.6091639",
+                    "35.0067539"
+                ]
+            },
+            "properties": {
+                "identifier": "b91d0501bc9dfcedc62808b5e86d81da662150ea",
+                "city_base_id": "Fournou Korifi",
+                "latitude": "35.0067539",
+                "longitude": "25.6091639",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1900",
+                        "endDate": "-1400",
+                        "preferredName": "Fournou Korifi",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [],
+                "mapPoint": [
+                    153313304.63687566,
+                    106320553.80382884
+                ],
+                "wikipediaArticleName": "Fournou Korifi"
             }
         },
         {
@@ -8585,16 +8674,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "25.163056",
-                    "35.298056"
+                    "25.1614216919",
+                    "35.2986516427"
                 ]
             },
             "properties": {
                 "identifier": "eb2ed2dc1bebaa926c9ed2fb5867c4e1de3f369f",
                 "city_base_id": "Knossos",
-                "latitude": "35.298056",
-                "longitude": "25.163056",
-                "elevation": "96",
+                "latitude": "35.2986516427",
+                "longitude": "25.1614216919",
+                "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
                     {
@@ -8641,8 +8730,8 @@
                     }
                 ],
                 "mapPoint": [
-                    152980662.47698206,
-                    106054892.32585411
+                    152979443.84853742,
+                    106054348.13531697
                 ],
                 "wikipediaArticleName": "Knossos"
             }
@@ -8919,7 +9008,7 @@
                         "endDate": "-1400",
                         "preferredName": "Phaistos",
                         "size": "2",
-                        "tagPosition": "3",
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     },
                     {
@@ -8927,7 +9016,7 @@
                         "endDate": "250",
                         "preferredName": "Phaistos",
                         "size": "4",
-                        "tagPosition": "3",
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     }
                 ],
@@ -28001,7 +28090,7 @@
                         "endDate": "1350",
                         "preferredName": "Lixus",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
@@ -28252,7 +28341,7 @@
                         "endDate": "1470",
                         "preferredName": "Tingis",
                         "size": "3",
-                        "tagPosition": "2",
+                        "tagPosition": "6",
                         "calcTagPosition": 0
                     },
                     {
@@ -28260,7 +28349,7 @@
                         "endDate": "2100",
                         "preferredName": "Tangier",
                         "size": "3",
-                        "tagPosition": "2",
+                        "tagPosition": "6",
                         "calcTagPosition": 0
                     }
                 ],

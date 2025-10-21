@@ -27,7 +27,7 @@ Icosium	-250	68	Icosium	4	0
 Icosium	69	650	Icosium	3	0
 Leptis Magna	-650	-147	Leptis	3	0
 Leptis Magna	-146	600	Leptis Magna	3	0
-Lixus	-650	1350	Lixus	3	0
+Lixus	-650	1350	Lixus	3	2
 Rabat	1150	1199	Rabat	3	3
 Rabat	1200	1608	Rabat	4	3
 Rabat	1609	2100	Rabat	3	3
@@ -35,8 +35,8 @@ Sabratha	-500	-146	Tsabratan	3	3
 Sabratha	-145	650	Sabrata	3	3
 Sala	-250	450	Sala	3	2
 Salé	1030	2100	Salé	3	2
-Tangier	-450	1470	Tingis	3	2
-Tangier	1471	2100	Tangier	3	2
+Tangier	-450	1470	Tingis	3	6
+Tangier	1471	2100	Tangier	3	6
 Tripoli	-650	-146	Oyat	3	0
 Tripoli	-145	849	Oea	3	0
 Tripoli	850	2100	Tripoli	3	0

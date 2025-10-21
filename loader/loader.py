@@ -118,6 +118,8 @@ for city_base in city_base_list:
     city_lookup = None
     if city_base.geonames_cc == "P":
         city_lookup = find_pleiades_settlement(city_base.geonames_name)
+        if city_lookup is None:
+            print("** No pleiades information found for", city_base.id, " (", city_base.region, ")")
     elif city_base.geonames_cc == "X":
         city_lookup = find_city_extra(city_base.id, city_base.region)
 

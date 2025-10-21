@@ -1,10 +1,10 @@
-Agia Triada	-1900	-1400	Agia Triada	4	0
-Agia Triada	-1399	-150	Agia Triada	4	0
+Agia Triada	-1900	-1400	Agia Triada	3	2
+Agia Triada	-1050	-150	Agia Triada	4	2
 Arkades	-1900	-1400	Arkades	4	1
 Chania	-1400	-600	Kydonia	3	1
 Chania	-599	960	Kydonia	2	1
 Chania	961	2100	Chania	3	1
-Fournu Korfi	-1900	-1400	Fournu Korfi	4	0
+Fournou Korifi	-1900	-1400	Fournou Korifi	4	1
 Galatas	-1900	-1400	Galatas	3	1
 Gortyn	-1400	-600	Gortyn	3	1
 Gortyn	-599	828	Gortyn	2	1
@@ -28,8 +28,8 @@ Malia	-1900	-1400	Malia	3	6
 Monastiraki	-1900	-1400	Monastiraki	3	7
 Olous	-1900	-1400	Olous	4	1
 Petras	-1900	-1400	Petras	3	6
-Phaistos	-1900	-1400	Phaistos	2	3
-Phaistos	-800	250	Phaistos	4	3
+Phaistos	-1900	-1400	Phaistos	2	1
+Phaistos	-800	250	Phaistos	4	1
 Phalasarna	-1900	-1400	Phalasarna	4	0
 Polyrrenia	-1900	-1400	Polyrrenia	4	1
 Praisos	-1900	-1400	Praisos	4	1

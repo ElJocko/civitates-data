@@ -1,14 +1,14 @@
-Agia Triada	Agia Triada	P	ancient	Agia Triada
+Agia Triada	Ag. Triada	P	ancient	Hagia_Triada
 Arkades	Arkades	P	ancient	Arcades_(Crete)
 Chania	Kydonia	P	ancient	Chania
-Fournu Korfi	Fournu Korfi	P	ancient	Fournu Korfi
+Fournou Korifi	Fournou Korifi	P	ancient	Fournou Korifi
 Galatas	Galatas	P	ancient	Galatas_Palace
 Gortyn	Gortyn	GR	ancient	Gortyn
 Gournia	Gournia	P	ancient	Gournia
 Heraklion	Heraklion	P	modern	Heraklion
 Ierapetra	Hierapytna	P	modern	Ierapetra
 Itanos	Itanos	P	ancient	Itanos
-Knossos	Knossos	P	ancient	Knossos
+Knossos	Bronze Age Settlement at Knossos	P	ancient	Knossos
 Lappa	Lappa	P	ancient	Lappa_(Crete)
 Lyktos	Lyktos	P	ancient	Lyktos
 Malia	Malia	GR	ancient	Malia,_Crete
