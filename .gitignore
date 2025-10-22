@@ -56,3 +56,4 @@ target/
 # PyCharm IDE
 .idea/
 
+data/pleiades-places-test.csv

@@ -6,6 +6,8 @@ Annaba	Annaba	Arabic
 Annaba	Hippo Regius	Latin
 Annaba	Hippo	Latin
 Annaba	Pwn	Punic
+Apollonia	Apollonia	Greek
+Apollonia	Sosuza	Greek
 Benghazi	Benghazi	Arabic
 Benghazi	Berenice	Latin
 Benghazi	Euesperides	Greek
@@ -19,8 +21,13 @@ Casablanca	Casablanca	Spanish
 Casablanca	Anfa	Berber
 Casablanca	Anfur	Latin
 Casablanca	ad-Dār al-Bayḍāʾ	Arabic
+Ceuta	Ceuta	Spanish
+Ceuta	Septum	Latin
+Ceuta	Sabtah	Arabic
+Ceuta	Abyla	Punic
 Cyrene	Cyrene	Latin
 Cyrene	Kyrene	Greek
+Cyrene	Claudiopolis	Latin
 Fez	Fez	English
 Fez	Fes	English
 Fez	Fās	Arabic
@@ -29,6 +36,7 @@ Ghadames	Ghadamis	Berber
 Ghadames	Cydamus	Latin
 Icosium	Icosium	Latin
 Icosium	Y Ksm	Punic
+Kairouan	Kairouan	Arabic
 Leptis Magna	Leptis Magna	Latin
 Leptis Magna	Leptis	Latin
 Leptis Magna	Léptis Megálē 	Greek
@@ -37,6 +45,7 @@ Leptis Magna	Lepcis Magna	Latin
 Leptis Magna	Neápolis 	Greek
 Lixus	Lixus	Latin
 Lixus	Lks	Punic
+Ptolemais	Ptolemais	Greek
 Rabat	Rabat	Arabic
 Rabat	Ribat al-Fath	Arabic
 Rabat	al-Mahdiyya	Arabic
@@ -48,16 +57,20 @@ Sala	Sala Colonia	Latin
 Sala	Shalat	Punic
 Sala	Chellah	Arabic
 Salé	Salé	Arabic
+Sijilmasa	Sijilmasa	Arabic
 Tangier	Tangier	English
 Tangier	Tng	Punic
 Ṭangier	Tingi	Berber
 Tangier	Tingis	Greek
 Tangier	Colonia Julia Tingi	Latin
 Tangier	Ṭanjah	Arabic
+Thagaste	Thagaste	Berber
+Thagaste	Tagaste	Berber
 Tripoli	Tripoli	English
 Tripoli	Tripolis	Greek
 Tripoli	Oyat	Berber
 Tripoli	Oea	Greek
 Tripoli	Ṭarābulus al-Gharb	Arabic
+Tunis	Tunis	Arabic
 Volubilis	Volubilis	Latin
 Volubilis	Walīlī	Berber
