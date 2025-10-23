@@ -1,3 +1,5 @@
+Herat	Herat	Arabic
+Herat	Harāiya	Persian
 Isfahan	Isfahan	Arabic
 Isfahan	Ispahan	Persian
 Isfahan	Spahān	Old Persian

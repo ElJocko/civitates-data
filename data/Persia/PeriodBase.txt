@@ -1,3 +1,8 @@
+Herat	-500	250	Herat	3	0
+Herat	251	1222	Herat	2	0
+Herat	1244	1379	Herat	3	0
+Herat	1380	1510	Herat	2	0
+Herat	1511	2100	Herat	3	0
 Isfahan	450	641	Spahān	3	0
 Isfahan	642	1199	Isfahan	2	0
 Isfahan	1200	1597	Isfahan	3	0

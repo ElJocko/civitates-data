@@ -1,0 +1,6 @@
+Bukhara	Bukhara	Persian
+Merv	Merv	Persian
+Merv	Alexandria	Greek
+Merv	Antiochia Margiana	Greek
+Samarkand	Samarkand	Persian
+Samarkand	Marakanda	Greek

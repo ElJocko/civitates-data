@@ -1,0 +1,9 @@
+Bukhara	-500	2100	Bukhara	2	2
+Merv	-500	1117	Merv	2	0
+Merv	1118	1221	Merv	1	0
+Merv	1222	1789	Merv	3	0
+Samarkand	-550	874	Samarkand	2	0
+Samarkand	875	1220	Samarkand	1	0
+Samarkand	1221	1369	Samarkand	2	0
+Samarkand	1370	1598	Samarkand	1	0
+Samarkand	1599	2100	Samarkand	3	0

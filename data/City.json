@@ -27238,6 +27238,81 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "62.189142",
+                    "34.3455665"
+                ]
+            },
+            "properties": {
+                "identifier": "0ea1c92fc9616f29d9e70d7a0eb560653da61c5f",
+                "city_base_id": "Herat",
+                "latitude": "34.3455665",
+                "longitude": "62.189142",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "250",
+                        "preferredName": "Herat",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "251",
+                        "endDate": "1222",
+                        "preferredName": "Herat",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1244",
+                        "endDate": "1379",
+                        "preferredName": "Herat",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1380",
+                        "endDate": "1510",
+                        "preferredName": "Herat",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1511",
+                        "endDate": "2100",
+                        "preferredName": "Herat",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Herat",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Har\u0101iya",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    180589313.25282988,
+                    106920060.00684507
+                ],
+                "wikipediaArticleName": "Herat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "51.67462",
                     "32.65246"
                 ]
@@ -29008,6 +29083,183 @@
                     107165932.5153859
                 ],
                 "wikipediaArticleName": "Volubilis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "64.4231326",
+                    "39.7675529"
+                ]
+            },
+            "properties": {
+                "identifier": "8d0a65d9b8a5660b1e19c211f58024798e4c1c6d",
+                "city_base_id": "Bukhara",
+                "latitude": "39.7675529",
+                "longitude": "64.4231326",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "2100",
+                        "preferredName": "Bukhara",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bukhara",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    182255097.37897074,
+                    101849945.08862437
+                ],
+                "wikipediaArticleName": "Bukhara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "62.1921217659",
+                    "37.6663910652"
+                ]
+            },
+            "properties": {
+                "identifier": "7206b47dad95199e6de73d54c902a2ab0f3a8388",
+                "city_base_id": "Merv",
+                "latitude": "37.6663910652",
+                "longitude": "62.1921217659",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "1117",
+                        "preferredName": "Merv",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1118",
+                        "endDate": "1221",
+                        "preferredName": "Merv",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1222",
+                        "endDate": "1789",
+                        "preferredName": "Merv",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Merv",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Alexandria",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Antiochia Margiana",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    180591535.1273247,
+                    103858211.93359451
+                ],
+                "wikipediaArticleName": "Merv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "66.947223",
+                    "39.656498"
+                ]
+            },
+            "properties": {
+                "identifier": "5b80d9b6d7978a7d829e9144a16f5cc68806341f",
+                "city_base_id": "Samarkand",
+                "latitude": "39.656498",
+                "longitude": "66.947223",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-550",
+                        "endDate": "874",
+                        "preferredName": "Samarkand",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "875",
+                        "endDate": "1220",
+                        "preferredName": "Samarkand",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1221",
+                        "endDate": "1369",
+                        "preferredName": "Samarkand",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1370",
+                        "endDate": "1598",
+                        "preferredName": "Samarkand",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1599",
+                        "endDate": "2100",
+                        "preferredName": "Samarkand",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Samarkand",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Marakanda",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    184137195.59427413,
+                    101957591.36847585
+                ],
+                "wikipediaArticleName": "Samarkand"
             }
         }
     ]

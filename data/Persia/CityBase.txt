@@ -1,3 +1,4 @@
+Herat	Alexandria Ariorum/Artacavan/Harey	P	modern	Herat
 Isfahan	Isfahan	IR	modern	Isfahan
 Nishapur	Nev-Shapur	P	modern	Nishapur
 Ray	Ray	X	modern	Ray,_Iran
