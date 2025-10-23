@@ -1,17 +1,17 @@
 Amathous	Amathous	P	ancient	Amathous
-Chytroi	Chytroi	P	ancient	Chytroi
-Famagusta	Famagusta	CY	modern	Famagusta
+Chytroi	Chyt(h)roi	P	ancient	Chytri
+Famagusta	Arsinoe?/Ammochostos?	P	modern	Famagusta
 Golgoi	Golgoi	P	ancient	Golgoi
 Idalion	Idalion	P	ancient	Idalion
-Karpasia	Karpasia	P	ancient	Karpasia
-Kyrenia	Kyrenia	CY	modern	Kyrenia
+Karpasia	Karpasia	P	ancient	Karpasia_(town)
+Kyrenia	Keryn(e)ia/Keraunia	P	modern	Kyrenia
 Kition	Kition	P	ancient	Kition
 Kourion	Kourion	P	ancient	Kourion
-Lapethos	Lapethos	P	ancient	Lapethos
-Marion	Marion	P	ancient	Marion
-Nicosia	Nicosia	CY	modern	Nicosia
-Paphos	Paphos	P	ancient	Paphos
-Salamis	Salamis	CY	ancient	Salamis,_Cyprus
-Soloi	Soloi	P	ancient	Soloi
+Lapethos	Lapethos/Lepethis Phoinikon	P	ancient	Lapethos
+Marion	Marion	P	ancient	Marion,_Cyprus
+Nicosia	Ledroi/Leuke Ousia	P	modern	Nicosia
+Paphos	(Palai)Paphos	P	ancient	Paphos
+Salamis	Salamis/Konstantia	P	ancient	Salamis,_Cyprus
+Soloi	Soloi/Aipeia?	P	ancient	Soloi
 Tamassos	Tamassos	P	ancient	Tamassos
 Tremithous	Tremithous	P	ancient	Tremetousia

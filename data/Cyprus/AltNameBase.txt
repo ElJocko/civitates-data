@@ -1,6 +1,5 @@
 Amathous	Amathous	Greek
 Amathous	Amathus	Greek
-Arsinoe	Arsinoe	Greek
 Chytroi	Chytroi	Greek
 Famagusta	Ammochostos	Greek
 Famagusta	Arsinoe	Greek
@@ -9,7 +8,9 @@ Famagusta	Gazimağusa	Turkish
 Golgoi	Golgoi	Greek
 Idalion	Idalion	Greek
 Karpasia	Karpasia	Greek
+Karpasia	Carpasium	Latin
 Kyrenia	Kyrenia	Greek
+Kyrenia	Kerynia	Greek
 Kyrenia	Kerýneia	ModernGreek
 Kyrenia	Girne	Turkish
 Kition	Citium	Latin
@@ -17,6 +18,7 @@ Kition	Kition	Greek
 Kourion	Kourion	Greek
 Lapethos	Lapethos	Greek
 Marion	Marion	Greek
+Marion	Arsinoe	Greek
 Nicosia	Ledra	Greek
 Nicosia	Lefkosia	ModernGreek
 Nicosia	Lefkousia	Greek

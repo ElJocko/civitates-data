@@ -1,5 +1,5 @@
 Acerenza	Acerenza	IT	modern	Acerenza
-Acquarossa	Acquarossa	IT	ancient	Acquarossa
+Acquarossa	Acquarossa	P	ancient	Acquarossa,_Italy
 Alessandria	Alessandria	IT	modern	Alessandria
 Anzio	Anzio	IT	modern	Anzio
 Ardea	Ardea	IT	modern	Ardea,_Lazio

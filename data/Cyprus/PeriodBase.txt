@@ -1,9 +1,11 @@
 Amathous	-750	1000	Amathous	4	0
+Chytroi	-600	600	Chytroi	4	0
 Famagusta	-300	1192	Arsinoe	4	1
 Famagusta	1193	2100	Famagusta	3	1
 Golgoi	-400	400	Golgoi	4	2
 Idalion	-1250	-300	Idalion	3	1
 Idalion	-299	400	Idalion	4	1
+Karpasia	-300	400	Karpasia	4	2
 Kition	-1250	342	Kition	3	0
 Kourion	-1000	370	Kourion	3	1
 Kourion	371	649	Kourion	4	1
@@ -12,6 +14,8 @@ Kyrenia	13	2100	Kyrenia	2	0
 Lapethos	-600	-26	Lapethos	4	4
 Lapethos	-25	250	Lapethos	3	4
 Lapethos	251	2100	Lapethos	4	4
+Marion	-500	-312	Marion	3	0
+Marion	-270	300	Arsinoe	4	0
 Nicosia	300	965	Leukousia	3	5
 Nicosia	966	2100	Nicosia	2	5
 Paphos	-400	300	Paphos	2	0
