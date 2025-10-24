@@ -15,6 +15,8 @@ Anazarbus	Justinopolis	Latin
 Anemurium	Anemurium	Greek
 Ankara	Ankara	Turkish
 Ankara	Ánkyra	Greek
+Antalya	Antalya	Turkish
+Antalya	Attalea	Greek
 Apamea Myrlea	Apamea Myrlea	Greek
 Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	Latin
 Apollonia ad Rhyndacum	Apollonia	Latin
@@ -31,6 +33,7 @@ Celaenae	Apamea ad Maeandrum	Greek
 Chalcedon	Kadıköy	Turkish
 Chalcedon	Chalcedon	Greek
 Cius	Cius	Greek
+Cius	Kios	Greek
 Cius	Prusias ad Mare	Latin
 Colophon	Colophon	Greek
 Cyzicus	Cyzicus	Greek
@@ -48,6 +51,7 @@ Ephesus	Ephesos	Greek
 Ephesus	Ephesus	English
 Ereğli	Ereğli	Turkish
 Ereğli	Heraclea Cybistra	Latin
+Euchaita	Euchaita	Greek
 Fethiye	Fethiye	Turkish
 Fethiye	Telmessos	Greek
 Fethiye	Anastasiopolis	Greek
@@ -103,6 +107,7 @@ Milas	Mylasa	Greek
 Miletus	Milet	Turkish
 Miletus	Miletus	Latin
 Miletus	Milētos	Greek
+Myra	Myra	Greek
 Nerik	Nerik	Hittite
 Nicopolis (Armenia)	Nicopolis	Greek
 Ordu	Ordu	Turkish
@@ -113,6 +118,7 @@ Palu	Eski Palu	Armenian
 Pergamon	Pergamon	Greek
 Pergamon	Pergamum	Greek
 Perge	Perge	Greek
+Perge	Perga	Greek
 Perge	Parha	Hittite
 Pessinus	Pessinus	Greek
 Pompeiopolis	Pompeiopolis	Greek

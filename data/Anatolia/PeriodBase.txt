@@ -18,6 +18,8 @@ Apamea Myrlea	-202	1084	Apamea	3	1
 Apollonia ad Rhyndacum	-200	1084	Apollonia	4	1
 Arsamosata	-240	-51	Arsamosata	3	1
 Arsamosata	-50	1234	Arsamosata	4	1
+Antalya	-150	1219	Attalea	3	3
+Antalya	1220	2100	Antalya	3	3
 Çankırı	-400	-50	Gangra	2	1
 Çankırı	-49	600	Germanicopolis	3	1
 Çankırı	601	1350	Germanicopolis	4	1
@@ -28,7 +30,7 @@ Celaenae	401	1200	Apamea	4	1
 Chalcedon	-685	1202	Chalcedon	3	1
 Chalcedon	1203	1350	Chalcedon	4	1
 Chalcedon	1351	2100	Kadıköy	4	1
-Cius	-600	1084	Cius	3	0
+Cius	-600	1084	Cius	3	2
 Colophon	-750	-250	Colophon	3	1
 Colophon	-249	500	Colophon	4	1
 Komana Pontika	-300	1100	Komana Pontika	4	0
@@ -45,6 +47,7 @@ Ephesus	-649	650	Ephesos	2	1
 Ephesus	651	1400	Ephesos	4	1
 Ereğli	500	1249	Heraclea Cybistra	3	1
 Ereğli	1250	2100	Ereğli	3	1
+Euchaita	400	1071	Euchaita	4	2
 Fethiye	-600	1000	Telmessos	4	1
 Gelibolu	-450	1354	Callipolis	4	2
 Gelibolu	1355	2100	Gelibolu	4	2
@@ -70,7 +73,7 @@ Issus	-350	700	Issus	4	3
 İznik	-71	368	Nicaea	1	5
 İznik	369	1331	Nicaea	2	5
 Iznik	1332	2100	İznik	3	5
-Karatepe	-900	-600	Azatiwataya	3	1
+Karatepe	-900	-600	Azatiwataya	3	5
 Kayseri	1074	2100	Kayseri	3	1
 Knidos	-400	600	Knidos	3	1
 Konya	-750	1084	Iconium	3	0
@@ -94,6 +97,7 @@ Milas	1290	2100	Milas	3	1
 Miletus	-1450	-499	Miletus	1	1
 Miletus	-498	1300	Miletus	2	1
 Miletus	1301	1400	Miletus	4	1
+Myra	-250	1200	Myra	4	0
 Nerik	-2000	-1200	Nerik	3	1
 Nicopolis (Armenia)	-63	498	Nicopolis	3	7
 Nicopolis (Armenia)	499	1200	Nicopolis	4	7
@@ -102,7 +106,7 @@ Ordu	1869	2100	Ordu	4	1
 Palu	-700	1918	Palu	4	1
 Pergamon	-350	620	Pergamon	2	1
 Pergamon	621	1400	Pergamon	3	1
-Perge	-650	800	Perge	3	3
+Perge	-650	800	Perge	3	0
 Pessinus	-400	715	Pessinus	3	3
 Pessinus	716	1100	Pessinus	4	3
 Pompeiopolis	-64	450	Pompeiopolis	3	1

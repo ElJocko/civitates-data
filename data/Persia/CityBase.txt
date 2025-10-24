@@ -2,5 +2,5 @@ Herat	Alexandria Ariorum/Artacavan/Harey	P	modern	Herat
 Isfahan	Isfahan	IR	modern	Isfahan
 Nishapur	Nev-Shapur	P	modern	Nishapur
 Ray	Ray	X	modern	Ray,_Iran
-Susa	Shusha(n)/Susa/Seleucia ad Eulaeum/Shush-i er-Kar	P	ancient	Susa
+Susa	Susa/Seleucia ad Eulaeum	P	ancient	Susa
 Tabriz	Tabriz	IR	modern	Tabriz

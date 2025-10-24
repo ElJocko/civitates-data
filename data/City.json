@@ -11000,6 +11000,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "30.699968",
+                    "36.8903095"
+                ]
+            },
+            "properties": {
+                "identifier": "66a37965c9e9d2667a119dbd098cdf34596e2397",
+                "city_base_id": "Antalya",
+                "latitude": "36.8903095",
+                "longitude": "30.699968",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-150",
+                        "endDate": "1219",
+                        "preferredName": "Attalea",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1220",
+                        "endDate": "2100",
+                        "preferredName": "Antalya",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Antalya",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Attalea",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    157109283.30351505,
+                    104585491.26205133
+                ],
+                "wikipediaArticleName": "Antalya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "33.6153",
                     "40.59995"
                 ]
@@ -11205,15 +11256,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "29.156389",
-                    "40.432468"
+                    "29.15639",
+                    "40.432469"
                 ]
             },
             "properties": {
                 "identifier": "716f48e188e6be9730bdd1704374e894562b77eb",
                 "city_base_id": "Cius",
-                "latitude": "40.432468",
-                "longitude": "29.156389",
+                "latitude": "40.432469",
+                "longitude": "29.15639",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -11222,7 +11273,7 @@
                         "endDate": "1084",
                         "preferredName": "Cius",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
@@ -11232,13 +11283,17 @@
                         "language": "Greek"
                     },
                     {
+                        "name": "Kios",
+                        "language": "Greek"
+                    },
+                    {
                         "name": "Prusias ad Mare",
                         "language": "Latin"
                     }
                 ],
                 "mapPoint": [
-                    155958307.37924552,
-                    101201769.4237658
+                    155958308.12489957,
+                    101201768.44415131
                 ],
                 "wikipediaArticleName": "Cius"
             }
@@ -11641,6 +11696,45 @@
                     104002244.01487456
                 ],
                 "wikipediaArticleName": "Ere\u011fli,_Konya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.2668707",
+                    "40.5703847"
+                ]
+            },
+            "properties": {
+                "identifier": "d1528cbee8e3b9d043e98482e011820641dc8dbf",
+                "city_base_id": "Euchaita",
+                "latitude": "40.5703847",
+                "longitude": "35.2668707",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "400",
+                        "endDate": "1071",
+                        "preferredName": "Euchaita",
+                        "size": "4",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Euchaita",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    160514612.77235427,
+                    101066525.36010587
+                ],
+                "wikipediaArticleName": "Euchaita"
             }
         },
         {
@@ -12215,7 +12309,7 @@
                         "endDate": "-600",
                         "preferredName": "Azatiwataya",
                         "size": "3",
-                        "tagPosition": "1",
+                        "tagPosition": "5",
                         "calcTagPosition": 0
                     }
                 ],
@@ -12273,6 +12367,45 @@
                     102846885.65527014
                 ],
                 "wikipediaArticleName": "Kayseri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "27.6993785",
+                    "36.7355973"
+                ]
+            },
+            "properties": {
+                "identifier": "14f54a3cd6bf1b3706100104db2ecbce3043506f",
+                "city_base_id": "Knidos",
+                "latitude": "36.7355973",
+                "longitude": "27.6993785",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-400",
+                        "endDate": "600",
+                        "preferredName": "Knidos",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Knidos",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    154871881.60712248,
+                    104729586.24002343
+                ],
+                "wikipediaArticleName": "Knidos"
             }
         },
         {
@@ -12842,6 +12975,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "29.9854502009",
+                    "36.2585589217"
+                ]
+            },
+            "properties": {
+                "identifier": "ba4cac65a774a7363d5154fcc687eaaf88f2b99e",
+                "city_base_id": "Myra",
+                "latitude": "36.2585589217",
+                "longitude": "29.9854502009",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-250",
+                        "endDate": "1200",
+                        "preferredName": "Myra",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Myra",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    156576500.21678856,
+                    105172070.89619188
+                ],
+                "wikipediaArticleName": "Myra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "35.42",
                     "41.207"
                 ]
@@ -13094,13 +13266,17 @@
                         "endDate": "800",
                         "preferredName": "Perge",
                         "size": "3",
-                        "tagPosition": "3",
+                        "tagPosition": "0",
                         "calcTagPosition": 0
                     }
                 ],
                 "altNames": [
                     {
                         "name": "Perge",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Perga",
                         "language": "Greek"
                     },
                     {
@@ -13344,15 +13520,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "36.678611",
-                    "37.103611"
+                    "36.678330176",
+                    "37.1031937144"
                 ]
             },
             "properties": {
                 "identifier": "3ea1afe9a7b1d3645a9068d7228fc5dc4a10ef28",
                 "city_base_id": "Sam\u02beal",
-                "latitude": "37.103611",
-                "longitude": "36.678611",
+                "latitude": "37.1031937144",
+                "longitude": "36.678330176",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -13400,8 +13576,8 @@
                     }
                 ],
                 "mapPoint": [
-                    161567282.63675448,
-                    104386347.89543207
+                    161567073.23920313,
+                    104386738.02950975
                 ],
                 "wikipediaArticleName": "Sam\u02beal"
             }
@@ -27531,6 +27707,69 @@
                     105780806.93952145
                 ],
                 "wikipediaArticleName": "Ray,_Iran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "48.2535370543",
+                    "32.1899344716"
+                ]
+            },
+            "properties": {
+                "identifier": "a5c5c465eb92157d2d5e10ebb51e4bc9291f6234",
+                "city_base_id": "Susa",
+                "latitude": "32.1899344716",
+                "longitude": "48.2535370543",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-3800",
+                        "endDate": "-2701",
+                        "preferredName": "Susa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-2700",
+                        "endDate": "641",
+                        "preferredName": "Susa",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "642",
+                        "endDate": "1217",
+                        "preferredName": "Susa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1218",
+                        "endDate": "1450",
+                        "preferredName": "Susa",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Susa",
+                        "language": "Elamite"
+                    }
+                ],
+                "mapPoint": [
+                    170198173.0632887,
+                    108842678.04057701
+                ],
+                "wikipediaArticleName": "Susa"
             }
         },
         {

@@ -9,10 +9,11 @@ Ankara	Ankara	TR	modern	Ankara
 Apamea Myrlea	Brylleion/Myrleia/Apamea/Col. Iulia Concordia	P	ancient	Apamea Myrlea
 Apollonia ad Rhyndacum	Apollonia ad Rhyndacum	P	ancient	Apollonia ad Rhyndacum
 Arsamosata	Arsamosata	P	ancient	Arsamosata
+Antalya	Attalea	P	modern	Antalya
 Çankırı	Khanjarah	TR	modern	Çankırı
 Celaenae	Apamea/Kelainai/Kibotos	P	ancient	Celaenae
 Chalcedon	Chalcedon	P	ancient	Chalcedon
-Cius	Cius	P	ancient	Cius
+Cius	Prusias ad Mare/Kios	P	ancient	Cius
 Colophon	Colophon	TR	ancient	Colophon_(city)
 Cyzicus	Cyzicus	P	ancient	Cyzicus
 Dardanus	Dardanos	P	ancient	Dardanus_(city)
@@ -21,6 +22,7 @@ Dorylaeum	Dorylaion	P	ancient	Dorylaeum
 Elaeus	Elaeus	TR	ancient	Elaeus
 Ephesus	Ephesus	TR	ancient	Ephesus
 Ereğli	Eregli	TR	modern	Ereğli,_Konya
+Euchaita	Euchaita	P	ancient	Euchaita
 Fethiye	Fethiye	TR	modern	Telmessos
 Gelibolu	Gelibolu	TR	modern	Gelibolu
 Gordion	Gordion/Vindia?	P	ancient	Gordion
@@ -31,9 +33,9 @@ Heraclea Pontica	Heraclea	P	ancient	Heraclea Pontica
 Issus	Issus/Nikopolis	P	ancient	Issus_(Cilicia)
 İzmit	Izmit	TR	modern	İzmit
 İznik	Iznik	TR	modern	İznik
-Karatepe	Karatepe	P	ancient	Karatepe
+Karatepe	Karatepe	X	ancient	Karatepe
 Kayseri	Kayseri	TR	modern	Kayseri
-Knidos	Cnidus	P	ancient	Knidos
+Knidos	Cnidus (Burgaz)	P	ancient	Knidos
 Komana Pontika	Comana Pontica/Hierocaesarea	P	ancient	Comana_Pontica
 Konya	Konya	TR	modern	Konya
 Kültepe	Kaneš	P	modern	Kültepe
@@ -44,6 +46,7 @@ Mazaka	Mazaka/Eusebeia/Caesarea	P	ancient	Caesarea_(Mazaca)
 Milas	Milas	TR	modern	Milas
 Miletus	Miletus	TR	ancient	Miletus
 Mersin	Mercin	TR	modern	Mersin
+Myra	Myra	P	ancient	Myra
 Nerik	Nerik	TR	ancient	Nerik
 Nicopolis (Armenia)	Nicopolis	X	ancient	Nicopolis_(Armenia)
 Ordu	Ordu	TR	modern	Ordu
@@ -54,7 +57,7 @@ Pessinus	Pessinous/Iustinianoupolis	P	ancient	Pessinus
 Pompeiopolis	Pompeiopolis/Sebaste	P	ancient	Pompeiopolis
 Prusias ad Hypium	Prusias ad Hypium/Kieros	P	ancient	Prusias_ad_Hypium
 Rhoiteion	Rhoiteion	TR	ancient	Rhoiteion
-Samʾal	Samʾal	P	ancient	Samʾal
+Samʾal	Sam'al	P	ancient	Samʾal
 Samsun	Samsun	TR	modern	Samsun
 Sapinuwa	Sapinuwa	P	ancient	Sapinuwa
 Sardis	Sardis	TR	ancient	Sardis
