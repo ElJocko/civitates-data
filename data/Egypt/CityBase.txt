@@ -1,6 +1,7 @@
 Abydos	Abydos/Ebot	P	ancient	Abydos,_Egypt
 al-Manshah	Al Manshah	EG	modern	Ptolemais_Hermiou
 Alexandria	Alexandria	EG	modern	Alexandria
+Aswan	Syene	P	modern	Aswan
 Bilbeis	Bilbays	EG	modern	Bilbeis
 Cairo	Cairo	EG	modern	Cairo
 Clysma	Clysma	P	ancient	Clysma

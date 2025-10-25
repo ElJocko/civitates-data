@@ -35,6 +35,10 @@ Ashdod	Azotus	Greek
 Baalbek	Baalbek	Unspecified
 Baalbek	Heliopolis	Greek
 Baalbek	Baʿlabak	Arabic
+Beersheba	Beersheba	English
+Beersheba	Be'er Sheba	Hebrew
+Beersheba	Berosaba	Latin
+Beersheba	Tel Be'er Sheva	Hebrew
 Beirut	Berytus	Latin
 Beirut	Beirut	English
 Beirut	Bayrūt	Arabic
@@ -74,6 +78,9 @@ Hama	Epiphaneia	Greek
 Hama	Emath	Greek
 Hazor	Hazor	Unspecified
 Hazor	Tel Hazor	Hebrew
+Hebron	Hebron	Hebrew
+Hebron	al-Khalīl	Arabic
+Hebron	Habra	Arabic
 Homs	Homs	Arabic
 Homs	Hims	Arabic
 Homs	Emesus	Latin
@@ -89,6 +96,9 @@ Jaffa	Joppa	Latin
 Jaffa	Yafah	Arabic
 Jerash	Jerash	Arabic
 Jerash	Gérasa	Greek
+Jericho	Jericho	English
+Jericho	Yəriḥo	Hebrew
+Jericho	Arīḥā	Arabic
 Jerusalem	Jerusalem	English
 Jerusalem	Yerushalayim	Hebrew
 Jerusalem	al-Quds	Arabic

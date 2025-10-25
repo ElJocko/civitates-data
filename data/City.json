@@ -17879,15 +17879,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "44.550556",
-                    "39.953889"
+                    "44.5751884575",
+                    "39.8818755331"
                 ]
             },
             "properties": {
                 "identifier": "9a09f09c86ef29ee1789fcbb56bdb860295ee9c3",
                 "city_base_id": "Artashat",
-                "latitude": "39.953889",
-                "longitude": "44.550556",
+                "latitude": "39.8818755331",
+                "longitude": "44.5751884575",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -17919,8 +17919,8 @@
                     }
                 ],
                 "mapPoint": [
-                    167437030.26364872,
-                    101668937.3248462
+                    167455397.5552082,
+                    101738949.83815433
                 ],
                 "wikipediaArticleName": "Artashat"
             }
@@ -18460,6 +18460,45 @@
                     99723604.4632195
                 ],
                 "wikipediaArticleName": "Ozurgeti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "41.6923225",
+                    "42.135867"
+                ]
+            },
+            "properties": {
+                "identifier": "93657540d6ea55fcd5d63e2f9ed2e75eb5b59f43",
+                "city_base_id": "Phasis",
+                "latitude": "42.135867",
+                "longitude": "41.6923225",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "700",
+                        "preferredName": "Phasis",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Phasis",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    165305776.89440712,
+                    99511342.62012431
+                ],
+                "wikipediaArticleName": "Phasis_(town)"
             }
         },
         {
@@ -22240,15 +22279,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "36.384722",
-                    "36.237778"
+                    "36.3838319203",
+                    "36.2380754487"
                 ]
             },
             "properties": {
                 "identifier": "40fea3410b64c38ed0df817d8a50f2e1ef888b66",
                 "city_base_id": "Alalakh",
-                "latitude": "36.237778",
-                "longitude": "36.384722",
+                "latitude": "36.2380754487",
+                "longitude": "36.3838319203",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -22268,8 +22307,8 @@
                     }
                 ],
                 "mapPoint": [
-                    161348143.11528677,
-                    105191284.88216394
+                    161347479.42375857,
+                    105191009.89790967
                 ],
                 "wikipediaArticleName": "Alalakh"
             }
@@ -22279,16 +22318,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "37.16117",
-                    "36.20124"
+                    "37.1628351411",
+                    "36.1994074125"
                 ]
             },
             "properties": {
                 "identifier": "95d5ebf003e9797d2cf77714c9a7658aacb5bedf",
                 "city_base_id": "Aleppo",
-                "latitude": "36.20124",
-                "longitude": "37.16117",
-                "elevation": "",
+                "latitude": "36.1994074125",
+                "longitude": "37.1628351411",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -22339,8 +22378,8 @@
                     }
                 ],
                 "mapPoint": [
-                    161927104.70678756,
-                    105225055.4416689
+                    161928346.32598335,
+                    105226748.81110866
                 ],
                 "wikipediaArticleName": "Aleppo"
             }
@@ -22847,6 +22886,57 @@
                     107226261.89226456
                 ],
                 "wikipediaArticleName": "Baalbek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.8407967874",
+                    "31.2451641596"
+                ]
+            },
+            "properties": {
+                "identifier": "35328222096c0c7763c872e9d24dfcc584ae7b18",
+                "city_base_id": "Beersheba",
+                "latitude": "31.2451641596",
+                "longitude": "34.8407967874",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-950",
+                        "endDate": "750",
+                        "preferredName": "Be'er Sheba",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Beersheba",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Be'er Sheba",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "Berosaba",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Tel Be'er Sheva",
+                        "language": "Hebrew"
+                    }
+                ],
+                "mapPoint": [
+                    160196909.03619182,
+                    109670851.53441654
+                ],
+                "wikipediaArticleName": "Beersheba"
             }
         },
         {
@@ -23566,15 +23656,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "35.566944",
-                    "33.016667"
+                    "35.566768588",
+                    "33.019181064"
                 ]
             },
             "properties": {
                 "identifier": "84580451055545d9389c5bda34afa9c83377df7a",
                 "city_base_id": "Hazor",
-                "latitude": "33.016667",
-                "longitude": "35.566944",
+                "latitude": "33.019181064",
+                "longitude": "35.566768588",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -23598,10 +23688,57 @@
                     }
                 ],
                 "mapPoint": [
-                    160738363.64212906,
-                    108110899.13744399
+                    160738232.84546182,
+                    108108663.45269233
                 ],
                 "wikipediaArticleName": "Tel_Hazor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.10218155",
+                    "31.52481315"
+                ]
+            },
+            "properties": {
+                "identifier": "8450bd8d39782f8b2ffdd1dcb5855a638c7a71f9",
+                "city_base_id": "Hebron",
+                "latitude": "31.52481315",
+                "longitude": "35.10218155",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-930",
+                        "endDate": "2100",
+                        "preferredName": "Hebron",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hebron",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "al-Khal\u012bl",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Habra",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    160391811.64158067,
+                    109426591.40685561
+                ],
+                "wikipediaArticleName": "Hebron"
             }
         },
         {
@@ -23841,6 +23978,85 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.4441417538",
+                    "31.8710168261"
+                ]
+            },
+            "properties": {
+                "identifier": "1dce88d34b1ae0690ab7cbab1b0389b75067aea3",
+                "city_base_id": "Jericho",
+                "latitude": "31.8710168261",
+                "longitude": "35.4441417538",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-3500",
+                        "endDate": "-1701",
+                        "preferredName": "Jericho",
+                        "size": "4",
+                        "tagPosition": "4",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1700",
+                        "endDate": "-1551",
+                        "preferredName": "Jericho",
+                        "size": "3",
+                        "tagPosition": "4",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1550",
+                        "endDate": "-901",
+                        "preferredName": "Jericho",
+                        "size": "4",
+                        "tagPosition": "4",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-900",
+                        "endDate": "-586",
+                        "preferredName": "Jericho",
+                        "size": "3",
+                        "tagPosition": "4",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-585",
+                        "endDate": "2100",
+                        "preferredName": "Jericho",
+                        "size": "4",
+                        "tagPosition": "4",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Jericho",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Y\u0259ri\u1e25o",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "Ar\u012b\u1e25\u0101",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    160646795.65058318,
+                    109123183.21311432
+                ],
+                "wikipediaArticleName": "Jericho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "35.21633",
                     "31.76904"
                 ]
@@ -23912,15 +24128,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "36.52",
-                    "34.5576"
+                    "36.5193778642",
+                    "34.5570749357"
                 ]
             },
             "properties": {
                 "identifier": "ab3ea6b546196612aa36bbae1c9f57b2dab3ff0d",
                 "city_base_id": "Kadesh",
-                "latitude": "34.5576",
-                "longitude": "36.52",
+                "latitude": "34.5570749357",
+                "longitude": "36.5193778642",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -23948,8 +24164,8 @@
                     }
                 ],
                 "mapPoint": [
-                    161449013.7031111,
-                    106728327.11298455
+                    161448549.80503565,
+                    106728802.50860162
                 ],
                 "wikipediaArticleName": "Kadesh_(Syria)"
             }
@@ -24607,15 +24823,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "35.782",
-                    "35.602"
+                    "35.7764238",
+                    "35.6078548"
                 ]
             },
             "properties": {
                 "identifier": "772fe0f92c7cb4517b0754a6b47f4e129c258736",
                 "city_base_id": "Ugarit",
-                "latitude": "35.602",
-                "longitude": "35.782",
+                "latitude": "35.6078548",
+                "longitude": "35.7764238",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -24643,8 +24859,8 @@
                     }
                 ],
                 "mapPoint": [
-                    160898721.0183111,
-                    105776680.22745731
+                    160894563.1022285,
+                    105771310.75255792
                 ],
                 "wikipediaArticleName": "Ugarit"
             }
@@ -26125,6 +26341,69 @@
                     109696597.16157979
                 ],
                 "wikipediaArticleName": "Alexandria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.901491",
+                    "24.0885745"
+                ]
+            },
+            "properties": {
+                "identifier": "aff039916b1ab94de309116f28441872c52024b5",
+                "city_base_id": "Aswan",
+                "latitude": "24.0885745",
+                "longitude": "32.901491",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-332",
+                        "preferredName": "Swenett",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-331",
+                        "endDate": "618",
+                        "preferredName": "Syene",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "619",
+                        "endDate": "2100",
+                        "preferredName": "Aswan",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aswan",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Syene",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Swenett",
+                        "language": "Egyptian"
+                    }
+                ],
+                "mapPoint": [
+                    158750857.8324025,
+                    115702186.50058097
+                ],
+                "wikipediaArticleName": "Aswan"
             }
         },
         {

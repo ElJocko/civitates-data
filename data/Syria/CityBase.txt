@@ -1,6 +1,6 @@
 Acre	`Akko	IL	modern	Acre,_Israel
-Alalakh	Alalakh	P	ancient	Alalakh
-Aleppo	Aleppo	SY	modern	Aleppo
+Alalakh	Alalaḫ	P	ancient	Alalakh
+Aleppo	Beroia	P	modern	Aleppo
 Amman	Amman	JO	modern	Amman
 Antakya	Antiochia/Theoupolis	P	modern	Antioch
 Apamea	Pella/Apamea	P	ancient	Apamea,_Syria
@@ -9,6 +9,7 @@ Arwad	Arwad	SY	modern	Arwad
 Ascalon	Ashqelon/Ascalon	P	ancient	Ascalon
 Ashdod	Ashdod/Azotos (Mesogeios)	P	ancient	Ashdod_(ancient_city)
 Baalbek	Baalbek	LB	modern	Baalbek
+Beersheba	Beer Sheva/Berosaba	P	ancient	Beersheba
 Beirut	Beirut	LB	modern	Beirut
 Bethlehem	Bethlehem	PS	modern	Bethlehem
 Bosra	Busra ash Sham	SY	modern	Bosra
@@ -21,13 +22,15 @@ Ekron	Ekron/Akkaron	P	ancient	Ekron
 Gaza	Gaza	P	ancient	History_of_Gaza
 Gadara	Gadara	P	ancient	Gadara
 Hama	Hama	SY	modern	Hama
-Hazor	Hazor	P	ancient	Tel_Hazor
+Hazor	Tel Hazor	P	ancient	Tel_Hazor
+Hebron	Hebron	P	modern	Hebron
 Homs	Homs	SY	modern	Homs
 Humayma	Auara	P	medieval	Humayma
 Jaffa	Ioppe	P	ancient	Jaffa
 Jerash	Jarash	JO	modern	Jerash
+Jericho	Jericho	P	modern	Jericho
 Jerusalem	Jerusalem	IL	modern	Jerusalem
-Kadesh	Kadesh	P	ancient	Kadesh_(Syria)
+Kadesh	Laodicea ad Libanum	P	ancient	Kadesh_(Syria)
 Latakia	Latakia	SY	modern	Laodicea_in_Syria
 Marash	Kahramanmaras	TR	modern	Kahramanmaraş
 Palmyra	Palmyra	P	ancient	Palmyra
@@ -40,4 +43,4 @@ Sidon	Sidon	LB	modern	Sidon
 Tiberias	Tiberias	IL	modern	Tiberias
 Tripoli	Tripoli	LB	modern	Tripoli,_Lebanon
 Tyre	Tyre	LB	modern	Tyre,_Lebanon
-Ugarit	Ugarit	P	ancient	Ugarit
+Ugarit	Leukos Limen	P	ancient	Ugarit

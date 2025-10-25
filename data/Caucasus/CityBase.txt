@@ -2,19 +2,19 @@ Akhaltsikhe	Akhalts'ikhe	GE	modern	Akhaltsikhe
 Ani	Ani	P	ancient	Ani
 Apsaros	Apsaros/Apsyrtos	P	ancient	Gonio_(fortress)
 Armavir	Armaouira	P	ancient	Armavir_(ancient_city)
-Artashat	Artashat	P	ancient	Artashat
+Artashat	Artaxata	P	ancient	Artashat
 Baku	Baku	AZ	modern	Baku
 Batumi	Batumi	GE	modern	Batumi
 Derbent	Derbent	RU	modern	Derbent
 Dvin	Doubios	P	ancient	Dvin_(ancient_city)
 Ganja	Ganja	AZ	modern	Ganja,_Azerbaijan
 Gori	Gori	GE	modern	Gori,_Georgia
-Gremi	Gremi	P	medieval	Gremi
+Gremi	Gremi	X	medieval	Gremi
 Kars	Kars	TR	modern	Kars
 Kutaisi	K'ut'aisi	GE	modern	Kutaisi
 Mtskheta	Meschistha	P	modern	Mtskheta
 Ozurgeti	Ozurget'i	GE	modern	Ozurgeti
-Phasis	Phasis	P	ancient	Phasis_(town)
+Phasis	Phasis (settlement)	P	ancient	Phasis_(town)
 Pitsunda	Bichvint'a	GE	modern	Pitsunda
 Poti	P'ot'i	GE	modern	Poti
 Rize	Rize	TR	modern	Rize

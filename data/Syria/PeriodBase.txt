@@ -29,6 +29,7 @@ Ascalon	-37	1270	Ascalon	3	2
 Ashdod	-1600	-331	Ashdod	3	2
 Ashdod	-330	500	Azotus	3	2
 Baalbek	-334	2100	Baalbek	3	1
+Beersheba	-950	750	Be'er Sheba	4	3
 Beirut	-1000	-140	Bēʾrūt	3	2
 Beirut	-139	-65	Laodicea in Phoenicia	3	2
 Beirut	-64	551	Berytus	3	2
@@ -60,6 +61,7 @@ Hama	-169	330	Epiphaneia	3	1
 Hama	331	638	Emath	3	1
 Hama	639	2100	Hama	3	1
 Hazor	-1700	-732	Hazor	4	1
+Hebron	-930	2100	Hebron	4	3
 Homs	-64	636	Emesa	3	1
 Homs	637	2100	Homs	3	1
 Humayma	-90	599	Hawara	4	1
@@ -68,6 +70,11 @@ Jaffa	-1440	635	Joppa	3	2
 Jaffa	636	1321	Jaffa	3	2
 Jerash	-100	749	Gérasa	3	1
 Jerash	750	1121	Jerash	4	1
+Jericho	-3500	-1701	Jericho	4	4
+Jericho	-1700	-1551	Jericho	3	4
+Jericho	-1550	-901	Jericho	4	4
+Jericho	-900	-586	Jericho	3	4
+Jericho	-585	2100	Jericho	4	4
 Jerusalem	-1700	-1001	Jerusalem	3	1
 Jerusalem	-1000	329	Jerusalem	2	1
 Jerusalem	330	2100	Jerusalem	1	1

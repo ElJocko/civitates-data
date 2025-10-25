@@ -4,6 +4,9 @@ al-Manshah	al-Manshah	Arabic
 al-Manshah	Ptolemais Hermiou	Greek
 Alexandria	Alexandria	English
 Alexandria	Alexándreia	Greek
+Aswan	Aswan	Arabic
+Aswan	Syene	Greek
+Aswan	Swenett	Egyptian
 Bilbeis	Bilbeis	Arabic
 Bilbeis	Phelbes	Greek
 Cairo	Cairo	English

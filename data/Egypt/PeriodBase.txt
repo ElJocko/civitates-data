@@ -3,6 +3,9 @@ al-Manshah	-312	200	Ptolemais Hermiou	3	0
 al-Manshah	700	2100	al-Manshah	4	0
 Alexandria	-331	640	Alexandria	1	2
 Alexandria	641	2100	Alexandria	2	2
+Aswan	-2000	-332	Swenett	3	0
+Aswan	-331	618	Syene	3	0
+Aswan	619	2100	Aswan	3	0
 Bilbeis	350	639	Phelbes	3	0
 Bilbeis	640	2100	Bilbeis	3	0
 Cairo	969	1516	Cairo	1	0
