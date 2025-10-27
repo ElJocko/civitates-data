@@ -1,0 +1,14 @@
+Jeddah	Jeddah	Arabic
+Mecca	Mecca	English
+Mecca	Mekkah	Arabic
+Mecca	Makkah al-Mukarramah	Arabic
+Mecca	Macoraba	Latin
+Medina	Medina	Arabic
+Medina	al-Madinah al-Munawwarah	Arabic
+Medina	Yathrib	Arabic
+Medina	Iathrippa	Latin
+Tabuk	Tabuk	Arabic
+Tabuk	Baclanaza	Latin
+Tabuk	Ostama	Greek
+Taif	Taif	Arabic
+Taif	aṭ-Ṭāʾif	Arabic

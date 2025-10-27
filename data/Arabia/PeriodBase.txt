@@ -1,0 +1,7 @@
+Jeddah	647	2100	Jeddah	3	2
+Mecca	450	549	Mecca	4	0
+Mecca	570	2100	Mecca	2	0
+Medina	300	621	Medina	3	0
+Medina	622	2100	Medina	2	0
+Tabuk	500	2100	Tabuk	3	0
+Taif	500	2100	Taif	3	1

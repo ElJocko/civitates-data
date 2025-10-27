@@ -29779,6 +29779,253 @@
                 ],
                 "wikipediaArticleName": "Samarkand"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.21917",
+                    "21.51694"
+                ]
+            },
+            "properties": {
+                "identifier": "e285c264641a0f2c6d4aea0ddaf96aca950977fb",
+                "city_base_id": "Jeddah",
+                "latitude": "21.51694",
+                "longitude": "39.21917",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "647",
+                        "endDate": "2100",
+                        "preferredName": "Jeddah",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Jeddah",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    163461660.73025423,
+                    117782545.56317613
+                ],
+                "wikipediaArticleName": "Jeddah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.815421",
+                    "21.426804"
+                ]
+            },
+            "properties": {
+                "identifier": "e5f919414bb545a2c113b19e08aa3042fe0fd7e7",
+                "city_base_id": "Mecca",
+                "latitude": "21.426804",
+                "longitude": "39.815421",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "450",
+                        "endDate": "549",
+                        "preferredName": "Mecca",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "570",
+                        "endDate": "2100",
+                        "preferredName": "Mecca",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Mecca",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Mekkah",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Makkah al-Mukarramah",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Macoraba",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    163906257.6999083,
+                    117854768.29171991
+                ],
+                "wikipediaArticleName": "Mecca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.6162643",
+                    "24.46547"
+                ]
+            },
+            "properties": {
+                "identifier": "53bd3674b90af70ef2184a99d6f9906d056ce3f9",
+                "city_base_id": "Medina",
+                "latitude": "24.46547",
+                "longitude": "39.6162643",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "300",
+                        "endDate": "621",
+                        "preferredName": "Medina",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "622",
+                        "endDate": "2100",
+                        "preferredName": "Medina",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Medina",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "al-Madinah al-Munawwarah",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Yathrib",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Iathrippa",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    163757755.70107508,
+                    115393888.82667862
+                ],
+                "wikipediaArticleName": "Medina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.5727525",
+                    "28.3880465"
+                ]
+            },
+            "properties": {
+                "identifier": "57afef17eaac90d36759d1c012563aae79f280cb",
+                "city_base_id": "Tabuk",
+                "latitude": "28.3880465",
+                "longitude": "36.5727525",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "500",
+                        "endDate": "2100",
+                        "preferredName": "Tabuk",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tabuk",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Baclanaza",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Ostama",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    161488348.81809068,
+                    112126746.71319269
+                ],
+                "wikipediaArticleName": "Tabuk,_Saudi_Arabia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "40.416",
+                    "21.27"
+                ]
+            },
+            "properties": {
+                "identifier": "7143218e4c91a344c2be98e7b1350e37029f5340",
+                "city_base_id": "Taif",
+                "latitude": "21.27",
+                "longitude": "40.416",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "500",
+                        "endDate": "2100",
+                        "preferredName": "Taif",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Taif",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "a\u1e6d-\u1e6c\u0101\u02beif",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    164354081.86026666,
+                    117980303.60333191
+                ],
+                "wikipediaArticleName": "Taif"
+            }
         }
     ]
 }

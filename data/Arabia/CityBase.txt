@@ -1,0 +1,5 @@
+Jeddah	Jeddah	SA	modern	Jeddah
+Mecca	Macoraba	P	modern	Mecca
+Medina	Iathrippa	P	modern	Medina
+Tabuk	Baclanaza	P	modern	Tabuk,_Saudi_Arabia
+Taif	aṭ-Ṭāʾif	P	modern	Taif
