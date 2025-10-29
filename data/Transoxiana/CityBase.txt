@@ -1,3 +1,4 @@
-Bukhara	Bukhara	P	modern	Bukhara
-Merv	Alexandria/Antiochia/Merv	P	ancient	Merv
-Samarkand	Marakanda	P	modern	Samarkand
+Balkh	961886	P	modern	Balkh
+Bukhara	762205391	P	modern	Bukhara
+Merv	961873	P	ancient	Merv
+Samarkand	59915	P	modern	Samarkand

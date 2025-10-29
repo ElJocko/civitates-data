@@ -41,6 +41,7 @@ Lixus	-650	1350	Lixus	3	2
 Ptolemais	-240	364	Ptolemais	3	2
 Ptolemais	365	550	Ptolemais	2	2
 Ptolemais	551	650	Ptolemais	3	2
+Ptolemais	651	1050	Barqah	3	2
 Rabat	1150	1199	Rabat	3	3
 Rabat	1200	1608	Rabat	4	3
 Rabat	1609	2100	Rabat	3	3

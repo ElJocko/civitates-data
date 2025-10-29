@@ -37,6 +37,7 @@ Ghadames	Cydamus	Latin
 Icosium	Icosium	Latin
 Icosium	Y Ksm	Punic
 Kairouan	Kairouan	Arabic
+Kairouan	al-Qayrawān	Arabic
 Leptis Magna	Leptis Magna	Latin
 Leptis Magna	Leptis	Latin
 Leptis Magna	Léptis Megálē 	Greek
@@ -46,6 +47,8 @@ Leptis Magna	Neápolis 	Greek
 Lixus	Lixus	Latin
 Lixus	Lks	Punic
 Ptolemais	Ptolemais	Greek
+Ptolemais	Barkes Limen	Latin
+Ptolemais	Barqah	Arabic
 Rabat	Rabat	Arabic
 Rabat	Ribat al-Fath	Arabic
 Rabat	al-Mahdiyya	Arabic

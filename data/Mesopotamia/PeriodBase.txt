@@ -12,6 +12,7 @@ Babylon	-539	-332	Babylon	0	3
 Babylon	-331	650	Babylon	2	3
 Baghdad	762	1258	Baghdad	1	0
 Baghdad	1259	2100	Baghdad	2	0
+Basra	636	2100	Basra	3	3
 Carchemish	-1800	-1325	Carchemish	3	1
 Carchemish	-1324	-717	Carchemish	2	1
 Carchemish	-716	-200	Carchemish	3	1
@@ -32,9 +33,11 @@ Harran	-538	-100	Kárrhai	3	0
 Harran	-99	640	Carrhae	3	0
 Harran	641	1271	Harran	3	0
 Harran	1272	1500	Harran	4	0
-Kalḫu	-1274	-912	Kalḫu	3	0
-Kalḫu	-911	-707	Kalḫu	1	0
-Kalḫu	-706	-600	Kalḫu	3	0
+Kalḫu	-1274	-912	Kalḫu	3	3
+Kalḫu	-911	-707	Kalḫu	1	3
+Kalḫu	-706	-600	Kalḫu	3	3
+Kufa	637	761	Kufa	2	3
+Kufa	762	2100	Kufa	3	3
 Manbij	-900	-331	Manbug	3	1
 Manbij	-330	350	Hierapolis	3	1
 Manbij	351	800	Hierapolis	4	1
@@ -55,6 +58,8 @@ Raqqa	-220	638	Kallinikos	3	0
 Raqqa	639	795	Raqqa	3	0
 Raqqa	796	809	Raqqa	2	0
 Raqqa	810	2100	Raqqa	3	0
+Samarra	836	891	Samarra	2	0
+Samarra	892	2100	Samarra	3	0
 Samsat	-245	1515	Samosata	3	0
 Samsat	1516	1988	Samsat	4	0
 Terqa	-2000	-600	Terqa	3	0

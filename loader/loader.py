@@ -22,12 +22,19 @@ def find_geonames_city(name, country_code):
             return city
     return None
 
-def find_pleiades_settlement(title):
-    for settlement in pleiades_settlement_list:
-        if settlement.title == title and settlement.latitude and settlement.longitude:
-            #print("  found", title, "in pleiades settlements")
-            return settlement
-    return None
+def find_pleiades_settlement(key):
+    if key.isnumeric():
+        for settlement in pleiades_settlement_list:
+            if settlement.pleiades_id == key and settlement.latitude and settlement.longitude:
+                # print("  found", title, "in pleiades settlements")
+                return settlement
+        return None
+    else:
+        for settlement in pleiades_settlement_list:
+            if settlement.title == key and settlement.latitude and settlement.longitude:
+                #print("  found", title, "in pleiades settlements")
+                return settlement
+        return None
 
 def find_city_extra(city_id, region):
     for city in city_extra_list:

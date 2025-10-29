@@ -1,3 +1,7 @@
+Balkh	-540	-330	Bakhlo	3	0
+Balkh	-329	-120	Bactra	2	0
+Balkh	-119	642	Bactra	3	0
+Balkh	643	2100	Balkh	3	0
 Bukhara	-500	2100	Bukhara	2	2
 Merv	-500	1117	Merv	2	0
 Merv	1118	1221	Merv	1	0

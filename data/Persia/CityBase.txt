@@ -1,6 +1,11 @@
-Herat	Alexandria Ariorum/Artacavan/Harey	P	modern	Herat
-Isfahan	Isfahan	IR	modern	Isfahan
-Nishapur	Nev-Shapur	P	modern	Nishapur
-Ray	Ray	X	modern	Ray,_Iran
-Susa	Susa/Seleucia ad Eulaeum	P	ancient	Susa
-Tabriz	Tabriz	IR	modern	Tabriz
+Hamadan	903021	P	modern	Hamadan
+Herat	961874	P	modern	Herat
+Isfahan	902990	P	modern	Isfahan
+Nahavand	903088	P	modern	Nahavand
+Nishapur	952092	P	modern	Nishapur
+Persepolis	922695	P	ancient	Persepolis
+Ray	903104	P	modern	Ray,_Iran
+Siraf	29762	P	modern	Siraf
+Susa	912936	P	ancient	Susa
+Tabriz	430344981	P	modern	Tabriz
+Tehran	419508714	P	modern	Tehran

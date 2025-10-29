@@ -4,6 +4,8 @@ Aššur	Ashur	English
 Babylon	Babylon	Latin
 Babylon	Bābilim	Babylonian
 Baghdad	Baghdad	Arabic
+Basra	Basra	Arabic
+Basra	al-Baṣrah	Arabic
 Carchemish	Carchemish	Unspecified
 Carchemish	Karkamış	Turkish
 Ctesiphon	Ctesiphon	Latin
@@ -23,6 +25,8 @@ Harran	Kárrhai	Greek
 Harran	Carrhae	Latin
 Kalḫu	Nimrud	English
 Kalḫu	Kalḫu	Assyrian
+Kufa	Kufa	Arabic
+Kufa	al-Kūfah	Arabic
 Manbij	Manbij	Arabic
 Manbij	Manbug	Aramean
 Manbij	Hierapolis	Greek
@@ -42,6 +46,7 @@ Raqqa	Nikephorion	Greek
 Raqqa	Kallinikos	Greek
 Raqqa	Callinicum	Latin
 Raqqa	Leontopolis	Latin
+Samarra	Samarra	Arabic
 Samsat	Samsat	Turkish
 Samsat	Samosata	Greek
 Samsat	Samîsad	Kurdish

@@ -1,3 +1,7 @@
+Balkh	Balkh	English
+Balkh	Zariaspa	Persian
+Balkh	Bakhlo	Bactrian
+Balkh	Bactra	Greek
 Bukhara	Bukhara	Persian
 Merv	Merv	Persian
 Merv	Alexandria	Greek

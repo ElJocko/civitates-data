@@ -1,15 +1,28 @@
+Hamadan	Hamadan	Persian
+Hamadan	Ecbatana	Greek
+Hamadan	Hagmatana	Unspecified
+Hamadan	Achmeta	Unspecified
+Hamadan	Epiphaneia	Greek
 Herat	Herat	Arabic
 Herat	Harāiya	Persian
 Isfahan	Isfahan	Arabic
 Isfahan	Ispahan	Persian
 Isfahan	Spahān	Old Persian
+Nahavand	Nahavand	Persian
+Nahavand	Laodicea	Greek
+Nahavand	Nihāwand	Arabic
 Nishapur	Nishapur	Persian
+Persepolis	Persepolis	Greek
+Persepolis	Pārsa	Persian
 Ray	Ray	Persian
 Ray	Ragā	Old Persian
 Ray	Europos	Greek
 Ray	Arsacia	Parthian
 Ray	Rhagae	Latin
 Ray	Shahr-e Rey	Persian
+Siraf	Siraf	Persian
+Siraf	Bandar Siraf	Persian
 Susa	Susa	Elamite
 Tabriz	Tabriz	Persian
 Tabriz	Tavrezh	Armenian
+Tehran	Tehran	Persian
