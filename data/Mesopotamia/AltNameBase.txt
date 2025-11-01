@@ -1,4 +1,7 @@
 Abadan	Abadan	Persian
+Ahvaz	Ahvaz	Persian
+Ahvaz	Hormazd-Ardašēr	Persian
+Ahvaz	Daravashir	Persian
 Aššur	Aššur	Assyrian
 Aššur	Ashur	English
 Babylon	Babylon	Latin
@@ -23,8 +26,12 @@ Harran	Harran	Unknown
 Harran	Huzirina	Assyrian
 Harran	Kárrhai	Greek
 Harran	Carrhae	Latin
+Hira	Hira	Arabic
+Hira	al-Hira	Arabic
+Hira	Hērt	Persian
 Kalḫu	Nimrud	English
 Kalḫu	Kalḫu	Assyrian
+Karbala	Karbala	Arabic
 Kufa	Kufa	Arabic
 Kufa	al-Kūfah	Arabic
 Manbij	Manbij	Arabic
@@ -57,6 +64,7 @@ Tuttal	Tell Bi'a	Arabic
 Urfa	Urfa	Turkish
 Urfa	Edessa	Greek
 Urfa	Şanlıurfa	Turkish
+Wasit	Wasit	Arabic
 Zenobia	Zenobia	Latin
 Zenobia	Halabiye	Arabic
 Zeugma	Zeugma	Greek

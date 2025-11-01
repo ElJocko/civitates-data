@@ -1,6 +1,7 @@
 Hamadan	903021	P	modern	Hamadan
 Herat	961874	P	modern	Herat
 Isfahan	902990	P	modern	Isfahan
+Istakhr	922662	P	ancient	Istakhr
 Nahavand	903088	P	modern	Nahavand
 Nishapur	952092	P	modern	Nishapur
 Persepolis	922695	P	ancient	Persepolis

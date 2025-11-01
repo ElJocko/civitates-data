@@ -24909,6 +24909,61 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "48.68438",
+                    "31.316712"
+                ]
+            },
+            "properties": {
+                "identifier": "9ca34248b55431d2cfe1e856053693502e4b012f",
+                "city_base_id": "Ahvaz",
+                "latitude": "31.316712",
+                "longitude": "48.68438",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "300",
+                        "endDate": "650",
+                        "preferredName": "Hormazd-Arda\u0161\u0113r",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Ahvaz",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ahvaz",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Hormazd-Arda\u0161\u0113r",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Daravashir",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    170519432.84827024,
+                    109608427.04515938
+                ],
+                "wikipediaArticleName": "Ahvaz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "43.2613012876",
                     "35.4555731618"
                 ]
@@ -25157,15 +25212,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "22.111673",
-                    "40.946148"
+                    "38.0149205197",
+                    "36.8294229533"
                 ]
             },
             "properties": {
                 "identifier": "5b4f080f7e5316c2c723d277f2e45728e18f7468",
                 "city_base_id": "Carchemish",
-                "latitude": "40.946148",
-                "longitude": "22.111673",
+                "latitude": "36.8294229533",
+                "longitude": "38.0149205197",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -25205,8 +25260,8 @@
                     }
                 ],
                 "mapPoint": [
-                    150705386.40188304,
-                    100696622.42421956
+                    162563707.23474842,
+                    104642234.19237283
                 ],
                 "wikipediaArticleName": "Carchemish"
             }
@@ -25574,6 +25629,69 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "44.449851",
+                    "31.883324"
+                ]
+            },
+            "properties": {
+                "identifier": "fe4f3bbc5eba8d0c3e1261ef8f09a8b15a25ddee",
+                "city_base_id": "Hira",
+                "latitude": "31.883324",
+                "longitude": "44.449851",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "300",
+                        "endDate": "632",
+                        "preferredName": "Hira",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "633",
+                        "endDate": "900",
+                        "preferredName": "Hira",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "901",
+                        "endDate": "1258",
+                        "preferredName": "Hira",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hira",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "al-Hira",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "H\u0113rt",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    167361939.17310295,
+                    109112376.46955411
+                ],
+                "wikipediaArticleName": "Al-Hira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "43.3315352658",
                     "36.0999751709"
                 ]
@@ -25633,6 +25751,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "43.5",
+                    "32.5"
+                ]
+            },
+            "properties": {
+                "identifier": "a5f68e947dabb682c688f78b3e7fb40d174d7cf0",
+                "city_base_id": "Karbala",
+                "latitude": "32.5",
+                "longitude": "43.5",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "680",
+                        "endDate": "2100",
+                        "preferredName": "Karbala",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Karbala",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    166653678.93333334,
+                    108569014.95422123
+                ],
+                "wikipediaArticleName": "Karbala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "44.340693",
                     "32.001972"
                 ]
@@ -25650,7 +25807,7 @@
                         "endDate": "761",
                         "preferredName": "Kufa",
                         "size": "2",
-                        "tagPosition": "3",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     },
                     {
@@ -25658,7 +25815,7 @@
                         "endDate": "2100",
                         "preferredName": "Kufa",
                         "size": "3",
-                        "tagPosition": "3",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
@@ -26342,6 +26499,45 @@
                     104344242.707589
                 ],
                 "wikipediaArticleName": "Edessa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "46.298",
+                    "32.188"
+                ]
+            },
+            "properties": {
+                "identifier": "9f03c02005c27c6dba664987e8ac0498f3c2ac64",
+                "city_base_id": "Wasit",
+                "latitude": "32.188",
+                "longitude": "46.298",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "702",
+                        "endDate": "1550",
+                        "preferredName": "Wasit",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Wasit",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    168740018.9496889,
+                    108844382.46430284
+                ],
+                "wikipediaArticleName": "Wasit"
             }
         },
         {
@@ -28159,6 +28355,57 @@
                     108435342.0774794
                 ],
                 "wikipediaArticleName": "Isfahan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "52.909444",
+                    "29.980833"
+                ]
+            },
+            "properties": {
+                "identifier": "63acba6950574d23c0e42437008355b7fa99add8",
+                "city_base_id": "Istakhr",
+                "latitude": "29.980833",
+                "longitude": "52.909444",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "643",
+                        "preferredName": "Istakhr",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "644",
+                        "endDate": "985",
+                        "preferredName": "Istakhr",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Istakhr",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Estakhr",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    173669868.90790686,
+                    110766316.4599544
+                ],
+                "wikipediaArticleName": "Istakhr"
             }
         },
         {
@@ -30210,6 +30457,65 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "60.7525",
+                    "41.69111"
+                ]
+            },
+            "properties": {
+                "identifier": "2df70650ec5dad33f10ad7b021bec15b2911d4d5",
+                "city_base_id": "Beruniy",
+                "latitude": "41.69111",
+                "longitude": "60.7525",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "300",
+                        "endDate": "995",
+                        "preferredName": "Kath",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "996",
+                        "endDate": "1956",
+                        "preferredName": "Kath",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1957",
+                        "endDate": "2100",
+                        "preferredName": "Beruniy",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Beruniy",
+                        "language": "Uzbek"
+                    },
+                    {
+                        "name": "Kath",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    179518075.3351111,
+                    99956998.88794112
+                ],
+                "wikipediaArticleName": "Beruniy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "64.4231326",
                     "39.7675529"
                 ]
@@ -30380,6 +30686,77 @@
                     101957591.36847585
                 ],
                 "wikipediaArticleName": "Samarkand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "59.15442",
+                    "42.32773"
+                ]
+            },
+            "properties": {
+                "identifier": "f2d19d0632180d1ed2844ed883ea9a4fe2e35d7f",
+                "city_base_id": "Urgench",
+                "latitude": "42.32773",
+                "longitude": "59.15442",
+                "elevation": "",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "300",
+                        "endDate": "1076",
+                        "preferredName": "Urgench",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1077",
+                        "endDate": "1221",
+                        "preferredName": "Urgench",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1222",
+                        "endDate": "1388",
+                        "preferredName": "Urgench",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1389",
+                        "endDate": "1550",
+                        "preferredName": "Urgench",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Urgench",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Konye-Urgench",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Gurg\u0101nj",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    178326460.51976535,
+                    99318126.14677441
+                ],
+                "wikipediaArticleName": "Konye-Urgench"
             }
         },
         {

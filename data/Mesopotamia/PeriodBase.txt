@@ -1,4 +1,6 @@
 Abadan	750	2100	Abadan	3	0
+Ahvaz	300	650	Hormazd-Ardašēr	3	0
+Ahvaz	651	2100	Ahvaz	3	0
 Aššur	-2300	-1800	Aššur	3	0
 Aššur	-1799	-1366	Aššur	2	0
 Aššur	-1365	-1076	Aššur	1	0
@@ -33,11 +35,15 @@ Harran	-538	-100	Kárrhai	3	0
 Harran	-99	640	Carrhae	3	0
 Harran	641	1271	Harran	3	0
 Harran	1272	1500	Harran	4	0
+Hira	300	632	Hira	2	3
+Hira	633	900	Hira	3	3
+Hira	901	1258	Hira	4	3
 Kalḫu	-1274	-912	Kalḫu	3	3
 Kalḫu	-911	-707	Kalḫu	1	3
 Kalḫu	-706	-600	Kalḫu	3	3
-Kufa	637	761	Kufa	2	3
-Kufa	762	2100	Kufa	3	3
+Karbala	680	2100	Karbala	3	3
+Kufa	637	761	Kufa	2	2
+Kufa	762	2100	Kufa	3	2
 Manbij	-900	-331	Manbug	3	1
 Manbij	-330	350	Hierapolis	3	1
 Manbij	351	800	Hierapolis	4	1
@@ -69,6 +75,7 @@ Urfa	-303	1097	Edessa	3	0
 Urfa	1098	1144	Edessa	2	0
 Urfa	1145	1260	Urfa	3	0
 Urfa	1261	1700	Urfa	4	0
+Wasit	702	1550	Wasit	3	0
 Zenobia	250	630	Zenobia	3	0
 Zeugma	-305	-65	Zeugma	3	0
 Zeugma	-64	650	Commagene	3	0

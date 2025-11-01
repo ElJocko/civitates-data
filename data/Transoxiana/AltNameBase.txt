@@ -2,9 +2,14 @@ Balkh	Balkh	English
 Balkh	Zariaspa	Persian
 Balkh	Bakhlo	Bactrian
 Balkh	Bactra	Greek
+Beruniy	Beruniy	Uzbek
+Beruniy	Kath	Persian
 Bukhara	Bukhara	Persian
 Merv	Merv	Persian
 Merv	Alexandria	Greek
 Merv	Antiochia Margiana	Greek
 Samarkand	Samarkand	Persian
 Samarkand	Marakanda	Greek
+Urgench	Urgench	Persian
+Urgench	Konye-Urgench	Persian
+Urgench	Gurgānj	Persian

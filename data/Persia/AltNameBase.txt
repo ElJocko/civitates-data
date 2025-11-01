@@ -8,6 +8,8 @@ Herat	Harāiya	Persian
 Isfahan	Isfahan	Arabic
 Isfahan	Ispahan	Persian
 Isfahan	Spahān	Old Persian
+Istakhr	Istakhr	Persian
+Istakhr	Estakhr	Persian
 Nahavand	Nahavand	Persian
 Nahavand	Laodicea	Greek
 Nahavand	Nihāwand	Arabic

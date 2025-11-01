@@ -2,6 +2,9 @@ Balkh	-540	-330	Bakhlo	3	0
 Balkh	-329	-120	Bactra	2	0
 Balkh	-119	642	Bactra	3	0
 Balkh	643	2100	Balkh	3	0
+Beruniy	300	995	Kath	2	0
+Beruniy	996	1956	Kath	3	0
+Beruniy	1957	2100	Beruniy	3	0
 Bukhara	-500	2100	Bukhara	2	2
 Merv	-500	1117	Merv	2	0
 Merv	1118	1221	Merv	1	0
@@ -11,3 +14,7 @@ Samarkand	875	1220	Samarkand	1	0
 Samarkand	1221	1369	Samarkand	2	0
 Samarkand	1370	1598	Samarkand	1	0
 Samarkand	1599	2100	Samarkand	3	0
+Urgench	300	1076	Urgench	3	0
+Urgench	1077	1221	Urgench	2	0
+Urgench	1222	1388	Urgench	3	0
+Urgench	1389	1550	Urgench	4	0
