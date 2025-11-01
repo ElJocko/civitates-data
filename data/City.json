@@ -17206,15 +17206,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "4.6278",
-                    "43.6767"
+                    "4.630799",
+                    "43.677616"
                 ]
             },
             "properties": {
                 "identifier": "03d1d88dd28510b56a2613d1f95e017d9b28c3d7",
                 "city_base_id": "Arles",
-                "latitude": "43.6767",
-                "longitude": "4.6278",
+                "latitude": "43.677616",
+                "longitude": "4.630799",
                 "elevation": "0",
                 "prefix": "modern",
                 "periods": [
@@ -17270,8 +17270,8 @@
                     }
                 ],
                 "mapPoint": [
-                    137668465.78688002,
-                    97942642.77876475
+                    137670702.0033593,
+                    97941698.39415699
                 ],
                 "wikipediaArticleName": "Arles"
             }
@@ -17281,30 +17281,164 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "6.14569",
-                    "46.20222"
+                    "6.633951",
+                    "44.896886"
+                ]
+            },
+            "properties": {
+                "identifier": "2ea7eef0309210e74e48f5b2dc823b45f0d5b321",
+                "city_base_id": "Brian\u00e7on",
+                "latitude": "44.896886",
+                "longitude": "6.633951",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "22",
+                        "endDate": "650",
+                        "preferredName": "Brigantium",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Brian\u00e7on",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Brian\u00e7on",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Brigantio",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Brigantium",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    139164360.39379627,
+                    96671591.81360367
+                ],
+                "wikipediaArticleName": "Brian\u00e7on"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.075897",
+                    "44.559876"
+                ]
+            },
+            "properties": {
+                "identifier": "1bdd563bab73d9b303a9dd2a89ba5bbe0c7fc34c",
+                "city_base_id": "Gap",
+                "latitude": "44.559876",
+                "longitude": "6.075897",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "22",
+                        "endDate": "400",
+                        "preferredName": "Vappincum",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "400",
+                        "endDate": "650",
+                        "preferredName": "Vappincum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "1249",
+                        "preferredName": "Vappum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1250",
+                        "endDate": "2100",
+                        "preferredName": "Gap",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gap",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Vappincum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Vappum",
+                        "language": "EarlyFrench"
+                    }
+                ],
+                "mapPoint": [
+                    138748245.17167786,
+                    97025302.28027856
+                ],
+                "wikipediaArticleName": "Gap,_Hautes-Alpes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.1437985",
+                    "46.2019615"
                 ]
             },
             "properties": {
                 "identifier": "467d962bd27c33fc1978c3f29cd2b38523c2f6c6",
                 "city_base_id": "Geneva",
-                "latitude": "46.20222",
-                "longitude": "6.14569",
-                "elevation": "",
+                "latitude": "46.2019615",
+                "longitude": "6.1437985",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
                         "startDate": "-121",
                         "endDate": "-59",
-                        "preferredName": "Geneva",
+                        "preferredName": "Genava",
                         "size": "4",
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
                     {
                         "startDate": "-58",
+                        "endDate": "650",
+                        "preferredName": "Genava",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
                         "endDate": "2100",
-                        "preferredName": "Geneva",
+                        "preferredName": "Gen\u00e8ve",
                         "size": "3",
                         "tagPosition": "0",
                         "calcTagPosition": 0
@@ -17318,11 +17452,15 @@
                     {
                         "name": "Gen\u00e8ve",
                         "language": "French"
+                    },
+                    {
+                        "name": "Genava",
+                        "language": "Latin"
                     }
                 ],
                 "mapPoint": [
-                    138800286.6044018,
-                    95281611.36522791
+                    138798876.1997767,
+                    95281889.86093912
                 ],
                 "wikipediaArticleName": "Geneva"
             }
@@ -17332,16 +17470,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "5.38107",
-                    "43.29695"
+                    "5.382499",
+                    "43.296854"
                 ]
             },
             "properties": {
                 "identifier": "7194f9749e79a1df6ae576f634b65ce3f343cfcd",
                 "city_base_id": "Marseille",
-                "latitude": "43.29695",
-                "longitude": "5.38107",
-                "elevation": "",
+                "latitude": "43.296854",
+                "longitude": "5.382499",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -17400,8 +17538,8 @@
                     }
                 ],
                 "mapPoint": [
-                    138230144.60893866,
-                    98332926.49567157
+                    138231210.14856818,
+                    98333024.84936842
                 ],
                 "wikipediaArticleName": "Marseille"
             }
@@ -17411,16 +17549,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "3",
-                    "43.18333"
+                    "3.004203",
+                    "43.1836165"
                 ]
             },
             "properties": {
                 "identifier": "b2ba2b73e8baa8704e89b7e8b57a97ad54798026",
                 "city_base_id": "Narbonne",
-                "latitude": "43.18333",
-                "longitude": "3",
-                "elevation": "",
+                "latitude": "43.1836165",
+                "longitude": "3.004203",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -17467,8 +17605,8 @@
                     }
                 ],
                 "mapPoint": [
-                    136454690.13333333,
-                    98449223.74362528
+                    136457824.11728212,
+                    98448930.76525208
                 ],
                 "wikipediaArticleName": "Narbonne"
             }
@@ -17478,16 +17616,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "7.26608",
-                    "43.70313"
+                    "7.266233",
+                    "43.703436"
                 ]
             },
             "properties": {
                 "identifier": "f5e61817ea871f10a2805cdf6924b88f8f7a645a",
                 "city_base_id": "Nice",
-                "latitude": "43.70313",
-                "longitude": "7.26608",
-                "elevation": "25",
+                "latitude": "43.703436",
+                "longitude": "7.266233",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -17530,8 +17668,8 @@
                     }
                 ],
                 "mapPoint": [
-                    139635709.93925688,
-                    97915387.98172472
+                    139635824.0243257,
+                    97915072.36208184
                 ],
                 "wikipediaArticleName": "Nice"
             }
@@ -17541,16 +17679,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "4.35",
-                    "43.83333"
+                    "4.3541755708",
+                    "43.8431497874"
                 ]
             },
             "properties": {
                 "identifier": "6893b37b31490c75ecf5ef1d54162619ed018e03",
                 "city_base_id": "N\u00eemes",
-                "latitude": "43.83333",
-                "longitude": "4.35",
-                "elevation": "",
+                "latitude": "43.8431497874",
+                "longitude": "4.3541755708",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -17581,8 +17719,8 @@
                     }
                 ],
                 "mapPoint": [
-                    137461323.09333333,
-                    97780949.1043427
+                    137464436.62458822,
+                    97770797.73421492
                 ],
                 "wikipediaArticleName": "N\u00eemes"
             }
@@ -17592,16 +17730,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "1.44367",
-                    "43.60426"
+                    "1.443246",
+                    "43.604175"
                 ]
             },
             "properties": {
                 "identifier": "b12c04463a85cbdcdac580803812edba6677ad2c",
                 "city_base_id": "Toulouse",
-                "latitude": "43.60426",
-                "longitude": "1.44367",
-                "elevation": "",
+                "latitude": "43.604175",
+                "longitude": "1.443246",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -17640,10 +17778,69 @@
                     }
                 ],
                 "mapPoint": [
-                    135294206.37434313,
-                    98017281.92364852
+                    135293890.21702826,
+                    98017369.45126516
                 ],
                 "wikipediaArticleName": "Toulouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8896965",
+                    "44.930719"
+                ]
+            },
+            "properties": {
+                "identifier": "9b1e5bd84f25ff8294e56393a70ee07f910701d2",
+                "city_base_id": "Valence",
+                "latitude": "44.930719",
+                "longitude": "4.8896965",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "533",
+                        "preferredName": "Valentia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "534",
+                        "endDate": "800",
+                        "preferredName": "Valentia",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "801",
+                        "endDate": "2100",
+                        "preferredName": "Valence",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Valence",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Valentia",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    137863749.97133085,
+                    96635967.9909984
+                ],
+                "wikipediaArticleName": "Valence,_Dr\u00f4me"
             }
         },
         {

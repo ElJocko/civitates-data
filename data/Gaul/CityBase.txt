@@ -1,7 +1,10 @@
-Arles	Arles	P	modern	Arles
-Geneva	Geneve	CH	modern	Geneva
-Marseille	Marseille	FR	modern	Marseille
-Narbonne	Narbonne	FR	modern	Narbonne
-Nice	Nice	FR	modern	Nice
-Nîmes	Nimes	FR	modern	Nîmes
-Toulouse	Toulouse	FR	modern	Toulouse
+Arles	148217	P	modern	Arles
+Briançon	167691	P	modern	Briançon
+Gap	167954	P	modern	Gap,_Hautes-Alpes
+Geneva	177528	P	modern	Geneva
+Marseille	148127	P	modern	Marseille
+Narbonne	246347	P	modern	Narbonne
+Nice	157894	P	modern	Nice
+Nîmes	148142	P	modern	Nîmes
+Toulouse	246694	P	modern	Toulouse
+Valence	167718	P	modern	Valence,_Drôme

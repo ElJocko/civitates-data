@@ -2,8 +2,15 @@ Arles	Arles	French
 Arles	Arelate	Latin
 Arles	Ariate civitas	Latin
 Arles	Arle	EarlyFrench
+Briançon	Briançon	French
+Briançon	Brigantio	Latin
+Briançon	Brigantium	Latin
+Gap	Gap	French
+Gap	Vappincum	Latin
+Gap	Vappum	EarlyFrench
 Geneva	Geneva	English
 Geneva	Genève	French
+Geneva	Genava	Latin
 Marseille	Marseille	French
 Marseille	Massalia	Greek
 Marseille	Massilia	Latin
@@ -18,3 +25,5 @@ Nîmes	Nîmes	French
 Nîmes	Nemausus	Celtic
 Toulouse	Toulouse	French
 Toulouse	Tolosa	Latin
+Valence	Valence	French
+Valence	Valentia	Latin

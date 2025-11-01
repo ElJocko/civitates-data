@@ -2,8 +2,15 @@ Arles	-123	299	Arelate	2	0
 Arles	300	734	Arelate	1	0
 Arles	735	932	Arles	2	0
 Arles	933	2100	Arles	3	0
-Geneva	-121	-59	Geneva	4	0
-Geneva	-58	2100	Geneva	3	0
+Briançon	22	650	Brigantium	4	0
+Briançon	651	2100	Briançon	4	0
+Gap	22	400	Vappincum	4	0
+Gap	400	650	Vappincum	3	0
+Gap	651	1249	Vappum	3	0
+Gap	1250	2100	Gap	3	0
+Geneva	-121	-59	Genava	4	0
+Geneva	-58	650	Genava	3	0
+Geneva	651	2100	Genève	3	0
 Marseille	-600	-401	Massalia	3	0
 Marseille	-400	-50	Massalia	2	0
 Marseille	-49	738	Massilia	2	0
@@ -20,3 +27,6 @@ Nîmes	753	2100	Nîmes	3	0
 Toulouse	-150	-51	Tolosa	4	0
 Toulouse	-50	780	Tolosa	3	0
 Toulouse	781	2100	Toulouse	3	0
+Valence	-50	533	Valentia	3	0
+Valence	534	800	Valentia	4	0
+Valence	801	2100	Valence	3	0
