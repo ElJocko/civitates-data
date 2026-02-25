@@ -32,8 +32,11 @@ Poti	Poti	Georgian
 Poti	Faş	Turkish
 Rize	Rize	Turkish
 Rize	Rhizos	Greek
+Rustavi	Rustavi	Georgian
+Samshvilde	Samshvilde	Georgian
 Shamakhi	Shamakhi	Persian
 Shamakhi	Şamaxı	Azerbaijani
+Shamakhi	Kamachia	Greek
 Shamkir	Shamkir	English
 Shamkir	Şəmkir	Azerbaijani
 Sukhumi	Sukhumi	English

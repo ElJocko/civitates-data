@@ -28,7 +28,6 @@ Lyktos	Lyctos	Greek
 Lyktos	Lyktos	Greek
 Lyktos	Lyttos	Greek
 Malia	Malia	ModernGreek
-Monastiraki	Monastiraki	ModernGreek
 Olous	Olous	Greek
 Petras	Petras	ModernGreek
 Phaistos	Festos	Greek
@@ -38,6 +37,7 @@ Phaistos	Phaistos	Greek
 Phalasarna	Phalasarna	Greek
 Polyrrenia	Polyrrenia	Greek
 Praisos	Praisos	Greek
+Pseira	Pseira	Greek
 Rethymno	Rethymno	ModernGreek
 Rethymno	Rhithymna	Greek
 Rethymno	Rhithymnia	Greek

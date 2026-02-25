@@ -106,6 +106,7 @@ Palma	1230	2100	Palma	3	1
 Pamplona	-200	-75	Iruña	3	1
 Pamplona	-74	900	Pompelo	3	1
 Pamplona	901	2100	Pamplona	3	1
+Ponferrada	928	2100	Ponferrada	4	3
 Porto	-400	1092	Portus Cale	3	1
 Porto	1093	2100	Porto	2	1
 Sagunto	-300	720	Saguntum	2	1
@@ -119,6 +120,7 @@ Santarém	751	1146	Shantarin	3	1
 Santarém	1147	2100	Santarém	3	1
 Santiago de Compostela	865	1150	Compostela	3	2
 Santiago de Compostela	1151	2100	Santiago de Compostela	2	2
+Sarria	1100	2100	Sarria	4	1
 Seville	-400	-150	Hisbaal	3	1
 Seville	-149	711	Hispalis	3	1
 Seville	712	1023	Ishbiliyah	3	1

@@ -87,6 +87,7 @@ Palma	Palma de Mallorca	Spanish
 Pamplona	Pamplona	Spanish
 Pamplona	Pompelo	Latin
 Pamplona	Iruña	Vascone
+Ponferrada	Ponferrada	Spanish
 Porto	Porto	Portuguese
 Porto	Oporto	Portuguese
 Porto	Portus Cale	Latin
@@ -100,6 +101,7 @@ Santarém	Scalabis	Latin
 Santarém	Shantarin	Arabic
 Santiago de Compostela	Santiago de Compostela	Spanish
 Santiago de Compostela	Compostela	Spanish
+Sarria	Sarria	Spanish
 Seville	Sevilla	Spanish
 Seville	Seville	English
 Seville	Hispalis	Latin

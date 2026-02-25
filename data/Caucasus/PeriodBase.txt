@@ -40,7 +40,10 @@ Pitsunda	-1501	2100	Bichvinta	4	3
 Poti	750	2100	Poti	4	3
 Rize	50	1000	Rhizos	4	0
 Rize	1001	2100	Rize	4	0
-Shamakhi	700	2100	Shamakhi	3	0
+Rustavi	50	1400	Rustavi	3	1
+Samshvilde	-200	1440	Samshvilde	3	3
+Samshvilde	1441	1700	Samshvilde	4	3
+Shamakhi	50	2100	Shamakhi	3	0
 Shamkir	450	2100	Shamkir	3	0
 Sukhumi	-500	49	Dioscurias	3	3
 Sukhumi	50	564	Sebastopolis	4	3

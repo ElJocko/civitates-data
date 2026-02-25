@@ -25,7 +25,6 @@ Lappa	-1900	-1400	Lappa	4	4
 Lyktos	-1400	-69	Lyktos	3	1
 Lyktos	-68	250	Lyktos	4	1
 Malia	-1900	-1400	Malia	3	6
-Monastiraki	-1900	-1400	Monastiraki	3	7
 Olous	-1900	-1400	Olous	4	1
 Petras	-1900	-1400	Petras	3	6
 Phaistos	-1900	-1400	Phaistos	2	1
@@ -33,7 +32,7 @@ Phaistos	-800	250	Phaistos	4	1
 Phalasarna	-1900	-1400	Phalasarna	4	0
 Polyrrenia	-1900	-1400	Polyrrenia	4	1
 Praisos	-1900	-1400	Praisos	4	1
-Pseira	-1900	-1400	Pseira	4	0
+Pseira	-1900	-1400	Pseira	4	6
 Pyrgos	-1900	-1400	Pyrgos	4	0
 Rethymno	-600	1204	Rhithymna	4	1
 Rethymno	1205	2100	Rethymno	3	1

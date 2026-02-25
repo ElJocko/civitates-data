@@ -32,6 +32,9 @@ Hira	Hērt	Persian
 Kalḫu	Nimrud	English
 Kalḫu	Kalḫu	Assyrian
 Karbala	Karbala	Arabic
+Kish	Kish	English
+Kish	Kiš	Sumerian
+Kish	Kiššatu	Akkadian
 Kufa	Kufa	Arabic
 Kufa	al-Kūfah	Arabic
 Manbij	Manbij	Arabic
@@ -44,6 +47,9 @@ Mosul	Mosul	Arabic
 Mosul	Mépsila	Greek
 Nineveh	Nineveh	Latin
 Nineveh	Ninua	Akkadian
+Nippur	Nippur	English
+Nippur	Nibru	Sumerian
+Nippur	Nibbur	Akkadian
 Nusaybin	Nusaybin	Turkish
 Nusaybin	Naṣibīna	Aramean
 Nusaybin	Antiochia Mygdonia	Greek
@@ -61,6 +67,9 @@ Terqa	Terqa	Unspecified
 Terqa	Tell Ashara	Arabic
 Tuttal	Tuttal	Akkadian
 Tuttal	Tell Bi'a	Arabic
+Ur	Ur	English
+Ur	Uri	Akkadian
+Ur	Urim	Akkadian
 Urfa	Urfa	Turkish
 Urfa	Edessa	Greek
 Urfa	Şanlıurfa	Turkish

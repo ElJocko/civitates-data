@@ -42,6 +42,8 @@ Kalḫu	-1274	-912	Kalḫu	3	3
 Kalḫu	-911	-707	Kalḫu	1	3
 Kalḫu	-706	-600	Kalḫu	3	3
 Karbala	680	2100	Karbala	3	3
+Kish	-2900	-900	Kish	3	0
+Kish	-899	-550	Kish	4	0
 Kufa	637	761	Kufa	2	2
 Kufa	762	2100	Kufa	3	2
 Manbij	-900	-331	Manbug	3	1
@@ -55,6 +57,7 @@ Nineveh	-700	-612	Nineveh	1	0
 Nineveh	-611	-306	Nineveh	4	0
 Nineveh	-305	641	Nineveh	3	0
 Nineveh	642	1200	Nineveh	4	0
+Nippur	-2750	250	Nippur	3	0
 Nusaybin	-901	-333	Naṣibīna	3	0
 Nusaybin	-332	-68	Antiochia Mygdonia	3	0
 Nusaybin	-67	1514	Nisibis	3	0
@@ -71,6 +74,9 @@ Samsat	1516	1988	Samsat	4	0
 Terqa	-2000	-600	Terqa	3	0
 Tuttal	-2000	-1500	Tuttal	3	0
 Tuttal	-1499	400	Tuttal	4	0
+Ur	-2600	-2113	Ur	3	0
+Ur	-2112	-2004	Ur	2	0
+Ur	-1940	-500	Ur	3	0
 Urfa	-303	1097	Edessa	3	0
 Urfa	1098	1144	Edessa	2	0
 Urfa	1145	1260	Urfa	3	0

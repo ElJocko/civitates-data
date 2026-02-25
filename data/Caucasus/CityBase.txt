@@ -18,7 +18,9 @@ Phasis	Phasis (settlement)	P	ancient	Phasis_(town)
 Pitsunda	Bichvint'a	GE	modern	Pitsunda
 Poti	P'ot'i	GE	modern	Poti
 Rize	Rize	TR	modern	Rize
-Shamakhi	Shamakhi	AZ	modern	Shamakhi
+Rustavi	Rust'avi	GE	modern	Rustavi
+Samshvilde	Samshvilde	P	medieval	Samshvilde
+Shamakhi	Shemakha	P	modern	Shamakhi
 Shamkir	Shamkhor	AZ	modern	Shamkir_(city)
 Sukhumi	Sokhumi	GE	modern	Sukhumi
 Tbilisi	Tbilisi	GE	modern	Tbilisi

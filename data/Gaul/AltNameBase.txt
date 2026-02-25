@@ -1,19 +1,81 @@
+Agen	Agen	French
+Agen	Aginnum	Latin
+Aix-en-Provence	Aix-en-Provence	French
+Aix-en-Provence	Aix	French
+Aix-en-Provence	Aquae Sextiae	Latin
+Alesia	Alesia	Latin
+Amiens	Amiens	French
+Amiens	Samarobriva	Latin
+Amiens	Samarobriva Ambianorum	Latin
+Argentomagus	Argentomagus	Latin
 Arles	Arles	French
 Arles	Arelate	Latin
 Arles	Ariate civitas	Latin
 Arles	Arle	EarlyFrench
+Augst	Augst	German
+Augst	Augusta Raurica	Latin
+Augst	Colonia Augusta Rauracorum	Latin
+Autun	Autun	French
+Autun	Augustodunum	Latin
+Bavay	Bavay	French
+Bavay	Bagacum	Latin
+Besançon	Besançon	French
+Besançon	Vesontio	Latin
+Besançon	Besontio	Latin
+Besançon	Bisanz	German
+Bibracte	Bibracte	Latin
+Bordeaux	Bordeaux	French
+Bordeaux	Burdigala	Celtic
+Bordeaux	Burdigalenses	Latin
+Bourges	Bourges	French
+Bourges	Avaricum	Latin
+Bourges	Biturigae	Latin
 Briançon	Briançon	French
 Briançon	Brigantio	Latin
 Briançon	Brigantium	Latin
+Châlons-en-Champagne	Châlons-en-Champagne	French
+Châlons-en-Champagne	Durocatalaunum	Latin
+Chalon-sur-Saône	Chalon-sur-Saône	French
+Chalon-sur-Saône	Cabilonnum	Latin
+Chalon-sur-Saône	Gabilunnum	Latin
+Clermont-Ferrand	Clermont-Ferrand	French
+Clermont-Ferrand	Clermont	French
+Clermont-Ferrand	Augustonemetum	Latin
+Cologne	Cologne	English
+Cologne	Ara Ubiorum	Latin
+Cologne	Colonia Claudia Ara Agrippinensium	Latin
+Cologne	Colonia Agrippina	Latin
+Cologne	Köln	German
+Fréjus	Fréjus	French
+Fréjus	Forum Iulli	Latin
 Gap	Gap	French
 Gap	Vappincum	Latin
 Gap	Vappum	EarlyFrench
 Geneva	Geneva	English
 Geneva	Genève	French
 Geneva	Genava	Latin
+Gergovia	Gergovia	Latin
+Langres	Langres	French
+Langres	Andematunnum	Latin
+Langres	Lingones	Latin
+Le Mans	Le Mans	French
+Le Mans	Subdinnum	Latin
+Le Mans	Ouindinon	Latin
+Le Mans	Cenomanus	Latin
+Limoges	Limoges	French
+Limoges	Augustoritum	Latin
+Limoges	Lemovices	Latin
+Lyon	Lyon	French
+Lyon	Lugdunum	Latin
+Mainz	Mainz	German
+Mainz	Mogontiacum	Latin
 Marseille	Marseille	French
 Marseille	Massalia	Greek
 Marseille	Massilia	Latin
+Metz	Metz	German
+Metz	Divodurum	Latin
+Metz	Divodurum Mediomatricorum	Latin
+Metz	Mettis	Latin
 Narbonne	Narbonne	French
 Narbonne	Colonia Narbo Martius	Latin
 Narbonne	Narbo	Latin
@@ -23,7 +85,44 @@ Nice	Níkaia	Greek
 Nice	Nicaea	Latin
 Nîmes	Nîmes	French
 Nîmes	Nemausus	Celtic
+Orléans	Orléans	French
+Orléans	Cenabum	Latin
+Orléans	Genabum	Latin
+Orléans	Civitas Aurelianorum	Latin
+Orléans	Aurelianum	EarlyFrench
+Paris	Paris	French
+Paris	Lutetia	Latin
+Paris	Lutetia Parisiorum	Latin
+Paris	Parisius	Latin
+Périgueux	Périgueux	French
+Périgueux	Vesunna	Celtic
+Périgueux	Petrucorii	Latin
+Poitiers	Poitiers	French
+Poitiers	Limonum	Latin
+Poiters	Pictavi	Latin
+Reims	Reims	French
+Reims	Durocortorum	Latin
+Rennes	Rennes	French
+Rennes	Condate Riedonum	Latin
+Rennes	Riedones	Celtic
+Rodez	Rodez	French
+Rodez	Segodunum	Latin
+Rodez	Civitas Rutenorum	Latin
+Rouen	Rouen	Latin
+Rouen	Rotomagus	Latin
+Saintes	Saintes	French
+Saintes	Mediolanum Santonum	Latin
+Strasbourg	Strasbourg	German
+Strasbourg	Argentorate	Latin
+Toul	Toul	French
+Toul	Tullum	Latin
+Toul	Tullum Leucorum	Latin
 Toulouse	Toulouse	French
 Toulouse	Tolosa	Latin
+Trier	Trier	German
+Trier	Augusta Treverorum	Latin
+Trier	Trèves	French
 Valence	Valence	French
 Valence	Valentia	Latin
+Vienne	Vienne	French
+Vienne	Vienna	Latin

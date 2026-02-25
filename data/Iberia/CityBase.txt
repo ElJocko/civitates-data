@@ -1,4 +1,4 @@
-Acci	Acci	P	ancient	Acci
+Acci	265765	P	ancient	Acci
 Almería	Almeria	ES	modern	Almería
 Antequera	Antequera	ES	modern	Antequera
 Astorga	Astorga	ES	modern	Astorga,_Spain
@@ -34,11 +34,13 @@ Murcia	Murcia	ES	modern	Murcia
 Oviedo	Oviedo	ES	modern	Oviedo
 Palma	Palma	ES	modern	Palma_de_Mallorca
 Pamplona	Pamplona	ES	modern	Pamplona
+Ponferrada	Ponferrada	ES	modern	Ponferrada
 Porto	Porto	PT	modern	Porto
 Sagunto	Sagunto	ES	modern	Sagunto
 Salamanca	Salamanca	ES	modern	Salamanca
 Santarém	Santarem	PT	modern	Santarém,_Portugal
 Santiago de Compostela	Santiago de Compostela	ES	modern	Santiago de Compostela
+Sarria	Sarria	ES	modern	Sarria
 Seville	Sevilla	ES	modern	Seville
 Tarazona	Tarazona	ES	modern	Tarazona
 Tarragona	Tarragona	ES	modern	Tarragona

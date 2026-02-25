@@ -8392,16 +8392,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "24.966667",
-                    "35"
+                    "24.946943",
+                    "35.062107"
                 ]
             },
             "properties": {
                 "identifier": "1119025745a8bdb15a3649cf5c61975a86ce15ea",
                 "city_base_id": "Gortyn",
-                "latitude": "35",
-                "longitude": "24.966667",
-                "elevation": "407",
+                "latitude": "35.062107",
+                "longitude": "24.946943",
+                "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
                     {
@@ -8436,8 +8436,8 @@
                     }
                 ],
                 "mapPoint": [
-                    152834224.22484764,
-                    106326701.96734133
+                    152819516.94447502,
+                    106270146.00935063
                 ],
                 "wikipediaArticleName": "Gortyn"
             }
@@ -8835,16 +8835,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "25.46262",
-                    "35.28367"
+                    "25.4924456557",
+                    "35.2932736955"
                 ]
             },
             "properties": {
                 "identifier": "5ce028e5d3036f21fcabcbd6a890e0e78bee6d97",
                 "city_base_id": "Malia",
-                "latitude": "35.28367",
-                "longitude": "25.46262",
-                "elevation": "",
+                "latitude": "35.2932736955",
+                "longitude": "25.4924456557",
+                "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
                     {
@@ -8863,49 +8863,10 @@
                     }
                 ],
                 "mapPoint": [
-                    153204033.58515203,
-                    106068034.43368393
+                    153226273.2059529,
+                    106059261.38533951
                 ],
                 "wikipediaArticleName": "Malia,_Crete"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "24.667451",
-                    "35.227959"
-                ]
-            },
-            "properties": {
-                "identifier": "1a07b537ddc19d17fbf6007117fd8a31b0c8dbea",
-                "city_base_id": "Monastiraki",
-                "latitude": "35.227959",
-                "longitude": "24.667451",
-                "elevation": "397",
-                "prefix": "ancient",
-                "periods": [
-                    {
-                        "startDate": "-1900",
-                        "endDate": "-1400",
-                        "preferredName": "Monastiraki",
-                        "size": "3",
-                        "tagPosition": "7",
-                        "calcTagPosition": 0
-                    }
-                ],
-                "altNames": [
-                    {
-                        "name": "Monastiraki",
-                        "language": "ModernGreek"
-                    }
-                ],
-                "mapPoint": [
-                    152611112.60428515,
-                    106118906.3434689
-                ],
-                "wikipediaArticleName": "Monastiraki,_Crete"
             }
         },
         {
@@ -9160,6 +9121,45 @@
                     106214382.54572983
                 ],
                 "wikipediaArticleName": "Praisos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "25.8621014593",
+                    "35.1895061641"
+                ]
+            },
+            "properties": {
+                "identifier": "83a8147363287b1781273e0ce4c23aedc848bc73",
+                "city_base_id": "Pseira",
+                "latitude": "35.1895061641",
+                "longitude": "25.8621014593",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1900",
+                        "endDate": "-1400",
+                        "preferredName": "Pseira",
+                        "size": "4",
+                        "tagPosition": "6",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pseira",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    153501908.55095962,
+                    106153998.76971193
+                ],
+                "wikipediaArticleName": "Pseira"
             }
         },
         {
@@ -10173,6 +10173,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "26.132979",
+                    "38.3722387"
+                ]
+            },
+            "properties": {
+                "identifier": "d38af3136e0f29615e9d20e8c9691b7bd1e5bd86",
+                "city_base_id": "Chios",
+                "latitude": "38.3722387",
+                "longitude": "26.132979",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-700",
+                        "endDate": "2100",
+                        "preferredName": "Chios",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Chios",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    153703889.48473173,
+                    103190119.2363659
+                ],
+                "wikipediaArticleName": "Chios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "23.8",
                     "38.4"
                 ]
@@ -10452,6 +10491,100 @@
                     102484359.63655138
                 ],
                 "wikipediaArticleName": "Mytilene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.227611",
+                    "36.443113"
+                ]
+            },
+            "properties": {
+                "identifier": "461dcf07a7f5f31d841ec1491433b5cbe702dcf8",
+                "city_base_id": "Rhodes",
+                "latitude": "36.443113",
+                "longitude": "28.227611",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-408",
+                        "endDate": "2100",
+                        "preferredName": "Rhodes",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Rhodes",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Rhodos",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "R\u00f3dos",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    155265760.3071545,
+                    105001207.77505814
+                ],
+                "wikipediaArticleName": "Rhodes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "20.6476276358",
+                    "38.250827553"
+                ]
+            },
+            "properties": {
+                "identifier": "f15885a44193614d2d9ce3e851cf23fb5f3cce29",
+                "city_base_id": "Samos",
+                "latitude": "38.250827553",
+                "longitude": "20.6476276358",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-700",
+                        "endDate": "-522",
+                        "preferredName": "Samos",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-521",
+                        "endDate": "1475",
+                        "preferredName": "Samos",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Samos",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    149613715.05481717,
+                    103305496.24067947
+                ],
+                "wikipediaArticleName": "Samos"
             }
         },
         {
@@ -15619,15 +15752,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "19.428611",
-                    "40.318889"
+                    "19.4285343348",
+                    "40.3188684954"
                 ]
             },
             "properties": {
                 "identifier": "f033a5cf0280eba9e1eb501413d08b2af7055eed",
                 "city_base_id": "Oricum",
-                "latitude": "40.318889",
-                "longitude": "19.428611",
+                "latitude": "40.3188684954",
+                "longitude": "19.4285343348",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -15667,8 +15800,8 @@
                     }
                 ],
                 "mapPoint": [
-                    148704750.37008783,
-                    101312939.27078682
+                    148704693.20437136,
+                    101312959.32355642
                 ],
                 "wikipediaArticleName": "Oricum"
             }
@@ -17206,6 +17339,253 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "0.62001",
+                    "44.204908"
+                ]
+            },
+            "properties": {
+                "identifier": "883ca2e0e6d6d0cff5a70975068266d711f1e758",
+                "city_base_id": "Agen",
+                "latitude": "44.204908",
+                "longitude": "0.62001",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "480",
+                        "preferredName": "Aginnum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "481",
+                        "endDate": "2100",
+                        "preferredName": "Agen",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Agen",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Aginnum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    134680040.964096,
+                    97395652.25564775
+                ],
+                "wikipediaArticleName": "Agen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.44541",
+                    "43.526232"
+                ]
+            },
+            "properties": {
+                "identifier": "6cabea114a932a14dffc00c7cb6c380bc801d164",
+                "city_base_id": "Aix-en-Provence",
+                "latitude": "43.526232",
+                "longitude": "5.44541",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-122",
+                        "endDate": "477",
+                        "preferredName": "Aquae Sextiae",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "478",
+                        "endDate": "2100",
+                        "preferredName": "Aix-en-Provence",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aix-en-Provence",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Aix",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Aquae Sextiae",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    138278119.99015823,
+                    98097578.23445682
+                ],
+                "wikipediaArticleName": "Aix-en-Provence"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.503884",
+                    "47.536622"
+                ]
+            },
+            "properties": {
+                "identifier": "56e4a5fffafa3f838fa7a421fc113350e964b156",
+                "city_base_id": "Alesia",
+                "latitude": "47.536622",
+                "longitude": "4.503884",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "100",
+                        "preferredName": "Alesia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Alesia",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    137576067.32030863,
+                    93826105.56557268
+                ],
+                "wikipediaArticleName": "Alesia_(city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.297948",
+                    "49.8936075"
+                ]
+            },
+            "properties": {
+                "identifier": "a8051a910553556947a9d6e598aa2d5cf6deb811",
+                "city_base_id": "Amiens",
+                "latitude": "49.8936075",
+                "longitude": "2.297948",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "99",
+                        "preferredName": "Samarobriva",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "100",
+                        "endDate": "700",
+                        "preferredName": "Samarobriva Ambianorum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "701",
+                        "endDate": "2100",
+                        "preferredName": "Amiens",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Amiens",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Samarobriva",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Samarobriva Ambianorum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    135931202.22012302,
+                    91161764.61602712
+                ],
+                "wikipediaArticleName": "Amiens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.51619572491",
+                    "46.5994751714"
+                ]
+            },
+            "properties": {
+                "identifier": "6b704246bbbfbc66e56a8a59e334e46231073b77",
+                "city_base_id": "Argentomagus",
+                "latitude": "46.5994751714",
+                "longitude": "1.51619572491",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "500",
+                        "preferredName": "Argentomagus",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Argentomagus",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    135348285.47444853,
+                    94852068.10255082
+                ],
+                "wikipediaArticleName": "Argentomagus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "4.630799",
                     "43.677616"
                 ]
@@ -17281,6 +17661,403 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "7.722118",
+                    "47.533241"
+                ]
+            },
+            "properties": {
+                "identifier": "e3390f0610d15e836b9a93eec27140e5ebed7105",
+                "city_base_id": "Augst",
+                "latitude": "47.533241",
+                "longitude": "7.722118",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-15",
+                        "endDate": "270",
+                        "preferredName": "Augusta Raurica",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "271",
+                        "endDate": "650",
+                        "preferredName": "Augusta Raurica",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Augst",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Augst",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Augusta Raurica",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Colonia Augusta Rauracorum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    139975756.51837724,
+                    93829839.68610421
+                ],
+                "wikipediaArticleName": "Augst"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.2991775",
+                    "46.94724"
+                ]
+            },
+            "properties": {
+                "identifier": "8624a0d10508e959ddb45efb61030bfcce92f0d5",
+                "city_base_id": "Autun",
+                "latitude": "46.94724",
+                "longitude": "4.2991775",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-30",
+                        "endDate": "500",
+                        "preferredName": "Augustodunum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "501",
+                        "endDate": "2100",
+                        "preferredName": "Autun",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Autun",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Augustodunum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    137423427.09065956,
+                    94473445.16408947
+                ],
+                "wikipediaArticleName": "Autun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "3.792415",
+                    "50.2977855"
+                ]
+            },
+            "properties": {
+                "identifier": "a060f0a872dcbb480aac461c5eeb490cde4c16aa",
+                "city_base_id": "Bavay",
+                "latitude": "50.2977855",
+                "longitude": "3.792415",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-15",
+                        "endDate": "450",
+                        "preferredName": "Bagacum",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "451",
+                        "endDate": "2100",
+                        "preferredName": "Bavay",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bavay",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Bagacum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    137045557.5829618,
+                    90691965.7609297
+                ],
+                "wikipediaArticleName": "Bavay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.027924",
+                    "47.2372405"
+                ]
+            },
+            "properties": {
+                "identifier": "78be27d70416b4832c310d4f969b99df71c16654",
+                "city_base_id": "Besan\u00e7on",
+                "latitude": "47.2372405",
+                "longitude": "6.027924",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "350",
+                        "preferredName": "Vesontio",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "351",
+                        "endDate": "700",
+                        "preferredName": "Besontio",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "701",
+                        "endDate": "2100",
+                        "preferredName": "Besan\u00e7on",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Besan\u00e7on",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Vesontio",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Besontio",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Bisanz",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    138712473.91020375,
+                    94155827.01602128
+                ],
+                "wikipediaArticleName": "Besan\u00e7on"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.03559232949",
+                    "46.925826089"
+                ]
+            },
+            "properties": {
+                "identifier": "23e2914e067b753148deca325813a01e5d64b73f",
+                "city_base_id": "Bibracte",
+                "latitude": "46.925826089",
+                "longitude": "4.03559232949",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "1",
+                        "preferredName": "Bibracte",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bibracte",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    137226883.7422132,
+                    94496830.02202219
+                ],
+                "wikipediaArticleName": "Bibracte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.576533",
+                    "44.837205"
+                ]
+            },
+            "properties": {
+                "identifier": "0309ab297984877b2351a90fb66d5a08f49d4de6",
+                "city_base_id": "Bordeaux",
+                "latitude": "44.837205",
+                "longitude": "-0.576533",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-150",
+                        "endDate": "292",
+                        "preferredName": "Burdigala",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "293",
+                        "endDate": "476",
+                        "preferredName": "Burdigala",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "477",
+                        "endDate": "2100",
+                        "preferredName": "Bordeaux",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bordeaux",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Burdigala",
+                        "language": "Celtic"
+                    },
+                    {
+                        "name": "Burdigalenses",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    133787833.8367943,
+                    96734380.74370849
+                ],
+                "wikipediaArticleName": "Bordeaux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.3978655",
+                    "47.082535"
+                ]
+            },
+            "properties": {
+                "identifier": "d98cbf2adf0fa537a17fb1d3f10b84bdc3c28c9b",
+                "city_base_id": "Bourges",
+                "latitude": "47.082535",
+                "longitude": "2.3978655",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-75",
+                        "endDate": "292",
+                        "preferredName": "Avaricum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "293",
+                        "endDate": "476",
+                        "preferredName": "Avaricum",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "477",
+                        "endDate": "2100",
+                        "preferredName": "Bourges",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bourges",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Avaricum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Biturigae",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    136005706.1081088,
+                    94325480.78672719
+                ],
+                "wikipediaArticleName": "Bourges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "6.633951",
                     "44.896886"
                 ]
@@ -17329,6 +18106,305 @@
                     96671591.81360367
                 ],
                 "wikipediaArticleName": "Brian\u00e7on"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.3606545",
+                    "48.9551605"
+                ]
+            },
+            "properties": {
+                "identifier": "5e346900c7d8ad1316e4567c791fa01d4690daab",
+                "city_base_id": "Ch\u00e2lons-en-Champagne",
+                "latitude": "48.9551605",
+                "longitude": "4.3606545",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-10",
+                        "endDate": "450",
+                        "preferredName": "Durocatalaunum",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "451",
+                        "endDate": "2100",
+                        "preferredName": "Ch\u00e2lons-en-Champagne",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ch\u00e2lons-en-Champagne",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Durocatalaunum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    137469267.66434988,
+                    92237611.87869619
+                ],
+                "wikipediaArticleName": "Ch\u00e2lons-en-Champagne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8560145",
+                    "46.783372"
+                ]
+            },
+            "properties": {
+                "identifier": "0879f9ba09c9313001844978b7af0fc147158738",
+                "city_base_id": "Chalon-sur-Sa\u00f4ne",
+                "latitude": "46.783372",
+                "longitude": "4.8560145",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "650",
+                        "preferredName": "Cabilonnum",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Chalon-sur-Sa\u00f4ne",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Chalon-sur-Sa\u00f4ne",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Cabilonnum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Gabilunnum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    137838634.85180587,
+                    94652158.27432683
+                ],
+                "wikipediaArticleName": "Chalon-sur-Sa\u00f4ne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "3.085891",
+                    "45.778689"
+                ]
+            },
+            "properties": {
+                "identifier": "73a37fbfc591814c04ca2cee8461c457eeb5e787",
+                "city_base_id": "Clermont-Ferrand",
+                "latitude": "45.778689",
+                "longitude": "3.085891",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "1",
+                        "preferredName": "Augustonemetum",
+                        "size": "4",
+                        "tagPosition": "7",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "2",
+                        "endDate": "847",
+                        "preferredName": "Augustonemetum",
+                        "size": "3",
+                        "tagPosition": "7",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "848",
+                        "endDate": "2100",
+                        "preferredName": "Clermont",
+                        "size": "3",
+                        "tagPosition": "7",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Clermont-Ferrand",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Clermont",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Augustonemetum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    136518735.10486472,
+                    95736159.1068275
+                ],
+                "wikipediaArticleName": "Clermont-Ferrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.9599065",
+                    "50.940662"
+                ]
+            },
+            "properties": {
+                "identifier": "33e321d4597d0e5a7eedbbbe6d9b5962387dbdb4",
+                "city_base_id": "Cologne",
+                "latitude": "50.940662",
+                "longitude": "6.9599065",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "9",
+                        "endDate": "49",
+                        "preferredName": "Colonia Agrippina",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "50",
+                        "endDate": "98",
+                        "preferredName": "Colonia Agrippina",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "99",
+                        "endDate": "476",
+                        "preferredName": "Colonia Agrippina",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "477",
+                        "endDate": "2100",
+                        "preferredName": "Cologne",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Cologne",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Ara Ubiorum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Colonia Claudia Ara Agrippinensium",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Colonia Agrippina",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "K\u00f6ln",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    139407410.4306802,
+                    89936417.78270902
+                ],
+                "wikipediaArticleName": "Cologne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.7360345",
+                    "43.4328295"
+                ]
+            },
+            "properties": {
+                "identifier": "86089edb5758b1af6484725264b88941f3fa82fa",
+                "city_base_id": "Fr\u00e9jus",
+                "latitude": "43.4328295",
+                "longitude": "6.7360345",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-49",
+                        "endDate": "599",
+                        "preferredName": "Forum Iulii",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "600",
+                        "endDate": "900",
+                        "preferredName": "Fr\u00e9jus",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Fr\u00e9jus",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Forum Iulli",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    139240479.3684423,
+                    98193559.53335583
+                ],
+                "wikipediaArticleName": "Fr\u00e9jus"
             }
         },
         {
@@ -17470,6 +18546,356 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "3.1241435",
+                    "45.718167"
+                ]
+            },
+            "properties": {
+                "identifier": "10f13ce35f2ed861e97ae6013aede65439a35c5d",
+                "city_base_id": "Gergovia",
+                "latitude": "45.718167",
+                "longitude": "3.1241435",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "1",
+                        "preferredName": "Gergovia",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gergovia",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    136547258.23619983,
+                    95800830.68408316
+                ],
+                "wikipediaArticleName": "Gergovia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.335214",
+                    "47.864221"
+                ]
+            },
+            "properties": {
+                "identifier": "730a9a6834739447156a5fced90870147e0c5f29",
+                "city_base_id": "Langres",
+                "latitude": "47.864221",
+                "longitude": "5.335214",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-30",
+                        "endDate": "650",
+                        "preferredName": "Andematunnum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Langres",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Langres",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Andematunnum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Lingones",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    138195951.89707664,
+                    93463142.58067729
+                ],
+                "wikipediaArticleName": "Langres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "0.198493333333",
+                    "48.0071603333"
+                ]
+            },
+            "properties": {
+                "identifier": "31012bc577c56b17d74d8d5e369c7939654ffa26",
+                "city_base_id": "Le Mans",
+                "latitude": "48.0071603333",
+                "longitude": "0.198493333333",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "650",
+                        "preferredName": "Subdinnum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Le Mans",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Le Mans",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Subdinnum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Ouindinon",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Cenomanus",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    134365735.356795,
+                    93304054.42047636
+                ],
+                "wikipediaArticleName": "Le Mans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.2643925",
+                    "45.8285425"
+                ]
+            },
+            "properties": {
+                "identifier": "b1a5f243d9f1e86e9c4690c35efba8d064d2014c",
+                "city_base_id": "Limoges",
+                "latitude": "45.8285425",
+                "longitude": "1.2643925",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-10",
+                        "endDate": "300",
+                        "preferredName": "Augustoritum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "301",
+                        "endDate": "999",
+                        "preferredName": "Lemovices",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1000",
+                        "endDate": "2100",
+                        "preferredName": "Limoges",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Limoges",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Augustoritum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Lemovices",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    135160527.38139024,
+                    95682834.75083975
+                ],
+                "wikipediaArticleName": "Limoges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8194815",
+                    "45.758866"
+                ]
+            },
+            "properties": {
+                "identifier": "31d11aa362d83f6bcd8f267564a3f057c1474983",
+                "city_base_id": "Lyon",
+                "latitude": "45.758866",
+                "longitude": "4.8194815",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-43",
+                        "endDate": "-23",
+                        "preferredName": "Lugdunum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-22",
+                        "endDate": "476",
+                        "preferredName": "Lugdunum",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "477",
+                        "endDate": "650",
+                        "preferredName": "Lugdunum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Lyon",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Lyon",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Lugdunum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    137811393.87260017,
+                    95757348.95733356
+                ],
+                "wikipediaArticleName": "Lyon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.273869",
+                    "49.998912"
+                ]
+            },
+            "properties": {
+                "identifier": "bb7a1a7df3d7dd2699ce1879e8165bf825412bc4",
+                "city_base_id": "Mainz",
+                "latitude": "49.998912",
+                "longitude": "8.273869",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-15",
+                        "endDate": "84",
+                        "preferredName": "Mogontiacum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "85",
+                        "endDate": "297",
+                        "preferredName": "Mogontiacum",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "298",
+                        "endDate": "460",
+                        "preferredName": "Mogontiacum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "461",
+                        "endDate": "2100",
+                        "preferredName": "Mainz",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Mainz",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Mogontiacum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    140387171.8830535,
+                    91039744.32574193
+                ],
+                "wikipediaArticleName": "Mainz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "5.382499",
                     "43.296854"
                 ]
@@ -17542,6 +18968,73 @@
                     98333024.84936842
                 ],
                 "wikipediaArticleName": "Marseille"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.1741555",
+                    "49.1181355"
+                ]
+            },
+            "properties": {
+                "identifier": "6be92ae1a2f605e5a1a59830c4aec8906a19a745",
+                "city_base_id": "Metz",
+                "latitude": "49.1181355",
+                "longitude": "6.1741555",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "450",
+                        "preferredName": "Divodurum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "450",
+                        "endDate": "980",
+                        "preferredName": "Mettis",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "981",
+                        "endDate": "2100",
+                        "preferredName": "Metz",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Metz",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Divodurum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Divodurum Mediomatricorum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Mettis",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    138821512.01960394,
+                    92052243.4581272
+                ],
+                "wikipediaArticleName": "Metz"
             }
         },
         {
@@ -17730,6 +19223,683 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "1.9068675",
+                    "47.9007265"
+                ]
+            },
+            "properties": {
+                "identifier": "0ebe68ca3f3e6a2c6624da187c2b0f01298c8744",
+                "city_base_id": "Orl\u00e9ans",
+                "latitude": "47.9007265",
+                "longitude": "1.9068675",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "272",
+                        "preferredName": "Cenabum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "273",
+                        "endDate": "799",
+                        "preferredName": "Civitas Aurelianorum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "800",
+                        "endDate": "1199",
+                        "preferredName": "Aurelianum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1200",
+                        "endDate": "2100",
+                        "preferredName": "Orl\u00e9ans",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Orl\u00e9ans",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Cenabum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Genabum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Civitas Aurelianorum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Aurelianum",
+                        "language": "EarlyFrench"
+                    }
+                ],
+                "mapPoint": [
+                    135639591.46359468,
+                    93422554.59712046
+                ],
+                "wikipediaArticleName": "Orl\u00e9ans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.346168",
+                    "48.8544055"
+                ]
+            },
+            "properties": {
+                "identifier": "f853f64373ce56011e84aa19652bea5071040d4c",
+                "city_base_id": "Paris",
+                "latitude": "48.8544055",
+                "longitude": "2.346168",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-52",
+                        "endDate": "507",
+                        "preferredName": "Lutetia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "508",
+                        "endDate": "986",
+                        "preferredName": "Paris",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "987",
+                        "endDate": "2100",
+                        "preferredName": "Paris",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Paris",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Lutetia",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Lutetia Parisiorum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Parisius",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    135967157.65814614,
+                    92351908.24007747
+                ],
+                "wikipediaArticleName": "Paris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "0.721699",
+                    "45.1840395"
+                ]
+            },
+            "properties": {
+                "identifier": "105ca6e1641448c3a9bc22def64150e265a94515",
+                "city_base_id": "P\u00e9rigueux",
+                "latitude": "45.1840395",
+                "longitude": "0.721699",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-25",
+                        "endDate": "299",
+                        "preferredName": "Vesunna",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "300",
+                        "endDate": "766",
+                        "preferredName": "Petrucorii",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "P\u00e9rigueux",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Vesunna",
+                        "language": "Celtic"
+                    },
+                    {
+                        "name": "Petrucorii",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    134755865.77822152,
+                    96368569.38475327
+                ],
+                "wikipediaArticleName": "P\u00e9rigueux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "0.3459905",
+                    "46.5836465"
+                ]
+            },
+            "properties": {
+                "identifier": "95632f429db4dbfca30892b175c5f07b5b8b69fa",
+                "city_base_id": "Poitiers",
+                "latitude": "46.5836465",
+                "longitude": "0.3459905",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "200",
+                        "preferredName": "Limonum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "201",
+                        "endDate": "700",
+                        "preferredName": "Pictavi",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "701",
+                        "endDate": "2100",
+                        "preferredName": "Poitiers",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Poitiers",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Limonum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    134475717.21566436,
+                    94869243.31655693
+                ],
+                "wikipediaArticleName": "Poitiers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.0332025",
+                    "49.2539525"
+                ]
+            },
+            "properties": {
+                "identifier": "20912ae9e7c99b10861a2295d6e8f6fd9a4ba023",
+                "city_base_id": "Reims",
+                "latitude": "49.2539525",
+                "longitude": "4.0332025",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "-23",
+                        "preferredName": "Durocortorum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-22",
+                        "endDate": "476",
+                        "preferredName": "Durocortorum",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "477",
+                        "endDate": "2100",
+                        "preferredName": "Reims",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Reims",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Durocortorum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    137225101.75618845,
+                    91897298.82493442
+                ],
+                "wikipediaArticleName": "Reims"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-1.6818915",
+                    "48.1112055"
+                ]
+            },
+            "properties": {
+                "identifier": "8cf2a976521348f4d90e2fa2f4ebef73b98142ec",
+                "city_base_id": "Rennes",
+                "latitude": "48.1112055",
+                "longitude": "-1.6818915",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "-40",
+                        "preferredName": "Riedones",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-39",
+                        "endDate": "650",
+                        "preferredName": "Condate Riedonum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Rennes",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Rennes",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Condate Riedonum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Riedones",
+                        "language": "Celtic"
+                    }
+                ],
+                "mapPoint": [
+                    132963618.80070826,
+                    93187977.10977769
+                ],
+                "wikipediaArticleName": "Rennes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.5728493",
+                    "44.3511408"
+                ]
+            },
+            "properties": {
+                "identifier": "a134154c08cce5f16a13ac30d0ffbf73c5750c0f",
+                "city_base_id": "Rodez",
+                "latitude": "44.3511408",
+                "longitude": "2.5728493",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "300",
+                        "preferredName": "Segodunum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "301",
+                        "endDate": "600",
+                        "preferredName": "Civitas Rutenorum",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "601",
+                        "endDate": "2100",
+                        "preferredName": "Rodez",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Rodez",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Segodunum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Civitas Rutenorum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    136136183.48629105,
+                    97243354.52955808
+                ],
+                "wikipediaArticleName": "Rodez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.096451",
+                    "49.440841"
+                ]
+            },
+            "properties": {
+                "identifier": "33d5f67cbdd21b28488c8aebccf8f6337e103441",
+                "city_base_id": "Rouen",
+                "latitude": "49.440841",
+                "longitude": "1.096451",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-10",
+                        "endDate": "295",
+                        "preferredName": "Rotomagus",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "296",
+                        "endDate": "486",
+                        "preferredName": "Rotomagus",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "487",
+                        "endDate": "2100",
+                        "preferredName": "Rouen",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Rouen",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Rotomagus",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    135035301.12268516,
+                    91683391.54610172
+                ],
+                "wikipediaArticleName": "Rouen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.633389",
+                    "45.744175"
+                ]
+            },
+            "properties": {
+                "identifier": "2e922f84d2773c391f8c1db3887bd643962fbc21",
+                "city_base_id": "Saintes",
+                "latitude": "45.744175",
+                "longitude": "-0.633389",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "-24",
+                        "preferredName": "Mediolanum Santonum",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-23",
+                        "endDate": "293",
+                        "preferredName": "Mediolanum Santonum",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "294",
+                        "endDate": "650",
+                        "preferredName": "Mediolanum Santonum",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Saintes",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Saintes",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Mediolanum Santonum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    133745438.93044339,
+                    95773048.08582512
+                ],
+                "wikipediaArticleName": "Saintes,_Charente-Maritime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.74296",
+                    "48.58342"
+                ]
+            },
+            "properties": {
+                "identifier": "de54e1f3982982c391032df0374d49e54a97d157",
+                "city_base_id": "Strasbourg",
+                "latitude": "48.58342",
+                "longitude": "7.74296",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-13",
+                        "endDate": "550",
+                        "preferredName": "Argentorate",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "551",
+                        "endDate": "2100",
+                        "preferredName": "Strasbourg",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Strasbourg",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Argentorate",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    139991297.43997157,
+                    92658177.27226095
+                ],
+                "wikipediaArticleName": "Strasbourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.8947805",
+                    "48.679364"
+                ]
+            },
+            "properties": {
+                "identifier": "90e65ba4191373e7b8966852a74beeacb999e1c8",
+                "city_base_id": "Toul",
+                "latitude": "48.679364",
+                "longitude": "5.8947805",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-10",
+                        "endDate": "650",
+                        "preferredName": "Tullum",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Toul",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Toul",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Tullum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Tullum Leucorum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    138613194.92093724,
+                    92549929.46383375
+                ],
+                "wikipediaArticleName": "Toul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "1.443246",
                     "43.604175"
                 ]
@@ -17789,6 +19959,77 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "6.64169291658",
+                    "49.752233873"
+                ]
+            },
+            "properties": {
+                "identifier": "43d04670c276d084447e2c642547822e701931d1",
+                "city_base_id": "Trier",
+                "latitude": "49.752233873",
+                "longitude": "6.64169291658",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-17",
+                        "endDate": "270",
+                        "preferredName": "Augusta Treverorum",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "271",
+                        "endDate": "401",
+                        "preferredName": "Augusta Treverorum",
+                        "size": "1",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "402",
+                        "endDate": "484",
+                        "preferredName": "Augusta Treverorum",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "485",
+                        "endDate": "2100",
+                        "preferredName": "Trier",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Trier",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Augusta Treverorum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Tr\u00e8ves",
+                        "language": "French"
+                    }
+                ],
+                "mapPoint": [
+                    139170133.1852059,
+                    91325161.62084268
+                ],
+                "wikipediaArticleName": "Trier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "4.8896965",
                     "44.930719"
                 ]
@@ -17841,6 +20082,73 @@
                     96635967.9909984
                 ],
                 "wikipediaArticleName": "Valence,_Dr\u00f4me"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.875982",
+                    "45.5245105"
+                ]
+            },
+            "properties": {
+                "identifier": "802f964651118d029148f65b5f0dc3827ec0b62f",
+                "city_base_id": "Vienne",
+                "latitude": "45.5245105",
+                "longitude": "4.875982",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-60",
+                        "endDate": "50",
+                        "preferredName": "Vienna",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "51",
+                        "endDate": "250",
+                        "preferredName": "Vienna",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "251",
+                        "endDate": "650",
+                        "preferredName": "Vienna",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Vienne",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Vienne",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Vienna",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    137853523.6989383,
+                    96007295.57238698
+                ],
+                "wikipediaArticleName": "Vienne,_Is\u00e8re"
             }
         },
         {
@@ -18860,20 +21168,106 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "48.64137",
-                    "40.63141"
+                    "44.99323",
+                    "41.54949"
+                ]
+            },
+            "properties": {
+                "identifier": "710c770257055d5f3d187f712a8489ff25b2589c",
+                "city_base_id": "Rustavi",
+                "latitude": "41.54949",
+                "longitude": "44.99323",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "1400",
+                        "preferredName": "Rustavi",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Rustavi",
+                        "language": "Georgian"
+                    }
+                ],
+                "mapPoint": [
+                    167767111.9221191,
+                    100098257.37915885
+                ],
+                "wikipediaArticleName": "Rustavi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "44.5040401917",
+                    "41.5066814922"
+                ]
+            },
+            "properties": {
+                "identifier": "dcd4691f5d8d528b99bc3b48374024e3acc4b0a2",
+                "city_base_id": "Samshvilde",
+                "latitude": "41.5066814922",
+                "longitude": "44.5040401917",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "1440",
+                        "preferredName": "Samshvilde",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1441",
+                        "endDate": "1700",
+                        "preferredName": "Samshvilde",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Samshvilde",
+                        "language": "Georgian"
+                    }
+                ],
+                "mapPoint": [
+                    167402345.5630592,
+                    100140895.67022246
+                ],
+                "wikipediaArticleName": "Samshvilde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "48.614926",
+                    "40.649684"
                 ]
             },
             "properties": {
                 "identifier": "beb79405195ed44a7547d0242d0ae876d9eb8cd4",
                 "city_base_id": "Shamakhi",
-                "latitude": "40.63141",
-                "longitude": "48.64137",
-                "elevation": "",
+                "latitude": "40.649684",
+                "longitude": "48.614926",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
-                        "startDate": "700",
+                        "startDate": "50",
                         "endDate": "2100",
                         "preferredName": "Shamakhi",
                         "size": "3",
@@ -18889,11 +21283,15 @@
                     {
                         "name": "\u015eamax\u0131",
                         "language": "Azerbaijani"
+                    },
+                    {
+                        "name": "Kamachia",
+                        "language": "Greek"
                     }
                 ],
                 "mapPoint": [
-                    170487362.26781866,
-                    101006593.71581319
+                    170467644.1922674,
+                    100988636.55688316
                 ],
                 "wikipediaArticleName": "Shamakhi"
             }
@@ -19406,16 +21804,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.199994",
-                    "37.351903"
+                    "-3.134636",
+                    "37.300309"
                 ]
             },
             "properties": {
                 "identifier": "1eca272cdfd6fd9ad9803ebf5a0a133d95ccae60",
                 "city_base_id": "Acci",
-                "latitude": "37.351903",
-                "longitude": "-3.199994",
-                "elevation": "972",
+                "latitude": "37.300309",
+                "longitude": "-3.134636",
+                "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
                     {
@@ -19442,8 +21840,8 @@
                     }
                 ],
                 "mapPoint": [
-                    131831639.53170204,
-                    104153828.85478693
+                    131880373.98873885,
+                    104202208.39297569
                 ],
                 "wikipediaArticleName": "Acci"
             }
@@ -21598,6 +23996,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-6.59619",
+                    "42.54664"
+                ]
+            },
+            "properties": {
+                "identifier": "5d2c670305c7ea2ce2c718de00b6912a3df6561c",
+                "city_base_id": "Ponferrada",
+                "latitude": "42.54664",
+                "longitude": "-6.59619",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "928",
+                        "endDate": "2100",
+                        "preferredName": "Ponferrada",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ponferrada",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    129299252.248576,
+                    99096950.66198781
+                ],
+                "wikipediaArticleName": "Ponferrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "-8.61099",
                     "41.14961"
                 ]
@@ -21882,6 +24319,45 @@
                     98758116.19591053
                 ],
                 "wikipediaArticleName": "Santiago de Compostela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.41431",
+                    "42.78148"
+                ]
+            },
+            "properties": {
+                "identifier": "3255644da13521df9103bafd0339e6fa07b53c2c",
+                "city_base_id": "Sarria",
+                "latitude": "42.78148",
+                "longitude": "-7.41431",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1100",
+                        "endDate": "2100",
+                        "preferredName": "Sarria",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sarria",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    128689217.76173511,
+                    98858816.24180469
+                ],
+                "wikipediaArticleName": "Sarria"
             }
         },
         {
@@ -25987,6 +28463,61 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "44.5931639333",
+                    "32.5460878"
+                ]
+            },
+            "properties": {
+                "identifier": "92a548a5319255d163696b0030b35bddf6506981",
+                "city_base_id": "Kish",
+                "latitude": "32.5460878",
+                "longitude": "44.5931639333",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2900",
+                        "endDate": "-900",
+                        "preferredName": "Kish",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-899",
+                        "endDate": "-550",
+                        "preferredName": "Kish",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kish",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Ki\u0161",
+                        "language": "Sumerian"
+                    },
+                    {
+                        "name": "Ki\u0161\u0161atu",
+                        "language": "Akkadian"
+                    }
+                ],
+                "mapPoint": [
+                    167468801.04143927,
+                    108528257.64436775
+                ],
+                "wikipediaArticleName": "Kish_(Sumer)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "44.340693",
                     "32.001972"
                 ]
@@ -26267,6 +28798,53 @@
                     105077500.14223444
                 ],
                 "wikipediaArticleName": "Nineveh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "45.2305635333",
+                    "32.1267626333"
+                ]
+            },
+            "properties": {
+                "identifier": "781114759044c0ab905c9e2679599707013618e1",
+                "city_base_id": "Nippur",
+                "latitude": "32.1267626333",
+                "longitude": "45.2305635333",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2750",
+                        "endDate": "250",
+                        "preferredName": "Nippur",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nippur",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Nibru",
+                        "language": "Sumerian"
+                    },
+                    {
+                        "name": "Nibbur",
+                        "language": "Akkadian"
+                    }
+                ],
+                "mapPoint": [
+                    167944080.63110656,
+                    108898318.76350588
+                ],
+                "wikipediaArticleName": "Nippur"
             }
         },
         {
@@ -26625,6 +29203,69 @@
                     105449402.76979801
                 ],
                 "wikipediaArticleName": "Tuttal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "46.1054198117",
+                    "30.9613179466"
+                ]
+            },
+            "properties": {
+                "identifier": "fb2d879f7d1f1cdfea3192d8d4e26d0929f1a51e",
+                "city_base_id": "Ur",
+                "latitude": "30.9613179466",
+                "longitude": "46.1054198117",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2600",
+                        "endDate": "-2113",
+                        "preferredName": "Ur",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-2112",
+                        "endDate": "-2004",
+                        "preferredName": "Ur",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1940",
+                        "endDate": "-500",
+                        "preferredName": "Ur",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ur",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Uri",
+                        "language": "Akkadian"
+                    },
+                    {
+                        "name": "Urim",
+                        "language": "Akkadian"
+                    }
+                ],
+                "mapPoint": [
+                    168596420.75340313,
+                    109918039.21380606
+                ],
+                "wikipediaArticleName": "Ur"
             }
         },
         {

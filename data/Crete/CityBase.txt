@@ -1,25 +1,24 @@
-Agia Triada	Ag. Triada	P	ancient	Hagia_Triada
-Arkades	Arkades	P	ancient	Arcades_(Crete)
-Chania	Kydonia	P	ancient	Chania
-Fournou Korifi	Fournou Korifi	P	ancient	Fournou Korifi
-Galatas	Galatas	P	ancient	Galatas_Palace
-Gortyn	Gortyn	GR	ancient	Gortyn
-Gournia	Gournia	P	ancient	Gournia
-Heraklion	Heraklion	P	modern	Heraklion
-Ierapetra	Hierapytna	P	modern	Ierapetra
-Itanos	Itanos	P	ancient	Itanos
-Knossos	Bronze Age Settlement at Knossos	P	ancient	Knossos
-Lappa	Lappa	P	ancient	Lappa_(Crete)
-Lyktos	Lyktos	P	ancient	Lyktos
-Malia	Malia	GR	ancient	Malia,_Crete
-Monastiraki	Monastiraki	GR	ancient	Monastiraki,_Crete
+Agia Triada	589672	P	ancient	Hagia_Triada
+Arkades	589710	P	ancient	Arcades_(Crete)
+Chania	589886	P	ancient	Chania
+Fournou Korifi	27461581	P	ancient	Fournou Korifi
+Galatas	586984740	P	ancient	Galatas_Palace
+Gortyn	589796	P	ancient	Gortyn
+Gournia	771100776	P	ancient	Gournia
+Heraklion	589802	P	modern	Heraklion
+Ierapetra	589807	P	modern	Ierapetra
+Itanos	589824	P	ancient	Itanos
+Knossos	781961476	P	ancient	Knossos
+Lappa	589894	P	ancient	Lappa_(Crete)
+Lyktos	589918	P	ancient	Lyktos
+Malia	589922	P	ancient	Malia,_Crete
 Olous	Olous	P	ancient	Olous
 Petras	Petras	GR	ancient	Petras
 Phaistos	Phaistos	P	ancient	Phaistos
 Phalasarna	Phalasarna	P	ancient	Phalasarna
 Polyrrenia	Polyrrenia	P	ancient	Polyrrenia
 Praisos	Praisos	P	ancient	Praisos
-Pseira	Pseira	P	ancient	Pseira
+Pseira	590017	P	ancient	Pseira
 Pyrgos	Pyrgos	P	ancient	Pyrgos
 Rethymno	Rethymno	GR	modern	Rethymno
 Vasiliki	Vasiliki	P	ancient	Vasiliki,_Lasithi
