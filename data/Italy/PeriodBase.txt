@@ -183,9 +183,9 @@ Palestrina	-72	600	Praeneste	4	0
 Palestrina	601	2100	Palestrina	4	0
 Parma	-700	1500	Parma	3	0
 Parma	1501	2100	Parma	2	0
-Pavia	-218	571	Ticinum	4	3
-Pavia	572	1525	Pavia	2	3
-Pavia	1526	2100	Pavia	3	3
+Pavia	-218	571	Ticinum	4	1
+Pavia	572	1525	Pavia	2	1
+Pavia	1526	2100	Pavia	3	1
 Perugia	-700	-200	Perusia	3	0
 Perugia	-199	600	Perusia	3	0
 Perugia	601	2100	Perugia	3	0

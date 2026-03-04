@@ -1,46 +1,83 @@
+Aachen	150	791	Aquae Granni	4	1
+Aachen	792	1531	Aachen	2	1
+Aachen	1532	2100	Aachen	3	1
 Agen	-50	480	Aginnum	3	0
 Agen	481	2100	Agen	3	0
 Aix-en-Provence	-122	477	Aquae Sextiae	3	0
 Aix-en-Provence	478	2100	Aix-en-Provence	3	0
 Alesia	-100	100	Alesia	3	0
-Amiens	-100	99	Samarobriva	3	0
-Amiens	100	700	Samarobriva Ambianorum	3	0
-Amiens	701	2100	Amiens	3	0
+Amiens	-100	99	Samarobriva	3	2
+Amiens	100	700	Samarobriva Ambianorum	3	2
+Amiens	701	2100	Amiens	3	2
+Amsterdam	1170	1250	Amsterdam	4	2
+Amsterdam	1251	1350	Amsterdam	3	2
+Amsterdam	1351	2100	Amsterdam	2	2
+Angers	200	476	Iuliomagus	3	0
+Angers	477	2100	Angers	3	0
+Antwerp	980	1500	Antwerp	3	0
+Antwerp	1501	2100	Antwerp	2	0
 Argentomagus	-50	500	Argentomagus	3	0
 Arles	-123	299	Arelate	2	0
 Arles	300	734	Arelate	1	0
 Arles	735	932	Arles	2	0
 Arles	933	2100	Arles	3	0
-Augst	-15	270	Augusta Raurica	3	0
-Augst	271	650	Augusta Raurica	4	0
-Augst	651	2100	Augst	4	0
+Arras	100	498	Nemetacum	4	2
+Arras	499	2100	Arras	4	2
+Augst	-15	270	Augusta Raurica	3	1
+Augst	271	650	Augusta Raurica	4	1
+Augst	651	2100	Augst	4	1
 Autun	-30	500	Augustodunum	3	0
 Autun	501	2100	Autun	3	0
+Basel	550	699	Basel	4	0
+Basel	700	2100	Basel	3	0
 Bavay	-15	450	Bagacum	4	0
 Bavay	451	2100	Bavay	4	0
+Bayeux	-10	474	Augustodurum	4	0
+Bayeux	475	2100	Bayeux	4	0
+Bayonne	-30	474	Lapurdum	4	0
+Bayonne	475	2100	Bayonne	4	0
+Bazas	-10	474	Vasates	4	0
+Bazas	475	2100	Bazas	4	0
+Bern	1191	1413	Bern	3	0
+Bern	1415	2100	Bern	2	0
 Besançon	-100	350	Vesontio	3	0
 Besançon	351	700	Besontio	3	0
 Besançon	701	2100	Besançon	3	0
 Bibracte	-100	1	Bibracte	3	3
 Bordeaux	-150	292	Burdigala	3	0
 Bordeaux	293	476	Burdigala	2	0
-Bordeaux	477	2100	Bordeaux	3	0
+Bordeaux	477	1150	Bordeaux	3	0
+Bordeaux	1151	2100	Bordeaux	2	0
 Bourges	-75	292	Avaricum	3	0
 Bourges	293	476	Avaricum	2	0
 Bourges	477	2100	Bourges	4	0
 Briançon	22	650	Brigantium	4	0
 Briançon	651	2100	Briançon	4	0
+Bruges	1000	1088	Bruges	4	2
+Bruges	1089	1127	Bruges	3	2
+Bruges	1128	1500	Bruges	2	2
+Bruges	1501	2100	Bruges	3	2
+Brussels	695	976	Brosella	4	3
+Brussels	977	1355	Brussels	3	3
+Brussels	1356	2100	Brussels	2	3
+Caen	911	2100	Caen	3	0
+Cahors	-50	474	Divona	4	0
+Cahors	475	2100	Cahors	4	0
+Cambrai	300	476	Camaracum	3	2
+Cambrai	477	2100	Cambrai	3	2
 Châlons-en-Champagne	-10	450	Durocatalaunum	4	0
 Châlons-en-Champagne	451	2100	Châlons-en-Champagne	4	0
 Chalon-sur-Saône	-50	650	Cabilonnum	3	1
 Chalon-sur-Saône	651	2100	Chalon-sur-Saône	3	1
+Chartres	10	474	Autricum	3	0
+Chartres	475	2100	Chartres	3	0
 Clermont-Ferrand	-100	1	Augustonemetum	4	7
-Clermont-Ferrand	2	847	Augustonemetum	3	7
-Clermont-Ferrand	848	2100	Clermont	3	7
+Clermont-Ferrand	2	476	Augustonemetum	3	7
+Clermont-Ferrand	477	2100	Clermont	3	7
 Cologne	9	49	Colonia Agrippina	4	0
 Cologne	50	98	Colonia Agrippina	3	0
 Cologne	99	476	Colonia Agrippina	2	0
-Cologne	477	2100	Cologne	3	0
+Cologne	477	2100	Cologne	2	0
 Fréjus	-49	599	Forum Iulii	3	0
 Fréjus	600	900	Fréjus	4	0
 Gap	22	400	Vappincum	4	0
@@ -48,20 +85,39 @@ Gap	400	650	Vappincum	3	0
 Gap	651	1249	Vappum	3	0
 Gap	1250	2100	Gap	3	0
 Geneva	-121	-59	Genava	4	0
-Geneva	-58	650	Genava	3	0
-Geneva	651	2100	Genève	3	0
+Geneva	-58	474	Genava	3	0
+Geneva	475	534	Genève	2	0
+Geneva	535	2100	Genève	3	0
 Gergovia	-100	1	Gergovia	3	1
+Ghent	650	1049	Ghent	4	6
+Ghent	1050	1249	Ghent	3	6
+Ghent	1250	1499	Ghent	2	6
+Ghent	1500	2100	Ghent	3	6
+Grenoble	-43	380	Cularo	4	0
+Grenoble	381	500	Gratianopolis	4	0
+Grenoble	501	1050	Grenoble	4	0
+Grenoble	1051	2100	Grenoble	3	0
 Langres	-30	650	Andematunnum	3	0
 Langres	651	2100	Langres	3	0
+Laon	400	842	Laon	3	0
+Laon	843	986	Laon	2	0
+Laon	987	2100	Laon	3	0
+Lausanne	100	474	Lousonna	4	0
+Lausanne	475	1050	Lausanne	4	0
+Lausanne	1051	2100	Lausanne	3	0
+Le Havre	1517	2100	Le Havre	3	2
 Le Mans	-50	650	Subdinnum	3	0
 Le Mans	651	2100	Le Mans	3	0
+Liège	500	600	Vicus Leudicus	4	1
+Liège	601	984	Liège	4	1
+Liège	985	2100	Liège	3	1
+Lille	1050	2100	Lille	3	2
 Limoges	-10	300	Augustoritum	3	0
 Limoges	301	999	Lemovices	4	0
 Limoges	1000	2100	Limoges	3	0
 Lyon	-43	-23	Lugdunum	3	0
-Lyon	-22	476	Lugdunum	2	0
-Lyon	477	650	Lugdunum	3	0
-Lyon	651	2100	Lyon	3	0
+Lyon	-22	474	Lugdunum	2	0
+Lyon	475	2100	Lyon	2	0
 Mainz	-15	84	Mogontiacum	3	0
 Mainz	85	297	Mogontiacum	2	0
 Mainz	298	460	Mogontiacum	3	0
@@ -69,11 +125,13 @@ Mainz	461	2100	Mainz	3	0
 Marseille	-600	-401	Massalia	3	0
 Marseille	-400	-50	Massalia	2	0
 Marseille	-49	738	Massilia	2	0
-Marseille	739	1449	Marseille	3	0
-Marseille	1450	2100	Marseille	2	0
+Marseille	739	2100	Marseille	2	0
+Meerssen	800	2100	Meerssen	4	0
 Metz	-50	450	Divodurum	3	0
 Metz	450	980	Mettis	2	0
 Metz	981	2100	Metz	3	0
+Nantes	20	476	Civitas Namnetum	4	0
+Nantes	477	2100	Nantes	3	0
 Narbonne	-118	719	Narbo	2	0
 Narbonne	720	758	Narbo	3	0
 Narbonne	759	2100	Narbonne	3	0
@@ -82,49 +140,72 @@ Nice	63	640	Nicaea	3	0
 Nice	641	2100	Nice	3	0
 Nîmes	-123	752	Nemausus	3	0
 Nîmes	753	2100	Nîmes	3	0
+Noyon	300	456	Noviomagus	3	2
+Noyon	457	625	Noviomum	3	2
+Noyon	626	2100	Noyon	3	2
 Orléans	-100	272	Cenabum	3	0
-Orléans	273	799	Civitas Aurelianorum	3	0
-Orléans	800	1199	Aurelianum	3	0
-Orléans	1200	2100	Orléans	3	0
-Paris	-52	507	Lutetia	3	0
-Paris	508	986	Paris	2	0
-Paris	987	2100	Paris	1	0
+Orléans	273	510	Civitas Aurelianorum	3	0
+Orléans	511	700	Orléans	2	0
+Orléans	701	2100	Orléans	3	0
+Paris	-52	507	Lutetia	3	4
+Paris	508	986	Paris	1	4
+Paris	987	2100	Paris	0	4
 Périgueux	-25	299	Vesunna	3	0
 Périgueux	300	766	Petrucorii	4	0
 Poitiers	-50	200	Limonum	3	0
 Poitiers	201	700	Pictavi	3	0
 Poitiers	701	2100	Poitiers	3	0
-Reims	-50	-23	Durocortorum	3	0
-Reims	-22	476	Durocortorum	2	0
-Reims	477	2100	Reims	3	0
+Reims	-50	-23	Durocortorum	3	1
+Reims	-22	476	Durocortorum	2	1
+Reims	477	700	Reims	2	1
+Reims	701	2100	Reims	3	1
 Rennes	-100	-40	Riedones	3	0
 Rennes	-39	650	Condate Riedonum	3	0
 Rennes	651	2100	Rennes	3	0
 Rodez	-100	300	Segodunum	3	0
 Rodez	301	600	Civitas Rutenorum	4	0
 Rodez	601	2100	Rodez	4	0
-Rouen	-10	295	Rotomagus	3	0
-Rouen	296	486	Rotomagus	2	0
-Rouen	487	2100	Rouen	3	0
+Rouen	-10	295	Rotomagus	3	2
+Rouen	296	486	Rotomagus	2	2
+Rouen	487	911	Rouen	3	2
+Rouen	912	2100	Rouen	2	2
 Saintes	-50	-24	Mediolanum Santonum	3	2
 Saintes	-23	293	Mediolanum Santonum	2	2
 Saintes	294	650	Mediolanum Santonum	3	2
 Saintes	651	2100	Saintes	3	2
+Soissons	-50	456	Augusta Suessionum	4	5
+Soissons	457	612	Soissons	2	5
+Soissons	613	2100	Soissons	3	5
 Strasbourg	-13	550	Argentorate	3	0
 Strasbourg	551	2100	Strasbourg	3	0
+Tarbes	-10	474	Tarba	4	0
+Tarbes	475	2100	Tarbes	4	0
 Toul	-10	650	Tullum	4	0
 Toul	651	2100	Toul	4	0
 Toulouse	-150	-51	Tolosa	4	0
-Toulouse	-50	780	Tolosa	3	0
+Toulouse	-50	412	Tolosa	3	0
+Toulouse	413	780	Tolosa	2	0
 Toulouse	781	2100	Toulouse	3	0
+Tournai	200	456	Turnacum	4	1
+Tournai	457	481	Tournai	2	1
+Tournai	482	2100	Tournai	3	1
 Trier	-17	270	Augusta Treverorum	3	1
 Trier	271	401	Augusta Treverorum	1	1
 Trier	402	484	Augusta Treverorum	3	1
 Trier	485	2100	Trier	3	0
-Valence	-50	533	Valentia	3	0
-Valence	534	800	Valentia	4	0
-Valence	801	2100	Valence	3	0
+Utrecht	50	275	Traiectum	4	0
+Utrecht	650	2100	Utrecht	3	0
+Valence	-50	474	Valentia	3	0
+Valence	475	534	Valence	2	0
+Valence	535	2100	Valence	3	0
+Verdun	-10	474	Viriodunum	4	0
+Verdun	475	2100	Verdun	4	0
 Vienne	-60	50	Vienna	3	1
 Vienne	51	250	Vienna	2	1
-Vienne	251	650	Vienna	3	1
-Vienne	651	2100	Vienne	3	1
+Vienne	251	474	Vienna	3	1
+Vienne	475	534	Vienne	2	1
+Vienne	535	2100	Vienne	3	1
+Zurich	-15	599	Turicum	4	0
+Zurich	600	849	Zurich	4	0
+Zurich	850	1217	Zurich	3	0
+Zurich	1218	2100	Zurich	2	0
