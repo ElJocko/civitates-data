@@ -186,6 +186,9 @@ Toulouse	Toulouse	French
 Toulouse	Tolosa	Latin
 Tournai	Tournai	French
 Tournai	Turnacum	Latin
+Tours	Tours	French
+Tours	Caesarodunum	Latin
+Tours	Civitas Turonorum	Latin
 Trier	Trier	German
 Trier	Augusta Treverorum	Latin
 Trier	Trèves	French

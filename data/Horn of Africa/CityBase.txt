@@ -1,0 +1,4 @@
+Adulis	39271	P	ancient	Adulis
+Aksum	39303	P	modern	Axum
+Lalibela	403627900	P	ancient	Lalibela
+Matara	403627899	P	ancient	Matara,_Eritrea

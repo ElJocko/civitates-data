@@ -71,6 +71,7 @@ Tarbes	246679	P	modern	Tarbes
 Toul	109396	P	modern	Toul
 Toulouse	246694	P	modern	Toulouse
 Tournai	109398	P	modern	Tournai
+Tours	138255	P	modern	Tours
 Trier	108894	P	modern	Trier
 Utrecht	99046	P	modern	Utrecht
 Valence	167718	P	modern	Valence,_Drôme

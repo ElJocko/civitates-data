@@ -15,6 +15,9 @@ Herakleopolis	Herakleopolis	P	ancient	Heracleopolis_Magna
 Hermopolis	Enseu	P	ancient	Hermopolis
 Hierakonpolis	Hierakonpolis	X	ancient	Hierakonpolis
 Memphis	Memphis	P	ancient	Memphis,_Egypt
+Meroe	805630	P	ancient	Meroë
+Napata	805634	P	ancient	Napata
+Naqa	805635	P	ancient	Naqa
 Naucratis	Naucratis	P	ancient	Naucratis
 Oxyrhynchus	Oxyrhynchus/Pemje	P	ancient	Oxyrhynchus
 Paraetonium	Paraetonium/Ammonia	P	ancient	Mersa_Matruh

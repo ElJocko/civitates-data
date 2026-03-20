@@ -9,11 +9,15 @@ Bukhara	-500	2100	Bukhara	2	2
 Merv	-500	1117	Merv	2	0
 Merv	1118	1221	Merv	1	0
 Merv	1222	1789	Merv	3	0
+Otrar	900	1450	Otrar	3	0
 Samarkand	-550	874	Samarkand	2	0
 Samarkand	875	1220	Samarkand	1	0
 Samarkand	1221	1369	Samarkand	2	0
 Samarkand	1370	1598	Samarkand	1	0
 Samarkand	1599	2100	Samarkand	3	0
+Taraz	500	1400	Taraz	3	0
+Taraz	1401	1700	Taraz	4	0
+Tashkent	550	2100	Tashkent	2	0
 Urgench	300	1076	Urgench	3	0
 Urgench	1077	1221	Urgench	2	0
 Urgench	1222	1388	Urgench	3	0

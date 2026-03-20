@@ -8,8 +8,14 @@ Bukhara	Bukhara	Persian
 Merv	Merv	Persian
 Merv	Alexandria	Greek
 Merv	Antiochia Margiana	Greek
+Otrar	Otrar	Turkic
+Otrar	Farab	Unknown
 Samarkand	Samarkand	Persian
 Samarkand	Marakanda	Greek
+Taraz	Taraz	Khazakh
+Taraz	Talas	English
+Tashkent	Tashkent	Turkic
+Tashkent	Chach	Persian
 Urgench	Urgench	Persian
 Urgench	Konye-Urgench	Persian
 Urgench	Gurgānj	Persian

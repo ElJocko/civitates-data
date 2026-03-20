@@ -6,6 +6,7 @@ Nahavand	903088	P	modern	Nahavand
 Nishapur	952092	P	modern	Nishapur
 Persepolis	922695	P	ancient	Persepolis
 Ray	903104	P	modern	Ray,_Iran
+Shiraz	922706	P	modern	Shiraz
 Siraf	29762	P	modern	Siraf
 Susa	912936	P	ancient	Susa
 Tabriz	430344981	P	modern	Tabriz

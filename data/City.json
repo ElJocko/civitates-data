@@ -21586,6 +21586,61 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "0.691471",
+                    "47.3925295"
+                ]
+            },
+            "properties": {
+                "identifier": "3a0ce83dba63cff29048caf57be791fc0d86f4cb",
+                "city_base_id": "Tours",
+                "latitude": "47.3925295",
+                "longitude": "0.691471",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "700",
+                        "preferredName": "Caesarodunum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "701",
+                        "endDate": "2100",
+                        "preferredName": "Tours",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tours",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Caesarodunum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Civitas Turonorum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    134733326.14776605,
+                    93985034.49131663
+                ],
+                "wikipediaArticleName": "Tours"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "6.64169291658",
                     "49.752233873"
                 ]
@@ -32232,6 +32287,143 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "33.7119202261",
+                    "16.9368579733"
+                ]
+            },
+            "properties": {
+                "identifier": "32d073fefba571aa873971f1438b817d835fe8fe",
+                "city_base_id": "Meroe",
+                "latitude": "16.9368579733",
+                "longitude": "33.7119202261",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "400",
+                        "preferredName": "Meroe",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Meroe",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    159355157.66257995,
+                    121400644.14565936
+                ],
+                "wikipediaArticleName": "Mero\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.853738",
+                    "18.565952"
+                ]
+            },
+            "properties": {
+                "identifier": "05386c3cb51cbb9da1b9a5e1aff273a135f7724b",
+                "city_base_id": "Napata",
+                "latitude": "18.565952",
+                "longitude": "31.853738",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1450",
+                        "endDate": "-1071",
+                        "preferredName": "Napata",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1070",
+                        "endDate": "-591",
+                        "preferredName": "Napata",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-590",
+                        "endDate": "100",
+                        "preferredName": "Napata",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Napata",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    157969596.57037368,
+                    120125124.66645183
+                ],
+                "wikipediaArticleName": "Napata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "33.2746437",
+                    "16.2695085"
+                ]
+            },
+            "properties": {
+                "identifier": "5ec85a63af0fbbd6104d67edaf56239b36bda878",
+                "city_base_id": "Naqa",
+                "latitude": "16.2695085",
+                "longitude": "33.2746437",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "350",
+                        "preferredName": "Naqa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Naqa",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Tolakate",
+                        "language": "Meriotic"
+                    }
+                ],
+                "mapPoint": [
+                    159029100.65235287,
+                    121919909.16431965
+                ],
+                "wikipediaArticleName": "Naqa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "30.5919275",
                     "30.900508"
                 ]
@@ -33296,6 +33488,69 @@
                     105783771.60965239
                 ],
                 "wikipediaArticleName": "Ray,_Iran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "52.57565215",
+                    "29.59048485"
+                ]
+            },
+            "properties": {
+                "identifier": "60de40825ca3b7ccbb0ca52ffddead139615000c",
+                "city_base_id": "Shiraz",
+                "latitude": "29.59048485",
+                "longitude": "52.57565215",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "693",
+                        "endDate": "932",
+                        "preferredName": "Shiraz",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "933",
+                        "endDate": "1699",
+                        "preferredName": "Shiraz",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1700",
+                        "endDate": "2100",
+                        "preferredName": "Shiraz",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Shiraz",
+                        "language": "English"
+                    },
+                    {
+                        "name": "\u0160\u012br\u0101z",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Tirazzi\u0161",
+                        "language": "Elamite"
+                    }
+                ],
+                "mapPoint": [
+                    173420975.66495174,
+                    111101688.07327217
+                ],
+                "wikipediaArticleName": "Shiraz"
             }
         },
         {
@@ -35264,6 +35519,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "68.302778",
+                    "42.8525"
+                ]
+            },
+            "properties": {
+                "identifier": "4f90e892ccf87b8d513a22511d2cd50df56ab2bf",
+                "city_base_id": "Otrar",
+                "latitude": "42.8525",
+                "longitude": "68.302778",
+                "elevation": "506",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "900",
+                        "endDate": "1450",
+                        "preferredName": "Otrar",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Otrar",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Farab",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    185147970.66249102,
+                    98786622.22370628
+                ],
+                "wikipediaArticleName": "Otrar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "66.947223",
                     "39.656498"
                 ]
@@ -35332,6 +35630,100 @@
                     101957591.36847585
                 ],
                 "wikipediaArticleName": "Samarkand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "71.36667",
+                    "42.9"
+                ]
+            },
+            "properties": {
+                "identifier": "54c1dc6a15d549fa97265231613481c1c6ba843f",
+                "city_base_id": "Taraz",
+                "latitude": "42.9",
+                "longitude": "71.36667",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "500",
+                        "endDate": "1400",
+                        "preferredName": "Taraz",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1401",
+                        "endDate": "1700",
+                        "preferredName": "Taraz",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Taraz",
+                        "language": "Khazakh"
+                    },
+                    {
+                        "name": "Talas",
+                        "language": "English"
+                    }
+                ],
+                "mapPoint": [
+                    187432574.12403202,
+                    98738290.67167605
+                ],
+                "wikipediaArticleName": "Taraz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "69.21627",
+                    "41.26465"
+                ]
+            },
+            "properties": {
+                "identifier": "c2aa0e9ec043606081b38e38770b0691cf0d7c71",
+                "city_base_id": "Tashkent",
+                "latitude": "41.26465",
+                "longitude": "69.21627",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "550",
+                        "endDate": "2100",
+                        "preferredName": "Tashkent",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tashkent",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Chach",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    185829119.66685867,
+                    100381436.46453056
+                ],
+                "wikipediaArticleName": "Tashkent"
             }
         },
         {
@@ -35410,6 +35802,53 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "45.038928",
+                    "12.771651"
+                ]
+            },
+            "properties": {
+                "identifier": "c28451ceb639546ecae82d034f791b15c3eeb33b",
+                "city_base_id": "Aden",
+                "latitude": "12.771651",
+                "longitude": "45.038928",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "2100",
+                        "preferredName": "Aden",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aden",
+                        "language": "English"
+                    },
+                    {
+                        "name": "\u02bfAdan",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Arabia Eudaim\u014dn",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    167801186.82064214,
+                    124614636.18414493
+                ],
+                "wikipediaArticleName": "Aden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "39.21917",
                     "21.51694"
                 ]
@@ -35442,6 +35881,61 @@
                     117782545.56317613
                 ],
                 "wikipediaArticleName": "Jeddah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "45.336",
+                    "15.427"
+                ]
+            },
+            "properties": {
+                "identifier": "f43f7df3a384575eaae9802b515f56c7ca50da2a",
+                "city_base_id": "Marib",
+                "latitude": "15.427",
+                "longitude": "45.336",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-750",
+                        "endDate": "-50",
+                        "preferredName": "Marib",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-49",
+                        "endDate": "2100",
+                        "preferredName": "Marib",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Marib",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Ma\u2019rib",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Seb\u0101",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    168022699.75893334,
+                    122572959.1204933
+                ],
+                "wikipediaArticleName": "Marib"
             }
         },
         {
@@ -35567,6 +36061,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "44.2005197",
+                    "15.342101"
+                ]
+            },
+            "properties": {
+                "identifier": "65ed2eade29ea483b7799397390209fad146daf1",
+                "city_base_id": "Sanaa",
+                "latitude": "15.342101",
+                "longitude": "44.2005197",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "2100",
+                        "preferredName": "Sanaa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sanaa",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    167176024.28085136,
+                    122638617.13516419
+                ],
+                "wikipediaArticleName": "Sanaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "36.5727525",
                     "28.3880465"
                 ]
@@ -35650,6 +36183,198 @@
                     117980303.60333191
                 ],
                 "wikipediaArticleName": "Taif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.6591296",
+                    "15.2616612"
+                ]
+            },
+            "properties": {
+                "identifier": "92262fb99b3dde57f87d0575585c97bd627e1c00",
+                "city_base_id": "Adulis",
+                "latitude": "15.2616612",
+                "longitude": "39.6591296",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "700",
+                        "preferredName": "Adulis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Adulis",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Adouli",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    163789718.38538638,
+                    122700801.93150607
+                ],
+                "wikipediaArticleName": "Adulis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "38.7212920204",
+                    "14.1338504591"
+                ]
+            },
+            "properties": {
+                "identifier": "bf78d8e72138b1c5e8ddfdf0714bffd3e8bd1879",
+                "city_base_id": "Aksum",
+                "latitude": "14.1338504591",
+                "longitude": "38.7212920204",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "850",
+                        "preferredName": "Aksum",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "851",
+                        "endDate": "1250",
+                        "preferredName": "Aksum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1251",
+                        "endDate": "1611",
+                        "preferredName": "Aksum",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1612",
+                        "endDate": "2100",
+                        "preferredName": "Aksum",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aksum",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Axum",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Auxoume",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    163090416.00112566,
+                    123570223.49797529
+                ],
+                "wikipediaArticleName": "Axum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.0462032",
+                    "12.0355606"
+                ]
+            },
+            "properties": {
+                "identifier": "16704a70c1b327fe88dbb5d1dbe19b8efac5565a",
+                "city_base_id": "Lalibela",
+                "latitude": "12.0355606",
+                "longitude": "39.0462032",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "900",
+                        "endDate": "1400",
+                        "preferredName": "Lalibela",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Lalibela",
+                        "language": "Aharic"
+                    }
+                ],
+                "mapPoint": [
+                    163332687.33627963,
+                    125176626.66103889
+                ],
+                "wikipediaArticleName": "Lalibela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.4256591657",
+                    "14.675334944"
+                ]
+            },
+            "properties": {
+                "identifier": "ce61b24df67ad57b724e7bb1ffeecbad33498120",
+                "city_base_id": "Matara",
+                "latitude": "14.675334944",
+                "longitude": "39.4256591657",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-700",
+                        "endDate": "200",
+                        "preferredName": "Matara",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Matara",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    163615630.21179238,
+                    123153356.75435407
+                ],
+                "wikipediaArticleName": "Matara,_Eritrea"
             }
         }
     ]

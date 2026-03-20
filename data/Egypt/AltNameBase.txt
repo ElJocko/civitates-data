@@ -42,6 +42,10 @@ Hierakonpolis	Hierakonpolis	Greek
 Hierakonpolis	Nekhen	Egyptian
 Memphis	Memphis	Greek
 Memphis	Menefer	Egyptian
+Meroe	Meroe	Latin
+Napata	Napata	Latin
+Naqa	Naqa	English
+Naqa	Tolakate	Meriotic
 Naucratis	Naucratis	Greek
 Oxyrhynchus	Oxyrhynchus	Latin
 Oxyrhynchus	al-Bahnasa	Arabic

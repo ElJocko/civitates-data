@@ -1,5 +1,8 @@
+Aden	39269	P	modern	Aden
 Jeddah	Jeddah	SA	modern	Jeddah
-Mecca	Macoraba	P	modern	Mecca
-Medina	Iathrippa	P	modern	Medina
-Tabuk	Baclanaza	P	modern	Tabuk,_Saudi_Arabia
-Taif	aṭ-Ṭāʾif	P	modern	Taif
+Marib	39379	P	modern	Marib
+Mecca	29652	P	modern	Mecca
+Medina	814688	P	modern	Medina
+Sanaa	104811110	P	modern	Sanaa
+Tabuk	814662	P	modern	Tabuk,_Saudi_Arabia
+Taif	869702585	P	modern	Taif

@@ -1,4 +1,10 @@
+Aden	Aden	English
+Aden	ʿAdan	Arabic
+Aden	Arabia Eudaimōn	Greek
 Jeddah	Jeddah	Arabic
+Marib	Marib	English
+Marib	Ma’rib	Arabic
+Marib	Sebā	Turkish
 Mecca	Mecca	English
 Mecca	Mekkah	Arabic
 Mecca	Makkah al-Mukarramah	Arabic
@@ -7,6 +13,7 @@ Medina	Medina	Arabic
 Medina	al-Madinah al-Munawwarah	Arabic
 Medina	Yathrib	Arabic
 Medina	Iathrippa	Latin
+Sanaa	Sanaa	Arabic
 Tabuk	Tabuk	Arabic
 Tabuk	Baclanaza	Latin
 Tabuk	Ostama	Greek

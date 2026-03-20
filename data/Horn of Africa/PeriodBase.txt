@@ -1,0 +1,7 @@
+Adulis	50	700	Adulis	3	0
+Aksum	50	850	Aksum	2	0
+Aksum	851	1250	Aksum	3	0
+Aksum	1251	1611	Aksum	2	0
+Aksum	1612	2100	Aksum	4	0
+Lalibela	900	1400	Lalibela	3	0
+Matara	-700	200	Matara	3	0

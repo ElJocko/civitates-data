@@ -2,5 +2,8 @@ Balkh	961886	P	modern	Balkh
 Beruniy	Beruniy	UZ	modern	Beruniy
 Bukhara	762205391	P	modern	Bukhara
 Merv	961873	P	ancient	Merv
+Otrar	Otrar	X	medieval	Otrar
 Samarkand	59915	P	modern	Samarkand
+Taraz	Taraz	KZ	modern	Taraz
+Tashkent	Tashkent	UZ	modern	Tashkent
 Urgench	Koeneuergench	TM	medieval	Konye-Urgench

@@ -25,6 +25,9 @@ Ray	-312	-149	Europos	3	0
 Ray	-148	223	Arsacia	3	0
 Ray	224	933	Ray	3	0
 Ray	934	1221	Ray	2	0
+Shiraz	693	932	Shiraz	3	0
+Shiraz	933	1699	Shiraz	2	0
+Shiraz	1700	2100	Shiraz	3	0
 Siraf	200	1100	Siraf	3	3
 Susa	-3800	-2701	Susa	3	0
 Susa	-2700	641	Susa	2	0

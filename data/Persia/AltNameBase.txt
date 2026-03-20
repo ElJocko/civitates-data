@@ -22,6 +22,9 @@ Ray	Europos	Greek
 Ray	Arsacia	Parthian
 Ray	Rhagae	Latin
 Ray	Shahr-e Rey	Persian
+Shiraz	Shiraz	English
+Shiraz	Šīrāz	Persian
+Shiraz	Tirazziš	Elamite
 Siraf	Siraf	Persian
 Siraf	Bandar Siraf	Persian
 Susa	Susa	Elamite

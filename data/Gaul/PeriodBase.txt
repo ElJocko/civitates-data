@@ -189,6 +189,8 @@ Toulouse	781	2100	Toulouse	3	0
 Tournai	200	456	Turnacum	4	1
 Tournai	457	481	Tournai	2	1
 Tournai	482	2100	Tournai	3	1
+Tours	50	700	Caesarodunum	3	0
+Tours	701	2100	Tours	3	0
 Trier	-17	270	Augusta Treverorum	3	1
 Trier	271	401	Augusta Treverorum	1	1
 Trier	402	484	Augusta Treverorum	3	1

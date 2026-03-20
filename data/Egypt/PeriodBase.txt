@@ -37,6 +37,11 @@ Memphis	-2800	-1551	Memphis	0	0
 Memphis	-1550	-332	Memphis	1	0
 Memphis	-331	640	Memphis	2	0
 Memphis	641	700	Memphis	4	0
+Meroe	-600	400	Meroe	2	0
+Napata	-1450	-1071	Napata	3	0
+Napata	-1070	-591	Napata	2	0
+Napata	-590	100	Napata	3	0
+Naqa	-200	350	Naqa	3	0
 Naucratis	-625	600	Naucratis	3	3
 Oxyrhynchus	-1200	-333	Per-Madjed	3	0
 Oxyrhynchus	-332	-31	Oxyrrhynchoupolis	3	0
