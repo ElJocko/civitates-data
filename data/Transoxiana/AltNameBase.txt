@@ -5,13 +5,35 @@ Balkh	Bactra	Greek
 Beruniy	Beruniy	Uzbek
 Beruniy	Kath	Persian
 Bukhara	Bukhara	Persian
+Hazorasp	Hazorasp	Turkic
+Hazorasp	Khazarasp	Russian
+Hazorasp	Hazarasp	Persian
+Kitob	Kitob	Turkic
+Kitob	Kesh	Unknown
+Kitob	Kish	Unknown
+Khiva	Khiva	English
+Khiva	Xīveh	Persian
+Khiva	Orgunje	Turkic
+Khujand	Khujand	Turkic
+Khujand	Cyreschata	Persian
+Khujand	Cyropolis	Latin
+Khujand	Alexandria Eschate	Greek
+Khujand	Khodjent	Unknown
+Khujand	Leninabad	Unknown
 Merv	Merv	Persian
 Merv	Alexandria	Greek
 Merv	Antiochia Margiana	Greek
 Otrar	Otrar	Turkic
 Otrar	Farab	Unknown
+Panjakent	Panjakent	English
+Panjakent	Penjikent	Russian
+Qarshi	Qarshi	Turkic
+Qarshi	Naḵšab	Persian
+Qarshi	Nakhshab	Persian
+Qarshi	Nasaf	Persian
 Samarkand	Samarkand	Persian
 Samarkand	Marakanda	Greek
+Shahrisabz	Shahrisabz	Persian
 Taraz	Taraz	Khazakh
 Taraz	Talas	English
 Tashkent	Tashkent	Turkic

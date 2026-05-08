@@ -19,3 +19,6 @@ Tabuk	Baclanaza	Latin
 Tabuk	Ostama	Greek
 Taif	Taif	Arabic
 Taif	aṭ-Ṭāʾif	Arabic
+Zabid	Zabid	Arabic
+Zabid	Zabida	Arabic
+Zabid	Taruda	Arabic

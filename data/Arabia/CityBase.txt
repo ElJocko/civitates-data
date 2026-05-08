@@ -6,3 +6,4 @@ Medina	814688	P	modern	Medina
 Sanaa	104811110	P	modern	Sanaa
 Tabuk	814662	P	modern	Tabuk,_Saudi_Arabia
 Taif	869702585	P	modern	Taif
+Zabid	39439	P	modern	Zabid

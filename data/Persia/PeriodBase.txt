@@ -36,3 +36,7 @@ Susa	1218	1450	Susa	4	0
 Tabriz	-350	2100	Tabriz	2	0
 Tehran	850	1785	Tehran	4	1
 Tehran	1786	2100	Tehran	2	1
+Zaranj	-199	651	Zaranj	3	0
+Zaranj	652	1537	Zaranj	2	0
+Zaranj	1538	2100	Zaranj	3	0
+Zranka	-500	-200	Zranka	2	0

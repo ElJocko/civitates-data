@@ -9,3 +9,5 @@ Medina	622	2100	Medina	2	0
 Sanaa	50	2100	Sanaa	3	0
 Tabuk	500	2100	Tabuk	3	0
 Taif	500	2100	Taif	3	1
+Zabid	820	1228	Zabid	2	0
+Zabid	1229	2100	Zabid	3	0

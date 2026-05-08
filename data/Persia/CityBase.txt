@@ -11,3 +11,5 @@ Siraf	29762	P	modern	Siraf
 Susa	912936	P	ancient	Susa
 Tabriz	430344981	P	modern	Tabriz
 Tehran	419508714	P	modern	Tehran
+Zaranj	Zaranj	AF	modern	Zaranj
+Zranka	29540	P	ancient	Dahan-e_Gholaman

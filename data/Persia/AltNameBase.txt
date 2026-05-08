@@ -31,3 +31,8 @@ Susa	Susa	Elamite
 Tabriz	Tabriz	Persian
 Tabriz	Tavrezh	Armenian
 Tehran	Tehran	Persian
+Zaranj	Zaranj	Persian
+Zranka	Zranka	Persian
+Zranka	Drangiana	Greek
+Zranka	Dahan-e_Gholaman	Persian
+Zranka	Zarin	Persian
