@@ -91,6 +91,7 @@ Ponferrada	Ponferrada	Spanish
 Porto	Porto	Portuguese
 Porto	Oporto	Portuguese
 Porto	Portus Cale	Latin
+Rabanal del Camino	Rabanal del Camino	Spanish
 Sagunto	Sagunto	Spanish
 Sagunto	Saguntum	Latin
 Sagunto	Morvedre	Arabic

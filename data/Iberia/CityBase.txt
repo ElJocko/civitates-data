@@ -36,6 +36,7 @@ Palma	Palma	ES	modern	Palma_de_Mallorca
 Pamplona	Pamplona	ES	modern	Pamplona
 Ponferrada	Ponferrada	ES	modern	Ponferrada
 Porto	Porto	PT	modern	Porto
+Rabanal del Camino	Rabanal del Camino	X	modern	Rabanal del Camino
 Sagunto	Sagunto	ES	modern	Sagunto
 Salamanca	Salamanca	ES	modern	Salamanca
 Santarém	Santarem	PT	modern	Santarém,_Portugal

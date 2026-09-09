@@ -28,6 +28,10 @@ def find_pleiades_settlement(key):
             if settlement.pleiades_id == key and settlement.latitude and settlement.longitude:
                 # print("  found", title, "in pleiades settlements")
                 return settlement
+        for site in pleiades_archaeological_site_list:
+            if site.pleiades_id == key and site.latitude and site.longitude:
+                # print("  found", title, "in pleiades archaeological sites")
+                return site
         return None
     else:
         for settlement in pleiades_settlement_list:
@@ -81,12 +85,17 @@ print("Read", len(pleiades_place_list), "rows from", pleiades_filename)
 # Filter for settlements and convert to common form
 PleiadesSettlement = namedtuple("PleiadesSettlement", "title latitude longitude elevation pleiades_id")
 pleiades_settlement_list = []
+pleiades_archaeological_site_list = []
 for place in pleiades_place_list:
     if "settlement" in place.feature_types:
         settlement = PleiadesSettlement(place.title, place.repr_lat, place.repr_long, "0", place.id)
         pleiades_settlement_list.append(settlement)
+    if "archaeological-site" in place.feature_types:
+        archaeological_site = PleiadesSettlement(place.title, place.repr_lat, place.repr_long, "0", place.id)
+        pleiades_archaeological_site_list.append(archaeological_site)
 
 print("Found", len(pleiades_settlement_list), "settlements")
+print("Found", len(pleiades_archaeological_site_list), "archaeological sites")
 
 # Read CityBase files
 path_list = civitates_data.make_path_list_from_folders(base_path, "CityBase.txt")

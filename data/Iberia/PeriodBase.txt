@@ -106,9 +106,10 @@ Palma	1230	2100	Palma	3	1
 Pamplona	-200	-75	Iruña	3	1
 Pamplona	-74	900	Pompelo	3	1
 Pamplona	901	2100	Pamplona	3	1
-Ponferrada	928	2100	Ponferrada	4	3
+Ponferrada	928	2100	Ponferrada	4	2
 Porto	-400	1092	Portus Cale	3	1
 Porto	1093	2100	Porto	2	1
+Rabanal del Camino	1050	2100	Rabanal del Camino	4	3
 Sagunto	-300	720	Saguntum	2	1
 Sagunto	721	1237	Morvedre	3	1
 Sagunto	1238	2100	Sagunto	3	1

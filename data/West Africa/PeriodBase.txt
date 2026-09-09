@@ -1,0 +1,13 @@
+Aoudaghost	850	1200	Aoudaghost	3	0
+Djenné	300	2100	Djenné	3	0
+Gao	700	919	Gao	3	0
+Gao	920	1280	Gao	2	0
+Gao	1281	1463	Gao	3	0
+Gao	1464	1590	Gao	2	0
+Gao	1591	2100	Gao	3	0
+Koumbi Saleh	500	1049	Koumbi Saleh	3	0
+Koumbi Saleh	1050	1235	Koumbi Saleh	1	0
+Koumbi Saleh	1236	1380	Koumbi Saleh	3	0
+Timbuktu	1080	1379	Timbuktu	3	0
+Timbuktu	1380	1591	Timbuktu	2	0
+Timbuktu	1592	2100	Timbuktu	3	0

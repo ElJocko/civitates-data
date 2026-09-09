@@ -1,0 +1,5 @@
+Aoudaghost	Aoudaghost	X	ancient	Aoudaghost
+Djenné	Djenne	ML	modern	Djenné
+Gao	Gao	ML	modern	Gao
+Koumbi Saleh	41177950	P	ancient	Koumbi_Saleh
+Timbuktu	Timbuktu	ML	modern	Timbuktu
