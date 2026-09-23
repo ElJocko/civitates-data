@@ -1,5 +1,19 @@
+Agadez	Agadez	NE	modern	Agadez
 Aoudaghost	Aoudaghost	X	ancient	Aoudaghost
+Begho	Begho	X	medieval	Begho
+Bilma	Bilma	NE	modern	Bilma
+Bobo-Dioulasso	Bobo-Dioulasso	BF	modern	Bobo-Dioulasso
+Bono Manso	Bono Manso	X	medieval	Bono Manso
 Djenné	Djenne	ML	modern	Djenné
 Gao	Gao	ML	modern	Gao
+Kangaba	Kangaba	ML	modern	Kangaba
+Kano	Kano	NG	modern	Kano_(city)
+Katsina	Katsina	NG	modern	Katsina_(city)
+Kong	Kong	IV	modern	Kong,_Ivory_Coast
 Koumbi Saleh	41177950	P	ancient	Koumbi_Saleh
+Oualata	Oualata	X	modern	Oualata
+Tadmekka	Tadmekka	X	medieval	Tadmekka
+Taghaza	Taghaza	X	medieval	Taghaza
 Timbuktu	Timbuktu	ML	modern	Timbuktu
+Yendi	Yendi	GH	modern	Yendi
+Zaria	Zaria	NG	modern	Zaria

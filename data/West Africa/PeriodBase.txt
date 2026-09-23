@@ -1,13 +1,33 @@
+Agadez	1250	2100	Agadez	3	0
 Aoudaghost	850	1200	Aoudaghost	3	0
+Begho	1050	1800	Begho	3	2
+Bilma	1150	2100	Bilma	3	0
+Bobo-Dioulasso	1400	2100	Bobo-Dioulasso	3	0
+Bono Manso	1000	1500	Bono Manso	3	0
 Djenné	300	2100	Djenné	3	0
 Gao	700	919	Gao	3	0
 Gao	920	1280	Gao	2	0
 Gao	1281	1463	Gao	3	0
 Gao	1464	1590	Gao	2	0
 Gao	1591	2100	Gao	3	0
+Kangaba	1050	1444	Kangaba	3	0
+Kano	1000	2100	Kano	2	0
+Katsina	1445	1904	Katsina	2	0
+Katsina	1905	2100	Katsina	3	0
+Katsina	1100	2100	Katsina	3	0
+Kong	1300	1709	Kong	3	0
+Kong	1710	1890	Kong	2	0
+Kong	1891	2100	Kong	3	0
 Koumbi Saleh	500	1049	Koumbi Saleh	3	0
 Koumbi Saleh	1050	1235	Koumbi Saleh	1	0
 Koumbi Saleh	1236	1380	Koumbi Saleh	3	0
+Oualata	800	2100	Oualata	3	0
+Tadmekka	900	1500	Tadmekka	3	0
+Taghaza	1200	1600	Taghaza	3	0
 Timbuktu	1080	1379	Timbuktu	3	0
 Timbuktu	1380	1591	Timbuktu	2	0
 Timbuktu	1592	2100	Timbuktu	3	0
+Yendi	1420	2100	Yendi	3	0
+Zaria	1010	1400	Zaria	3	1
+Zaria	1401	1902	Zaria	2	1
+Zaria	1903	2100	Zaria	3	1

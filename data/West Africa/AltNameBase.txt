@@ -1,4 +1,15 @@
+Agadez	Agadez	Unknown
+Agadez	Agadès	Unknown
 Aoudaghost	Aoudaghost	Berber
+Begho	Begho	Unknown
+Begho	Nsoko	Unknown
+Begho	Insoco	Unknown
+Bilma	Bilma	Unknown
+Bobo-Dioulasso	Bobo-Dioulasso	Dyula
+Bobo-Dioulasso	Sia	Mossi
+Bono Manso	Bono Manso	Unknown
+Bono Manso	Manso	Unknown
+Bono Manso	Maaso	Unknown
 Djenné	Djenné	Unknown
 Djenné	Jenne	Unknown
 Djenné	Djoboro	Unknown
@@ -7,6 +18,24 @@ Djenné	Jeno	Unknown
 Gao	Gao	Unknown
 Gao	Kawkaw	Unknown
 Gao	Gawgaw	Unknown
+Kangaba	Kangaba	Unknown
+Kangaba	Kaba	Unknown
+Kano	Kano	Unknown
+Katsina	Katsina	Unknown
+Kong	Kong	Unknown
+Kong	Kpon	Unknown
 Koumbi Saleh	Koumbi Saleh	Unknown
 Koumbi Saleh	El-Ghaba	Unknown
+Oualata	Oualata	Arabic
+Oualata	Walata	Arabic
+Oualata	Biru	Unknown
+Tadmekka	Tadmekka	Unknown
+Tadmekka	Tadmakka	Unknown
+Taghaza	Taghaza	Unknown
+Taghaza	Taghara	Unknown
+Taghaza	Teghaza	Unknown
 Timbuktu	Timbuktu	Songhay
+Yendi	Yendi	Unknown
+Yendi	Yani	Dagbani
+Zaria	Zaria	Unknown
+Zaria	Zazzau	Unknown
