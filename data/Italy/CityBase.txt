@@ -56,6 +56,7 @@ Gerace	Gerace	IT	modern	Gerace
 Giardini-Naxos	Giardini-Naxos	IT	modern	Giardini-Naxos
 Grado	Grado	IT	modern	Grado,_Friuli_Venezia_Giulia
 Heraclea	Heraclea	IT	ancient	Heraclea
+Himera	462244	P	ancient	Himera
 Ivrea	Ivrea	IT	modern	Ivrea
 L'Aquila	L'Aquila	IT	modern	L'Aquila
 Larino	Larino	IT	modern	Larino
@@ -132,6 +133,7 @@ Syracuse	Siracusa	IT	modern	Syracuse,_Sicily
 Taormina	Taormina	IT	modern	Taormina
 Taranto	Taranto	IT	modern	Taranto
 Tarquinia	Tarquinia	IT	modern	Tarquinia
+Termini Imerese	462513	P	modern	Termini_Imerese
 Terracina	Terracina	IT	modern	Terracina
 Tharros	Tharros	P	ancient	Tharros
 Thurii	Thurii	IT	ancient	Thurii

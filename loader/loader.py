@@ -3,6 +3,7 @@ import os
 from collections import namedtuple
 from dataclasses import dataclass
 import hashlib
+import math
 import labelCalc
 import geonames
 import pleiades
@@ -32,6 +33,10 @@ def find_pleiades_settlement(key):
             if site.pleiades_id == key and site.latitude and site.longitude:
                 # print("  found", title, "in pleiades archaeological sites")
                 return site
+        for fort in pleiades_fort_list:
+            if fort.pleiades_id == key and fort.latitude and fort.longitude:
+                # print("  found", title, "in pleiades forts")
+                return fort
         return None
     else:
         for settlement in pleiades_settlement_list:
@@ -57,7 +62,11 @@ def get_city_periods(city_id, region):
     city_periods = []
     for period in period_base_list:
         if period.id == city_id and period.region == region:
-            city_periods.append({ 'startDate':period.start_date, 'endDate':period.end_date, 'preferredName':period.preferredName, 'size':period.size, 'tagPosition':period.tag_position, 'calcTagPosition':0 })
+            if region in ['Horn of Africa', 'West Africa', 'Arabia', 'Transoxiana', 'Tarim Basin', 'North Africa']:
+                adjusted_size = float(period.size) - 0.5
+            else:
+                adjusted_size = period.size
+            city_periods.append({ 'startDate':period.start_date, 'endDate':period.end_date, 'preferredName':period.preferredName, 'size':adjusted_size, 'tagPosition':period.tag_position, 'calcTagPosition':0 })
     return city_periods
 
 
@@ -86,6 +95,7 @@ print("Read", len(pleiades_place_list), "rows from", pleiades_filename)
 PleiadesSettlement = namedtuple("PleiadesSettlement", "title latitude longitude elevation pleiades_id")
 pleiades_settlement_list = []
 pleiades_archaeological_site_list = []
+pleiades_fort_list = []
 for place in pleiades_place_list:
     if "settlement" in place.feature_types:
         settlement = PleiadesSettlement(place.title, place.repr_lat, place.repr_long, "0", place.id)
@@ -93,9 +103,13 @@ for place in pleiades_place_list:
     if "archaeological-site" in place.feature_types:
         archaeological_site = PleiadesSettlement(place.title, place.repr_lat, place.repr_long, "0", place.id)
         pleiades_archaeological_site_list.append(archaeological_site)
+    if "fort" in place.feature_types:
+        fort = PleiadesSettlement(place.title, place.repr_lat, place.repr_long, "0", place.id)
+        pleiades_fort_list.append(fort)
 
 print("Found", len(pleiades_settlement_list), "settlements")
 print("Found", len(pleiades_archaeological_site_list), "archaeological sites")
+print("Found", len(pleiades_fort_list), "forts")
 
 # Read CityBase files
 path_list = civitates_data.make_path_list_from_folders(base_path, "CityBase.txt")
@@ -243,8 +257,8 @@ def count_cities_by_size(cities):
         if len(city_periods) == 0:
             print("  no periods entered for ", city["properties"]["city_base_id"])
         else:
-            min_period = min(city_periods, key=lambda x: x["size"])
-            city_size = int(min_period["size"])
+            min_period = min(city_periods, key=lambda x: math.ceil(float(x["size"])))
+            city_size = math.ceil(float(min_period["size"]))
             count[city_size] = count[city_size] + 1
 
     print("City sizes:")

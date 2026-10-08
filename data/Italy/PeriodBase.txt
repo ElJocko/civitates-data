@@ -117,6 +117,7 @@ Genoa	1501	2100	Genoa	1	2
 Grado	400	2100	Grado	4	1
 Heraclea	-433	-90	Heraclea	2	3
 Heraclea	-89	400	Heraclea	3	3
+Himera	-648	-409	Himera	3	1
 Ivrea	-100	571	Eporedia	4	0
 Ivrea	572	2100	Ivrea	3	0
 L'Aquila	1254	1861	Aquila	4	0
@@ -247,6 +248,8 @@ Tarquinia	-700	-200	Tarchna	2	3
 Tarquinia	-199	600	Tarquinii	2	3
 Tarquinia	601	1250	Tarquinia	3	3
 Tarquinia	1251	1922	Corneto	4	3
+Termini Imerese	-405	600	Thermae Himeraeae	3	1
+Termini Imerese	601	2100	Termini Imerese	3	1
 Terracina	-700	600	Tarracina	3	0
 Terracina	601	2100	Terracina	3	0
 Tharros	-700	-238	Tharros	3	0

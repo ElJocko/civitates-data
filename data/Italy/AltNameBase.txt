@@ -113,6 +113,7 @@ Grado	ad Aquae Gradatae	Latin
 Grado	Grado	Italian
 Heraclea	Heraclea	Greek
 Heraclea	Heracleia	Greek
+Himera	Himera	Greek
 Ivrea	Ivrea	Italian
 Ivrea	Eporedia	Latin
 L'Aquila	Aquila	Italian
@@ -226,6 +227,10 @@ Tarquinia	Tarchna	Etruscan
 Tarquinia	Tarquinii	Latin
 Tarquinia	Tarquinia	Italian
 Tarquinia	Corneto	Italian
+Termini Imerese	Termini Imerese	Italian
+Termini Imerese	Tèrmini	Italian
+Termini Imerese	Thermae Himeraeae	Greek
+Termini Imerese	Thermae	Greek
 Terracina	Anxur	Volscian
 Terracina	Tarracina	Latin
 Terracina	Terracina	Italian

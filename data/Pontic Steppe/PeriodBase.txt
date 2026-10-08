@@ -1,0 +1,16 @@
+Chersonesus	-400	1400	Chersonesus	3	2
+Hermonassa	-550	700	Hermonassa	3	1
+Hermonassa	701	900	Tamatarkha	3	1
+Hermonassa	901	1400	Tmutarakan	3	1
+Neapolis Scythica	-250	250	Neapolis Scythica	3	1
+Nymphaion	-580	350	Nymphaion	3	6
+Pantikapaion	-600	-481	Pantikapaion	3	2
+Pantikapaion	-480	-63	Pantikapaion	2	2
+Pantikapaion	-62	400	Pantikapaion	3	2
+Phanagoria	-543	25	Phanagoria	3	0
+Phanagoria	26	350	Phanagoria	2	0
+Phanagoria	351	900	Phanagoria	3	0
+Pontic Olbia	-650	350	Pontic Olbia	3	0
+Simferopol	1450	1783	Aqmescit	3	1
+Simferopol	1784	2100	Simferopol	3	1
+Tanais	-275	450	Tanais	3	0

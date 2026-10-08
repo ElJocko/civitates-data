@@ -51,6 +51,9 @@ Euchaita	400	1071	Euchaita	4	2
 Fethiye	-600	1000	Telmessos	4	1
 Gelibolu	-450	1354	Callipolis	4	2
 Gelibolu	1355	2100	Gelibolu	4	2
+Giresun	-180	1470	Kerasous	3	0
+Giresun	1471	1930	Kerasunt	3	0
+Giresun	1931	2100	Giresun	3	0
 Gordion	-900	-751	Gordion	3	3
 Gordion	-750	-547	Gordion	2	3
 Gordion	-546	300	Gordion	3	3

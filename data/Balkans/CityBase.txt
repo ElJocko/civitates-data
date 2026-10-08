@@ -1,5 +1,6 @@
 Amantia	Amantia	P	ancient	Amantia
 Aquincum	Aquincum	P	ancient	Aquincum
+Argamum	216710	P	ancient	Argamum
 Buda	Buda	X	medieval	Buda
 Budapest	Budapest	HU	modern	Budapest
 Carnuntum	128376	P	ancient	Carnuntum
@@ -14,6 +15,7 @@ Histria	Histria	P	ancient	Histria_(ancient_city)
 Komárom	Brigetio	P	modern	Komárom
 Lezhë	Lezhe	AL	modern	Lezhë
 Mangalia	Mangalia	RO	modern	Mangalia
+Nesebar	216882	P	modern	Nesebar
 Niš	Nis	RS	ancient	Niš
 Óbuda	Óbuda	X	medieval	Óbuda
 Oricum	481939	P	ancient	Oricum

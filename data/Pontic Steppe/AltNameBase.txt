@@ -1,0 +1,24 @@
+Chersonesus	Cherson	Greek
+Chersonesus	Chersonesus	Greek
+Chersonesus	Chersonesus Taurica	Greek
+Hermonassa	Hermonassa	Greek
+Hermonassa	Samkarsh	Arabic
+Hermonassa	Tamatarkha	Unknown
+Hermonassa	Tmutarakan	Russian
+Neapolis Scythica	Neapolis Scythica	Greek
+Neapolis Scythica	Neapolis	Greek
+Nymphaion	Nymphaion	Greek
+Nymphaion	Nymphaeum	Latin
+Pantikapaion	Pantikapaion	Greek
+Pantikapaion	Bosphorus	Greek
+Pantikapaion	Panticapaeum	Latin
+Phanagoria	Phanagoria	Greek
+Pontic Olbia	Pontic Olbia	Latin
+Pontic Olbia	Borysthénēs	Greek
+Pontic Olbia	Olbia	Latin
+Pontic Olbia	Olbia Pontica	Latin
+Pontic Olbia	Miletopolis	Latin
+Simferopol	Simferopol	English
+Simferopol	Aqmescit	Turkic
+Tanais	Tanais	Greek
+Tanais	Emporion	Greek

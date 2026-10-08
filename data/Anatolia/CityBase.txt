@@ -25,6 +25,7 @@ Ereğli	Eregli	TR	modern	Ereğli,_Konya
 Euchaita	Euchaita	P	ancient	Euchaita
 Fethiye	Fethiye	TR	modern	Telmessos
 Gelibolu	Gelibolu	TR	modern	Gelibolu
+Giresun	857185	P	modern	Giresun
 Gordion	Gordion/Vindia?	P	ancient	Gordion
 Halicarnassus	Halicarnassus/Halikarnassos	P	ancient	Halicarnassus
 Hattusa	Hattusa	P	ancient	Hattusa

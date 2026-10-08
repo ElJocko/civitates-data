@@ -58,6 +58,10 @@ Fethiye	Anastasiopolis	Greek
 Fethiye	Makri	Greek
 Gelibolu	Callipolis	Greek
 Gelibolu	Gelibolu	Turkish
+Giresun	Giresun	Turkish
+Giresun	Kerasunt	Turkish
+Giresun	Kerasous	Greek
+Giresun	Pharnakeia	Greek
 Gordion	Gordion	English
 Gordion	Gordium	Latin
 Gordion	Gordum	Phrygian

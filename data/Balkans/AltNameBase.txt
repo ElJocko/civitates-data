@@ -1,5 +1,7 @@
 Amantia	Amantia	Greek
 Aquincum	Aquincum	Latin
+Argamum	Argamum	Latin
+Argamum	Orgame	Greek
 Buda	Buda	Hungarian
 Buda	Várhegy	Hungarian
 Buda	Ofen	German
@@ -39,6 +41,8 @@ Lezhë	Alessio	Italian
 Mangalia	Mangalia	Romanian
 Mangalia	Callatis	Greek
 Mangalia	Pangalia	Bulgarian
+Nesebar	Nesebar	Bulgarian
+Nesebar	Mesembria	Greek
 Niš	Niš	Serbian
 Niš	Naissus	Latin
 Óbuda	Óbuda	Hungarian
