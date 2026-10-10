@@ -255,6 +255,8 @@ Trento	Trient	German
 Trento	Tridentum	Latin
 Treviso	Treviso	Italian
 Treviso	Tarvisium	Latin
+Trieste	Trieste	Italian
+Trieste	Tergeste	Latin
 Tropea	Trapeia	Greek
 Tropea	Tropea	Latin
 Turin	Turin	English

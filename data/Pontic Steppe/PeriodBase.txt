@@ -1,4 +1,11 @@
+Azov	1200	1471	Tana	3	0
+Azov	1472	2100	Azov	4	0
 Chersonesus	-400	1400	Chersonesus	3	2
+Feodosia	-550	350	Theodosia	3	2
+Feodosia	351	1279	Theodosia	4	2
+Feodosia	1280	1475	Caffa	2	2
+Feodosia	1476	1774	Kefe	2	2
+Feodosia	1775	2100	Feodosia	3	2
 Hermonassa	-550	700	Hermonassa	3	1
 Hermonassa	701	900	Tamatarkha	3	1
 Hermonassa	901	1400	Tmutarakan	3	1

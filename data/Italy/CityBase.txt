@@ -144,6 +144,7 @@ Trapani	Trapani	IT	modern	Trapani
 Trento	Trento	IT	modern	Trento
 Treviso	Treviso	IT	modern	Treviso
 Tricarico	Tricarico	IT	modern	Tricarico
+Trieste	187578	P	modern	Trieste
 Tropea	Tropea	IT	modern	Tropea
 Troina	Troina	IT	modern	Troina
 Turin	Turin	IT	modern	Turin

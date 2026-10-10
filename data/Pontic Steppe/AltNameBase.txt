@@ -1,6 +1,13 @@
+Azov	Azov	Unknown
+Azov	Tana	Unknown
+Azov	Azak	Unknown
 Chersonesus	Cherson	Greek
 Chersonesus	Chersonesus	Greek
 Chersonesus	Chersonesus Taurica	Greek
+Feodosia	Feodosia	Russian
+Feodosia	Theodosia	Greek
+Feodosia	Caffa	Turkic
+Feodosia	Kefe	Turkish
 Hermonassa	Hermonassa	Greek
 Hermonassa	Samkarsh	Arabic
 Hermonassa	Tamatarkha	Unknown

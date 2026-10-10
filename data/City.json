@@ -6210,6 +6210,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "13.7717",
+                    "45.649148"
+                ]
+            },
+            "properties": {
+                "identifier": "68ac508952e7f92011c0d5f60f9d9a49fc3e1e5f",
+                "city_base_id": "Trieste",
+                "latitude": "45.649148",
+                "longitude": "13.7717",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "787",
+                        "preferredName": "Tergeste",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "788",
+                        "endDate": "2100",
+                        "preferredName": "Trieste",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Trieste",
+                        "language": "Italian"
+                    },
+                    {
+                        "name": "Tergeste",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    144486651.80387557,
+                    95874496.41187091
+                ],
+                "wikipediaArticleName": "Trieste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "15.89479",
                     "38.67538"
                 ]
@@ -12024,6 +12075,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "26.75656",
+                    "38.6703"
+                ]
+            },
+            "properties": {
+                "identifier": "1c598653119b5ae0073f92eae3d6ac9af58cfffa",
+                "city_base_id": "Fo\u00e7a",
+                "latitude": "38.6703",
+                "longitude": "26.75656",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-800",
+                        "endDate": "1455",
+                        "preferredName": "Phocaea",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1456",
+                        "endDate": "2100",
+                        "preferredName": "Fo\u00e7a",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Fo\u00e7a",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Phocaea",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    154168865.17942044,
+                    102906047.51852459
+                ],
+                "wikipediaArticleName": "Phocaea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "26.67083",
                     "40.41028"
                 ]
@@ -13172,7 +13274,7 @@
                         "endDate": "-499",
                         "preferredName": "Miletus",
                         "size": "1",
-                        "tagPosition": "1",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     },
                     {
@@ -13180,7 +13282,7 @@
                         "endDate": "1300",
                         "preferredName": "Miletus",
                         "size": "2",
-                        "tagPosition": "1",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     },
                     {
@@ -13188,7 +13290,7 @@
                         "endDate": "1400",
                         "preferredName": "Miletus",
                         "size": "4",
-                        "tagPosition": "1",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     }
                 ],
@@ -13513,7 +13615,7 @@
                         "endDate": "620",
                         "preferredName": "Pergamon",
                         "size": "2",
-                        "tagPosition": "1",
+                        "tagPosition": "0",
                         "calcTagPosition": 0
                     },
                     {
@@ -13521,7 +13623,7 @@
                         "endDate": "1400",
                         "preferredName": "Pergamon",
                         "size": "3",
-                        "tagPosition": "1",
+                        "tagPosition": "0",
                         "calcTagPosition": 0
                     }
                 ],
@@ -16023,6 +16125,65 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "13.562104",
+                    "45.315245"
+                ]
+            },
+            "properties": {
+                "identifier": "c49d242b780b0d02023bc3ee70e26f321c9b2091",
+                "city_base_id": "Novigrad",
+                "latitude": "45.315245",
+                "longitude": "13.562104",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "787",
+                        "preferredName": "Neapolis",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "788",
+                        "endDate": "2100",
+                        "preferredName": "Novigrad",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Novigrad",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Neapolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Novigrad Istarski",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Emonia",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    144330365.6987762,
+                    96229604.44979435
+                ],
+                "wikipediaArticleName": "Novigrad,_Istria_County"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "19.033333",
                     "47.55"
                 ]
@@ -16376,6 +16537,85 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "13.5948985",
+                    "45.227354"
+                ]
+            },
+            "properties": {
+                "identifier": "90018344cc2c63d41650e19263576e107d9c433d",
+                "city_base_id": "Pore\u010d",
+                "latitude": "45.227354",
+                "longitude": "13.5948985",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "200",
+                        "preferredName": "Colonia Iulia Parentium",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "201",
+                        "endDate": "787",
+                        "preferredName": "Parentium",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "788",
+                        "endDate": "1947",
+                        "preferredName": "Parenso",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1948",
+                        "endDate": "2100",
+                        "preferredName": "Pore\u010d",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pore\u010d",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Parentium",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "P\u00e1renthos",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Parenso",
+                        "language": "Italian"
+                    },
+                    {
+                        "name": "Colonia Iulia Parentium",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    144354819.05033672,
+                    96322728.76529408
+                ],
+                "wikipediaArticleName": "Pore\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "26.81667",
                     "43.16667"
                 ]
@@ -16491,6 +16731,57 @@
                     95046464.0056462
                 ],
                 "wikipediaArticleName": "Ptuj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.841124",
+                    "44.869567"
+                ]
+            },
+            "properties": {
+                "identifier": "f888bc8491f1585c9b07f171c7e339945819406b",
+                "city_base_id": "Pula",
+                "latitude": "44.869567",
+                "longitude": "13.841124",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "787",
+                        "preferredName": "Pola",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "788",
+                        "endDate": "2100",
+                        "preferredName": "Pula",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pula",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Pola",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    144538418.09025708,
+                    96700341.54952085
+                ],
+                "wikipediaArticleName": "Pula"
             }
         },
         {
@@ -39176,6 +39467,61 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "39.41648",
+                    "47.10779"
+                ]
+            },
+            "properties": {
+                "identifier": "9a0065bc53cffd85265f11aec34fd087743afb17",
+                "city_base_id": "Azov",
+                "latitude": "47.10779",
+                "longitude": "39.41648",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1200",
+                        "endDate": "1471",
+                        "preferredName": "Tana",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1472",
+                        "endDate": "2100",
+                        "preferredName": "Azov",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Azov",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Tana",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Azak",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    163608785.72976357,
+                    94297819.25394556
+                ],
+                "wikipediaArticleName": "Azov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "33.4922580049",
                     "44.611092882"
                 ]
@@ -39216,6 +39562,89 @@
                     96971679.88585785
                 ],
                 "wikipediaArticleName": "Chersonesus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.378768",
+                    "45.04609"
+                ]
+            },
+            "properties": {
+                "identifier": "a8c7a7e10a0afd4a8e4d206d05246cc79b71337d",
+                "city_base_id": "Feodosia",
+                "latitude": "45.04609",
+                "longitude": "35.378768",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-550",
+                        "endDate": "350",
+                        "preferredName": "Theodosia",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "351",
+                        "endDate": "1279",
+                        "preferredName": "Theodosia",
+                        "size": "4",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1280",
+                        "endDate": "1475",
+                        "preferredName": "Caffa",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1476",
+                        "endDate": "1774",
+                        "preferredName": "Kefe",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1775",
+                        "endDate": "2100",
+                        "preferredName": "Feodosia",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Feodosia",
+                        "language": "Russian"
+                    },
+                    {
+                        "name": "Theodosia",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Caffa",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Kefe",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    160598049.4466617,
+                    96514332.20158516
+                ],
+                "wikipediaArticleName": "Feodosia"
             }
         },
         {
@@ -39368,7 +39797,7 @@
                     161372711.5806204,
                     96312863.82234885
                 ],
-                "wikipediaArticleName": "Nymphaion"
+                "wikipediaArticleName": "Nymphaion_(Crimea)"
             }
         },
         {

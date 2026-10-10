@@ -41,6 +41,8 @@ Nesebar	1934	2100	Nesebar	4	0
 Niš	-75	300	Naissus	3	0
 Niš	301	539	Naissus	2	0
 Niš	540	2100	Niš	2	0
+Novigrad	-500	787	Neapolis	4	3
+Novigrad	788	2100	Novigrad	4	3
 Óbuda	1015	1240	Buda	3	2
 Óbuda	1241	1873	Óbuda	4	2
 Oricum	-350	-230	Orikos	3	3
@@ -55,12 +57,18 @@ Pliska	681	893	Pliska	2	0
 Pliska	894	972	Pliska	4	0
 Plovdiv	-342	863	Philippopolis	3	0
 Plovdiv	864	2100	Plovdiv	2	0
+Poreč	-50	200	Colonia Iulia Parentium	4	3
+Poreč	201	787	Parentium	4	3
+Poreč	788	1947	Parenso	4	3
+Poreč	1948	2100	Poreč	4	3
 Preslav	800	893	Preslav	3	0
 Preslav	894	970	Preslav	2	0
 Preslav	971	2100	Preslav	3	0
 Ptuj	-35	550	Poetovio	3	0
 Ptuj	551	1920	Pettau	3	0
 Ptuj	1921	2100	Ptuj	3	0
+Pula	-200	787	Pola	3	3
+Pula	788	2100	Pula	3	3
 Rijeka	10	650	Tarsatica	3	3
 Rijeka	651	2100	Rijeka	3	3
 Ratiaria	-75	250	Ratiaria	4	0

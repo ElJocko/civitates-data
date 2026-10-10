@@ -24,6 +24,7 @@ Ephesus	Ephesus	TR	ancient	Ephesus
 Ereğli	Eregli	TR	modern	Ereğli,_Konya
 Euchaita	Euchaita	P	ancient	Euchaita
 Fethiye	Fethiye	TR	modern	Telmessos
+Foça	550823	P	modern	Phocaea
 Gelibolu	Gelibolu	TR	modern	Gelibolu
 Giresun	857185	P	modern	Giresun
 Gordion	Gordion/Vindia?	P	ancient	Gordion

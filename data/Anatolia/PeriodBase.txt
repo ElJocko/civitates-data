@@ -49,6 +49,8 @@ Ereğli	500	1249	Heraclea Cybistra	3	1
 Ereğli	1250	2100	Ereğli	3	1
 Euchaita	400	1071	Euchaita	4	2
 Fethiye	-600	1000	Telmessos	4	1
+Foça	-800	1455	Phocaea	3	3
+Foça	1456	2100	Foça	3	3
 Gelibolu	-450	1354	Callipolis	4	2
 Gelibolu	1355	2100	Gelibolu	4	2
 Giresun	-180	1470	Kerasous	3	0
@@ -97,9 +99,9 @@ Mersin	-1300	620	Mersin	3	3
 Mersin	787	2100	Mersin	3	3
 Milas	-700	1289	Mylasa	3	1
 Milas	1290	2100	Milas	3	1
-Miletus	-1450	-499	Miletus	1	1
-Miletus	-498	1300	Miletus	2	1
-Miletus	1301	1400	Miletus	4	1
+Miletus	-1450	-499	Miletus	1	3
+Miletus	-498	1300	Miletus	2	3
+Miletus	1301	1400	Miletus	4	3
 Myra	-250	1200	Myra	4	0
 Nerik	-2000	-1200	Nerik	3	1
 Nicopolis (Armenia)	-63	498	Nicopolis	3	7
@@ -107,8 +109,8 @@ Nicopolis (Armenia)	499	1200	Nicopolis	4	7
 Ordu	-750	2100	Kotyora	4	1
 Ordu	1869	2100	Ordu	4	1
 Palu	-700	1918	Palu	4	1
-Pergamon	-350	620	Pergamon	2	1
-Pergamon	621	1400	Pergamon	3	1
+Pergamon	-350	620	Pergamon	2	0
+Pergamon	621	1400	Pergamon	3	0
 Perge	-650	800	Perge	3	0
 Pessinus	-400	715	Pessinus	3	3
 Pessinus	716	1100	Pessinus	4	3

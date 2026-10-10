@@ -17,6 +17,7 @@ Lezhë	Lezhe	AL	modern	Lezhë
 Mangalia	Mangalia	RO	modern	Mangalia
 Nesebar	216882	P	modern	Nesebar
 Niš	Nis	RS	ancient	Niš
+Novigrad	197403	P	modern	Novigrad,_Istria_County
 Óbuda	Óbuda	X	medieval	Óbuda
 Oricum	481939	P	ancient	Oricum
 Osijek	Osijek	HR	modern	Osijek
@@ -24,8 +25,10 @@ Pest	Pest	X	medieval	Pest,_Hungary
 Phoenice	Phoinike 2	P	ancient	Phoenice
 Pliska	Pliska	BG	ancient	Pliska
 Plovdiv	Plovdiv	BG	ancient	Plovdiv
+Poreč	197427	P	modern	Poreč
 Preslav	Veliki Preslav	BG	ancient	Preslav
 Ptuj	Ptuj	SI	modern	Ptuj
+Pula	197448	P	modern	Pula
 Ratiaria	Ratiaria	P	ancient	Ratiaria
 Rijeka	Rijeka	HR	modern	Rijeka
 Salona	Salona	P	ancient	Salona

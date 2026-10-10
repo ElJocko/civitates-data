@@ -45,6 +45,10 @@ Nesebar	Nesebar	Bulgarian
 Nesebar	Mesembria	Greek
 Niš	Niš	Serbian
 Niš	Naissus	Latin
+Novigrad	Novigrad	Croatian
+Novigrad	Neapolis	Greek
+Novigrad	Novigrad Istarski	Croatian
+Novigrad	Emonia	Unknown
 Óbuda	Óbuda	Hungarian
 Óbuda	Buda	Hungarian
 Oricum	Oricum	Latin
@@ -58,11 +62,18 @@ Phoenice	Phoinike	Greek
 Pliska	Pliska	Bulgarian
 Plovdiv	Plovdiv	Bulgarian
 Plovdiv	Philippopolis	Greek
+Poreč	Poreč	Croatian
+Poreč	Parentium	Latin
+Poreč	Párenthos	Greek
+Poreč	Parenso	Italian
+Poreč	Colonia Iulia Parentium	Latin
 Preslav	Preslav	Bulgarian
 Ptuj	Ptuj	Slovene
 Ptuj	Poetovium	Latin
 Ptuj	Poetovio	Latin
 Ptuj	Pettau	German
+Pula	Pula	Croatian
+Pula	Pola	Latin
 Ratiaria	Ratiaria	Greek
 Rijeka	Rijeka	Croatian
 Rijeka	Fiume	Italian

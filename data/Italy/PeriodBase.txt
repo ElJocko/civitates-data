@@ -276,6 +276,8 @@ Treviso	1340	2100	Treviso	4	0
 Trento	-30	600	Tridentum	4	0
 Trento	601	1500	Trento	3	0
 Trento	1501	2100	Trento	2	0
+Trieste	-200	787	Tergeste	3	0
+Trieste	788	2100	Trieste	3	0
 Tropea	-50	600	Trapeia	4	0
 Tropea	601	2100	Tropea	4	0
 Turin	-27	600	Augusta Taurinorum	4	0

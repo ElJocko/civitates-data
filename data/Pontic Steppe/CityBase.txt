@@ -1,7 +1,9 @@
+Azov	Azov	RU	modern	Azov
 Chersonesus	226564	P	ancient	Chersonesus
+Feodosia	854743	P	modern	Feodosia
 Hermonassa	854687	P	ancient	Hermonassa
 Neapolis Scythica	226695	P	ancient	Scythian_Neapolis
-Nymphaion	854715	P	ancient	Nymphaion
+Nymphaion	854715	P	ancient	Nymphaion_(Crimea)
 Pantikapaion	854719	P	ancient	Pantikapaion
 Phanagoria	854724	P	ancient	Phanagoria
 Pontic Olbia	226546	P	ancient	Pontic Olbia
