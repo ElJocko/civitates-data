@@ -1,0 +1,44 @@
+Augsburg	Augsburg	German
+Augsburg	Augusta Vindelicorum	Latin
+Berlin	Berlin	German
+Berlin	Berlin-Cölln	German
+Brandenburg	Brandenburg	German
+Brandenburg	Brandenburg an der Havel	German
+Brandenburg	Brennaburg	German
+Bremen	Bremen	German
+Frankfurt	Frankfurt	German
+Frankfurt	Frankfurt am Main	German
+Frankfurt	Vadum Francorum	Latin
+Freiburg	Freiburg	German
+Freiburg	Freiburg im Breisgau	German
+Halberstadt	Halberstadt	German
+Hamburg	Hamburg	German
+Innsbruck	Innsbruck	German
+Innsbruck	Veldidena	Latin
+Innsbruck	Wilten	German
+Linz	Linz	German
+Linz	Lentia	Latin
+Lübeck	Lübeck	German
+Lübeck	Hansestadt Lübeck	German
+Magdeburg	Magdeburg	German
+Meissen	Meissen	English
+Meissen	Meißen	German
+Munich	Munich	English
+Munich	München	German
+Nida	Nida	Latin
+Nuremberg	Nuremberg	English
+Nuremberg	Nürnberg	German
+Olomouc	Olomouc	Czech
+Olomouc	Olmütz	German
+Paderborn	Paderborn	German
+Prague	Prague	English
+Prague	Praha	Czech
+Regensburg	Regensburg	German
+Regensburg	Castra Regina	Latin
+Regensburg	Reginum	Latin
+Salzburg	Salzburg	German
+Salzburg	Iuvavum	Latin
+Ulm	Ulm	German
+Wrocław	Wrocław	Polish
+Wrocław	Breslau	German
+Würzburg	Würzburg	German

@@ -118,10 +118,10 @@ Limoges	1000	2100	Limoges	3	0
 Lyon	-43	-23	Lugdunum	3	0
 Lyon	-22	474	Lugdunum	2	0
 Lyon	475	2100	Lyon	2	0
-Mainz	-15	84	Mogontiacum	3	0
-Mainz	85	297	Mogontiacum	2	0
-Mainz	298	460	Mogontiacum	3	0
-Mainz	461	2100	Mainz	3	0
+Mainz	-15	84	Mogontiacum	3	1
+Mainz	85	297	Mogontiacum	2	1
+Mainz	298	460	Mogontiacum	3	1
+Mainz	461	2100	Mainz	3	1
 Marseille	-600	-401	Massalia	3	0
 Marseille	-400	-50	Massalia	2	0
 Marseille	-49	738	Massilia	2	0
