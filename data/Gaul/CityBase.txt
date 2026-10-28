@@ -66,6 +66,7 @@ Rodez	138579	P	modern	Rodez
 Rouen	109287	P	modern	Rouen
 Saintes	138458	P	modern	Saintes,_Charente-Maritime
 Soissons	108772	P	modern	Soissons
+Speyer	109224	P	modern	Speyer
 Strasbourg	Strasbourg	FR	modern	Strasbourg
 Tarbes	246679	P	modern	Tarbes
 Toul	109396	P	modern	Toul
@@ -77,4 +78,5 @@ Utrecht	99046	P	modern	Utrecht
 Valence	167718	P	modern	Valence,_Drôme
 Verdun	109435	P	modern	Verdun
 Vienne	167719	P	modern	Vienne,_Isère
+Worms	108820	P	modern	Worms,_Germany
 Zurich	187596	P	modern	Zurich

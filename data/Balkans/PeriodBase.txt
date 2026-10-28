@@ -1,7 +1,23 @@
+Alba Iulia	120	271	Apulum	3	0
+Alba Iulia	950	1541	Alba Iulia	3	0
+Alba Iulia	1542	1689	Alba Iulia	2	0
+Alba Iulia	1690	2100	Alba Iulia	3	0
 Amantia	-450	300	Amantia	3	0
+Andautonia	50	350	Andautonia	3	0
 Aquincum	10	102	Aquincum	3	0
 Aquincum	103	350	Aquincum	2	0
 Argamum	-650	650	Argamum	3	0
+Belgrade	-279	520	Singidunum	3	0
+Belgrade	521	1273	Belgrade	3	0
+Belgrade	1274	1426	Belgrade	2	0
+Belgrade	1427	1840	Belgrade	3	0
+Belgrade	1841	2100	Belgrade	2	0
+Bratislava	1030	1535	Pozsony	3	1
+Bratislava	1536	1783	Pozsony	2	1
+Bratislava	1784	1918	Pozsony	3	1
+Bratislava	1919	2100	Bratislava	3	1
+Bucharest	1459	1697	Bucharest	3	0
+Bucharest	1698	2100	Bucharest	2	0
 Buda	1247	1360	Buda	3	3
 Buda	1361	1872	Buda	1	3
 Budapest	1873	2100	Budapest	1	0
@@ -23,15 +39,24 @@ Durrës	-627	-230	Epidamnos	3	0
 Durrës	-229	299	Dyrrachium	3	0
 Durrës	300	999	Dyrrachium	2	0
 Durrës	1000	2100	Durrës	3	0
+Esztergom	9	599	Solva	4	0
+Esztergom	600	959	Strěgom	4	0
+Esztergom	960	1542	Esztergom	2	0
+Esztergom	1543	2100	Esztergom	3	0
 Faros	-384	699	Faros	3	0
 Faros	700	1277	Hvar	3	0
 Faros	1278	1540	Stari Grad	3	0
 Faros	1541	2100	Hvar	4	0
 Histria	-650	650	Histria	3	5
 Komárom	86	450	Brigetio	3	0
+Košice	1230	2100	Košice	3	0
 Lezhë	-300	-26	Lissós	3	0
 Lezhë	-25	589	Lissus	3	0
 Lezhë	590	2100	Lissus	4	0
+Ljubljana	14	500	Emona	3	0
+Ljubljana	501	1255	Laibach	4	0
+Ljubljana	1256	1928	Laibach	3	0
+Ljubljana	1929	2100	Ljubljana	2	0
 Mangalia	-550	650	Callatis	3	0
 Mangalia	651	1500	Pangalia	3	0
 Mangalia	1501	2100	Mangalia	3	0
@@ -41,10 +66,11 @@ Nesebar	1934	2100	Nesebar	4	0
 Niš	-75	300	Naissus	3	0
 Niš	301	539	Naissus	2	0
 Niš	540	2100	Niš	2	0
+Nitra	833	2100	Nitra	3	0
 Novigrad	-500	787	Neapolis	4	3
 Novigrad	788	2100	Novigrad	4	3
-Óbuda	1015	1240	Buda	3	2
-Óbuda	1241	1873	Óbuda	4	2
+Óbuda	1015	1240	Buda	3	6
+Óbuda	1241	1873	Óbuda	4	6
 Oricum	-350	-230	Orikos	3	3
 Oricum	-229	24	Oricum	3	3
 Oricum	25	1200	Oricum	4	3
@@ -105,21 +131,28 @@ Split	926	2100	Split	2	3
 Stobi	-200	600	Stobi	3	0
 Szombathely	45	900	Savaria	3	0
 Szombathely	901	2100	Szombathely	3	0
+Târgoviște	1300	1430	Târgoviște	3	0
+Târgoviște	1431	1699	Târgoviște	2	0
+Târgoviște	1700	2100	Târgoviște	3	0
 Tarnovo	680	1185	Tarnovo	3	0
 Tarnovo	1186	1393	Tarnovo	2	0
 Tarnovo	1394	2100	Tarnovo	3	0
+Turnu Măgurele	1394	2100	Turnu Măgurele	4	0
 Varna	-550	14	Odyssos	3	0
 Varna	15	679	Odessus	3	0
 Varna	680	2100	Varna	3	0
 Vidin	100	809	Bononia	3	0
 Vidin	810	2100	Vidin	3	0
-Vienna	100	430	Vindobona	3	0
-Vienna	1155	1500	Vienna	3	0
-Vienna	1501	1600	Vienna	2	0
-Vienna	1601	2100	Vienna	1	0
+Vienna	100	430	Vindobona	3	4
+Vienna	1155	1500	Vienna	3	4
+Vienna	1501	1600	Vienna	2	4
+Vienna	1601	2100	Vienna	1	4
 Viminacium	-10	116	Viminacium	4	0
 Viminacium	117	292	Viminacium	3	0
 Viminacium	293	440	Viminacium	2	0
 Viminacium	441	599	Viminacium	3	0
 Vis	-350	-26	Issa	3	0
 Vis	-25	2100	Issa	4	0
+Zagreb	1094	1241	Zagreb	4	0
+Zagreb	1242	1576	Zagreb	3	0
+Zagreb	1577	2100	Zagreb	2	0

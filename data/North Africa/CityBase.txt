@@ -14,6 +14,8 @@ Icosium	Icosium	P	ancient	Icosium
 Kairouan	Kairouan	TN	modern	Kairouan
 Leptis Magna	Neapolis/Lepcis Magna	P	ancient	Leptis_Magna
 Lixus	Lixus	P	ancient	Lixus_(ancient_city)
+Marrakesh	Marrakesh	MA	modern	Marrakesh
+Meknes	Meknes	MA	modern	Meknes
 Ptolemais	373879	P	ancient	Ptolemais,_Cyrenaica
 Rabat	Rabat	MA	modern	Rabat
 Sabratha	Sabratah	LY	modern	Sabratha

@@ -46,6 +46,9 @@ Leptis Magna	Lepcis Magna	Latin
 Leptis Magna	Neápolis 	Greek
 Lixus	Lixus	Latin
 Lixus	Lks	Punic
+Marrakesh	Marrakesh	Unknown
+Meknes	Meknes	Berber
+Meknes	Taqrart	Unknown
 Ptolemais	Ptolemais	Greek
 Ptolemais	Barkes Limen	Latin
 Ptolemais	Barqah	Arabic

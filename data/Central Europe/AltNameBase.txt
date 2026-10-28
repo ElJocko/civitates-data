@@ -2,15 +2,22 @@ Augsburg	Augsburg	German
 Augsburg	Augusta Vindelicorum	Latin
 Berlin	Berlin	German
 Berlin	Berlin-Cölln	German
+Bolzano	Bolzano	Italian
+Bolzano	Bozen	German
+Bolzano	Bauzanum	Latin
 Brandenburg	Brandenburg	German
 Brandenburg	Brandenburg an der Havel	German
 Brandenburg	Brennaburg	German
 Bremen	Bremen	German
+Dresden	Dresden	German
+Eichstätt	Eichstätt	German
 Frankfurt	Frankfurt	German
 Frankfurt	Frankfurt am Main	German
 Frankfurt	Vadum Francorum	Latin
 Freiburg	Freiburg	German
 Freiburg	Freiburg im Breisgau	German
+Freising	Freising	German
+Goslar	Goslar	German
 Halberstadt	Halberstadt	German
 Hamburg	Hamburg	German
 Innsbruck	Innsbruck	German
@@ -31,6 +38,8 @@ Nuremberg	Nürnberg	German
 Olomouc	Olomouc	Czech
 Olomouc	Olmütz	German
 Paderborn	Paderborn	German
+Passau	Passau	German
+Passau	Batavi	Latin
 Prague	Prague	English
 Prague	Praha	Czech
 Regensburg	Regensburg	German
@@ -38,6 +47,10 @@ Regensburg	Castra Regina	Latin
 Regensburg	Reginum	Latin
 Salzburg	Salzburg	German
 Salzburg	Iuvavum	Latin
+St. Pölten	St. Pölten	German
+St. Pölten	Sankt Pölten	German
+St. Pölten	Cetium	Latin
+St. Pölten	Treisma	Unknown
 Ulm	Ulm	German
 Wrocław	Wrocław	Polish
 Wrocław	Breslau	German

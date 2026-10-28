@@ -176,6 +176,10 @@ Saintes	651	2100	Saintes	3	2
 Soissons	-50	456	Augusta Suessionum	4	5
 Soissons	457	612	Soissons	2	5
 Soissons	613	2100	Soissons	3	5
+Speyer	150	495	Noviomagus	3	1
+Speyer	496	1023	Speyer	3	1
+Speyer	1024	1206	Speyer	2	1
+Speyer	1207	2100	Speyer	3	1
 Strasbourg	-13	550	Argentorate	3	0
 Strasbourg	551	2100	Strasbourg	3	0
 Tarbes	-10	474	Tarba	4	0
@@ -191,10 +195,10 @@ Tournai	457	481	Tournai	2	1
 Tournai	482	2100	Tournai	3	1
 Tours	50	700	Caesarodunum	3	0
 Tours	701	2100	Tours	3	0
-Trier	-17	270	Augusta Treverorum	3	1
-Trier	271	401	Augusta Treverorum	1	1
-Trier	402	484	Augusta Treverorum	3	1
-Trier	485	2100	Trier	3	0
+Trier	-17	270	Augusta Treverorum	3	2
+Trier	271	401	Augusta Treverorum	1	2
+Trier	402	484	Augusta Treverorum	3	2
+Trier	485	2100	Trier	3	2
 Utrecht	50	275	Traiectum	4	0
 Utrecht	650	2100	Utrecht	3	0
 Valence	-50	474	Valentia	3	0
@@ -207,6 +211,9 @@ Vienne	51	250	Vienna	2	1
 Vienne	251	474	Vienna	3	1
 Vienne	475	534	Vienne	2	1
 Vienne	535	2100	Vienne	3	1
+Worms	-17	200	Borbetomagus	4	1
+Worms	201	460	Borbetomagus	3	1
+Worms	461	2100	Worms	3	1
 Zurich	-15	599	Turicum	4	0
 Zurich	600	849	Zurich	4	0
 Zurich	850	1217	Zurich	3	0

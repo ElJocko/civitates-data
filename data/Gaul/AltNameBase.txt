@@ -174,6 +174,12 @@ Saintes	Saintes	French
 Saintes	Mediolanum Santonum	Latin
 Soissons	Soissons	French
 Soissons	Augusta Suessionum	Latin
+Speyer	Speyer	German
+Speyer	Noviomagus	Latin
+Speyer	Nemetae	Latin
+Speyer	Noviomagus Nemetum	Latin
+Speyer	Spira	Frankish
+Speyer	Spires	English
 Strasbourg	Strasbourg	German
 Strasbourg	Argentorate	Latin
 Tarbes	Tarbes	French
@@ -200,6 +206,8 @@ Verdun	Verdun	French
 Verdun	Viriodunum	Latin
 Vienne	Vienne	French
 Vienne	Vienna	Latin
+Worms	Worms	German
+Worms	Borbetomagus	Celtic
 Zurich	Zurich	English
 Zurich	Zürich	German
 Zurich	Turicum	Latin

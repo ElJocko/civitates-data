@@ -1,9 +1,14 @@
 Augsburg	118580	P	modern	Augsburg
 Berlin	Berlin	DE	modern	Berlin
+Bolzano	187308	P	modern	Bolzano
 Brandenburg	Brandenburg an der Havel	DE	modern	Brandenburg_an_der_Havel
 Bremen	Bremen	DE	modern	Bremen
+Dresden	Dresden	DE	modern	Dresden
+Eichstätt	Eichstaett	DE	modern	Eichstätt
 Frankfurt	108992	P	modern	Frankfurt
 Freiburg	Freiburg	DE	modern	Freiburg
+Freising	Freising	DE	modern	Freising
+Goslar	Goslar	DE	modern	Goslar
 Halberstadt	Halberstadt	DE	modern	Halberstadt
 Hamburg	Hamburg	DE	modern	Hamburg
 Innsbruck	187608	P	modern	Innsbruck
@@ -16,9 +21,11 @@ Nida	109205	P	ancient	Nida_(Roman_town)
 Nuremberg	Nuernberg	DE	modern	Nuremberg
 Olomouc	Olomouc	CZ	modern	Olomouc
 Paderborn	Paderborn	DE	modern	Paderborn
+Passau	118590	P	modern	Passau
 Prague	Prague	CZ	modern	Prague
 Regensburg	118929	P	modern	Regensburg
 Salzburg	187432	P	modern	Salzburg
+St. Pölten	118629	P	modern	St. Pölten
 Ulm	Ulm	DE	modern	Ulm
 Wrocław	128542	P	modern	Wrocław
 Würzburg	Wuerzburg	DE	modern	Würzburg

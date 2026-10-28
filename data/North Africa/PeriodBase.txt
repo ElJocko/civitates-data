@@ -38,6 +38,13 @@ Kairouan	1350	2100	Kairouan	3	0
 Leptis Magna	-650	-147	Leptis	3	0
 Leptis Magna	-146	600	Leptis Magna	3	0
 Lixus	-650	1350	Lixus	3	2
+Marrakesh	1070	1147	Marrakesh	1	0
+Marrakesh	1148	1269	Marrakesh	2	0
+Marrakesh	1270	2100	Marrakesh	3	0
+Meknes	1080	1200	Meknes	4	7
+Meknes	1201	1671	Meknes	3	7
+Meknes	1672	1729	Meknes	2	7
+Meknes	1730	2100	Meknes	3	7
 Ptolemais	-240	364	Ptolemais	3	2
 Ptolemais	365	550	Ptolemais	2	2
 Ptolemais	551	650	Ptolemais	3	2

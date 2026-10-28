@@ -8,11 +8,18 @@ Berlin	1237	1442	Berlin	4	0
 Berlin	1443	1639	Berlin	3	0
 Berlin	1640	1700	Berlin	2	0
 Berlin	1701	2100	Berlin	1	0
+Bolzano	-15	768	Bauzanum	4	0
+Bolzano	769	2100	Bolzano	4	0
 Brandenburg	948	1650	Brandenburg	3	1
 Brandenburg	1651	2100	Brandenburg	4	1
 Bremen	650	2100	Bremen	3	0
+Dresden	1206	1484	Dresden	3	1
+Dresden	1485	2100	Dresden	2	1
+Eichstätt	900	2100	Eichstätt	4	0
 Frankfurt	794	2100	Frankfurt	3	0
 Freiburg	1120	2100	Freiburg	3	0
+Freising	750	2100	Freising	4	0
+Goslar	979	2100	Goslar	3	4
 Halberstadt	814	2100	Halberstadt	4	0
 Hamburg	831	2100	Hamburg	3	0
 Innsbruck	350	779	Veldidena	3	0
@@ -39,6 +46,8 @@ Olomouc	1063	1249	Olomouc	4	0
 Olomouc	1250	1639	Olomouc	3	0
 Olomouc	1640	2100	Olomouc	4	0
 Paderborn	777	2100	Paderborn	3	0
+Passau	50	738	Batavi	4	0
+Passau	739	2100	Passau	4	0
 Prague	850	1084	Prague	3	0
 Prague	1085	2100	Prague	2	0
 Regensburg	90	738	Reginum	3	0
@@ -46,6 +55,8 @@ Regensburg	739	2100	Regensburg	3	0
 Salzburg	45	487	Iuvavum	3	0
 Salzburg	488	695	Iuvavum	4	0
 Salzburg	696	2100	Salzburg	3	0
+St. Pölten	150	350	Cetium	4	0
+St. Pölten	750	2100	St. Pölten	4	0
 Ulm	854	2100	Ulm	3	0
 Wrocław	950	2100	Wrocław	3	0
 Würzburg	600	2100	Würzburg	3	0

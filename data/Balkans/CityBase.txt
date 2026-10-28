@@ -1,6 +1,11 @@
+Alba Iulia	206927	P	modern	Alba_Iulia
 Amantia	Amantia	P	ancient	Amantia
+Andautonia	197113	P	ancient	Andautonia
 Aquincum	Aquincum	P	ancient	Aquincum
 Argamum	216710	P	ancient	Argamum
+Belgrade	207443	P	modern	Belgrade
+Bratislava	Bratislava	SK	modern	Bratislava
+Bucharest	Bucharest	RO	modern	Bucharest
 Buda	Buda	X	medieval	Buda
 Budapest	Budapest	HU	modern	Budapest
 Carnuntum	128376	P	ancient	Carnuntum
@@ -10,13 +15,17 @@ Doclea	Doclea	P	ancient	Doclea_(Illyria)
 Drnovo	Neviodunum	P	modern	Drnovo
 Drobeta-Turnu Severin	Drobeta-Turnu Severin	RO	modern	Drobeta-Turnu Severin
 Durrës	Durres	AL	modern	Durrës
+Esztergom	197519	P	modern	Esztergom
 Faros	Pharus	P	ancient	Faros
 Histria	Histria	P	ancient	Histria_(ancient_city)
 Komárom	Brigetio	P	modern	Komárom
+Košice	Kosice	SK	modern	Košice
 Lezhë	Lezhe	AL	modern	Lezhë
+Ljubljana	197258	P	modern	Ljubljana
 Mangalia	Mangalia	RO	modern	Mangalia
 Nesebar	216882	P	modern	Nesebar
 Niš	Nis	RS	ancient	Niš
+Nitra	Nitra	SK	modern	Nitra
 Novigrad	197403	P	modern	Novigrad,_Istria_County
 Óbuda	Óbuda	X	medieval	Óbuda
 Oricum	481939	P	ancient	Oricum
@@ -43,9 +52,12 @@ Sozopol	Sozopol	BG	modern	Sozopol
 Split	Split	HR	modern	Split,_Croatia
 Stobi	Stobi	P	ancient	Stobi
 Szombathely	Szombathely	HU	modern	Szombathely
+Târgoviște	Targoviste	RO	modern	Târgoviște
 Tarnovo	Veliko Turnovo	BG	modern	Tarnovo
+Turnu Măgurele	Turnu Magurele	RO	modern	Turnu_Măgurele
 Varna	Varna	BG	modern	Varna,_Bulgaria
 Vidin	Vidin	BG	modern	Vidin
 Vienna	Vienna	AT	modern	Vienna
 Viminacium	Viminacium	P	ancient	Viminacium
 Vis	Vis	HR	modern	Vis_(town)
+Zagreb	Zagreb	HR	modern	Zagreb

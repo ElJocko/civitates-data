@@ -1,7 +1,20 @@
+Alba Iulia	Alba Iulia	Unknown
+Alba Iulia	Apulum	Latin
+Alba Iulia	Karlsburg	German
+Alba Iulia	Gyulafehérvár	Hungarian
 Amantia	Amantia	Greek
+Andautonia	Andautonia	Latin
 Aquincum	Aquincum	Latin
 Argamum	Argamum	Latin
 Argamum	Orgame	Greek
+Belgrade	Belgrade	English
+Belgrade	Beograd	Serbian
+Belgrade	Singidunum	Latin
+Bratislava	Bratislava	Slovak
+Bratislava	Pozsony	Hungarian
+Bratislava	Pressburg	German
+Bucharest	Bucharest	English
+Bucharest	București	Romanian
 Buda	Buda	Hungarian
 Buda	Várhegy	Hungarian
 Buda	Ofen	German
@@ -25,6 +38,12 @@ Durrës	Epidamnos	Greek
 Durrës	Dyrrhachium	Latin
 Durrës	Durrës	Albanian
 Durrës	Durazzo	Italian
+Esztergom	Esztergom	Hungarian
+Esztergom	Solva	Unknown
+Esztergom	Strigonium	Latin
+Esztergom	Esterġon	Turkish
+Esztergom	Strěgom	Old Slavonic
+Esztergom	Gran	German
 Faros	Stari Grad	Slavic
 Faros	Faros	Greek
 Faros	Pharos	Greek
@@ -34,10 +53,15 @@ Histria	Histria	Greek
 Histria	Istros	Greek
 Komárom	Komárom	Hungarian
 Komárom	Brigetio	Latin
+Košice	Košice	Slovak
 Lezhë	Lezhë	Albanian
 Lezhë	Lissós	Greek
 Lezhë	Lissus	Latin
 Lezhë	Alessio	Italian
+Ljubljana	Ljubljana	Slovene
+Ljubljana	Emona	Latin
+Ljubljana	Laibach	German
+Ljubljana	Labacum	Latin
 Mangalia	Mangalia	Romanian
 Mangalia	Callatis	Greek
 Mangalia	Pangalia	Bulgarian
@@ -45,6 +69,7 @@ Nesebar	Nesebar	Bulgarian
 Nesebar	Mesembria	Greek
 Niš	Niš	Serbian
 Niš	Naissus	Latin
+Nitra	Nitra	Unknown
 Novigrad	Novigrad	Croatian
 Novigrad	Neapolis	Greek
 Novigrad	Novigrad Istarski	Croatian
@@ -105,10 +130,12 @@ Split	Aspalatum	Latin
 Stobi	Stobi	Paeonian
 Szombathely	Szombathely	Hungarian
 Szombathely	Savaria	Latin
+Târgoviște	Târgoviște	Romanian
 Tarnovo	Tarnovo	Bulgarian
 Tarnovo	Veliko Tarnovo	Bulgarian
 Tarnovo	Tarnovgrad	Bulgarian
 Tarnovo	Tirnova	Bulgarian
+Turnu Măgurele	Turnu Măgurele	Romanian
 Varna	Odyssos	Greek
 Varna	Odessus	Latin
 Varna	Varna	Bulgarian
@@ -122,3 +149,6 @@ Vienna	Vindobona	Latin
 Viminacium	Viminacium	Latin
 Vis	Vis	Slavic
 Vis	Issa	Greek
+Zagreb	Zagreb	Croatian
+Zagreb	Gradec	Croatian
+Zagreb	Kaptol	Unknown
